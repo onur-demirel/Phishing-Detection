@@ -2,7 +2,6 @@
 import os
 import shutil
 import sys
-import re
 
 # Path to the folder containing all the folders of benign, phishing and misleading
 path = sys.argv[1] # Where the dataset folders are located
