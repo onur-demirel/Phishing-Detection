@@ -1,0 +1,10 @@
+iOS Application Development
+Delivering high quality and versatile iOS applications which not only meet the standards of AppStore but are highly optimized and efficient.
+Android Application Development
+Extending the rich and effective approaches for building apps that shine on world's largest mobile platform.
+2D Game Development
+Developing the most cool and addictive games using the best suitable 2D game engine like cocos2dx for cross-platform. shine on world's largest mobile platform.
+3D Game Development
+Dedicated to deliver high quality and fabulous 3d games using versatile game engine like Unity 3D.
+Responsive Web Development
+Building web applications with latest technologies like HTML5/CSS3, not just for desktop browsers, but for mobile browsers too.

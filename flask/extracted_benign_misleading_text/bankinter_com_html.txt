@@ -1,0 +1,58 @@
+Haz tus cuentas.
+Buscador de fondos
+Simulador de Hipotecas
+Simulador de Préstamos
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+rendimiento. Menor riesgo
+rendimiento. Mayor riesgo
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+rendimiento. Menor riesgo
+rendimiento. Mayor riesgo
+Fondos Socialmente Responsables
+Para ti, para todos.
+Cuando eliges una inversión responsable, eliges un futuro mejor.Saber más
+INFORMACIÓN DE INTERÉS
+-
+Desplegar/Plegar texto legal1 Promoción válida hasta 31 de diciembre de 2019 o hasta un máximo de 40.000 nuevas cuentas. Exclusiva para nuevos clientes con nómina desde 1.000€. Saldo máximo a remunerar 5.000€. Primer año: tipo de interés nominal anual 4,94% (5% T.A.E.). Segundo año: tipo de interés nominal anual 1,99% (2% T.A.E.). Liquidación semestral. Ejemplo para saldo en cuenta nómina/profesional/pensión diario de 5.000€, calculado para un periodo de liquidación de 180 días, remuneración bruta: 1er semestre 121,81€, 2º semestre 121,81€, 3er semestre 49,07€, 4º semestre 49,07€. Para acceder y conservar las ventajas de nuestra Cuenta Nómina, además de mantener el nivel de ingresos declarado, será necesario el cargo de al menos tres recibos domiciliados en el trimestre, así como que la tarjeta asociada a la cuenta nómina o cuenta profesional esté activa, entendiendo como tal realizar al menos tres movimientos de pago al trimestre. Para la Cuenta Pensión no será necesaria la activación de la tarjeta de crédito asociada.
+-
+Desplegar/Plegar texto legal2 Hipoteca a tipo Fijo a 20 años: A continuación se recoge un ejemplo representativo de un préstamo hipotecario sobre la vivienda de la TAE ofrecido por Bankinter S.A., en base a las características que se indican a continuación:
+Importe del préstamo: 150.000 €. Plazo del préstamo: 20 años (240 cuotas mensuales). TAE: 2,41%. Cuota mensual los 20 años: 737,00 €. Última cuota: 736,98 €. Comisión de Apertura: 500 €. Total intereses: 26.879,98€. Tipo de interés: 1,69% (240 meses). Cuotas mensuales. Importe total adeudado: 188.326,14 €.
+En el cálculo de esta TAE se han tenido en cuenta:
+- Contratación de un Seguro Vida por importe de 150.000€ durante 20 años para una persona de 30 años. Importe de la prima anual de 190,86€. Seguro anual renovable.
+- Contratación de un seguro de hogar por importe de 100.000 euros de continente y 30.000€ de contenido y una prima anual estimada de 343,97€. Seguro anual renovable.
+- Gastos de tasación: 249,56€.
+Tipo de interés condicionado a la contratación con Bankinter de los productos indicados a continuación:
+- Cuenta Nómina, Cuenta Profesional o Cuenta No-Nómina (Bonificación de 0,50 puntos porcentuales).
+- Seguro de Vida por el 100% del importe del préstamo hipotecario, contratado con Bankinter Seguros de Vida S.A. de Seguros y Reaseguros (Bonificación de 0,60 puntos porcentuales).
+- Seguro Multirriesgo Hogar con la cobertura de un contenido mínimo de 30.000 € y un capital de continente - equivalente al valor de tasación del inmueble a efectos de seguro, contratado con Línea Directa Aseguradora, S.A y bajo la mediación de Bankinter S.A., Operador de Banca-Seguros (Bonificación de 0,10 puntos porcentuales).
+- Plan de Pensiones/EPSV: Tener contratado y en vigor durante toda la vigencia del préstamo un plan de pensiones/EPSV con la sociedad Bankinter Seguros de Vida, perteneciente al Grupo Bankinter SA, y realizar una aportación mínima anual de 600€ (Bonificación de 0,10 puntos porcentuales).
+La contratación de tales productos tal y como están descritos tiene carácter opcional para el Cliente, incrementándose al tipo anterior (1,69%) el 1,30% correspondiente a la suma cada uno de los productos no contratados, por lo que, si no se cumple ninguna de las condiciones, el tipo de interés fijo será del 2,99% (TAE 3,36%). Cuota mensual los 20 años: 831,15€. Última cuota: 829,67€ . Total intereses: 49.474,52€. Importe total adeudado: 204.863,68€. En el cálculo de esta TAE se han tenido en cuenta la contratación del seguro de daños sobre el inmueble hipotecado, al que obliga la ley
+y que se podrá contratar con Bankinter o con otra entidad, por importe de 100.000 euros de continente, con una prima anual estimada de 186,98€, además de la comisión de mantenimiento de 45€ anuales de la cuenta corriente soporte necesaria para el cargo de las cuotas, así como la comisión de apertura de 500 € y los gastos de tasación de 249,56€.
+Las cuotas mensuales resultantes (sistema de amortización francés) son el resultado del cociente de (1 + interés) elevado al número de cuotas pendientes de la operación multiplicado por el interés, entre (1 + el interés) elevado al número de cuotas pendientes de la operación, menos 1, todo ello multiplicado por el capital pendiente de amortizar (entendiéndose como “interés” el TIN ofertado dividido entre 12). La cuota obtenida incluye el importe correspondiente a los intereses (resultado de dividir el tipo de interés entre 12, multiplicado por el capital pendiente) y a la amortización (resultado de restar a la cuota los intereses).
+En el cálculo de las TAE se tendrán en cuenta los siguientes supuestos:
+1. El cálculo de las TAE se realizará partiendo del supuesto de que el contrato de préstamo estará vigente durante el período de tiempo acordado y que el prestamista y el prestatario cumplirán sus obligaciones en las condiciones y en los plazos que se hayan acordado en el contrato de préstamo.
+2. En los contratos de préstamo que contengan cláusulas que permitan modificaciones del tipo deudor y, en su caso, de los gastos incluidos en las TAE que no sean cuantificables en el momento del cálculo, las TAE se calculará partiendo del supuesto de que el tipo deudor y los demás gastos se mantendrán sin cambios con respecto al nivel fijado en el momento de la celebración del contrato.
+3. Estas TAE podrán variar en función del importe y el plazo de la operación. Estas TAE se han calculado bajo la hipótesis de que no se produce ninguna cancelación, ni parcial ni total, a lo largo de toda la duración del préstamo. Las TAE, no incluyen los gastos que el cliente/prestatario tendría que pagar por el incumplimiento de alguna de sus obligaciones con arreglo al contrato.
+La concesión de la hipoteca está sujeta a la aprobación de la solicitud por parte de Bankinter, S.A. Esta oferta de hipoteca está condicionada a unos ingresos totales de los titulares superiores a 2.000€ mensuales. El importe del préstamo no podrá ser superior al 80% del menor de los dos valores: valor de compra o valor de tasación de la vivienda, y hasta el 60% en segunda vivienda. Duración máxima de la hipoteca 20 años.
+En caso de que el Cliente incumpliera sus obligaciones frente al Banco, además de poder perder la vivienda, la responsabilidad de éste y del resto de intervinientes de la operación, se extenderá a todos sus bienes presentes y futuros.
+Oferta válida hasta el 12 de noviembre de 2019 o hasta alcanzar el importe ofertado (25 millones de €).
+-
+Desplegar/Plegar texto legal3 Oferta válida desde el 01/10/2019 hasta el 31/01/2020. La boniﬁcación es del 3% bruto para traspasos de planes de pensiones iguales o superiores a 30.000 € (el 2% bruto para traspasos de planes de pensiones inferiores a 30.000€ y superiores a 1.000€) del saldo correspondiente al neto de traspasos de entrada y de salida solicitados durante el periodo de la promoción y se abonará el 28 de febrero de 2020 (salvo aquellos que por demora en la gestión de la Entidad ordenante lleguen a Bankinter más tarde del día 20 de febrero de 2020).
+Si además del traspaso y de forma simultánea, el cliente da de alta por primera vez una aportación periódica mensual a su Plan de Pensiones por importe igual o superior a 100€ mensuales, siendo efectiva la primera aportación durante los meses vigentes de la propia campaña, se le bonificará con un 1% extra sobre el importe traspasado: 4% bruto para traspasos de planes de pensiones iguales o superiores a 30.000 € o 3% bruto para traspasos de planes de pensiones si el importe es inferior 30.000€ e igual o superior a 1.000€.
+El periodo de permanencia del plan de pensiones en Bankinter es de 6 años. Importe máximo de boniﬁcación será de 5.000 €.
+El abono de esta bonificación tiene la consideración de rendimiento de capital mobiliario, por lo tanto sobre el importe bruto que se practicará la correspondiente retención fiscal y en cuenta le abonaremos el importe neto resultante.
+Quedan excluidos de esta oferta los traspasos de los siguientes Planes de Pensiones: Popcoin Global Conservador FP, Popcoin Global Moderado FP y Popcoin Global Dinámico FP.
+Bankinter respondePodremos ayudarte con tus dudas, consultas operativas, ayuda técnica, etc.
+901 13 13 13

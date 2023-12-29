@@ -1,0 +1,47 @@
+Features
+Fast, quiet, high quality prints
+Powerful 32 Bit Processor
+Atmel SAM4E8E: 120MHz ARM Cortex-M4 microcontroller with floating point unit, 512Kb flash memory, 128Kb RAM and many peripherals.
+Super quiet TMC2660 stepper drivers
+SPI controlled stepper drivers capable of up to 256 microstepping. Current and microsteps can both be changed on the fly for optimum speed and power efficiency.
+Dual extruders
+3 heater/thermistor channels for a heated bed and 2 extruders. 3 PWM controllable and 2 always-on fans. These can be run from either the input voltage, from 5V, or from external power for added flexibility.
+High Power rating
+Each stepper driver is capable of 2.4A motor current, with further increases possible after thermal testing. The bed heater channel is specifically designed for high currents of up to 18A.
+Network connectivity
+/
+Dedicated Wifi or Ethernet module
+The main processor is free to do precise stepper pulse timing and implement other advanced features while the low level networking is handled by the dedicated networking module.
+Flexible
+Connect via PC, tablet or smartphone on the same network: there is no need for an app install or internet connectivity. Also connect via USB or serial if desired.
+Cable-free control
+Use your printer in any room covered by your WiFi or Ethernet network. No need to be tethered by USB cabling any more.
+Security
+Wifi has WPA-2 encryption for network security, with further security changes coming soon. The DuetWifi and Duet Ethernet do not need to be connected to the internet, we recommend you keep it on a local network for added security.
+A pleasure to use
+Easy and convenient
+Connect directly to your printer from any modern web browser. Control your printer, upload and start prints from the browser. Monitor prints from an external IP webcam (not provided).
+Most Printers Supported
+All common 3D printer geometries are supported: Cartesian, Delta, CoreXY, IDEX, SCARA. Along with 3D printers a wide variety of CNC machines and lasercutters can be controlled.
+Easy to configure
+Setup your printer and update the firmware through the web interface. No need to compile firmware.
+G-code everywhere
+All settings are done through G-code, giving maximum control flexibility. Write your own macros for homing, pause, resume and much more.
+Expandable
+Up to 7 additional drives
+Support for a further 7 stepper drivers and 5 heaters on expansion headers. Firmware support for mixing nozzles, multiple Z motor bed levelling and remapping axes to use high power external drivers.
+Touch Screen Support
+The optional PanelDue controller provides a full colour graphic touch screen controller with virtual keyboard. Also talks G-code for maximum flexibility.
+Advanced Calibration Support
+Use an optional add-on of a smart delta effector or DC42’s contactless IR bed probe combined with advanced firmware features for more accurate printer calibration.
+Accurate temperature control
+ADC gain calibration for thermistors allows for accurate and repeatable temperature setting. PT100 and thermocouples are supported through digital temperature daughterboards.
+Open
+Open Hardware.
+All the hardware designs are licensed under the CERN OHL 1.2. The design files are released on GitHub.
+Open Source Software
+Both RepRapFirmware and DuetWebControl are licensed under the GPL.
+Built with Open Tools
+Designed in KiCAD and Eclipse: using open tools means the barrier to getting involved is as low as possible.
+Open for collaboration.
+Fork the project on github, design a new hardware feature, make a new template for your printer or document your build. We look forward to you getting involved.

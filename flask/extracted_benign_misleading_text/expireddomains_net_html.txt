@@ -1,0 +1,103 @@
+Expired Domain Names478 TLDs supported and rising!
+Thousands of domain names expire every day. The reasons are different. Some owners forgot to renew the domains, some just don't want them anymore or they moved on to other projects. For most people these so called Expired Domains don't have any value. They just see a bunch of Domain Names someone else deleted and move on, but for the people who know about SEO or the value of good Backlinks, Expired Domain Names are money just waiting to get picked up from the street. The only problem is to separate the good ones from the bad ones. That is where ExpiredDomains.net comes into play.
+ExpiredDomains.net gathers all the information you need to find good Expired Domains that are Pending Delete and you can Backorder. Depending on the domain extension you can search through thousands of domains every day before they get released to the public and pick what you like. ExpiredDomains.net currently supports 478 TLDs. From the classic gTLDs like .com, .net, .org to Droplists for ccTLDs you can only find here and now we even support some of the best new gTLDs like .xyz and .club.
+We do not only have Expired Domains, but you can also find lists of
+Deleted Domains for a lot of TLDs.
+Deleted Domains or Dropped Domains are available for registration and can be picked up
+for just the normal regfee at your preferred domain registrar!
+All Domains have the typical SEO relevant data, like Number of Backlinks, Archive.org Birth Date
+and a lot more.
+Just look through the thousands of Expired Domain Names dropping every day and pick what you like. :) You can use our numerous Filters and sort the lists as you like or use our Watchlist to keep track of Expired Domains after they dropped.
+You can go through the lists you are interested in and look for Domains you like or you can use our super fast Domain Name Search to search all Domain Lists at once. Whatever you choose to do, you can use numerous filters to drill down the number of domains, so you find exactly what you are looking for!
+Supported Expired Domain TLDs on ExpiredDomains.net
+These TLDs are currently supported Expired Domain TLDs.
+- Bold TLDs have a Deleted Domain List. You can find available Domains after they dropped.
+- Green TLDs currently have Pending Delete Domains you can Backorder.
+- White TLDs currently don't have any Pending Delete Domains.
+Original gTLDs
+ccTLDs - Country Code TLDs
+New gTLDsAlso we currently support 323 new gTLDs. You can find a complete list on the Supported TLDs page.
+Help and Explanations
+-
+Introduction into the Member Area
+This short article gives a quick introduction into the member area.
+-
+Domain Name Pattern Filter Explained
+The pattern filter can be a very powerful tool in finding good domains. It uses regular expressions to find domains that match your specified pattern without you having to try out every possible combination yourself.
+-
+How to Backorder Expired Domains
+If you find an expired domain name you want, you can place a Backorder for that domain with a Drop Catching or Backorder service. Learn more about how backorder works and where you can backorder domains.
+-
+How the Domain Availability Check works
+ExpiredDomains.net uses two different ways to check the availability of a Domain Name. DNS and Whois check. Read about how they are different from each other and how they are used on this website.
+-
+Why you should always check Values
+The information for Domains on ExpiredDomains.net are gathered when the Domain gets added to a Domain List, but they might change right after. Read about why you should always check Values before making a decision to buy or register a Domain.
+-
+What you can find in the Member Area
+There are a lot of great features you can only find in the Member Area and I want to use this post to show you what they are, so you can decide if you would benefit from signing up.
+-
+Pending Delete Domain Status
+After a domain expires, it will pass through a number of states, before it gets deleted. The last state before the deletion is the Pending Delete State. Read more about it here.
+The Domain Details Page now also accepts Names without a TLD
+You can now view any name on the domain details page (e.g. /domain/example). If the details page receives a domain name (without tld), it will show you the availability of the domain name in all found tlds and the similar domains result. If it receives a valid domain (with tld), it will also try to find information about the domain.
+Droplist .pt works again
+The GoDaddy Auctions FTP works again
+All lists are updated now.
+The .club availability check finally works again
+The .cn droplist works again
+The missing days are also processed and in the deleted .cn list.
+Added Sedo Expiring Auction List
+New Filter/Column Yaca (Yandex Catalog)
+The Yandex Catalog was a manually maintained directory like Dmoz. Unfortunately it was closed around the same time in 2017. Besides Dmoz, you can now also find Domains that were in the Yandex Catalog before it closed.
+The sedo bargain and make offer lists contain more domains now.
+Also all adwords queues for sedo domains are now processed.
+The .uk droplist is now back in the pending delete list.
+Added a Listing Anchor Tag
+The paging, sorting and a lot more listing related links use an anchor tag now. This reduces unnecessary scrolling which is especially nice for mobile users.
+ExpiredDomains.net Statistics
+You can currently find the following domains in the database. The lists get updated regularly and new domains get added to the database.
+- 367,953,541 Domains are currently in the database
+- 338,562,028 Deleted Domains, 4,502,544 Expired Domains and 23,037,935 Marketplace Domains
+- 983,653 Domains were added in the last 24 hours
+- 994,332 Domains with Majestic CitationFlow >= 10
+- 2,481,083 Domains with Majectis TrustFlow >= 5
+- 627,105 Domains linked from Wikipedia.org
+- 289,162 Domains with Alexa Rank
+- 155,459,780 Domains have records in the Wayback Machine (Archive.org)
+- 36,790,694 Domains have a Wayback Machine Record 10 Years or older
+- 29,607,251 Domains with Backlinks
+- 19,389,200 Domains with SeoKicks DomainPop
+- 69,046,484 Domains with Adwords Searchvolume Stats
+- 157,330,746 Domains that are in the English Dictionary
+- 167,447 Domains that are in the Majestic Million
+- 148,112 Domains with Yandex SQI
+- 54,766 GoDaddy Expired Domains will end today
+- 81,874 GoDaddy TDNAM Auctions will end today
+- 657 GoDaddy Most Active Auctions will end today
+- 3,499 NameJet PreRelease Auctions will end today
+- 3,506 SnapNames PreRelease Auctions will end today
+Recent Blog Posts
+- Bulk Domain Search
+- GEO Domains
+- Dot Search with Multiple Keywords
+- All-in-one Deleted Domain List
+- Search through all Domains in the Database in one go
+- Number of Related Domains for every Domain Name
+- Expired Domains with Wikipedia Links
+- Expired .br Domains: How to get them!
+- New Domain List and Improved GoDaddy Implementation
+- New Domain List: Deleted .pl Domains
+Domain Tools
+-
+Bulk Domain Search
+Copy/Paste any List of Domains and if they are listed here, view them with the gathered Domain Data in the corresponding domain list.
+-
+Camel Case Domain Names
+This Tool detects words inside of Domain Names and changes the first letter of every word into upper cases (domainnamesearch.com => DomainNameSearch.com)
+-
+Related Domains
+Enter a word and find registered domains that are related to that word (Domain Names starting or ending with your word).
+-
+NameJet Most Active Mail Parser
+With the parser you can simply Copy/Paste the NameJet Mail content and see our usual Domain Data for every Domain

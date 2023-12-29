@@ -1,0 +1,61 @@
+TwinGEO
+Geoepacial, Ingeniería y Operaciones
+Revista enfocada en la cadena de valor del espectro GIS - CAD - BIM - Digital Twins - Smart Cities
+Geofumadas
+Recursos para usuarios de Geo-ingeniería
+Desde 2007 promovemos herramientas, métodos y contenidos en las disciplinas #CAD #GIS #BIM
+Geo-ingeniería
+Geoepacial, Ingeniería y Operaciones
+Revista en Español enfocada en la cadena de valor del espectro GIS - CAD - BIM - Digital Twins - Smart Cities
+AulaGEO
+Cursos para Geo-Ingeniería
+Cursos especializados en el campo GIS, CAD, BIM, Digital Twin y SmartCities
+Gtools
+Todo en uno
+Herramienta para subir, transformar, visualizar y descargar datos espaciales. Excel (UTM, LatLong, Grados/minutos/segundos), google maps, kml, dxf.
+-
+Nuevos servicios en la nube iTwin para Gemelos Digitales de Ingeniería de Infraestructura
+-
+«EthicalGEO» – la necesidad de revisar los riesgos de las tendencias geoespaciales
+-
+La integración del diseño – una apuesta por BIM avanzado a través de Gemelos Digitales
+-
+Novedades de la Geo-Ingeniería – Year In Infraestructure – YII2019
+-
+Re-definiendo el Concepto Geo-Ingeniería
+-
+No más zonas ciegas con las funciones de Mosaic
+-
+STAAD – crear un conjunto de diseño rentable y optimizado para soportar tensiones estructurales – oeste de India
+-
+Cómo elevar edificios 3D en Google Earth
+-
+Novedades de HEXAGON 2019
+-
+LandViewer – Ahora la detección de cambios funciona en el navegador
+AutoCAD | Microstation | IntelliCAD | LibreCAD | PlexEarth
+Google Earth | QGIS | ArcGIS | SuperGIS | ManifoldGIS | gvGIS | uDig
+Eventos de Geo-Ingeniería
+lunes, Oct 21, 2019
+8:00am
+La conferencia Year in Infrastructure 2019 de Bentley es una reunión mundial de ejecutivos líderes en el mun...
+lunes, Oct 28, 2019
+12:00am
+Commercial UAV Expo Americas, October 28-30 in Las Vegas, is North America’s leading trade show and conferen...
+miércoles, Jun 3, 2020
+8:00am
+AEC Next Technology Expo + Conference es la principal feria comercial y conferencia neutral de los proveedores...
+Bestseller Machine Learning A-Z™: Hands-On Python & R In Data ScienceLearn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.
+Python for Data Science and Machine Learning BootcampLearn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!
+[bookshelf id="1"] [bookshelf id="4"]
+Thanks for registering! To thank you, here are a few resources you may find helpful.
+Ver más documentos...
+Transformar Coordenadas Geográficas a UTM
+Ver como funciona.
+Puedes comprarla con tarjeta de crédito o Paypal.
+Conversor de Coordenadas UTM a Geográficas
+Ver como funciona.
+Puedes comprarla con tarjeta de crédito o Paypal.
+-Coordenadas UTM para enviar a Google Earth
+Ver como funciona.
+puedes comprarla con tarjeta de crédito o Paypal.

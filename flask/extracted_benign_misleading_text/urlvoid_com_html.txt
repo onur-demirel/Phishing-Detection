@@ -1,0 +1,8 @@
+This service helps you detect potentially malicious websites.
+Check the online reputation/safety of a website.
+Need to scan an IP address? Try IPVoid
+Data submitted here is shared with security companies (terms of use).
+With URLVoid you can analyze a website through 30+ blacklist engines and online website reputation services to facilitate the detection of fraudulent and malicious websites. Identify websites involved in malware and phishing incidents.
+URLVoid is used by cyber security companies and IT researchers to speed-up the process of cyber threat analysis, you can better identify potentially malicious websites that have been classified as a threat by multiple trusted sources.
+When you submit a website you can view its safety report, which includes names of blacklists used for scanning and a link to their respective report, details about the website's IP address, domain creation date, server location, and more.
+We have created many useful Windows software, here are the most popular:

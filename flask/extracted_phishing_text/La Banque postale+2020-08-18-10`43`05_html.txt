@@ -1,0 +1,9 @@
+Authentification par vocalisation. Attention aux oreilles indiscrètes. Conseil : connectez-vous dans un endroit sûr ou utilisez un casque audio.
+identifiant
+Memoriser mon identifiant.
+mot de passe
+Mode opératoire : Le clavier virtuel vocalisé marche sur les ordinateurs fixes et portables, ainsi que sur les médias tactiles APPLE. Pour accéder au mode opératoire spécifique détaillé, aller sur labanquepostale.fr et cliquer sur le lien «Accessibilité».
+Navigation : pour vocaliser chaque case, utiliser TAB et SHIFT+TAB ou ALT+flèche gauche et droite sur PC; sur MAC flèche gauche et droite, TAB et SHIFT+TAB ou touche VO+flèche gauche et droite. Sur les médias tactiles APPLE, utiliser les gestes VOICEOVER. Pour sélectionner et valider des chiffres, utiliser barre espace ou entrée sur PC ou MAC, et le geste double tappe sur les médias tactiles APPLE ce qui produit un son de confirmation. Le bouton Effacer efface les chiffres saisis. La validation du formulaire devient possible lorsque l´identifiant et tous les chiffres du mot de passe sont saisis.
+Fin du clavier virtuel
+<div id="noscript"> <!-- No script code --> <!-- End No script code --> </div>
+5a01fca9-d552-45e9-a47c-f34d2a14e626

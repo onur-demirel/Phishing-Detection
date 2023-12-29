@@ -1,0 +1,166 @@
+Whether you are trying to send promotions, signup subscribers, generate revenue, generate leads, or grow your business with daily communication, your emails matter.
+New prospects providing their email often make mistakes, provide fake emails altogether, or naturally change emails over time. This negatively effects your business in countless ways:
+NeverBounce can clean any sized list in three simple steps:
+With our Real-Time Email Verification, seamlessly integrate with unlimited platforms. Verify single emails via our API, Javascript widget, Webhook, or Dashboard.
+Our custom API provides email verification for single emails and bulk lists. We offer several API wrappers for seamless and quick integration.Learn More
+1
+2
+curl --request GET\
+--url 'https://api.neverbounce.com/v4/single/check?key={api_key}&email={email}'
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+<?php
+// Set API key
+\NeverBounce\Auth::setApiKey($api_key);
+// Verify an email
+$response = \NeverBounce\Single::verify($email);
+// Check for valid email
+if($response->is('valid')) {
+// Do Stuff
+}
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+const NeverBounce = require('neverbounce');
+// Initialize NeverBounce client
+const client = new NeverBounce({apiKey: myApiKey});
+/// Verify an email
+client.single.verify('support@neverbounce.com').then(
+result => {
+if(result.is('valid')) {
+// Do Stuff
+}
+},
+err => // Handle errors
+);
+1
+2
+3
+4
+5
+6
+7
+8
+9
+import neverbounce_sdk
+# Create sdk client
+client = neverbounce_sdk.client(api_key='api_key')
+# Verify email
+verification = client.single_verify(email='support@neverbounce.com')
+if verification['result'] == 'valid':
+# Do stuff
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+require "neverbounce"
+# Instantiate client
+client = NeverBounce::API::Client.new(api_key: "api_key")
+# Verify email
+resp = client.single_check(email: "support@neverbounce.com")
+if resp.result == 'valid'?
+# Do Stuff
+end
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+// Instantiate wrapper
+client := neverbounce.New("api_key")
+// Verify an email
+singleResults, err := client.Single.Check(&nbModels.SingleCheckRequestModel{
+Email: "support@neverbounce.com"
+})
+if err != nil {
+// Handle Error
+}
+if singleResults.Result == 'valid' {
+// Do Stuff
+}
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+// Instantiate client
+NeverbounceClient neverbounceClient = NeverbounceClientFactory.create("api_key");
+// Verify email
+SingleCheckResponse singleCheckResponse = neverbounceClient
+.prepareSingleCheckRequest()
+.withEmail("support@neverbounce.com")
+.build()
+.execute();
+if(singleCheckResponse.getResult() == 'valid') {
+// Do Stuff
+}
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+// Instantiate SDK
+var sdk = new NeverBounceSdk("api_key");
+// Create request model
+var model = new SingleRequestModel();
+model.email = "support@neverbounce.com";
+// Verify email
+SingleResponseModel resp = sdk.Single.Check(model).Result;
+if(resp.is("valid")) {
+// Do Stuff
+}
+Test your data. We’ll report back whether it’s OK to send or needs to be cleaned. Any size.
+Get 1,000 API verifications free every month. Awesome API docs & integration support.
+We pride ourselves on consistent service and availability; we’re here to help.
+Based on user data analyzed over a 12-month period, "The State of Email Attrition 2018" looks at the average attrition rate of B2C and B2B email addresses. A sample set of 40 million valid B2C and B2B addresses gathered during a five-month period was reevaluated after a year to determine the average attrition rate of both subsets.Download PDF

@@ -1,0 +1,247 @@
+Cadastro de Computadores
+1. O que é?
+É uma ferramenta para os usuários do Internet Banking CAIXA, que coloca á disposição acessos às contas, serviços e
+produtos com adicionais de segurança, por meio de cadastramento do computador utilizado.
+2. Como funciona?
+Após entrar no Internet Banking Caixa, o usuário será levado a cadastrar aquele computador que ele está utilizando,
+escolhendo um apelido para o equipamento (ex: ComputadorX) e o tempo que deseja mantê-lo cadastrado, que poderá ser
+para um único acesso, por dias (até 365) ou por tempo indeterminado. Uma vez cadastrado o computador, você estará
+pronto para utilizar o Banking com uma segurança adicional, além daquelas já existentes para todos os usuários.
+3. Para que serve?
+Adicionar mais segurança aos acessos dos usuários ao Internet Banking, protegendo seu patrimônio, evitando que pessoas
+inescrupulosas o façam.
+4. Quem deve usar?
+Todo usuário que esteja acessando o Internet Banking CAIXA de um computador que utiliza o sistema operacional Windows
+com navegadores Internet Explorer ou Firefox.
+5. Como saberei da necessidade de cadastrar o computador?
+Não precisa se preocupar. O próprio Internet Banking CAIXA verificará de modo automático e apresentará as telas para
+o cadastramento. Caso seja necessário, o Banking fará a instalação da ferramenta que permitirá o cadastramento do
+computador, o que ocorre em alguns segundos, permitindo ao usuário realizar suas consultas e transações bancárias
+com segurança.
+Sobre os pré-requisitos para utilizar a ferramenta
+1. Como saberei se tenho que cadastrar o computador?
+O Internet Banking identificará automaticamente se o computador necessita ser cadastrado. Após a sua identificação
+ao entrar no Banking, aparecerá um documento intitulado "Aceite de Utilização", que após a concordância dos termos
+apresentará páginas solicitando seus dados pessoais, um apelido para aquele computador e o tempo de cadastramento
+para o equipamento. Caso seja necessário, o Internet Banking fará a instalação da ferramenta que permitirá o cadastramento
+do computador, permitindo ao usuário realizar suas consultas e transações bancárias com segurança.
+2. Todos os usuários deverão aderir ao Adicional de Segurança? Cadastramento de Computadores?
+Sim. Todos os clientes que utilizarem um computador com as configurações exigidas deverão realizar o cadastramento
+para utilizar o Internet Banking CAIXA.
+3. Posso utilizar essa ferramenta em qualquer computador?
+Não. Por enquanto, só poderão ser cadastrados os computadores que tiverem as seguintes configurações:
+Em
+breve o Banking colocará o Adicional de Segurança à disposição para todos os computadores, independente de sua configuração.
+4. Para utilizar o Adicional de Segurança? Cadastramento de Computadores será necessário instalar algum programa? Por
+quê?
+Depende. Se o seu computador já possuir os recursos necessários, você digitará a senha Internet e será apresentado
+ao documento "Aceite de Utilização". Após a concordância, você poderá fazer o cadastramento do computador, informando
+alguns dados pessoais, escolhendo um apelido para o equipamento e o tempo que gostaria que permanecesse apto para
+utilização. Caso se verifique a necessidade, o Banking fará a instalação da ferramenta que permitirá o cadastramento
+do computador, o que ocorre em alguns segundos. Após a instalação será solicitada a senha Internet e, em seguida o
+"Aceite de Utilização".
+5. O que é o "Aceite de Utilização"?
+É um documento onde a CAIXA esclarece o que é o Cadastramento de Computadores e registra seu compromisso de não-monitoração
+de seus arquivos, e-mails ou navegação pela Internet. Lembre-se que todos os computadores que tiverem as configurações
+necessárias, deverão ser cadastrados, pois sem a qual o usuário não poderá acessar o Internet Banking CAIXA.
+6. E se eu não concordar com o "Aceite de Utilização"?
+Você só estará apto a acessar o Banking a partir deste computador, após a sua anuência com o Cadastramento de Computadores.
+Em todos os casos em que for oferecido o "Aceite de Utilização", se você não concordar, será remetido á primeira página
+de acesso ao Banking e todo o procedimento se repetirá, até que você concorde com os termos do "Aceite de Utilização".
+7. O programa irá monitorar meus arquivos?
+Não. Nem arquivos, e-mails ou navegação pela Internet. Esse recurso não é invasivo e não possui como objetivo monitorar
+os usuários do Banking. A CAIXA respeita a privacidade de seus clientes.
+8. O Cadastramento de Computadores CAIXA está relacionado a algum endereço IP?
+Não. IP é um endereço em forma de número utilizado por um computador ligado á Internet. No caso do Adicional de Segurança
+- Cadastramento de Computadores, ele é realizado com base em uma identificação única, gerada a partir de dados de
+hardware (componentes físicos) de cada computador.
+9. Quando fui fazer o registro, apareceu uma opção de só acessar computadores cadastrados. O que isso quer dizer?
+Essa é a melhor maneira de garantir seu Adicional de Segurança? Cadastramento de Computadores trabalhando a seu favor.
+Com essa opção você só irá acessar seu Internet Banking CAIXA, por meio de um computador que possa ser cadastrado,
+evitando vulnerabilidade nos acessos realizados por meio de equipamentos não registrados.
+10. Acessei o Banking por um computador que não estava cadastrado e não apareceu nenhuma mensagem solicitando o cadastramento.
+Por quê?
+Quando você acessa um computador que não reúne as configurações necessárias para o cadastramento, a mensagem solicitando
+seu cadastramento não aparece.
+11. Os computadores que não apresentam as configurações necessárias para o cadastramento, possuem acessos seguros também?
+O Internet Banking CAIXA possui os mais variados recursos de segurança para garantir que, após o acesso a seu ambiente, o
+usuário possa navegar e utilizar-se de todos os serviços com total segurança. O acesso seguro, em qualquer computador,
+depende da adoção de medidas de rotina por parte do usuário, tais como:
+- atualização contínua do navegador (browser) e do sistema operacional;
+- utilização de versões atualizadas,
+em seu computador, de programas antivírus, antispyware e contra intrusão (firewall);
+- evitar acesso à sua
+conta bancária em computadores públicos;
+- trocar periodicamente suas senhas de acesso.
+O Cadastramento
+de Computadores visa proporcionar um adicional de segurança aos acessos efetuados a partir de computadores cadastrados
+pela CAIXA.
+Sobre os apelidos e o tempo de validade para o cadastramento
+1. Como devo definir um apelido?
+O apelido de seu equipamento ficará a seu critério e poderá ter de 1 a 20 caracteres (letras, números, espaços e símbolos).
+O apelido com 1 caractere não poderá estar em branco.
+2. Existe restrição no uso do apelido?
+Não, porém recomenda-se a utilização de um apelido de fácil reconhecimento para o usuário, evitando-se apelidos óbvios,
+como "PC do trabalho", "Meu notebook" ou "casa".
+3. Posso repetir os apelidos dos computadores?
+Os apelidos nunca se repetem para os computadores. Uma vez escolhido um apelido para um determinado computador, ele
+não poderá ser reutilizado para outro do mesmo usuário.
+4. Quantas vezes devo cadastrar meu computador?
+Depende do prazo que você definir. A CAIXA lhe dá as seguintes opções:
+- por tempo indeterminado (não necessita
+novo cadastramento)
+- até 365 dias (após expirado o prazo, você deverá fazer novo cadastramento); ou
+- somente para um acesso (quando utilizar um equipamento que comumente não o utiliza).
+5. Quantos computadores posso cadastrar?
+Quantos você desejar. Porém, somente quatro equipamentos poderão constar como Cadastrados para serem usados. No caso
+de você cadastrar um quinto equipamento, aquele que possuir o acesso mais antigo da lista dos "cadastrados" assumirá
+a situação de inativo e dará lugar ao seu novo equipamento.
+|Lista Atual
+|Novo Cadastro
+|Nova Lista
+|Computadores Cadastrados
+|Acesso
+|Computador
+|Cadastro
+|Computadores Ativos
+|Acesso
+|Computador 01
+|15/04/2012
+|Computador 05
+|01/09/2012
+|Computador 01
+|15/04/2012
+|Computador 02
+|22/08/2012
+|Computador 03
+|22/08/2012
+|Computador 03
+|22/08/2012
+|Computador 04
+|30/08/2012
+|Computador 04
+|30/08/2012
+|Computador 05
+|01/09/2012
+6. Como saber quantos computadores já cadastrei?
+Na página principal do Banking você verá um quadro com as informações de todos seus computadores Cadastrados para serem
+utilizados, totalizando 4 computadores por usuário. Caso queira ver a lista completa, você poderá acessar o link "ver
+todos" ou ainda acessar Gerenciar - computadores, que se encontra do lado esquerdo da página principal do Internet
+Banking.
+7. O que posso fazer depois que eu cadastrar um computador para acessar o Internet Banking CAIXA?
+Você poderá acessar todas as informações sobre produtos e suas contas, além de utilizar todos os serviços fornecidos
+pelo Internet Banking, com adicionais de segurança.
+8. Meu computador estava cadastrado e agora está me pedindo novo cadastramento. O que aconteceu?
+O mais comum é que o prazo determinado no momento do cadastramento tenha expirado. Mas pode ser que tenha ocorrido
+alguma alteração no hardware de seu computador, como mudança dQuantos você desejar. Porém, somente quatro equipamentos
+poderão constar como Cadastrados para serem usados. No caso de você cadastrar um quinto equipamento, aquele que possuir
+o acesso mais antigo da lista dos "cadastrados" assumirá a situação de inativo e dará lugar ao seu novo equipamento.e
+placa-mãe, expansão de memória etc.
+Sobre o gerenciamento dos computadores cadastrados
+1. Como faço para gerenciar meus computadores cadastrados?
+Você poderá ter acesso á todas as informações sobre os cadastramentos realizados, clicando na opção "Gerenciar Computadores",
+que se encontra no lado esquerdo da página principal do Internet Banking CAIXA.
+2. Quais as informações contidas na página "Gerenciar Computadores"?
+É uma página que possui a lista completa de todos os computadores já cadastrados, contendo apelido, data de cadastramento,
+data de expiração e situação.
+3. Quais as situações que poderão ser apresentadas para cada equipamento?
+Cada equipamento apresentado possuirá um tipo de situação conforme o caso:
+- Em uso - equipamento
+registrado e sendo utilizado naquele momento pelo usuário (virá realçado dos demais)
+- Cadastrado - equipamento registrado e dentro do prazo de validade escolhido pelo usuário no momento
+do cadastramento.
+- Inativo - equipamento registrado, porém com o prazo expirado.
+- Bloqueado - equipamento registrado e bloqueado pelo usuário.
+4. Posso excluir da lista algum computador que cadastrei?
+Não. Os computadores cadastrados serão excluídos da lista de modo automático, 3 meses após assumirem a situação de
+"Inativo" ou "Bloqueado".
+5. Quando um equipamento poderá ser bloqueado?
+Existem duas maneiras de se bloquear um equipamento: por decisão do usuário ou, de modo involuntário, por digitação
+equivocada de seus dados pessoais.
+6. O que faço para bloquear um equipamento?
+É muito simples. Basta acessar sua lista de máquinas pelo link "Ver todos" ou "Gerenciar computadores" e marcar o equipamento
+que deseja bloquear.
+7. Como faço para desbloquear um computador?
+O desbloqueio de qualquer equipamento só poderá ser realizado por meio do telefone 0800 726 0104 ou numa agência da
+CAIXA Ao desbloquear um equipamento, ele assume a situação de "Inativo", precisando ser cadastrado novamente.
+8. Posso reativar um equipamento já cadastrado?
+Sim. Se ele possuir a situação de Inativo, basta acessar o equipamento e cadastrá-lo novamente.
+9. O que acontece com aqueles equipamentos em que eu cadastrei para um único acesso?
+Ele continuará em sua lista de computadores cadastrados, porém com a situação de "Inativo".
+Utilização de um equipamento por vários usuários.
+1. Na minha casa há três pessoas que utilizam o Internet Banking CAIXA. Como fica o cadastramento?
+Para cada CPF, o equipamento terá um apelido. Assim, se três pessoas acessam o mesmo equipamento, quando acessá-lo
+pela primeira vez, cada uma escolherá um apelido e o prazo de duração do cadastramento para aquele equipamento.
+2. Eu não quero me cadastrar. O que eu faço?
+Para garantir o adicional de segurança, a CAIXA só permitirá o acesso ao Banking para os equipamentos que possuam as
+configurações já descritas e que estejam cadastrados.
+3. Meu computador não possui as configurações exigidas pela CAIXA, mas eu quero cadastrá-las mesmo assim. É possível?
+Não. A CAIXA só irá cadastrar aqueles computadores cujas configurações sejam as já descritas para o processo. Em breve
+a CAIXA colocará o Cadastramento de Computadores á disposição de todos os seus usuários, independente da configuração
+dos equipamentos utilizados.
+|Sistemas Operacionais
+|Internet Explorer x86 (Versão)
+|Mozilla Firefox (Versão)
+|Windows 2000
+|5.5 ou superior
+|3.6 ou superior
+|Windows 2003
+|6.0 ou superior
+|3.6 ou superior
+|Windows 2003 Server
+|6.0 ou superior
+|3.6 ou superior
+|Windows XP SP3
+|6.0 ou superior
+|3.6 ou superior
+|Windows XP 64 SP3
+|6.0 ou superior
+|3.6 ou superior
+|Windows Vista 32
+|7.0 ou superior
+|3.6 ou superior
+|Windows Vista 64
+|7.0 ou superior
+|3.6 ou superior
+|Windows 7 32
+|8.0 ou superior
+|3.6 ou superior
+|Windows 7 64
+|8.0 ou superior
+|3.6 ou superior
+4. Fui utilizar o meu computador e recebi um aviso que "Não foi possível acessar o Banking deste computador." O que
+eu faço?
+Ligue imediatamente para 0800 726 0104 e informe o código que aparece na mensagem. É rápido e você poderá fazê-lo 24
+horas por dia, sete dias na semana.
+5. Tenho conta conjunta e só utilizo equipamentos passíveis de cadstramento. O que acontece se o outro titular quiser
+acessar de um computador sem as configurações exigidas?
+O cadastramento é realizado por CPF. Assim, os dois terão acessos individuais diferenciáveis. No entanto, a conta poderá
+ser acessada de duas maneiras: com a segurança usual do Internet Banking CAIXA e com o Adicional de Segurança - Cadastramento
+de Computadores. A CAIXA recomenda que todos os acessos sejam realizados somente de computadores que possam ser cadastrados.
+Caso isso seja impossível, reforce as ações de segurança com a utilização de antivírus atualizados e firewall.
+6. Se eu viajar, o que faço para acessar minha conta pela Internet?
+Se você ainda não estiver cadastrado no Internet Banking, antes de viajar, cadastre-se para obter acesso, definindo
+um Usuário e Senha Internet, a partir de sua senha de quatro dígitos. Caso deseje, além de consultar, efetuar pagamentos/transferências
+via internet, solicite ao seu gerente a Assinatura Eletrônica.
+7. Qual o procedimento para o cadastramento em caso de viagem?
+Ao acessar o Internet Banking durante a viagem, caso o computador que você esteja utilizando permita o Adicional de
+Segurança, será exigido que você efetue o cadastramento do computador. Nesse caso, selecione a opção "Apenas para
+esse acesso" ou, caso você conheça a procedência do computador e das rotinas de segurança utilizada (casa de familiares,
+amigos), defina um número de dias, se preferir. Evite ao máximo o uso de computadores em locais públicos. Sempre que
+possível, agende seus pagamentos pelo Internet Banking.
+8. Poderei cadastrar computadores localizados no exterior?
+Sim. Caso você esteja fora do Brasil poderá fazer o cadastramento dos computadores durante o acesso ao Internet Banking
+CAIXA. Caso necessite sanar dúvidas ou de ajuda no exterior, entre em contato com o Help-desk CAIXA com chamada a
+cobrar para o número 55 71 3206 9900 e informe tratar-se de cadastramento de computadores no Internet Banking CAIXA.
+Outras Informações sobre o produto
+- A CAIXA não enviará e-mails solicitando quaisquer tipos de informações para o cliente. Seja de seu computador ou de sua(s)
+conta(s), como usuário e senhas.
+- O Internet Banking CAIXA não envia e-mails com links.
+- Na dúvida de estar numa página segura da CAIXA, verifique se há um pequeno cadeado do lado direito do rodapé da
+página do Internet Banking. Clique duas vezes para abrir o "Certificado" e verificar para quem foi emitido. Verifique
+também, clicando na aba "Caminho de certificação".
+- Em caso de suspeita, ligue para o Suporte CAIXA, por
+meio do telefone 0800 726 0104.
+- Aprenda mais sobre segurança, clicando aqui.
+- Procure utilizar o Internet Banking CAIXA a partir de computadores conhecidos.
+topo

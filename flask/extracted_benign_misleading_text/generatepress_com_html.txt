@@ -1,0 +1,40 @@
+The perfect lightweight theme for your next project.
+Downloads
+Active websites
+Happy customers
+How does it work?
+Take a look at our quick 3-minute video.
+Performance Focused
+We take speed, security & usability seriously.
+Secure & Stable
+Our code has been independently reviewed by leaders in the WordPress community, and uses the latest and most stable coding standards.
+Less Than 30KB
+We believe your sites should start with the smallest footprint possible. That’s why a default WordPress install with our theme is less than 30kb.
+Top-Tier Speeds
+Speed is one of the most important aspects of your website. Thanks to our tiny footprint and clean code, we make sure you start off as fast as possible.
+No Dependencies
+If it’s not needed, we don’t load it. That includes jQuery, which we ditched for clean, vanilla javascript. No more render blocking issues!
+Search Engine Optimized
+Validated HTML, built in schema.org structured data and lightning fast load times. We give you a head start with search engines before you even add content.
+Accessibility Ready
+Accessibility is crucial to your website. We follow WCAG 2.0 standards to make sure no one is left out when browsing your website.
+User Friendly Features
+Take full control of your website.
+Colors & Typography
+Adjust the theme colors and typography directly in the Customizer. Our premium version extends this, giving you styling options for nearly every visible element.
+Layout Control
+Take control of your site layout on desktop and mobile with our layout controls, including things like padding, margins, sidebar layouts and much more!
+Page Builder Friendly
+Have a favorite page builder? It will work great with GeneratePress. Let your page builder take control by using our per page layout controls.
+Plugin Compatible
+Thanks to our obsession with WordPress coding standards, you can rest easy knowing your favorite plugins will play nice with our theme.
+Hooks & Filters
+Need to extend something that doesn’t have an option? There’s a filter for that. There’s no limit to what you can do with our extensive list of filters and hooks.
+Translation & RTL
+Our theme is translated into over 20 languages and counting thanks to contributions from our amazing community. We also fully support RTL languages.
+Our Users Love Us
+Over 800 5 star reviews on WordPress.org.
+So happy I found GeneratePress. It’s been my framework for over a year, maybe 2 years. It gets better and better all the time. Loads of hooks and filters for dev work, and all the basics covered for the non-coders too.
+I’m always looking for ways to optimise my processes and improve efficiencies across the team. GeneratePress has become a crucial part of our technology stack. And I know hundreds of our WP Elevation members love it too.
+GeneratePress is my go to theme for all of my own and client projects. It has proven to be a fast, lightweight and reliable foundation for the websites I build. With GP Premium, my clients were always happy how easy it is to change important parts without relying on others. A solid foundation for your website with a solid team behind it!
+Being a WordPress performance enthusiast, I require my sites to load as fast as possible. That means using the lightest, most powerful theme I have encountered: GeneratePress. Tom's incredible support and rich features provide the best possible foundation for any WordPress project.

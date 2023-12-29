@@ -1,0 +1,5 @@
+Help protect your account by configuring security questions. You will then be required to answer one of your questions to perform certain transactions. This verification provides an additional level of security for your account.
+Security Questions
+|* indicates a required field
+Dummy
+Need this because the infoboxes are hidden on initial page load --js isn't rendered during postback-- so infobox doesn't work

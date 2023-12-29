@@ -1,0 +1,4 @@
+{"ariaCollectorUrl":"https://browser.pipe.aria.microsoft.com.office.jconew.mcafeeoct25201814800.myshn.net/Collector/3.0/","ariaTenant":"ea6758984c4b43529f9929667d8d3198-c52d4a8b-47fe-4fdf-99b8-5f897ff4e33b-7365","buildDateUtc":"2020-09-24 03:20:47Z","buildId":"8235f687-50ea-6afe-eda2-1940ff8c0ae6","corpNet":false,"correlationId":"90c197d7-e794-47ed-b1f7-ae4f8f29b8c3","deploymentEnvironment":"prod","devEnvironment":"ServiceFabric","flights":"powericon,csslicensing,leftnavreact,upcomingmeeting,pwafreeconsumerfrecf,pptdesignerml","geoName":"eus","requestOrigin":"Direct","sessionId":"0ab5c7ff-279f-4185-9651-e5bf7b34036a","testTraffic":false,"cookieConsentRequired":false,"officeMarketLcid":1033,"useMruS2SFlow":false,"useFeedApi":true}
+blobs.officehome.msocdn.com
+{"diskPreloadEnabled":true,"enabled":true,"pilotFlights":[],"serviceWorkerAllowedFlights":["cacheshell","appshell"],"scriptUrl":"/sw","scope":"/"}
+True

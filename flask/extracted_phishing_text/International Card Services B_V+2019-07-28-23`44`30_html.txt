@@ -1,0 +1,19 @@
+Menu
+Home
+Klantenservice
+Producten
+Card-voordeel
+Inloggen Mijn ICS
+Home
+Gebruik uw inloggegevens nooit op andere websites. ICS vraagt nooit om uw pincode of inloggegevens via e-mail of telefoon
+U heeft uw inlognaam en/of uw wachtwoord niet (goed) ingevuld. Na drie keer verkeerd invoeren, moet u Mijn ICS opnieuw activeren.
+(00006)
+Inlognaam
+Dit veld is verplicht.
+Wachtwoord
+Dit veld is verplicht.
+Onthoud inlognaam (optioneel)
+Inloggen
+Nog geen gebruiker? Activeer nu Mijn ICS.
+Inlognaam en/of wachtwoord vergeten?
+Heeft u nog geen Card? Vraag er een aan!

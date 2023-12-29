@@ -1,0 +1,10 @@
+Welcome to TextMechanic.com! Simple, single task, browser based, text manipulation tools.
+Insert a prefix and/or suffix into the content of each line.
+Add new line breaks and/or remove existing line breaks within your text’s formatting.
+Count your text’s characters, words, sentences, lines and word frequency.
+Extract a specific column of delimited text from each line of your input text.
+Find and replace text matching your search criteria.
+Combine text lines from left to right.
+Remove/delete all duplicate lines within your text/list.
+Remove/delete all empty lines within your text/list.
+Remove leading/trailing/extra/all white-spaces from your text.

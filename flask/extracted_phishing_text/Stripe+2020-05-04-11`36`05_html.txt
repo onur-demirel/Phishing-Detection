@@ -1,0 +1,5 @@
+Your backup code is the 24 character code you wrote down when you activated two-step authentication.
+Email
+Password
+Emergency code
+Verify the two-step authentication code

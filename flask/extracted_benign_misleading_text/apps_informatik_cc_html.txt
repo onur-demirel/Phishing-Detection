@@ -1,0 +1,20 @@
+Apps
+Anwendungen für den Informatikunterricht. Ein Projekt von WIssen
+RSA
+Verschlüsselung selbst ausprobieren.
+API
+REST API erklärt
+Tracking
+Tracking selbst erfahren.
+SQL
+SELECT mit Pokemon, Büchern, YouTube und Filmen.
+Calliope Editor
+MakeCode-Editor mit weniger Tracking und Werbung
+HTML-CSS-JS-Editor
+HTML, CSS und JS im Browser entwickeln.
+JavaScript Konsole
+Konsolenanwendungen mit JavaScript im Browser ausführen.
+JavaScriptKara
+JavaScriptKara im Browser ausführen.
+Sortieralgorithmen
+Sortieralgorithmen

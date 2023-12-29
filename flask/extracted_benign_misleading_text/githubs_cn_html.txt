@@ -1,0 +1,34 @@
+GitHub热门趋势
+过去24小时
+free-for-dev
+A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+devops-interview-questions
+Linux, Jenkins, AWS, Network, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
+nginx-admins-handbook
+How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
+tinacms
+Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)
+Blawn
+Pleasant Programming Language.
+过去7天
+free-for-dev
+A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+Ultra-Light-Fast-Generic-Face-Detector-1MB
+💎 1MB轻量级人脸检测模型 (1MB lightweight face detection model)
+v
+Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. 1.0 release in December 2019. https://vlang.io
+guide
+The Uber Go Style Guide.
+Best-Flutter-UI-Templates
+completely free for everyone. Its build-in Flutter Dart.
+过去30天
+Anime4K
+A High-Quality Real Time Upscaler for Anime Video
+iptv
+Collection of 8000+ publicly available IPTV channels from all over the world
+c9-python-getting-started
+Sample code for Channel 9 Python for Beginners course
+transformers
+🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+vue
+一套构建用户界面的渐进式JavaScript框架

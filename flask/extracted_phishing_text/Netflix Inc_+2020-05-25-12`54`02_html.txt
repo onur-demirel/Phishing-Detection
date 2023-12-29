@@ -1,0 +1,7 @@
+Update Your Billing Information
+Your billing address must match the address of your membership plan payment method. We also require your date of birth as additional security measures.
+Secure ServerTell me more
+We take your security seriously. We safeguard your payment information with SSL (Secure Sockets Layer) when sent over the internet. SSL encrypts personal information, including your name and payment information, so that it cannot be read in transit by a third party. We also store your payment information in an encrypted format.
+Confirm your current billing address. This will enable us to confirm your payment method in the next step.
+-
+Billing Address

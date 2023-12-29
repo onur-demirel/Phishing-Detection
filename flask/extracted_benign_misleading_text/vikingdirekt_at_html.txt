@@ -1,0 +1,11 @@
+Wie möchten Sie Ihre Preise dargestellt bekommen?
+Privatkunden
+Als Privatkunde werden Ihnen alle Preise inklusive Umsatzsteuer angezeigt.Preise anzeigen inkl. USt
+Geschäftskunden
+Als Geschäftskunde haben Sie eventuell die Möglichkeit die Umsatzsteuer zurückerstattet zu bekommen.Preise anzeigen exkl. USt
+Mein KontoAnmelden
+Neuer Kunde?Konto erstellen
+Vorteile Ihres Viking-Kontos:
+- Schnellere Kassenverarbeitung
+- Einfache Neubestellung und Rücksendung
+- Einkaufsliste speichern

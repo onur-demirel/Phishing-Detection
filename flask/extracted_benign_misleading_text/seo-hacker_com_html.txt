@@ -1,0 +1,20 @@
+Doing on-page SEO takes a lot of time and having all the data that you need in one tool saves you the hassle of jumping from one tool to another. With Netpeak Spider’s new update, you get just that.
+Google Index Guide: How to Get Google to Index Your Pages Faster
+Since you now know how to SEO new websites, the proceeding problem you’re going to face is to wait until Google indexes your new website and consequently displays it in their search results. Google has these processes that enable them to find, crawl, index, and display relevant pages to the users for specific queries. That involves a lot of effort, hardware, and ingenuity since it’s not an understatement when I say that there are billions of websites in the 2019 world wide web. So the challenge for us SEOs and webmasters is to fasten Google’s process of finding our site, crawling and indexing it, and displaying it to the right users.
+Content Accuracy Factors You Should Optimize For
+Content Accuracy has been a recurring topic in the SEO community, especially now because Google has revealed it as a ranking factor. It has been the talk of the town since Gary Illyes from Google has said so at PubCon, a well-known SEO conference. Content Accuracy is especially important for YMYL sites because according to Google they “go to great lengths to surface reputable and trustworthy sources.”
+Google Adds Video Reports in Search Console
+Videos are rapidly changing the way people search. The thing is, it’s not just about YouTube anymore. Google recently added a new report in Search Console for Video content that allows webmasters to see how their own videos perform on search results and errors in their structured data markup.
+Google Chrome Will Start Blocking HTTP Resources in HTTPS Pages
+Google has always been pushing for a safer and more secure search experience for the users. The best example of this is when they pushed the migration to https for websites that cared about their rankings. I fully support a safer and more secure environment in search since it builds trust and improves our brand’s reputation with the users.
+A few days ago, Google published a blog post in their security blog which contained massive news regarding the use of resources that lead back to http websites (otherwise known as Mixed Content) will be blocked by Chrome.
+GoogleBot User Agent’s Update Rolls Out in December
+GoogleBot optimization can be tricky especially since you cannot control how the spider perceives your site. As Google announced that they are going to update the user agent of GoogleBot come December, this is also a call for us SEOs to rethink how we can optimize for Google crawlers.
+Screaming Frog vs Netpeak Spider: Who’s the Superior Crawler?
+SEO crawlers are must-have tools for every SEO professional or website owner. You need to have at least one of them in your toolbox but for us at SEO-Hacker, we have two: Screaming Frog and Netpeak Spider.
+Google Releases September 2019 Core Update
+Google releases numerous algorithm updates every year, but with the trend they’re setting, only the big updates warrant an announcement from them. The most recent example is their announcement of the June 2019 Broad Core algorithm update. They’re now releasing a new core update which could result to either good or bad results for us SEOs.
+A Quick Review on Optimizing Breadcrumbs for SEO
+If you are one of the webmasters who have received a slew of emails from Google Search Console telling you to fix the breadcrumbs markup of your site, then I am writing this for you. Recently, Google Search Console has launched a new feature for the Breadcrumbs report which has alerted webmasters left and right. The Search Console’s new report will come in handy, especially if you want to stay competitive in the SERPs.
+Everything You Need to Know About Nofollow, UGC, and Sponsored Links
+Last September 10, Google announced that the link attribute “nofollow” is evolving and introduced two new link attributes: the rel=”sponsored” and rel=”ugc”. This announcement shook the SEO industry.

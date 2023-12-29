@@ -1,0 +1,6 @@
+Aufgrund eines Konfigurationsfehlers scheint die Webseite, welche Sie besuchen möchten, nicht verfügbar zu sein.
+Überprüfen Sie bitte, ob Sie in Ihrem Control Panel die betroffene Domain sowie die betroffene Webseite eingerichtet haben.
+Bei Fragen hilft Ihnen unser Support gerne weiter.
+Due to a configuration error the site you are requesting is not available.
+Please check that the affected domain and website is set up in your control panel.
+If you have any questions our support will gladly help you.

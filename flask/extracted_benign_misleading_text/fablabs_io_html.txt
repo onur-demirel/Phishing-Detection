@@ -1,0 +1,23 @@
+Welcome to fablabs.io!
+Here are few suggestions about how we can help you and how you can participate
+and talk with us if you have any question or problem regarding the Fablabs.io
+platform.
+Discuss with the community
+You can ask for support to the administrators and the whole community
+in the Fablabs.io Discuss section within the
+Site feedback category.
+Site feedback category
+we would also love to hear your ideas and suggestions regarding Fablabs.io,
+its features, development, how it works and how we can improve it.
+Discuss with the community
+Help with the technical development on GitHub
+If you have instead messages regarding the technical development or bugs
+of the platform, we would ask you to discuss these on the Fablabs.io repositories
+on GitHub (Fablabs.io is free/open source software!) at
+https://github.com/fablabbcn/fablabs.
+Join the development
+E-mail the administrators
+If you need instead to contact the administrators of Fablabs.io, please
+write to
+webmasters@fablabs.io.
+Write an e-mail to the administrators

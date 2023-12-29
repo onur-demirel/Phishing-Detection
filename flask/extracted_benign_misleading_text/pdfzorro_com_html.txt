@@ -1,0 +1,29 @@
+|
+|
+|
+Other tools:
+New JPGzorro - Photo Editor
+New: PDF Texteditor
+Example:PDF-Editor
+Webmaster tools
+API for Developer
+Write a letter in PDF
+pyroPDF - Easy to use Editor
+chromePDF - Easy to use PDF Editor
+Mobile version - PDFzorro
+PDF Merger for GoogleDrive
+PDF Editor for Chrome und Gdrive
+Save Browser Content to Google Drive
+Encrypt and secure files in Gdrive
+Bank2BIC - IBAN Generator
+PDFzorro (for Android)
+|
+Function of the editor:
+text draw signature add blank compress delete security extract gdrive merge meta infos move rotate whiteout unlock
+YouTube-Channel
+(instruction manual)
+|
+More languages:
+en us de fr ca cn es ru it ko pt sv hi pl cs da no nl fi bg sk ar
+|
+Website:

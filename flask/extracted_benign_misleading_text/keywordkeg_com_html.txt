@@ -1,0 +1,41 @@
+Save hours by searching for upto 30 seed keywords at one time and find thousands of related keywords.
+Upload your Excel/CSV files with upto 500,000 of your own keywords and get metrics for them
+Export to CSV, Excel and PDF files with the option to white label
+Volume, CPC data directly from Google Adwords, improved with clickstream data
+More Suggest APIs than any other keyword tool - Google, YouTube, Amazon, eBay and many more
+Keyword Difficulty Metrics to gauge On-Page & Off-Page optimization in the SERP results
+Target only keywords with specific SERP features that help your business.
+Filter keywords based on purchase intent to improve the quality of traffic to your website
+Narrow down and hide keywords, Filter based on every single metric we have and more.
+Get data from 11 suggest APIs for the broadest set of keywords. Use one or more or all 11 of the APIs as per your needs. The 11 APIs supported are -
+Search engine APIs: Google, YouTube, Bing, Yahoo & Yandex
+E-commerce website APIs: Amazon, eBay & Alibaba
+Informational site APIs: Wikipedia & Ask.com
+App Store APIs: Google Play Store
+Keyword Keg Private Database: Database of 3 billion private keywords we've collected over the last several years
+Automatically categorize keywords based on audience intent. Categories available are -
+Buyer Intent: Keyword phrases with words like buy, discount, deal and so on indicate that the user intends to purchase some time soon. For e-commerce businesses, keywords with Buyer Intent will have more value as ranking for such keywords will directly impact sales. When you search for keywords with Buyer Intent, Keyword Keg automatically adds various buyer specific phrases to keywords to generate long tail keyword phrases with Buyer Intent.
+Product Info: Keyword phrases with words like review, best, top and so on indicate that the user is looking for a product/service. For blogs and affiliates, keywords with Product Info will have more value as they are looking to target audience higher up in the funnel. When you search for keywords with Product Info, Keyword Keg automatically adds various product review and information specific phrases to keywords to generate long tail keyword phrases with Product Info.
+Questions: Keyword phrases with questions are great for Content Writers looking to answer questions. Get content ideas from your readers' searches. With this category, you can find all keyword phrases with questions that your audience is asking. You can then increase your ranking by being the first to answer them.
+If your keyword needs include generating an exhaustive list of all possible keywords you can use the following two categories in addition to the ones above -
+Alphabetical: Suggest APIs are called with an alphabetical prefix and suffix to get the most comprehensive list.
+Prepositions: Keywords phrases with prepositions added such as for, like, near, versus, with and so on.
+Get access to Volume, CPC, and Competition from Google Keyword Planner. In addition to these, use our proprietary SEO metrics to compare contenders in your keyword hunt.
+On-Page Difficulty (0-100): Measure of various factors that contribute to difficulty in ranking for the keyword based on the page's content. The lower, the better the opportunity to rank.
+Off-Page Difficulty (0-100): A backlinks based measure that demonstrates the difficulty in ranking for a keyword. The lower the measure, the better the opportunity to rank.
+SEO Difficulty (0-100): Measure of overall SEO Difficulty for the keyword, which is a combination of On-Page and Off-Page difficulty. The lower the measure, the better the opportunity to rank.
+CTR Scope (0-100): The Click Through Rate Scope metric is a measure of how much traffic you can expect to get. The higher the score, the better.
+Easily narrow down and find the best keywords using Search Volume, CPC, Competition, Trend and Value in addition to our proprietary SEO metrics (On-Page Difficulty, Off-Page Difficulty, SEO Difficulty, CTR Scope) and categories(Buyer Intent, Product Info, Questions, Alphabetical, and Prepositions).
+Sort and use our smart filters to narrow down the list based on your criteria.
+Use negative keyword filter to hide phrases you are not interested in. As an example, an e-commerce business may want to exclude keywords with free in them. Using the negative keyword filter ensures that your ad revenue is not unnecessarily spent on these.
+SERP(Search Engine Results Page) features enable you to learn exactly where the organic search results will appear on the page. Keywords with one or more of these features will be harder to rank for as fewer organic search results are actually displayed on the SERP page. Approximately 90% of traffic goes to the listings on the first page of the SERPs.
+Keyword Keg SERP features give you the following information -
+Ad Listings: Google shows advertisement listings at the top of the SERP for this keyword.
+Product Listings: Google shows product listings at the top of the SERP for this keyword.
+Local Listings: Google shows local listings at the top of the SERP for this keyword.
+Snippet: Google shows a snippet at the top of the SERP for this keyword.
+Image Listings: Google shows images on the first page of the SERPs for this keyword.
+News Listings: Google shows news listings at the top of the SERP for this keyword.
+Knowledge Graph: Google shows a Knowledge Graph on the right-hand side of the SERPs for this keyword.
+Video Listings: Google shows video listings on the first page of the SERPs for this keyword.
+Fresh Listings: Google marks results in the SERP with a recent date for this keyword.

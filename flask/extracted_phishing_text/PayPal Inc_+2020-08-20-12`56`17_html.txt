@@ -1,0 +1,8 @@
+Activez la connexion automatique sur ce navigateur et accélérez chaque paiement. (Non recommandé sur les appareils partagés.)Qu'est-ce que c'est ?
+Vous êtes connecté en tant que
+Connectez-vous à votre compte Google et payez plus rapidement sur vos appareils.
+Connectez-vous automatiquement à PayPal pour payer plus rapidement sans avoir à saisir votre mot de passe, depuis tous les appareils sur lesquels vous êtes connecté avec votre compte Google.Qu'est-ce que c'est ?
+Lier votre compte Google vous permet d'activer PayPal One Touch™ et d'accélérer ainsi le paiement sans avoir à vous connecter à chaque fois. Vous pourrez toujours désactiver cette fonctionnalité plus tard dans vos Paramètres sur PayPal.com.
+Chaque fois que vous payez avec un nouvel appareil depuis un nouveau navigateur, et lorsque vous êtes connecté avec votre compte Google, vous pouvez vous connecter automatiquement au moment du paiement sans avoir à saisir votre mot de passe.
+Rester connecté pour des paiements plus rapides
+Restez connecté sur cet appareil pour ne plus saisir votre mot de passe. Pour des raisons de sécurité, nous vous demanderons parfois de vous connecter à votre compte, y compris à chaque fois que vous mettrez à jour vos informations personnelles ou vos coordonnées bancaires. Nous déconseillons d'utiliser One TouchTM sur des appareils partagés. Désactivez cette fonction à tout moment dans vos paramètres PayPal.

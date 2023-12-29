@@ -1,0 +1,10 @@
+HWEB ile Misafirlerinize Alternatif Ödeme Sistemleri Sunun.
+16 Haziran 2017 / HWEB
+Bir kaç saat içinde web sitenize HWEB sistemini kurabilirsiniz.
+HWEB ile bir çok dili, para birimini ve taksit imkanını destekleyen bir ödeme sistemine de kavuşuyorsunuz.
+Kurulum ve kullanım ücreti yoktur.HWEB ile satış yaptığınızda ödersiniz.
+Otelinizin anasayfasına koyacağınız küçük bir kod ile hemen online satışa başlayın !
+Online Rezervasyon Modülü
+Call Center Hizmeti
+Dijital Pazarlama Hizmeti
+Tripadvisor Entegrasyonu

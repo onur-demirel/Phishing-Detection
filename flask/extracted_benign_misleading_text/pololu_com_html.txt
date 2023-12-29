@@ -1,0 +1,18 @@
+Choose from our selection of affordable robot kits with soldering or without soldering. We have various beginner-level robot kits as well as advanced walking robots, robotic arms, and our high-performance wheeled and tracked robots.
+Our wide selection of DC motors, geared DC motors, and stepper motors will help you find the perfect blend of torque and speed for your project.
+Ensure your project gets the voltage it needs with our efficient switching voltage regulators.
+Use these controllers as the brain for your next project. You can connect them to your computer and program them in various languages including BASIC, C, and C++.
+These robot controllers are complete control solutions for small and medium robots or similar projects. Their features include user-programmable microcontrollers and multiple H-bridges for direct control of DC motors.
+Take command of the speed and direction of your brushed DC motors using these controllers. This category includes single and dual serial motor controllers with a variety of features such as analog, RC, or USB control, speed/position feedback, channel mixing, and more.
+Single and dual motor driver carriers get your brushed DC motor projects up and running quickly using modern H-bridges with high-performance MOSFETs that deliver hundreds of watts in a compact package. Give these boards a PWM signal and make your motors go!
+The Tic offers simple control of bipolar stepper motors directly from a variety of interfaces, including USB, TTL serial, I²C, hobby radio control (RC), analog voltage (potentiometer), and quadrature encoder signals.
+With features like adjustable current limiting and selectable microstep resolutions, these drivers make it easy to get a stepper motor running with simple step and direction control interfaces.
+Pololu’s Maestro servo controllers offer industry-leading resolution and stability for precise, jitter-free control of your RC servos. Features include a native USB interface, separate speed and acceleration settings for each servo, internal scripting control, and channels configurable as general purpose I/O.
+Wires, solderless breadboards, prototyping PCBs, voltage regulators, our pushbutton power switch, and more!
+Cleanly connect wires and modules to each other with our various connectors.
+An assortment of switches, buttons, and relays that can serve as user-interface elements, tactile sensors, power switches, and more.
+Servo extension cables, USB cables, jumper wire kits, and more!
+Our wide variety of battery holders can offer the ideal solution for your project’s power needs.
+Ball casters make great third contact points for small differential-drive robots.
+Learn more about electronics with these complete educational project kits.
+We offer custom laser cutting of 2-D parts from plastics, woods, and other materials, as well as custom laser cutting of mylar surface-mount (SMT) solder stencils.

@@ -1,0 +1,18 @@
+-
+Cloud Automation
+On-demand provisioning on the major clouds. Seamless, zero-downtime scaling and high availability via auto-failover on production-ready plans.
+-
+Advanced Security
+Dedicated plans support encryption-at-rest, include SSL for free, and allow for custom firewalls as well as VPC peering.
+-
+Backup & Recovery
+Unlimited backups on Dedicated plans; free daily backup on other plans. Free and easy backup restores.
+-
+Easy-to-use Data Browser
+Web GUI for editing documents, running queries (including saved searches), and viewing results in tabular format.
+-
+Monitoring & Analytics Tools
+Continuous, 24x7 monitoring with performance graphs and custom alerting. Index and performance suggestions provided by mLab's Slow Query Analyzer.
+-
+Best-in-Class Database Support
+Thoughtful, timely advice for all users at support@mlab.com. 24x7 emergency contact for Dedicated Cluster plans.

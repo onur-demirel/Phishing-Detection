@@ -1,0 +1,60 @@
+AdSpyglass receives money from ad networks and makes payouts to your personal account on the 10th and 25th of every month.
+You may withdraw your earnings from your personal account at any time with no hold.
+The earnings from your own ad network accounts are paid by the networks directly.
+You may withdraw as little as $10 from your account.
+The average min payout at any ad network is $50-$100, plus there is always a hold.
+Integrating with AdSpyglass will give you the benefit of getting $10 payouts earned all together.
+AdSpyglass offers popular ad types
+– Popunders
+– Display banners
+– Native banners
+– Instant messages
+– Direct links
+– In-video (VAST)
+– Slider (VAST)
+– Push notifications
+Full statistics based on 100% of your traffic.
+You see your actual traffic, traffic counted by ad networks, and the discrepancy. We count all requests and impressions, even bots and proxy traffic.
+AdSpyglass provides 13 filters and 14 groupings for the flexible customization of the reports.
+Regular ad networks typically provide only 3 settings: by date, by country, and by device type.
+13 Filters
+– Ad Type
+– Ad network Type
+– Ad network
+– Browser
+– Platform
+– Device
+– Spot
+– Connection Type
+– Campaign
+– Stream
+– Proxy Type
+– Creative
+– Country
+14 Groupings
+– Date
+– Ad Type
+– Ad network
+– Ad network type
+– Spot
+– Stream
+– Creative
+– Country
+– Browser
+– Connection Type
+– Device
+– Proxy Type
+– IP
+– UTM
+AdSpyglass only shows ads with the highest eCPM The service compares offers from ad networks automatically.
+The service fills 100% of ad views. Your ad spots will be always full of ads and bring your the largest possible profit
+I want to share my experience. I use 15 different ad networks in Adspyglass (trafficshop, clickadu, exoclick, adsterra, trafficforce and some more). I like the design of the site, it’s easy to analyse all stats from my ad networks in one place. It automatically detects the most profitable Ad networks for my traffic and chooses the CPM best. Pros: - a personal manager helped me set everything up, gave me good advice for some networks. Result is really nice - my profit increased up to +80%, from 250$ to 450$ after one month. Another good pro is that ref program is 5%.
+Damn nice service - thanks Seven for this, a lot of shitty suspicious thoughts are out of my mind, now the system works for me. Plus 30% profit, that is my conclusion. Did not try - try it for sure!
+The benefit of this system is that you are independent of one broker. One network works better with the USA, another with Canada, some work good even with LQ traffic. You are insured in case ad network has no offers for your traffic any more. The system will automatically switch your traffic to some other ad network which will give the best price for it.
+There's almost no setup, you just create spots, add ad networks, and then all you have to do is to sit and refresh stats. It's very handy to have both traffic and cash stats in one place for every ad network.
+We have been working for the 4 months already... displaying all well-known ad networks.. to get help with settings ask support, they answer quickly and give good advice. It's a very cool system!
+We've begun working with the system.
+1. Popunder income (comparing with a separate exo or tshop popunder for example) has increased by 2.5.
+2. The admin area interface is useful and clear. You can easily set up your campaigns, in 5-10 minutes, if all used partners have already approved your websites/zones.
+3. Chatting with vsv (aka Seven) proved to be very pleasant and useful. He'll not only show and tell you everything but also give you some piece of really good advice)
+Well, if I had such a system I wouldn't share it))

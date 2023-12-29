@@ -1,0 +1,33 @@
+DATE
+23rd December 2019
+SERVER NAME
+Server 1
+TOTAL MEMBERS
+5797
+SPEAKERS
+KIKI & ChrisPatrol
+Days
+0 0 0 0
+7 7 7 7
+Hours
+0 0 0 0
+0 0 0 0
+Minutes
+0 0 0 0
+0 0 0 0
+Seconds
+0 0 0 0
+0 0 0 0
+5797 Registered Players
+System Requirements
+Minimum
+Recommended
+Windows 8.1
+Windows 10
+i3/FX 8370
+i7/Ryzen 5
+4 GB VRAM
+4 GB VRAM
+4 GB Storage
+4 GB Storage
+Windows 7, Windows Vista and Windows XP is not supported.

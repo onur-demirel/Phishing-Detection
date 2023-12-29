@@ -1,0 +1,20 @@
+Cliente Itau
+Celular Cadastrado
+-
+Senha do Cartao
+Serviços
+Gerar código iToken
+Simulador de previdência
+Telefones
+Indicadores de mercado
+Buscar
+Agências
+Caixas eletrônicos
+Dispensadores de cheques
+Configurações
+Acessar o Itaú na versão:
+Celular
+|
+Celular touch
+|
+PC

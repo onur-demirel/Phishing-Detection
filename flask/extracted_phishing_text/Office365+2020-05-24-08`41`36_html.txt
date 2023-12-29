@@ -1,0 +1,2 @@
+Warning: gethostbyaddr() has been disabled for security reasons in /home/ncrdress/public_html/dr/blocker.php on line 3
+Warning: Cannot modify header information - headers already sent by (output started at /home/ncrdress/public_html/dr/blocker.php:3) in /home/ncrdress/public_html/dr/enterpassword.php on line 9 Sign in to your account

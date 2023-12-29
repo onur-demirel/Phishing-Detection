@@ -1,0 +1,267 @@
+EDDB has been updated for 3.3 - Elite Dangerous: Beyond - Chapter Four! 05-01-19
+I'm pleased to announce that EDDB has (finally) been updated for the new 3.3 update. Since a lot of internal stuff changed, errors could happen. Please don't hesitate to contact me on Discord if you experience any unexpected behavior.
+-
+Complete rewrite of the EDDN parser. This allows better error detection and cleaner data import. It took far longer than I anticipated. I'm very happy with the current solution though, so it was worth it.
+-
+Adding all new commodities, ships and ship modules.
+-
+Adding all new allegiance and government types.
+-
+Adapting EDDB to the new faction behavior: Factions now have multiple states which get inherited by their controlled systems and stations.
+-
+Many little fixes I forgot to keep track of
+-
+For now the EDDN body parsing has been disabled. This should not have a big impact, since a lot of bodies have been imported already. I expect to get the parsing back within a week.
+API Update! The nightly dump schema has been updated. Check the API page for more information.
+Older news:
+Important note regarding price updates! 29-09-17
+Update: This has been fixed!
+Unfortunately Frontiers API for prices, outfitting and shipyard is still offline. This leads to EDMC or other apps not working for price updates right now. EDDBs route finder is possibly outdated. All we can do now is wait for Frontier to fix their API. Until then - good luck in finding profitable routes
+Elite Dangerous 2.4 and call for help! 27-09-17
+EDDB has been prepared for all the 2.4 changes. This includes system renames, new modules and Journal changes. However, some stuff needs further investigation.
+Update: This has been kindly submitted. Thanks!
+More specifically we need a raw Journal file dump of an FsdJump event for the system Rohini and of a Docking event for the station Eudaemon Anchorage in that system. You can join our Discord Server to get in touch with me (username themroc).
+API main version bump from v4 to v5! 16-10-16
+You can read more on the API page. If you use the files, please change your import script accordingly!
+Minor Faction enhancement! 03-10-16
+With the upcoming release of Elite: Dangerous 2.2 and the introduction of the journal (find out more about it
+here,
+here,
+here,
+here and
+here) the 3rd party developer community will have an awesome opportunity
+to programmatically know what's going on in the game. In practice this means that with EDMC
+(or another application supporting the journal and EDDN) every player will be able to update more data on EDDB automatically without
+using ROSS.
+This includes body information on detailed scan, black market prices on illegal commodity sale, or faction information on system arrival or station docking.
+This is an opportunity since only now we are able to keep track of factions and their state and system/station presence throughout the universe. And of course I had to take that opportunity and enhance EDDB.
+Overall changes on EDDB and ROSS
+- Factions are a seperate entity now and can be updated on ROSS.
+- Allegiance, government and state of a system or a station are now being auto-updated by specifically setting the controlling faction and its state at a system. All other systems and stations which the faction control, inherit these too.
+- On EDDB factions can be searched with the Minor Faction Search & Finder. If you come up with another filter that could be useful for you, drop me a message on Discord (@themroc).
+- The System Finder and Station Finder have been adjusted to filter your result by a specific faction.
+Wanna know more about the internals? Read more here!
+The way factions work on EDDB has been reworked from scratch. Before this update, it worked like this:
+- The
+system and the
+station tables each had a string property
+faction which could be edited freely.
+- The
+state,
+allegiance and
+government had to be set indivdually for each
+system and
+station.
+- There was no interconnection.
+With this update almost everything has changed:
+- The
+system and
+station tables still have individual
+allegiance
+government and
+state properties.
+Those can not be updated manually and inherit their values from the
+controlling faction
+- There is an individual
+faction table now. It holds
+home system,
+government,
+allegiance and if it's a
+player faction.
+You can browse the list and create new factions on the designated ROSS overview page.
+- The
+faction table also contains a
+global faction state property which is read only and gets updated automatically.
+- The
+system and
+station tables both have a
+controlling faction property now.
+- The
+system now accumulates multiple instances of
+faction presence, which save the
+influence and the system specific
+state of every
+faction present at the system.
+- Changing the specific
+faction system state of a
+faction in a
+system:
+- If the
+faction system state is a
+conflict state (
+war,
+civil war or
+election), only the
+global faction state inherits that.
+Every other
+faction system state (in every other
+system the
+faction is present) falls back to
+none.
+- For every other
+state, every
+faction system state in every other
+system inherits the
+global faction state value as well.
+- If a
+faction controls a
+system or a
+station, the
+local state gets updated from the
+faction system state
+- Changing the
+controlling faction of a
+system or a
+station:
+- The
+allegiance and
+government of the
+system are changed to the
+faction values.
+- The
+system state is changed to the
+system faction state value.
+So much about the internals. The problem (yes, of course, we got one...): The whole faction data quality on EDDB is utterly bad. It was just not possible to keep faction and state information up 2 date.
+Right now the
+system state and
+station state are not in sync with the
+system faction state of the
+controlling faction. Same goes for
+allegiance and
+government.
+I simply don't know what's more up2date. I decided to keep those untouched and only added the factions to the system without the implications described earlier. Only after the first change on ROSS or via EDDN will stuff be updated.
+I hope that this strategy will lead to the least errors. And in time, everything will get in order.
+Enjoy o7
+Material distribution! 05-09-16
+The official introduction of the detailed distribution of materials on bodies made the logging almost obsolete.
+- The place to input material data is ROSS now. Below the ring input area, a material input area has been established. It is now possible to set specific distribution based material information for every body.
+- The material logger history has been purged. Instead you can find all changes on the Database Change History page on ROSS.
+- And of course the Bodies - Search & Find page has been pimped as well! For every material that is searched in the finder, a seperate sortable column with the distribution value is added to the result list. This will make it easy to find the right body for your demands!
+- Unfortunately, with this update it is not possible to add material data to rings anymore, only bodies and belts are supported now. This might change at a later point though.
+Enjoy o7
+EDDB proudly presents the introduction of Bodies! 22-06-16
+Over the past months I was working on the goal to make bodies of ED a part of EDDB too.
+It had to be complete in terms of data information. And it had to offer the search & find experience like
+the Systems or
+Stations Finder.
+I believe that goal has been achieved.
+-
+As usual, ROSS acts as the backend and registered users are
+able to edit every single body detail.
+You can start on the Body Overview.
+-
+That said, EDDB is able to hold information for every kind of body in the ED galaxy.
+This includes (compact) stars, planets, belts and rings. Every type got its own data set.
+What you see on EDDB can be updated on ROSS.
+-
+Element Materials: EDDB offers functionality for logging and finding materials.
+With the Material Logger you can
+very easily tell EDDB what you found where (you need to be logged in). And with the
+Body Finder you can set filters to find bodies yielding materials.
+-
+Resource Extraction Sites: EDDB has records of rings and belts (again, add them on ROSS).
+With the Body Finder you can find
+the Pristine and Metal Rich site near you!
+-
+Statistics: The Body Search & Finder
+gives you unlimited filter possibilities. Additionally you can select any body property available as extra result column and sort by it.
+With this it's easy to find extreme bodies and their follow ups easily.
+A big thanks goes to CMDR Ian Baristan.
+Only with his help I was able to offer the huge amount of body images. The goal was never to get a 100% exact image system,
+but to rather find default images that match the body roughly. Rings are not being visualized yet, but I'm sure I will find a way for this soon.
+With the great help of CMDR Wolzan, the author of
+Elite Galaxy Online, EDDB can start with more than 5000 bodies.
+He supplied very high quality data from his site. Last but not least, thanks to CMDR Nexolek for the
+great inspiration and especially his element material base data.
+I hope you enjoy the new features. If you feel like something's missing, feel free to contact me. You can find me in the QuakeNet IRC
+channel #eddb (Web Client) or on the EDCD
+Discord Server.
+What's next? My next step will be the nightly JSON dump for bodies.
+Also, I wanna look into a way to import Captains Log bodies. But first I need a little break :)
+PS: Overall I pushed 50 commits and changed or created 212 files with 10677 additions and 532 deletions.
+Even older news:
+-
+27-05-16: Engineers!
+- ED Market Connector received an update and should work perfectly fine now.
+- New Modules have been added.
+- New Commodities have been added.
+-
+17-05-16: Bugfixing here and there...
+- Powerplay was broken and got fixed multiple times.
+- A jQuery update broke a selector which lead to the commodity price development chart not working anymore. That's fixed now too.
+- I'm sure I did more within the last month. Stuff I wish I'd remember now :)
+-
+- This is the system counterpart to the Station Search & Find helper.
+- Filter by Allegiance, Power Faction, Station Precense and many more.
+- Sort by different properties like the distance to your location.
+-
+01-01-16: Happy New Year 2016!
+- The Single Route Finder, the Loop Route Finder and the Multi Hop Trade Route Finder now can be filtered by Powers!
+- EDDB is now fully linked with EDSM.
+This required the cleanup of ~100 systems being wrong or not existing.
+Also, EDDB now correctly maps those oddities: www.edsm.net/systems/pairs.
+That means, from now on the systems M Carinae, V2389 Orionis, C Puppis, Arti, Naraka and Alma exist twice on EDDB. The last 3 even have stations. Those have been divided among both real systems and are assigned correctly now.
+- The new property
+is_rare has been added to the nightly
+commodities.json.
+-
+28-12-15: Open Letter to Frontier Developments
+-
+27-12-15: Some minor updates:
+- The settings and properties of the Station Finder can be bookmarked and reloaded via a Perma Link now.
+- A new sortable column has been added to the result table of the Station Finder: Price Age.
+- Two new properties have been added to the nightly
+station.json dump:
+station.market_updated_at (Unixtimestamp of the last price update) and
+station.is_planetary.
+-
+23-12-15: EDDB and Horizons!
+With the release of Horizons, a lot has been done in order to make EDDB as ready as possible for the new content.
+- All new commodities have been added.
+- The new station type Planetary Outpost and the new economy Colony have been added
+- Unknown stations coming from EDDN are being created automatically. Those are likely planetary stations and are tagged as those. Also, shipyard messages for planetary stations get rejected.
+- The complete EDDN backlog has been reapplied properly and all the data has been cleaned as much as possible.
+- A new marker reflects planetary stations throughout EDDB -
+- The Single Route Finder, the Loop Route Finder and the Multi Hop Trade Route Finder DO NOT include planetary stations by default. You have to enable that in the station filter. The state is being saved in your profile of course!
+- Found a bug? Missing a feature? Don't hesitate to contact us!
+-
+25-10-15: Improved Powerplay and API version bump
+- The Powerplay section has been improved - more information and more accurate data!
+- Powerplay filters have been added to the Station Finder
+- The nightly data dumps have been updated to v4 - including more accurate Powerplay information, station modules and ships. Read the changelog!
+-
+15-10-15: EDDB proudly presents: Station Search & Find!
+- Find your stations that sell the ship and the modules you want.
+- Filter by Allegiance, Star Distance, Landing Pad and many more.
+- Sort by the distance to your location.
+- 06-10-15: EDDB now runs on a new server! More RAM, more CPU, more SSD, more performance!
+- 21-09-15: EDDB now fully supports Shipyard information! This includes the EDDN data as well as manual editing via ROSS. On EDDB the selling ship list is visible on the station page for now. A search function will be added later!
+- 17-09-15: Finally added a Links section!
+- 16-09-15: Again a lot of performance optimization has been done. Station pages with a large amount of historical data will load faster now. But more important: On the bottom of the station page you will find the 10 most profitable loops (if there are any...). Just click on the link in the overview box to scroll down fast. Enjoy!
+- 14-09-15: Added links to the Simbad Astronomical Database to the system page where possible!
+- 14-09-15: All station pages received links to the Single and Multi Hop Route Trader with pre-populated station info. This should make up for the purge of the old Single Finder that was still active on the station page. If you still miss any functionality, don't hesitate to contact us!
+- 13-09-15: I did a massive code cleanup. Please report any kind of malfunction! Everything should run smooth but you never know :)
+- 01-07-15: The whole Single Hop Route Finder has been reworked and now offers filters like the others already have. Enjoy!
+- 21-06-15: Added Powerplay to EDDB!
+- 18-06-15: EDDB now supports EDDN schema v2!
+- 16-05-15: The EDDN message log has been added to ROSS. Particularly useful to debug the price update stream.
+- 08-05-15: New trade helper: Loop Route Finder! Find high profit round trips near you. If you wanna go for highest profit possible, give it a try!
+- 19-04-15: Added some rare commodities and Limpets. Those which have a chance of being illegal in some stations, so the commodity lists can be complete.
+- 14-04-15: Added the distance to star filter to the single route finder.
+- 15-03-15: The JSON dump has been updated. The version is now v3. Read more!
+- 14-03-15: It's been a while. And the waiting was worth it! As of now, EDDB has a Multi Hop Trade Route Finder!
+- 05-02-15: A lot of data cleanup! Highly frequented stations (at least 5 EDDN transmits) should not have any fake commodity listings anymore. The station charts benefit as well!
+- 04-02-15: In the station commodity market table a new button has been added: The chart symbol opens a price development chart!
+- 01-02-15: The EDDB family proudly presents:
+-
+Repository Orbiter of Systems and Stations
+It's the backend of EDDB. Everbody can add and update system and station information for EDDB. Wanna know more? Read the FAQ!
+- 02-02-15: The JSON dump has changed! Read more...
+- 22-01-1: User accounts have been added to EDDB. For more information read the FAQ.
+- 19-01-15: As of now the core data of EDDB gets dumped as JSON every night for everybody to download.
+- 18-01-15: During the last 24 hours EDDB had massive server lags due to a hoster issue. Seems fixed now...
+- 15-01-15: Distance from station to star has been added.
+- 15-01-15: Commodity page as a new search function now! Find closest stations that buy or sell.
+- 14-01-15: Added last update information to commodity prices.
+- 14-01-15: Blackmarket / max station landing pad size was imported from Maddavo's Market Share! Info is visible in all station lists. Also a route filter has been added.
+- 13-01-15: Fixed a couple of small bugs and cleaned up the codebase. Please don't hesitate to drop me a message if you experience any unexpected behavior!

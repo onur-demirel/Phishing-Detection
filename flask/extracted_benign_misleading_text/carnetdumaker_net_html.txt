@@ -1,0 +1,65 @@
+Yahoo refuse tous les emails du site. Si vous avez une adresse chez un autre prestataire, c'est le moment de l'utiliser
+En cas de soucis, n'hésitez pas à aller faire un tour sur la page de contact en bas de page.
+Bienvenue sur le site Carnet du Maker !
+L'électronique et l'informatique pour tous, mais pas que !
+Carnet du Maker est un site de partage et d'échange de connaissances gravitant autour des thèmes liés au "Do It Yourself", avec comme spécialités l'informatique et l'électronique.
+Tutoriels pratiques, cours théoriques, tests, dossiers, projets sérieux et projets beaucoup moins sérieux, sur Carnet du Maker il y a des articles pour tous les goûts !
+Il y a aussi des articles pour tous les niveaux, du parfait débutant, aux experts confirmés. Et si vous avez besoin d'un coup de main pour un projet, le forum et la communauté sont là pour vous aider.
+Le site fait par des makers pour des makers
+Carnet du Maker est un site qui se veut proche de ses lecteurs.
+Attendez vous à trouver de subtiles touches d'humours, des projets parfois complétement loufoques et un style d'écriture qui ne laisse personne sur le bord de la route, même quand les choses deviennent techniques.
+Ici on apprend en s'amusant, tout en restant sérieux quand il le faut.
+Pas de publicité ou de publirédactionnel
+Le site Carnet du Maker est un ovni dans le grand ciel du web. Pourquoi ? Tout simplement parce que nous avons fait le choix de privilégier nos lecteurs plutôt que notre compte en banque.
+Ici, pas de publicité ou de publirédactionnel, que du contenu de qualité, accessible à tous ! Et si un projet est d'une quelconque façon soutenu par un tier, on vous le dit dès les premiéres lignes.
+Le site Carnet du Maker fonctionne sur un modéle "gratuit, payant à la demande". Pour faire simple, la grande majorité du site est gratuit et accessible à tous. Si vous voulez soutenir le site, c'est vous qui décidez. En contrepartie de votre soutien, on vous donne accès à plein de fonctionnalités avancées et à certains articles en avant-premiére.
+Ce n'est pas le nombre de vues ou une quelconque régie publicitaire qui fait la loi sur ce site, c'est vous !
+Je cherche …
+Les derniers articles
+Test de résistance d'une pièce imprimée en PLA (impression 3D)
+Dans cet article, je vous propose de tester la résistance d'une pièce plastique imprimée en 3D avec du filament PLA. Les pièces de tests vont subir les pires atrocités au nom de la science : cisaillement, flexion 3 points, torsion et étirement. Âmes sensibles s'abstenir.
+par skywodd | | Catégories : Tests | Mots clefs : PLA Imprimante 3D Impression 3D
+Déshydration de filament 3D sous vide (follow-up)
+Peut-on déshydrater du filament de plastique avec une pompe à vide ? C'est la question que je me suis posé et à laquelle j'ai voulu répondre suite à mon article sur la déshydratation de filament 3D avec un déshydrateur à légume.
+par skywodd | | Catégories : Projets | Mots clefs : PLA Filament Impression 3D Sous vide
+Assembler soi-même un pare-feu pfSense simple et fonctionnel
+Dans ce projet, je vous propose de reprendre la main sur la sécurité de votre réseau informatique (personnel et/ou professionnel) en assemblant vous même un pare-feu pfSense DIY, simple, propre et fonctionnel.
+par skywodd | | Catégories : Projets | Mots clefs : DIY Pare-feu Firewall pfSense Qotom
+L'année 2016 du Carnet du Maker en chiffres et en images
+Dans cet article de blog, je vous propose de faire une petite rétrospective de l'année 2016. Ce sera en bonus l'occasion de vous parler du futur du site et des nouveautés à venir.
+Sauvetage de bobines de filament 3D avec un déshydrateur à légume
+Peut-on sauver des bobines de filament plastique pour imprimante 3D avec un déshydrateur à légume ? C'est la question que je me suis posé et que je vous propose de mettre sur le banc de test.
+par skywodd | | Catégories : Projets Tests | Mots clefs : PLA Filament Imprimante 3D Impression 3D
+Les derniers topics du forum
+|Sujet
+|Auteur
+|Date de mise à jour
+|Dernier message
+|Aide lecture de valeur.
+|Ken
+|par Ken, le
+|Mesurer la consommation électrique de l'atelier avec un sous-compteur à impulsions et une carte Arduino / Genuino
+|skywodd
+|par Holylolo, le
+|Utiliser un multiplexeur analogique CD4067B avec une carte Arduino / Genuino
+|skywodd
+|par pfeuh, le
+|Faire clignoter plusieurs LED avec un changement de fréquence pour chaque LED
+|MARLEVA
+|par MARLEVA, le
+|Utiliser des LEDs RGB avec une carte Arduino / Genuino
+|skywodd
+|par beginner88, le
+Les derniers messages du forum
+En direct du site
+Les dernières annonces et actualités
+- Gros probléme d'emails avec Yahoo - par skywodd, le
+- Perturbations des notifications par emails - par skywodd, le
+- Nouveau design et nouvelle version du site en ligne - par skywodd, le
+- Un petit changement de design et de nouvelles CGU - par skywodd, le
+- Le guide sur la syntaxe BBCode (sauce CDM) est disponible - par skywodd, le
+En direct de la communauté
+Les derniers utilisateurs inscrits
+Les derniers profils utilisateurs mis à jour
+Les derniers utilisateurs actifs
+Aucun utilisateur à afficher

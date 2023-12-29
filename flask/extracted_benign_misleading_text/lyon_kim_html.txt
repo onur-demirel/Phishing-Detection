@@ -1,0 +1,3 @@
+The origin web server does not have a valid SSL certificate.
+Please try again in a few minutes.
+The SSL certificate presented by the server did not pass validation. This could indicate an expired SSL certificate or a certificate that does not include the requested domain name. Please contact your hosting provider to ensure that an up-to-date and valid SSL certificate issued by a Certificate Authority is configured for this domain name on the origin server. Additional troubleshooting information here.

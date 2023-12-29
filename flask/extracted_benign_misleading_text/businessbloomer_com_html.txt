@@ -1,0 +1,26 @@
+Become a WooCommerce Expert
+If you wish to specialize in WooCommerce, increase your consulting fees and become an advanced WooCommerce developer, here you can find many helpful WooCommerce resources.
+Let’s get you started today. Pick a free video lesson, a quick tutorial or browse through helpful WooCommerce resources.
+~ Rodolfo Melogli ~
+Free WooCommerce Customization Videos
+Editing WooCommerce plugin files or your core theme templates is not a good idea. That’s why you always need a child theme. The first video lesson introduces you to the world of WooCommerce customization and strengthens your PHP/CSS knowledge.
+Lesson 1: Where to Place WooCommerce Customization?
+WooCommerce customization should be placed in a “child theme”, an update-proof version of your WordPress theme. In there you can override colors, fonts, layouts (CSS) and even change or add new functionalities (PHP).
+Now that you’ve watched Lesson #1, the following video lessons will show you how WooCommerce customization works. You will learn how to use “hooks” and add, content, move or edit WooCommerce content. From the single product page to the checkout page, I’ve got you covered!
+Free WooCommerce Tips, Snippets & Tutorials
+A collection of tips, snippets and articles to answer your most important WooCommerce customization questions. And to give you a head-start on the most common WooCommerce edits!
+6 WooCommerce Tax & Accounting Tips to Save You Time This Tax Season
+WooCommerce: Disable Out of Stock Variations @ Variable Product Dropdown
+Boost Your WooCommerce Sales With Advanced Analytics
+WooCommerce: Truncate Short Description With “Read More” Toggle
+WooCommerce: Conditionally Hide Widgets
+WooCommerce: “Split” Cart Table (A>Z Headings)
+WooCommerce: Get List of Users Who Purchased a Product ID
+WooCommerce: Get List of Downloadable Products
+WooCommerce: Move Order Notes @ Checkout
+Advanced WooCommerce Resources
+WooCommerce visual hook guides, PHP coding shortcuts and additional resources to help you customize WooCommerce like a pro!
+About Business Bloomer (a.k.a. Rodolfo Melogli)
+I’ve been working as a WooCommerce freelancer since 2012. I fell in love with WooCommerce since the very beginning, thanks to its flexibility and the fact that it’s open source and easy to customize.
+Since I started sharing my WooCommerce tutorials online, I discovered how much I enjoy helping people. Now I blog every week, I teach WooCommerce courses, I run local Meetups, I speak at WordCamps and I try to reply to every email and blog comment I get.
+It’s official – WooCommerce changed my life. And I hope it can change yours as well.

@@ -1,0 +1,8 @@
+<p class="nonjsAlert" role="alert">NOTE: Many features on the <img src="images/paypal.png"> Web site require Javascript and cookies.</p>
+Log in to your
+account
+Email address
+Password
+Log In
+Forgot your email address?
+Sign Up

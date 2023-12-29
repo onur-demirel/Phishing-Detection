@@ -1,0 +1,54 @@
+ownCloud
+The last cloud collaboration file sharing file syncing data privacy platform you'll ever need.Explore the features »
+Your personal cloud collaboration platform
+With over 50 million users worldwide, ownCloud is the market-leading open source software for cloud-based collaboration platforms. As an alternative to Dropbox, OneDrive and Google Drive, ownCloud offers real data security and privacy for you and your data.
+Store your files in one central location – protected from unauthorized access. Many features designed for absolute data security help you to work productively and securely.
+With the free desktop client and the free ownCloud app, you can access your photos, documents and films at any time from any where. It keeps your files synced and always up-to-date.
+Trusted by thousands of organizations worldwide
+The requirements for a cloud are manifold. Thanks to one of the most active open source communities in the world, ownCloud offers a multitude of use cases and functions. To meet your individual needs, ownCloud is available in different versions.
+Decide for yourself which ownCloud suits you best.
+With 50 million users worldwide, ownCloud community Edition is the market-leading open source cloud software. It can be used free of charge and offers many productive features for managing and sharing files. Additional apps can be installed via the ownCloud marketplace. This allows you to run your very own cloud that protects your privacy and your data.
+- For private users and freelancers
+- Unlimited use free of charge
+- Suitable for Raspberry PI
+- Free Desktop Client
+- iOS/Android app
+- Collaborative editing
+- IT infrastructure required
+- IT knowledge required
+ownCloud.online is the cloud solution for small and medium-sized businesses that cannot or do not want to compromise on the security of their data. Hosted on German server centers, it is subject to the strictest legal regulations.
+We operate and maintain the IT infrastructure for you. You have a comprehensively secure and fully GDPR-compliant cloud solution at your service with little effort and without high IT costs.
+- For small and medium-sized businesses up to 150 users
+- Absolute focus on privacy and data protection
+- German server location
+- Fully GDPR-compliant
+- No own IT infrastructure or IT knowledge required – immediate availability
+- Free iOS/Android app
+- Free desktop client
+- End-to-end encryption, Outlook plugin and many other features
+As easy to use as consumer products, but hosted in your data center and extended with enterprise features there is no higher protection of your data. ownCloud Enterprise offers unsurpassed transparency, security and control and can be flexibly integrated into any existing environment. At the same time, users can access company files quickly and easily from anywhere and from any device. This increases both safety and productivity.
+- For companies with highest data security requirements from 150 employees
+- All ownCloud Enterprise features included
+- Individual setups
+- Versatile user and admin training offers
+- Professional support
+- Branded app, desktop client and web interface
+- Managed, hosted or onPremises
+- Collaborative editing
+With over 50 million users worldwide ownCloud is the largest Open Source Content Collaboration Platform in the worldSee why ownCloud is trusted »
+Recent Tweets
+- RT @ownCloud: Frontend development does not have to be hard – with the right framework. Phoenix, the new ownCloud frontend, makes it easy t…16 hours ago
+- ownCloud 10.3.0 is here and contains over 100 changes. Among many other things: Introducing a completely new Me… https://t.co/9IbSyp1c4c16 hours ago
+ownCloud is Community Driven
+With over 1300 contributors ownCloud is one of the biggest open source projects worldwide*Join the community today
+Recent Posts
+Sneak Peak: Who Is Going to Speak at the ownCloud Conference?
+04.09.2019 by
+The Conference will take place in Nuremberg during September 17-20. The whole community gathers to exchange knowledge about ownCloud’s most recent developments and how to get the best out of it. Come and listen!read more ...
+Interview: We Talked to Mohit, This Year’s Google Summer of Code Student
+27.08.2019 by
+Mohit wrote two apps for Phoenix and Reva, the two pillars of the upcoming ownCloud Infinite Scale. His mentors are from CERN, AARNet, and ownCloud. What can he tell us about the hot new stuff?read more ...
+NetKnights presents privacyIDEA at the ownCloud Conference
+26.08.2019 by
+privacyIDEA, the two factor solution for ownCloud is presenting at the ownCloud Conference in September.
+Der Beitrag NetKnights presents privacyIDEA at the ownCloud Conference erschien zuerst auf NetKnights: IT-Security ~ Two Factor Authentication ~ Encryption.read more ...

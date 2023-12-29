@@ -1,0 +1,6 @@
+PayPal
+Some of your info isn't correct. Please try again.
+Required
+That email format isn’t right
+Checking your info…
+Just a second…

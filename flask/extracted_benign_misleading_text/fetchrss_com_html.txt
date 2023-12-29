@@ -1,0 +1,27 @@
+FetchRSS
+Generate RSS out of any Twitter user
+So what is FetchRSS?
+RSS GeneratorFirst of all it's an online RSS feed generator.
+This service allows you to create RSS feed out of almost any web page. Your only task is to provide us with target URL and point on desired blocks in our visual RSS builder.
+The rest is our job. And you get your feed in seconds
+Feed providerWe store your RSS feed in your account on our cloud servers.
+We generate a unique URL for each feed you've created.
+This URL can be used in HTML code at your website. It can also be provided to one of many RSS readers or any other RSS-related service.
+Auto updated RSSOnce you've created your RSS feed it starts updating automatically.
+All RSS feed content is updated each time there is something new in target web page. No need to generate RSS each time to refresh it.
+We are monitoring each of your RSS feed every minute.
+RSS from social networksCreating RSS feed from social networks is even simpler. Just enter a URL you want to get RSS from and get your XML file URL immediately.
+This URL can be a link to any user or page from major social networks like Facebook, Twitter and so on.
+Two simple steps: enter a URL and click on Generate RSS button. Nothing more.
+How does it work?
+Create RSS from any online resource
+Your favorite websites do not provide RSS? So now you can't track its news and updates from RSS reader
+It makes you sad
+Enter its URL and get your RSS
+That's it!
+From now on you will be getting updated RSS file any time you ask for it by our URL
+You are not sad anymore
+Need more information?
+If you have any questions you can check our Frequently Asked Questions page.
+Or contact us directly.
+But the easiest way to understand something is just

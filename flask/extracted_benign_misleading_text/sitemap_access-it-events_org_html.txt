@@ -1,0 +1,9 @@
+If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
+Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
+* Do you know what the FQDN is?
+Suggested article from our blog: What is FQDN? What does FQDN do?
+FQDN meaning:
+FQDN or the Fully Qualified Domain Name is the fullest possible domain name of a host or a computer. It consists of three different parts.
+FQDN example:
+Let’s take a look at a popular website like www.wikipedia.org. In this example, “www” is the hostname, “wikipedia” is the domain name, and “.org” is the TLD (Top Level Domain). The FQDN shows us the exact location of an object inside the DNS hierarchy.
+FQDN lookup - Here you can find how to perform a FQDN lookup depending on the preferred Operating System.

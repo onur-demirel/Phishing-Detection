@@ -1,0 +1,6 @@
+Log On
+Welcome to PerYourHealth™.
+Please enter either the account number from your billing statement or your registered user id to continue.
+This system is for the use of authorized users only.
+Individuals using this computer system are subject to having all of their activities on this system monitored and recorded by systems personnel. Anyone using this system expressly consents to such monitoring and is advised that if such monitoring reveals possible criminal activity, system personnel will provide the evidence of such monitoring to law enforcement officials.
+Forgot your registered user id?

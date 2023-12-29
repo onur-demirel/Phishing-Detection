@@ -1,0 +1,755 @@
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|pinentry-x2go+nightly+debian-bullseye
+|
+2 mo 6 days
+- #1
+|N/A
+|30 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|pinentry-x2go+nightly+debian-buster
+|
+10 mo
+- #12
+|
+11 mo
+- #4
+|27 min
+|
+|W
+|Description
+|%
+|Build stability: 1 out of the last 5 builds failed.
+|80
+|pinentry-x2go+nightly+debian-jessie
+|
+10 mo
+- #49
+|
+10 mo
+- #48
+|36 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|pinentry-x2go+nightly+debian-sid
+|
+10 mo
+- #53
+|
+11 mo
+- #44
+|39 min
+|
+|W
+|Description
+|%
+|Build stability: 1 out of the last 5 builds failed.
+|80
+|pinentry-x2go+nightly+debian-stretch
+|
+10 mo
+- #23
+|
+10 mo
+- #22
+|29 min
+|
+|W
+|Description
+|%
+|Build stability: 1 out of the last 5 builds failed.
+|80
+|pinentry-x2go+nightly+epel-6
+|
+10 mo
+- #52
+|
+10 mo
+- #51
+|15 min
+|
+|W
+|Description
+|%
+|Build stability: 3 out of the last 5 builds failed.
+|40
+|pinentry-x2go+nightly+epel-7
+|
+10 mo
+- #34
+|
+10 mo
+- #33
+|13 min
+|
+|W
+|Description
+|%
+|Build stability: 1 out of the last 5 builds failed.
+|80
+|pinentry-x2go+nightly+fedora-26
+|
+10 mo
+- #12
+|
+10 mo
+- #11
+|21 min
+|
+|W
+|Description
+|%
+|Build stability: 2 out of the last 5 builds failed.
+|60
+|pinentry-x2go+nightly+fedora-27
+|
+10 mo
+- #14
+|
+10 mo
+- #13
+|29 min
+|
+|W
+|Description
+|%
+|Build stability: 2 out of the last 5 builds failed.
+|60
+|pinentry-x2go+nightly+fedora-28
+|
+10 mo
+- #13
+|
+10 mo
+- #12
+|29 min
+|
+|W
+|Description
+|%
+|Build stability: 2 out of the last 5 builds failed.
+|60
+|pinentry-x2go+nightly+fedora-29
+|
+10 mo
+- #12
+|
+10 mo
+- #11
+|28 min
+|
+|W
+|Description
+|%
+|Build stability: 3 out of the last 4 builds failed.
+|25
+|pinentry-x2go+nightly+fedora-30
+|
+4 mo 11 days
+- #4
+|
+4 mo 11 days
+- #3
+|10 min
+|
+|W
+|Description
+|%
+|Build stability: 1 out of the last 5 builds failed.
+|80
+|pinentry-x2go+nightly+fedora-rawhide
+|
+10 mo
+- #54
+|
+10 mo
+- #53
+|40 min
+|
+|W
+|Description
+|%
+|Build stability: 1 out of the last 5 builds failed.
+|80
+|pinentry-x2go+nightly+opensuse-15.0
+|
+10 mo
+- #12
+|
+10 mo
+- #11
+|6 min 12 sec
+|
+|pinentry-x2go+nightly+opensuse-15.1
+|N/A
+|N/A
+|N/A
+|
+|W
+|Description
+|%
+|Build stability: 1 out of the last 5 builds failed.
+|80
+|pinentry-x2go+nightly+opensuse-42.2
+|
+10 mo
+- #14
+|
+10 mo
+- #13
+|30 min
+|
+|W
+|Description
+|%
+|Build stability: 1 out of the last 5 builds failed.
+|80
+|pinentry-x2go+nightly+opensuse-42.3
+|
+10 mo
+- #13
+|
+10 mo
+- #12
+|29 min
+|
+|W
+|Description
+|%
+|Build stability: 2 out of the last 5 builds failed.
+|60
+|pinentry-x2go+nightly+opensuse-tumbleweed
+|
+10 mo
+- #14
+|
+10 mo
+- #13
+|8 min 30 sec
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|pinentry-x2go+nightly+raspbian-buster
+|
+2 mo 6 days
+- #1
+|N/A
+|23 min
+|
+|W
+|Description
+|%
+|Build stability: 1 out of the last 5 builds failed.
+|80
+|pinentry-x2go+nightly+raspbian-jessie
+|
+10 mo
+- #13
+|
+10 mo
+- #12
+|21 min
+|
+|W
+|Description
+|%
+|Build stability: 1 out of the last 5 builds failed.
+|80
+|pinentry-x2go+nightly+raspbian-stretch
+|
+10 mo
+- #13
+|
+10 mo
+- #12
+|30 min
+|
+|W
+|Description
+|%
+|Build stability: 2 out of the last 5 builds failed.
+|60
+|pinentry-x2go+nightly+sled-12.3
+|
+10 mo
+- #10
+|
+10 mo
+- #9
+|3 min 5 sec
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+alternate+mingw32-4.8+qt-4.8
+|N/A
+|N/A
+|N/A
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+debian-bullseye
+|
+26 days
+- #7
+|N/A
+|1 hr 23 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+debian-buster
+|
+26 days
+- #128
+|
+4 mo 12 days
+- #115
+|47 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+debian-jessie
+|
+26 days
+- #607
+|
+4 mo 12 days
+- #594
+|30 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+debian-sid
+|
+26 days
+- #635
+|
+4 mo 12 days
+- #622
+|1 hr 5 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+debian-stretch
+|
+26 days
+- #295
+|
+4 mo 12 days
+- #282
+|41 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+epel-6
+|
+26 days
+- #615
+|
+4 mo 10 days
+- #605
+|25 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+epel-7
+|
+26 days
+- #532
+|
+4 mo 12 days
+- #519
+|20 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+fedora-26
+|
+26 days
+- #144
+|
+4 mo 12 days
+- #131
+|39 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+fedora-27
+|
+26 days
+- #91
+|
+3 mo 12 days
+- #85
+|22 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+fedora-28
+|
+26 days
+- #59
+|
+4 mo 12 days
+- #46
+|39 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+fedora-29
+|
+26 days
+- #36
+|
+4 mo 12 days
+- #23
+|20 min
+|
+|W
+|Description
+|%
+|Build stability: 1 out of the last 5 builds failed.
+|80
+|x2goclient+nightly+fedora-30
+|
+7 days 17 hr
+- #16
+|
+26 days
+- #15
+|23 min
+|
+|W
+|Description
+|%
+|Build stability: 1 out of the last 5 builds failed.
+|80
+|x2goclient+nightly+fedora-rawhide
+|
+26 days
+- #598
+|
+1 mo 22 days
+- #597
+|27 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+mingw32-4.8+qt-4.8
+|
+26 days
+- #458
+|
+1 yr 7 mo
+- #383
+|19 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+opensuse-15.0
+|
+26 days
+- #54
+|
+4 mo 12 days
+- #42
+|4 min 24 sec
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+opensuse-15.1
+|
+26 days
+- #1
+|N/A
+|5 min 32 sec
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+opensuse-42.2
+|
+26 days
+- #180
+|
+5 mo 6 days
+- #165
+|3 min 13 sec
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+opensuse-42.3
+|
+26 days
+- #122
+|
+4 mo 12 days
+- #109
+|4 min 33 sec
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+opensuse-tumbleweed
+|
+26 days
+- #86
+|
+4 mo 12 days
+- #74
+|12 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+osx-10.11
+|
+26 days
+- #171
+|N/A
+|6 min 21 sec
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+osx-10.13
+|
+26 days
+- #150
+|N/A
+|7 min 41 sec
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+raspbian-buster
+|
+26 days
+- #6
+|N/A
+|32 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+raspbian-jessie
+|
+26 days
+- #181
+|
+4 mo 12 days
+- #169
+|25 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+raspbian-stretch
+|
+26 days
+- #115
+|
+4 mo 12 days
+- #103
+|34 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient+nightly+sled-12.3
+|
+26 days
+- #32
+|
+4 mo 12 days
+- #20
+|4 min 18 sec
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient-contrib
+|
+4 mo 21 days
+- #50
+|
+1 yr 4 mo
+- #42
+|12 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient2+nightly+debian-jessie
+|
+5 yr 3 mo
+- #2
+|N/A
+|8 min 39 sec
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2goclient2+nightly+debian-sid
+|
+5 yr 3 mo
+- #2
+|N/A
+|9 min 0 sec
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2gokdriveclient+nightly+debian+bullseye
+|
+2 mo 6 days
+- #1
+|N/A
+|28 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2gokdriveclient+nightly+debian+buster
+|
+3 mo 9 days
+- #5
+|N/A
+|29 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2gokdriveclient+nightly+debian+sid
+|
+3 mo 9 days
+- #5
+|N/A
+|28 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2gokdriveclient+nightly+debian+stretch
+|
+3 mo 9 days
+- #5
+|N/A
+|28 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2gokdriveclient+nightly+raspbian+buster
+|
+7 days 19 hr
+- #1
+|N/A
+|22 min
+|
+|W
+|Description
+|%
+|Build stability: No recent builds failed.
+|100
+|x2gokdriveclient+nightly+raspbian+stretch
+|
+7 days 19 hr
+- #1
+|N/A
+|22 min
+|

@@ -1,0 +1,73 @@
+Manage Less. Do More. Task Management for Teams.
+MeisterTask is an online task management tool for teams.
+Across the world, teams use MeisterTask to organize and manage tasks in a beautifully designed, customizable environment that adapts to their individual needs. Kanban-style project boards allow teams to create streamlined, automated workflows and get more done together. It’s time you started on your productivity journey...
+10 million
+tasks completed
+Editor's Choice
+iOS App Store
+4.5 Stars
+Google Play Store
+Trusted Cloud
+Service
+New to Online Task Management?
+At Meister, we pride ourselves on creating products that are truly intuitive and user-friendly. Here's what you can expect when you use MeisterTask:
+It’s easy to use
+When it comes to choosing the right online task management tool for your team, simplicity is key. Don’t waste your time with a clunky, complicated tool that requires hours of training — use MeisterTask.
+It's Tailored
+Many tools on the market clutter up their user interfaces with features in an effort to please everybody. This renders their products almost unusable. MeisterTask, by contrast, focuses on providing a tailored offering of the most essential features.
+It's Kanban
+Kanban has been hailed as the holy grail of project and team task management for good reason. MeisterTask’s kanban-style boards allow you to easily manage tasks while also maintaining a birds-eye view of your project’s progress.
+It’s collaborative
+Give your team the means to work together efficiently. See what everyone’s working on. Get notified about new and completed tasks AND get insights into your team’s productivity with statistics and reports.
+It's web-based
+No download and no manual updating required. Perfect for remote teams or any team that has access to the internet and wants to be productive.
+It's mobile
+Stay up to date wherever you are with MeisterTask's free task management apps. Available for Android and iOS. These apps come fully loaded with offline functionality.
+Looking For a Tailored Enterprise Solution?
+MeisterTask Business offers large teams a simple, intuitive task management solution that can be customized to suit your business's specific needs. With features distinctly designed for enterprise use, such as: user roles, project access rights, time tracking, automations and more. Find out how exactly MeisterTask Business can help you and your team get more done together.Get More Information
+A Workflow That Makes Sense
+Make use of our predefined workflow. It’s helped thousands of people work efficiently and collaboratively. Or create your own customized workflow to suit your team’s specific needs.
+Ditching Your Old Tool Is Easy
+Swapping online task management tools doesn’t have to be a lengthy complicated process. We offer direct import options for Trello, Asana and Wunderlist. That way you can get straight to work without losing any of your valuable information.Find Out More
+Case Studies
+Isn’t it time you joined the league of successful professionals who have chosen visual team task management?
+Hyperloop
+Transport
+"It was really the most flexible product that we found, and it allowed us to manage both projects and task lists, which are very important to IT departments."Read full story
+datenschutzexperte.de
+Data Security Experts
+"Most importantly for a firm like ours is that we can trust the tools we work with one hundred percent. And that’s the case with MeisterTask."Read full story
+OPITZ Consulting
+Computer Software
+"What we particularly like is the simplicity of use, even our non-technical team members were quick to onboard to MeisterTask"Read full story
+Outstanding Features & Automations
+Power features allow you to automate your workflow and save time every day:
+Task Relationships
+Mark tasks as related to, duplicated or blocked by other tasks. Get notified when a blockage is resolved.Learn more
+Automations
+Configure automatic actions within your projects and let our system do all the work for you. That way you work smarter, not harder.Learn more
+Multiple Checklists
+Break up long lists of to-dos into manageable sub-lists that can be saved and reused.Learn more
+Recurring Tasks
+Set up recurring tasks for to-dos that need to be repeated and never start from scratch again.Learn more
+Time Tracking
+Ready, set, go! Know exactly how long it took you to complete a task by making use of MeisterTask’s built-in time tracking. That way you always remain accountable, avoid unnecessary distractions and stay focused.Learn more
+Custom Fields
+Define custom fields for your projects. These fields automatically appear within each task, reminding team members to complete this information.Learn more
+Great...
+But Can MeisterTask Integrate With Other Apps?
+Yes. Nobody wants to add another isolated silo of information, that’s why we’ve built MeisterTask as open and as flexible as possible. It comes readily integrated with some of your favorite apps:See Full List of Integration Partners
+Save 30% with the MeisterBundle
+With our online mind mapping solution, MindMeister, and task management solution, MeisterTask, your team members have everything they need to visualize, present and implement their plans, from ideas to reality.Get the MeisterBundle
+What is task management?
+A task is simply a to-do. Something that is on your list of things to work on. Task management is the act of keeping track of said tasks from assignment to completion. So, task management involves the sorting, delegating, planning, prioritizing, organizing, tracking and reporting of tasks.
+What is task management software?
+Task management software is software that turns the principles of task management into a usable application. This application allows individuals and/or teams to digitally organize, assign and keep track of their tasks.
+In a nutshell…
+Task management software is a computer program that enables you to create tasks or to-dos. These tasks can be grouped into a project board, and they can also be assigned to the persons responsible. And finally, task management software allows you to keep track of your tasks’ progress.
+What is Kanban?
+Many task management tools use the Kanban method because it’s the most visual way to engage with tasks. It involves creating a project (e.g. Editorial Calendar), along with a workflow (e.g. To do > In Progress > Done), populating it with tasks (things to do) and subsequently moving them through the workflow.
+Why is task management important?
+The larger a project becomes, the more people involved, the more difficult it is to stay on top of tasks and progress. Using a task management tool enables you to manage projects of all types and sizes, from software sprints to editorial calendars and from sales funnels to support boards. That way you never lose sight of your to-dos or miss important deadlines.
+What are the advantages of task management tools?
+MeisterTask runs directly in your web-browser, all you need is an internet-connected device. With all your project-related information safely stored in the cloud, it remains traceable and accessible for all project members at all times. What’s more, you needn’t worry about stringent hardware requirements or downloading software that will take up space on your device and be due for an update in the near future. We do it all for you.

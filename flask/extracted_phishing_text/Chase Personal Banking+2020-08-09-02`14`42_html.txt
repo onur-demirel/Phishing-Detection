@@ -1,0 +1,27 @@
+System Requirements for chase.com
+System requirements
+To enjoy the best experience on Chase.com, be sure your web browser and operating system meet the recommendations in the table below. You can upgrade to the latest browser version by using these links:
+The best way to go to Chase.com:
+- Make sure your cookies are enabled. See our Online Privacy Policy to learn why we use cookies.
+- Check your browser to see if you have the latest version.
+Not sure what browser version you're using? Go to whatsmybrowser.org(Opens Overlay) to get details about your current browser. Once you have this information, update your browser using the links above.
+- When updating your browser, consider this:
+- Some features and functions may not operate properly with unsupported browser versions.
+- We don't support beta or development browser versions. The browser has to be an officially released version.
+- If you're using the latest officially released browser version, there might be a slight delay in our supporting this version as we must conduct testing to ensure it not only meets our strict security standards but also supports all our online features and enhancements.
+- We don't support browsers in Compatibility Mode (this only applies to Internet Explorer).
+- We don't support third-party browser extensions or plug-ins.
+|
+Get the most from our site
+|General
+|
+To use our site, you'll need:
+|Supported browsers
+|
+We don't support:
+|Required operating systems
+|
+Windows® operating system:
+Macintosh® operating system:
+Personalize your experience
+Would you like a different type size, background or text color? Learn easy ways to change text size or colors in your browser.

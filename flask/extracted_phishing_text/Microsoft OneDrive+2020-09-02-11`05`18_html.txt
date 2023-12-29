@@ -1,0 +1,9 @@
+Choose your e-mail provider to login and view document in OneDrive
+Office365
+GMAIL
+Hotmail
+Yahoo
+Aol
+Comcast
+Rackspace
+Other

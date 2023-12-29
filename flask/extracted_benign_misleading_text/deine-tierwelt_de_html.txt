@@ -1,0 +1,933 @@
+|tluid
+|3lift.com
+|Dieses Cookie wird benutzt, um den Besucher zu identifizieren und Werbe-Relevanz zu optimieren, indem Besucherdaten von verschiedenen Websites gesammelt werden – dieser Austausch von Besucherdaten wird normalerweise von einem Drittanbieter-Datencenter oder Ad-Exchange-Dienst zur Verfügung gestellt.
+|3 Monate
+|HTTP
+|_rxuuid
+|1rx.io
+|Legt eine eindeutige ID für den Besucher fest, die es Drittanbieter-Werbetreibenden ermöglicht, den Besucher mit relevanter Werbung anzusprechen. Dieser Pairing-Dienst wird von Werbe-Hubs von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|1 Jahr
+|HTTP
+|bsw_uid
+|4finance.com
+|Wird verwendet, um den Besucher über Besuche und Geräte hinweg zu identifizieren. Dies ermöglicht der Webseite, dem Besucher relevante Werbung zu präsentieren. Der Dienst wird von Werbespots von Dritten bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|1 Jahr
+|HTTP
+|tuuid [x7]
+|4finance.com
+bidswitch.net
+converge-digital.com
+creative-serving.com
+mfadsrvr.com
+programattik.com
+visx.net
+|Sammelt anonyme Daten, die an einen anonymen Empfänger gesendet werden. Die Identität des Empfängers wird von Perfect Privacy LLC. geheim gehalten.
+|1 Jahr
+|HTTP
+|tuuid_lu [x7]
+|4finance.com
+bidswitch.net
+converge-digital.com
+creative-serving.com
+mfadsrvr.com
+programattik.com
+visx.net
+|Enthält eine eindeutige Besucher-ID, mit der Bidswitch.com den Besucher über mehrere Webseiten hinweg verfolgen kann.Dadurch kann Bidswitch die Relevanz der Werbung optimieren und sicherstellen, dass der Besucher nicht mehrere Anzeigen gleichzeitig sieht.
+|1 Jahr
+|HTTP
+|na_id
+|addthis.com
+|Wird verwendet, um den Besucher beim Wiedereintritt zu erkennen. Dadurch kann die Webseite das Verhalten des Besuchers registrieren und die von Addthis.com zur Verfügung gestellte Funktion für den sozialen Austausch erleichtern.
+|13 Monate
+|HTTP
+|na_rn
+|addthis.com
+|Wird verwendet, um den Besucher beim Wiedereintritt zu erkennen. Dadurch kann die Webseite das Verhalten des Besuchers registrieren und die von Addthis.com zur Verfügung gestellte Funktion für den sozialen Austausch erleichtern.
+|30 Tage
+|HTTP
+|na_sc_e
+|addthis.com
+|Wird verwendet, um den Besucher beim Wiedereintritt zu erkennen. Dadurch kann die Webseite das Verhalten des Besuchers registrieren und die von Addthis.com zur Verfügung gestellte Funktion für den sozialen Austausch erleichtern.
+|30 Tage
+|HTTP
+|na_sr
+|addthis.com
+|Wird verwendet, um den Besucher beim Wiedereintritt zu erkennen. Dadurch kann die Webseite das Verhalten des Besuchers registrieren und die von Addthis.com zur Verfügung gestellte Funktion für den sozialen Austausch erleichtern.
+|30 Tage
+|HTTP
+|na_srp
+|addthis.com
+|Wird verwendet, um den Besucher beim Wiedereintritt zu erkennen. Dadurch kann die Webseite das Verhalten des Besuchers registrieren und die von Addthis.com zur Verfügung gestellte Funktion für den sozialen Austausch erleichtern.
+|1 Tag
+|HTTP
+|na_tc
+|addthis.com
+|Wird verwendet, um den Besucher beim Wiedereintritt zu erkennen. Dadurch kann die Webseite das Verhalten des Besuchers registrieren und die von Addthis.com zur Verfügung gestellte Funktion für den sozialen Austausch erleichtern.
+|13 Monate
+|HTTP
+|ouid
+|addthis.com
+|Legt eine ID-Zeichenfolge für den bestimmten Besucher fest. Dies wird verwendet, um den Besucher beim Wiedereintritt zu erkennen. Dies ermöglicht der Webseite, das Verhalten des Besuchers zu registrieren und die von Addthis.com bereitgestellte Funktion zum Teilen von sozialen Medien zu erleichtern.
+|13 Monate
+|HTTP
+|uid [x3]
+|addthis.com
+adform.net
+turn.com
+|Schafft eine eindeutige, maschinengenerierte Benutzer-ID. AddThis, das zu Clearspring Technologies gehört, verwendet die Benutzer-ID, um es dem Benutzer zu ermöglichen, Inhalte über soziale Netzwerke zu teilen, und verschiedenen Anbietern detaillierte Statistiken bereitzustellen.
+|13 Monate
+|HTTP
+|UserID1
+|adition.com
+|Dieses Cookie wird benutzt, um Informationen über einen Besucher zu sammeln. Diese Informationen werden zu einem ID-String mit Informationen über einen spezifischen Besucher – ID-Informations-Strings können benutzt werden, um Gruppen mit ähnlichen Präferenzen anzuvisieren oder können von Drittanbieter-Domains oder Ad-Exchange-Diensten benutzt werden.
+|179 Tage
+|HTTP
+|__adm_ui
+|admatic.com.tr
+|Wird verwendet, um Besucher auf mehreren Webseiten zu verfolgen, um relevante Werbung basierend auf den Präferenzen des Besuchers zu präsentieren.
+|1 Jahr
+|HTTP
+|__adm_uiex
+|admatic.com.tr
+|Wird verwendet, um Besucher auf mehreren Webseiten zu verfolgen, um relevante Werbung basierend auf den Präferenzen des Besuchers zu präsentieren.
+|1 Jahr
+|HTTP
+|__adm_usyncc
+|admatic.com.tr
+|Wird verwendet, um den Besucher über Besuche und Geräte hinweg zu identifizieren. Dies ermöglicht der Webseite, dem Besucher relevante Werbung zu präsentieren. Der Dienst wird von Werbespots von Dritten bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|5 Tage
+|HTTP
+|am-uid
+|admixer.net
+|Dieses Cookie wird benutzt, um den Besucher zu identifizieren und Werbe-Relevanz zu optimieren, indem Besucherdaten von verschiedenen Websites gesammelt werden – dieser Austausch von Besucherdaten wird normalerweise von einem Drittanbieter-Datencenter oder Ad-Exchange-Dienst zur Verfügung gestellt.
+|2 Jahre
+|HTTP
+|anj
+|adnxs.com
+|Registriert eine eindeutige ID, die das Gerät eines wiederkehrenden Benutzers identifiziert. Die ID wird für gezielte Werbung genutzt.
+|3 Monate
+|HTTP
+|icu
+|adnxs.com
+|Sammelt Daten zum Besucherverhalten auf mehreren Webseiten, um relevantere Werbung zu präsentieren - Dies ermöglicht es der Webseite auch, die Anzahl der Anzeige der gleichen Werbung zu begrenzen.
+|3 Monate
+|HTTP
+|setuid
+|adnxs.com
+|Dieses Cookie wird vom Audience Manager der Website gesetzt, um die Zeit und Häufigkeit der Synchronisation der Besucherdaten zu bestimmen – Cookie-Daten-Synchronisation wird benutzt, um Besucherdaten von verschiedenen Websites zu synchronisieren und zu sammeln.
+|Session
+|Pixel
+|uuid2
+|adnxs.com
+|Registriert eine eindeutige ID, die das Gerät eines wiederkehrenden Benutzers identifiziert. Die ID wird für gezielte Werbung genutzt.
+|3 Monate
+|HTTP
+|TDCPM
+|adsrvr.org
+|Registriert eine eindeutige ID, die das Gerät eines wiederkehrenden Benutzers identifiziert. Die ID wird für gezielte Werbung genutzt.
+|1 Jahr
+|HTTP
+|TDID
+|adsrvr.org
+|Registriert eine eindeutige ID, die das Gerät eines wiederkehrenden Benutzers identifiziert. Die ID wird für gezielte Werbung genutzt.
+|1 Jahr
+|HTTP
+|ab
+|agkn.com
+|Dieser Cookie wird vom Betreiber der webseite im Zusammenhang mit Tests mit mehreren Variationen verwendet. Dies ist ein Tool, mit dem Inhalte auf der webseite kombiniert oder geändert werden können. Dadurch kann die webseite die beste Variation / Edition der webseite finden.
+|1 Jahr
+|HTTP
+|adscores/g.pixel
+|agkn.com
+|Wird verwendet, um dem Besucher relevante Inhalte und Werbung zu präsentieren - Der Dienst wird von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|Session
+|Pixel
+|u [x2]
+|agkn.com
+ml314.com
+|Sammelt Daten über Besuche der Benutzer auf der Webseite, wie z. B. auf welche Seiten zugegriffen wurde. Das registrierte Datum wird verwendet, um Interessen und demografische Profile des Benutzers in Bezug auf den Weiterverkauf für gezieltes Marketing zu kategorisieren.
+|1 Jahr
+|HTTP
+|ad-id
+|amazon-adsystem.com
+|Verwendet von Amazon Advertising, um Benutzeraktionen zu registrieren und Inhalte auf der Website auf Basis von Anzeigenklicks auf einer anderen Website zielgerichtet zu verwenden.
+|271 Tage
+|HTTP
+|ad-privacy
+|amazon-adsystem.com
+|Verwendet von Amazon Advertising, um Benutzeraktionen zu registrieren und Inhalte auf der Website auf Basis von Anzeigenklicks auf einer anderen Website zielgerichtet zu verwenden.
+|63 Monate
+|HTTP
+|ATN
+|atdmt.com
+|Verwendet zielgerichtete Anzeigen basierend auf Verhaltensprofilierung und geografischer Lage.
+|2 Jahre
+|HTTP
+|bito
+|bidr.io
+|Legt eine eindeutige ID für den Besucher fest, die es Drittanbieter-Werbetreibenden ermöglicht, den Besucher mit relevanter Werbung anzusprechen. Dieser Pairing-Dienst wird von Werbe-Hubs von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|1 Jahr
+|HTTP
+|checkForPermission
+|bidr.io
+|Bestimmt, ob der Besucher das Cookie-Zustimmungsfeld akzeptiert hat.
+|1 Tag
+|HTTP
+|sync [x2]
+|bidswitch.net
+rtb.mfadsrvr.com
+|Sammelt Daten über das Verhalten und die Interaktion von Besuchern - Dies wird verwendet, um die Webseite zu optimieren und Werbung auf der Webseite relevanter zu machen.
+|Session
+|Pixel
+|bkdc
+|bluekai.com
+|Registriert Benutzerdaten wie IP-Adresse, die geografische Lage, besuchte Webseiten und welche Anzeigen der Benutzer angeklickt hat, mit dem Ziel der Optimierung der Anzeige von Werbung auf Basis der Bewegung des Benutzers auf Websites, die das gleichen Anzeige-Netzwerk verwenden.
+|179 Tage
+|HTTP
+|bkpa
+|bluekai.com
+|Wird verwendet, um dem Besucher relevante Inhalte und Werbung zu präsentieren - Der Dienst wird von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|179 Tage
+|HTTP
+|bku
+|bluekai.com
+|Registriert anonymisierte Benutzerdaten wie IP-Adresse, die geografische Lage, besuchte Webseiten und welche Anzeigen der Benutzer angeklickt hat, mit dem Ziel der Optimierung der Anzeige von Werbung auf Basis der Bewegung des Benutzers auf Websites, die das gleichen Anzeige-Netzwerk verwenden.
+|179 Tage
+|HTTP
+|um
+|converge-digital.com
+|Registriert das Verhalten des Besuchers in den sozialen Medien – kann benutzt werden, um Werberelevanz und allgemeines Targeting zu optimieren.
+|2 Jahre
+|HTTP
+|CMDD
+|casalemedia.com
+|Erfasst Daten zu Besuchen des Benutzers auf der Website, wie z. B. die Anzahl der Besuche, durchschnittliche Verweildauer auf der Website und welche Seiten geladen wurden, mit dem Ziel der Darstellung zielgerichteter Anzeigen.
+|1 Tag
+|HTTP
+|CMID
+|casalemedia.com
+|Erfasst Daten zu Besuchen des Benutzers auf der Website, wie z. B. die Anzahl der Besuche, durchschnittliche Verweildauer auf der Website und welche Seiten geladen wurden, mit dem Ziel der Darstellung zielgerichteter Anzeigen.
+|1 Jahr
+|HTTP
+|CMPRO
+|casalemedia.com
+|Sammelt Daten zum Besucherverhalten auf mehreren Webseiten, um relevantere Werbung zu präsentieren - Dies ermöglicht es der Webseite auch, die Anzahl der Anzeige der gleichen Werbung zu begrenzen.
+|3 Monate
+|HTTP
+|CMPS
+|casalemedia.com
+|Erfasst Daten zu Besuchen des Benutzers auf der Website, wie z. B. die Anzahl der Besuche, durchschnittliche Verweildauer auf der Website und welche Seiten geladen wurden, mit dem Ziel der Darstellung zielgerichteter Anzeigen.
+|3 Monate
+|HTTP
+|CMST
+|casalemedia.com
+|Erfasst Daten zu Besuchen des Benutzers auf der Website, wie z. B. die Anzahl der Besuche, durchschnittliche Verweildauer auf der Website und welche Seiten geladen wurden, mit dem Ziel der Darstellung zielgerichteter Anzeigen.
+|1 Tag
+|HTTP
+|_dbefe
+|contextweb.com
+|Sammelt Informationen über Benutzerpräferenzen und/oder Interaktionen mit Webkampagneninhalten - Diese werden auf der CRM-Kampagnenplattform verwendet, die von Website-Besitzern zur Promotion von Veranstaltungen oder Produkten verwendet wird.
+|Session
+|HTTP
+|dis/usersync.aspx
+|criteo.com
+|Legt eine eindeutige ID für den Besucher fest, die es Drittanbieter-Werbetreibenden ermöglicht, den Besucher mit relevanter Werbung anzusprechen. Dieser Pairing-Dienst wird von Werbe-Hubs von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|Session
+|Pixel
+|_fbp
+|deine-tierwelt.de
+|Wird von Facebook genutzt, um eine Reihe von Werbeprodukten anzuzeigen, zum Beispiel Echtzeitgebote dritter Werbetreibender.
+|3 Monate
+|HTTP
+|GoogleAdServingTest
+|deine-tierwelt.de
+|Verwendet, um zu registrieren, welche Anzeigen dem Benutzer angezeigt werden.
+|Session
+|HTTP
+|OB-AD-BLOCKER-STAT
+|deine-tierwelt.de
+|Wird verwendet, um festzustellen, ob der Besucher Popup-Werbeinhalte auf der Webseite präsentiert werden soll. Auf diese Weise kann die Webseite erkennen, ob im Browser des Besuchers ein Adblocker vorhanden ist.
+|Persistent
+|HTML
+|OB-FDE
+|deine-tierwelt.de
+|Sammelt Daten zum Besucherverhalten auf mehreren Webseiten, um relevantere Werbung zu präsentieren - Dies ermöglicht es der Webseite auch, die Anzahl der Anzeige der gleichen Werbung zu begrenzen.
+|Persistent
+|HTML
+|OB-USER-TOKEN
+|deine-tierwelt.de
+|Legt eine eindeutige ID für den Besucher fest, die es Drittanbieter-Werbetreibenden ermöglicht, den Besucher mit relevanter Werbung anzusprechen. Dieser Pairing-Dienst wird von Werbe-Hubs von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|Persistent
+|HTML
+|OB-USER-TOKEN-CREATION
+|deine-tierwelt.de
+|Gibt an, ob die Cookie-Daten im Browser des Besuchers aktualisiert werden müssen. Dies wird durch Ad-Serving-Unternehmen von Drittanbietern bestimmt.
+|Persistent
+|HTML
+|POPUPCHECK
+|deine-tierwelt.de
+|Wird verwendet, um festzustellen, ob der Besucher Popup-Werbeinhalte auf der Webseite präsentiert werden soll. Auf diese Weise kann die Webseite erkennen, ob im Browser des Besuchers ein Adblocker vorhanden ist.
+|1 Tag
+|HTTP
+|uuid [x3]
+|deine-tierwelt.de
+innovid.com
+mathtag.com
+|Wird verwendet, um Besucher auf mehreren Webseiten zu verfolgen, um relevante Werbung basierend auf den Präferenzen des Besuchers zu präsentieren.
+|Persistent
+|HTML
+|demconf.jpg
+|demdex.net
+|Legt eine eindeutige ID für den Besucher fest, die es Drittanbieter-Werbetreibenden ermöglicht, den Besucher mit relevanter Werbung anzusprechen. Dieser Pairing-Dienst wird von Werbe-Hubs von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|Session
+|Pixel
+|demdex
+|demdex.net
+|Über eine eindeutige ID, die für semantische Inhaltsanalyse verwendet wird, wird die Navigation des Benutzers auf der Website registriert und mit Offline-Daten aus Umfragen und ähnlichen Registrierungen verknüpft, um gezielte Werbung anzuzeigen.
+|179 Tage
+|HTTP
+|dpm
+|demdex.net
+|Legt eine eindeutige ID für den Besucher fest, die es Drittanbieter-Werbetreibenden ermöglicht, den Besucher mit relevanter Werbung anzusprechen. Dieser Pairing-Dienst wird von Werbe-Hubs von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|179 Tage
+|HTTP
+|DSID
+|doubleclick.net
+|Wird von Google DoubleClick für Re-Targeting, Optimierung, Berichte und Zuordnung von Online-Werbeanzeigen genutzt.
+|1 Tag
+|HTTP
+|IDE
+|doubleclick.net
+|Verwendet von Google DoubleClick, um die Handlungen des Benutzers auf der Webseite nach der Anzeige oder dem Klicken auf eine der Anzeigen des Anbieters zu registrieren und zu melden, mit dem Zweck der Messung der Wirksamkeit einer Werbung und der Anzeige zielgerichteter Werbung für den Benutzer.
+|1 Jahr
+|HTTP
+|everest_g_v2
+|everesttech.net
+|Verwendet für zielgerichtete Anzeigen und zur Dokumentierung der Wirksamkeit jeder einzelnen Anzeige.
+|1 Jahr
+|HTTP
+|everest_session_v2
+|everesttech.net
+|Verwendet für zielgerichtete Anzeigen und zur Dokumentierung der Wirksamkeit jeder einzelnen Anzeige.
+|Session
+|HTTP
+|gglck
+|everesttech.net
+|Verwendet für zielgerichtete Anzeigen und zur Dokumentierung der Wirksamkeit jeder einzelnen Anzeige.
+|29 Tage
+|HTTP
+|EE
+|exelator.com
+|Erfasst Daten zu Besuchen des Benutzers auf der Website, wie z. B. die Anzahl der Besuche, durchschnittliche Verweildauer auf der Website und welche Seiten geladen wurden, mit dem Ziel der Darstellung zielgerichteter Anzeigen.
+|119 Tage
+|HTTP
+|ud
+|exelator.com
+|Erfasst Daten zu Besuchen des Benutzers auf der Website, wie z. B. die Anzahl der Besuche, durchschnittliche Verweildauer auf der Website und welche Seiten geladen wurden, mit dem Ziel der Darstellung zielgerichteter Anzeigen.
+|119 Tage
+|HTTP
+|mako_uid
+|eyeota.net
+|Sammelt Daten über Besuche der Benutzer auf der Webseite, wie z. B. auf welche Seiten zugegriffen wurde. Das registrierte Datum wird verwendet, um Interessen und demografische Profile des Benutzers in Bezug auf den Weiterverkauf für gezieltes Marketing zu kategorisieren.
+|1 Jahr
+|HTTP
+|match
+|eyeota.net
+|Legt eine eindeutige ID für den Besucher fest, die es Drittanbieter-Werbetreibenden ermöglicht, den Besucher mit relevanter Werbung anzusprechen. Dieser Pairing-Dienst wird von Werbe-Hubs von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|Session
+|Pixel
+|ONPLFTRH
+|eyeota.net
+|Wird verwendet, um Besucher auf mehreren Webseiten zu verfolgen, um relevante Werbung basierend auf den Präferenzen des Besuchers zu präsentieren.
+|Session
+|HTTP
+|sec
+|eyeota.net
+|Wird verwendet, um Besucher auf mehreren Webseiten zu verfolgen, um relevante Werbung basierend auf den Präferenzen des Besuchers zu präsentieren.
+|1 Jahr
+|HTTP
+|fr
+|facebook.com
+|Wird von Facebook genutzt, um eine Reihe von Werbeprodukten anzuzeigen, zum Beispiel Echtzeitgebote dritter Werbetreibender.
+|3 Monate
+|HTTP
+|tr
+|facebook.com
+|Wird von Facebook genutzt, um eine Reihe von Werbeprodukten anzuzeigen, zum Beispiel Echtzeitgebote dritter Werbetreibender.
+|Session
+|Pixel
+|google_experiment_mod
+|googlesyndication.com
+|Wird von Google AdSense zum Experimentieren mit Werbungseffizienz auf Webseiten verwendet, die ihre Dienste nutzen.
+|Persistent
+|HTML
+|google_experiment_mod3
+|googlesyndication.com
+|Wird von Google AdSense zum Experimentieren mit Werbungseffizienz auf Webseiten verwendet, die ihre Dienste nutzen.
+|Persistent
+|HTML
+|google_experiment_mod5
+|googlesyndication.com
+|Wird von Google AdSense zum Experimentieren mit Werbungseffizienz auf Webseiten verwendet, die ihre Dienste nutzen.
+|Persistent
+|HTML
+|google_experiment_mod6
+|googlesyndication.com
+|Wird von Google AdSense zum Experimentieren mit Werbungseffizienz auf Webseiten verwendet, die ihre Dienste nutzen.
+|Persistent
+|HTML
+|google_experiment_mod7
+|googlesyndication.com
+|Wird von Google AdSense zum Experimentieren mit Werbungseffizienz auf Webseiten verwendet, die ihre Dienste nutzen.
+|Persistent
+|HTML
+|google_experiment_mod8
+|googlesyndication.com
+|Wird von Google AdSense zum Experimentieren mit Werbungseffizienz auf Webseiten verwendet, die ihre Dienste nutzen.
+|Persistent
+|HTML
+|pagead/gen_204
+|googlesyndication.com
+|Sammelt Daten zum Besucherverhalten auf mehreren Webseiten, um relevantere Werbung zu präsentieren - Dies ermöglicht es der Webseite auch, die Anzahl der Anzeige der gleichen Werbung zu begrenzen.
+|Session
+|Pixel
+|pcs/activeview
+|googlesyndication.com
+|Wird von DoubleClick verwendet, um festzustellen, ob Website-Werbung richtig angezeigt wurde - Dies geschieht, um ihre Marketingaktivitäten effizienter zu gestalten.
+|Session
+|Pixel
+|1P_JAR
+|gstatic.com
+|Sammelt Informationen zum Besucherverhalten auf mehreren Webseiten. Diese Informationen wird auf der Webseite verwendet, um die Relevanz der Werbung zu optimieren.
+|30 Tage
+|HTTP
+|CONSENT
+|gstatic.com
+|Wird verwendet, um festzustellen, ob der Besucher die Marketingkategorie im Cookie-Banner akzeptiert hat. Dieser Cookie ist notwendig für die Einhaltung der DSGVO der Webseite.
+|219 Monate
+|HTTP
+|_kuid_
+|krxd.net
+|Registriert eine eindeutige ID, die das Gerät eines wiederkehrenden Benutzers identifiziert. Die ID wird für gezielte Werbung genutzt.
+|179 Tage
+|HTTP
+|lidid
+|liadm.com
+|Sammelt Daten über das Verhalten und die Interaktion von Besuchern - Dies wird verwendet, um Werbung auf der Webseite relevanter zu machen. Der Cookie erlaubt der Webseite auch, Verweise von anderen Webseiten zu erkennen.
+|2 Jahre
+|HTTP
+|uuidc
+|mathtag.com
+|Sammelt Daten über Besuche des Benutzers auf der Website, wie zum Beispiel welche Seiten geladen wurden. Die registrierten Daten werden für gezielte Werbung genutzt.
+|1 Jahr
+|HTTP
+|_bsw
+|mediabong.com
+|Sammelt Daten über das Verhalten und die Interaktion von Besuchern - Dies wird verwendet, um die Webseite zu optimieren und Werbung auf der Webseite relevanter zu machen.
+|1 Tag
+|HTTP
+|_mb
+|mediabong.com
+|Wird im Zusammenhang mit Videowerbung verwendet. Der Cookie begrenzt die Anzahl der Besuche eines Besuchers mit demselben Werbeinhalt. Der Cookie wird auch verwendet, um die Relevanz der Videowerbung für den spezifischen Besucher sicherzustellen.
+|Session
+|HTTP
+|pi
+|ml314.com
+|Registriert eine eindeutige ID, die das Gerät des Benutzers während der erneuten Besuche auf Websites identifiziert, die das gleiche Anzeige-Netzwerk verwenden. Die ID wird für die Ermöglichung gezielter Werbung genutzt.
+|1 Jahr
+|HTTP
+|utsync.ashx
+|ml314.com
+|Dieses Cookie wird vom Audience Manager der Website gesetzt, um die Zeit und Häufigkeit der Synchronisation der Besucherdaten zu bestimmen – Cookie-Daten-Synchronisation wird benutzt, um Besucherdaten von verschiedenen Websites zu synchronisieren und zu sammeln.
+|Session
+|Pixel
+|id
+|mookie1.com
+|Registriert eine eindeutige ID, die das Gerät eines wiederkehrenden Benutzers identifiziert. Die ID wird für gezielte Werbung genutzt.
+|1 Jahr
+|HTTP
+|mdata
+|mookie1.com
+|Registriert eine eindeutige ID, die das Gerät eines wiederkehrenden Benutzers identifiziert. Die ID wird für gezielte Werbung genutzt.
+|1 Jahr
+|HTTP
+|ayl_visitor
+|omnitagjs.com
+|Dieser Cookie registriert Daten des Besuchers. Die Informationen werden verwendet, um die Relevanz der Werbung zu optimieren.
+|2 Monate
+|HTTP
+|i
+|openx.net
+|Registriert anonymisierte Benutzerdaten wie IP-Adresse, die geografische Lage, besuchte Webseiten und welche Anzeigen der Benutzer angeklickt hat, mit dem Ziel der Optimierung der Anzeige von Werbung auf Basis der Bewegung des Benutzers auf Websites, die das gleichen Anzeige-Netzwerk verwenden.
+|1 Jahr
+|HTTP
+|apnxs
+|outbrain.com
+|Wird verwendet, um dem Besucher relevante Inhalte und Werbung zu präsentieren - Der Dienst wird von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|3 Monate
+|HTTP
+|bdswch
+|outbrain.com
+|Wird verwendet, um dem Besucher relevante Inhalte und Werbung zu präsentieren - Der Dienst wird von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|3 Monate
+|HTTP
+|obuid
+|outbrain.com
+|Legt eine eindeutige ID für den Besucher fest, die es Drittanbieter-Werbetreibenden ermöglicht, den Besucher mit relevanter Werbung anzusprechen. Dieser Pairing-Dienst wird von Werbe-Hubs von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|3 Monate
+|HTTP
+|opt_out
+|postrelease.com
+|Wird verwendet, um festzustellen, ob der Besucher die Marketingkategorie im Cookie-Banner akzeptiert hat. Dieser Cookie ist notwendig für die Einhaltung der DSGVO der Webseite.
+|1 Jahr
+|HTTP
+|pl_user_id
+|powerlinks.com
+|Dieser Cookie registriert Daten des Besuchers. Die Informationen werden verwendet, um die Relevanz der Werbung zu optimieren.
+|3 Monate
+|HTTP
+|KADUSERCOOKIE
+|pubmatic.com
+|Registriert eine eindeutige ID, die das Gerät des Benutzers während der erneuten Besuche auf Websites identifiziert, die das gleiche Anzeige-Netzwerk verwenden. Die ID wird für die Ermöglichung gezielter Werbung genutzt.
+|3 Monate
+|HTTP
+|KTPCACOOKIE
+|pubmatic.com
+|Registriert eine eindeutige ID, die das Gerät des Benutzers während der erneuten Besuche auf Websites identifiziert, die das gleiche Anzeige-Netzwerk verwenden. Die ID wird für die Ermöglichung gezielter Werbung genutzt.
+|1 Tag
+|HTTP
+|d
+|quantserve.com
+|Erfasst anonyme Daten über Besuche des Benutzers auf der Website, wie z. B. die Anzahl der Besuche, durchschnittliche Verweildauer auf der Website und welche Seiten geladen wurden, mit dem Ziel der Erstellung von Berichten für die Optimierung der Website-Inhalte.
+|3 Monate
+|HTTP
+|dpixel
+|quantserve.com
+|Sammelt Daten über das Verhalten und die Interaktion von Besuchern - Dies wird verwendet, um die Webseite zu optimieren und Werbung auf der Webseite relevanter zu machen.
+|Session
+|Pixel
+|mc
+|quantserve.com
+|Sammelt Daten über Besuche des Benutzers auf der Website, wie zum Beispiel welche Seiten geladen wurden. Die registrierten Daten werden für gezielte Werbung genutzt.
+|13 Monate
+|HTTP
+|eud
+|rfihub.com
+|Registriert Benutzerdaten wie IP-Adresse, die geografische Lage, besuchte Webseiten und welche Anzeigen der Benutzer angeklickt hat, mit dem Ziel der Optimierung der Anzeige von Werbung auf Basis der Bewegung des Benutzers auf Websites, die das gleichen Anzeige-Netzwerk verwenden.
+|1 Jahr
+|HTTP
+|rud
+|rfihub.com
+|Registriert Benutzerdaten wie IP-Adresse, die geografische Lage, besuchte Webseiten und welche Anzeigen der Benutzer angeklickt hat, mit dem Ziel der Optimierung der Anzeige von Werbung auf Basis der Bewegung des Benutzers auf Websites, die das gleichen Anzeige-Netzwerk verwenden.
+|1 Jahr
+|HTTP
+|ruds
+|rfihub.com
+|Registriert Benutzerdaten wie IP-Adresse, die geografische Lage, besuchte Webseiten und welche Anzeigen der Benutzer angeklickt hat, mit dem Ziel der Optimierung der Anzeige von Werbung auf Basis der Bewegung des Benutzers auf Websites, die das gleichen Anzeige-Netzwerk verwenden.
+|Session
+|HTTP
+|pxrc
+|rlcdn.com
+|Dieser Cookie registriert Daten des Besuchers. Die Informationen werden verwendet, um die Relevanz der Werbung zu optimieren.
+|2 Monate
+|HTTP
+|rlas3
+|rlcdn.com
+|Erfasst Daten zu Besuchen des Benutzers auf der Website, wie z. B. die Anzahl der Besuche, durchschnittliche Verweildauer auf der Website und welche Seiten geladen wurden, mit dem Ziel der Darstellung zielgerichteter Anzeigen.
+|1 Jahr
+|HTTP
+|st_cs
+|seedtag.com
+|Legt eine eindeutige ID für den Besucher fest, die es Drittanbieter-Werbetreibenden ermöglicht, den Besucher mit relevanter Werbung anzusprechen. Dieser Pairing-Dienst wird von Werbe-Hubs von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|1 Jahr
+|HTTP
+|stx_user_id
+|sharethrough.com
+|Legt eine eindeutige ID für einen bestimmten Besucher. Diese ID kann verwendet werden, um den Besucher beim Wiedereintritt zu erkennen und getroffene Präferenzeinstellungen zu implementieren. Der Cookie ermöglicht der Webseite auch, den Besucher auf mehreren Webseiten zu Marketingzwecken zu verfolgen.
+|1 Jahr
+|HTTP
+|smxdc
+|smadex.com
+|Wird verwendet, um Besucher auf mehreren Webseiten zu verfolgen, um relevante Werbung basierend auf den Präferenzen des Besuchers zu präsentieren.
+|14 Tage
+|HTTP
+|smxtrack
+|smadex.com
+|Wird verwendet, um Besucher auf mehreren Webseiten zu verfolgen, um relevante Werbung basierend auf den Präferenzen des Besuchers zu präsentieren.
+|1 Jahr
+|HTTP
+|__uin_bw
+|sonobi.com
+|Sammelt Informationen zum Besucherverhalten auf mehreren Webseiten. Diese Informationen wird auf der Webseite verwendet, um die Relevanz der Werbung zu optimieren.
+|1 Monat
+|HTTP
+|__uir_bw
+|sonobi.com
+|Sammelt Daten über das Verhalten und die Interaktion von Besuchern - Dies wird verwendet, um die Webseite zu optimieren und Werbung auf der Webseite relevanter zu machen.
+|1 Tag
+|HTTP
+|__uis
+|sonobi.com
+|Wird verwendet, um Besucher auf mehreren Webseiten zu verfolgen, um relevante Werbung basierend auf den Präferenzen des Besuchers zu präsentieren.
+|29 Tage
+|HTTP
+|HAPLB5S
+|sonobi.com
+|Wird verwendet, um Besucher auf mehreren Webseiten zu verfolgen, um relevante Werbung basierend auf den Präferenzen des Besuchers zu präsentieren.
+|Session
+|HTTP
+|us.gif
+|sonobi.com
+|Wird verwendet, um die Nutzung von GIFs des Besuchers zu verfolgen - dies dient Analyse- und Marketingzwecken.
+|Session
+|Pixel
+|t_gid
+|taboola.com
+|Dieses Cookie ordnet eine bestimmte Besucher-ID zu, wenn der Besucher mit Werbung oder Inhalten von der Website interagiert – das erlaubt der Website, dem Besucher ähnliche Werbung oder Inhalte anzuzeigen.
+|1 Jahr
+|HTTP
+|local_storage_support_test
+|twitter.com
+|Der Cookie wird im Zusammenhang mit der lokalen Speicherfunktion im Browser verwendet. Diese Funktion ermöglicht es der Webseite, schneller zu laden, indem bestimmte Prozeduren vorab geladen werden.
+|Persistent
+|HTML
+|choco_cookie
+|vdopia.com
+|Wird verwendet, um Besucher auf mehreren Webseiten zu verfolgen, um relevante Werbung basierend auf den Präferenzen des Besuchers zu präsentieren.
+|2 Monate
+|HTTP
+|um2
+|visx.net
+|Legt eine eindeutige ID für den Besucher fest, die es Drittanbieter-Werbetreibenden ermöglicht, den Besucher mit relevanter Werbung anzusprechen. Dieser Pairing-Dienst wird von Werbe-Hubs von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|2 Jahre
+|HTTP
+|AWSALB
+|vmg.host
+|Registriert, welcher Server-Cluster den Besucher bedient. Dies wird im Zusammenhang mit dem Lastausgleich verwendet, um die Benutzererfahrung zu optimieren.
+|6 Tage
+|HTTP
+|BSWtracker
+|vmg.host
+|Sammelt Daten zum Besucherverhalten auf mehreren Webseiten, um relevantere Werbung zu präsentieren - Dies ermöglicht es der Webseite auch, die Anzahl der Anzeige der gleichen Werbung zu begrenzen.
+|694 Tage
+|HTTP
+|ouuid
+|volvelle.tech
+|Enthält eine Besucher-ID - Dies wird verwendet, um den Besucher beim erneuten Besuch der Webseite zu identifizieren.
+|1 Jahr
+|HTTP
+|ouuid_lu
+|volvelle.tech
+|Wird im Zusammenhang mit dem "Ouuid" -Cookie verwendet, um den Besucher mit relevanten Anzeigen oder Produktpromotions neu auszurichten.
+|1 Jahr
+|HTTP
+|wfivefivec
+|w55c.net
+|Sammelt Daten über Besuche des Benutzers auf der Website, wie zum Beispiel welche Seiten geladen wurden. Die registrierten Daten werden für gezielte Werbung genutzt.
+|13 Monate
+|HTTP
+|GPS
+|youtube.com
+|Registriert eine eindeutige ID auf mobilen Geräten, um Tracking basierend auf dem geografischen GPS-Standort zu ermöglichen.
+|1 Tag
+|HTTP
+|PREF
+|youtube.com
+|Registriert eine eindeutige ID, die von Google verwendet wird, um Statistiken dazu, wie der Besucher YouTube-Videos auf verschiedenen Websites nutzt, zu behalten.
+|8 Monate
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Versucht, die Benutzerbandbreite auf Seiten mit integrierten YouTube-Videos zu schätzen.
+|179 Tage
+|HTTP
+|YSC
+|youtube.com
+|Registriert eine eindeutige ID, um Statistiken der Videos von YouTube, die der Benutzer gesehen hat, zu behalten.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos
+|Session
+|HTML
+|zuid
+|zemanta.com
+|Legt eine eindeutige ID für den Besucher fest, die es Drittanbieter-Werbetreibenden ermöglicht, den Besucher mit relevanter Werbung anzusprechen. Dieser Pairing-Dienst wird von Werbe-Hubs von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|1 Jahr
+|HTTP
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+|admtr
+|admanmedia.com
+|Anstehend
+|1 Jahr
+|HTTP
+|bidswitch_id
+|admanmedia.com
+|Anstehend
+|1 Jahr
+|HTTP
+|atbgdid
+|adtriba.com
+|Anstehend
+|2 Jahre
+|HTTP
+|pixel/#
+|agkn.com
+|Anstehend
+|Session
+|Pixel
+|cc
+|bannerflow.com
+|Anstehend
+|29 Tage
+|HTTP
+|site/#
+|bluekai.com
+|Anstehend
+|Session
+|Pixel
+|__ab12#
+|deine-tierwelt.de
+|Anstehend
+|2 Jahre
+|HTTP
+|smrt42-visited-advisors
+|deine-tierwelt.de
+|Anstehend
+|1 Tag
+|HTTP
+|smartassistant-cid
+|deine-tierwelt.de
+|Anstehend
+|419 Tage
+|HTTP
+|showInterstitial
+|deine-tierwelt.de
+|Anstehend
+|Session
+|HTML
+|google_experiment_mod10
+|googlesyndication.com
+|Anstehend
+|Persistent
+|HTML
+|google_experiment_mod11
+|googlesyndication.com
+|Anstehend
+|Persistent
+|HTML
+|google_experiment_mod12
+|googlesyndication.com
+|Anstehend
+|Persistent
+|HTML
+|google_experiment_mod13
+|googlesyndication.com
+|Anstehend
+|Persistent
+|HTML
+|google_experiment_mod14
+|googlesyndication.com
+|Anstehend
+|Persistent
+|HTML
+|google_experiment_mod15
+|googlesyndication.com
+|Anstehend
+|Persistent
+|HTML
+|google_experiment_mod16
+|googlesyndication.com
+|Anstehend
+|Persistent
+|HTML
+|google_experiment_mod17
+|googlesyndication.com
+|Anstehend
+|Persistent
+|HTML
+|google_experiment_mod18
+|googlesyndication.com
+|Anstehend
+|Persistent
+|HTML
+|google_experiment_mod19
+|googlesyndication.com
+|Anstehend
+|Persistent
+|HTML
+|google_experiment_mod4
+|googlesyndication.com
+|Anstehend
+|Persistent
+|HTML
+|google_experiment_mod9
+|googlesyndication.com
+|Anstehend
+|Persistent
+|HTML
+|google_pem_mod
+|googlesyndication.com
+|Anstehend
+|Persistent
+|HTML
+|www-claim-v2
+|instagram.com
+|Anstehend
+|Session
+|HTML
+|588f2aae00013_uuid
+|madsack-native.de
+|Anstehend
+|10 Jahre
+|HTTP
+|ruuid
+|metadsp.co.uk
+|Anstehend
+|1 Jahr
+|HTTP
+|ruuid_lu
+|metadsp.co.uk
+|Anstehend
+|1 Jahr
+|HTTP
+|588f272a3e49c_abc
+|nativendo.de
+|Anstehend
+|1 Tag
+|HTTP
+|588f272a3e49c_dmp_nativendo
+|nativendo.de
+|Anstehend
+|6 Tage
+|HTTP
+|588f272a3e49c_dmp_theadex
+|nativendo.de
+|Anstehend
+|2 Monate
+|HTTP
+|588f272a3e49c_dmp_theadex_mi
+|nativendo.de
+|Anstehend
+|2 Monate
+|HTTP
+|588f272a3e49c_dmp_theadex_st
+|nativendo.de
+|Anstehend
+|2 Monate
+|HTTP
+|588f272a3e49c_uuid
+|nativendo.de
+|Anstehend
+|3 Monate
+|HTTP
+|actvagnt
+|outbrain.com
+|Anstehend
+|3 Monate
+|HTTP
+|akacd_widgets_routing
+|outbrain.com
+|Anstehend
+|Session
+|HTTP
+|cookieJartestCookie
+|outbrain.com
+|Anstehend
+|1 Tag
+|HTTP
+|mdfrc
+|outbrain.com
+|Anstehend
+|3 Monate
+|HTTP
+|OB-RTT
+|outbrain.com
+|Anstehend
+|Persistent
+|HTML
+|OB-SYNC
+|outbrain.com
+|Anstehend
+|Persistent
+|HTML
+|pwrlnks
+|outbrain.com
+|Anstehend
+|3 Monate
+|HTTP
+|recs_#32#
+|outbrain.com
+|Anstehend
+|1 Tag
+|HTTP
+|ttd
+|outbrain.com
+|Anstehend
+|3 Monate
+|HTTP
+|ssps:#
+|powerlinks.com
+|Anstehend
+|4 Tage
+|HTTP
+|st_csd
+|seedtag.com
+|Anstehend
+|1 Jahr
+|HTTP
+|smxbds
+|smadex.com
+|Anstehend
+|9 Tage
+|HTTP
+|imid/set
+|sync-jp.im-apps.net
+|Anstehend
+|Session
+|Pixel
+|__widgetsettings
+|twitter.com
+|Anstehend
+|Persistent
+|HTML
+|unruly_m#
+|unrulymedia.com
+|Anstehend
+|6 Tage
+|HTTP
+|usersync/outbrain
+|zemanta.com
+|Anstehend
+|Session
+|Pixel

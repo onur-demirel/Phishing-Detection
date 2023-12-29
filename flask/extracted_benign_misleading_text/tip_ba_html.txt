@@ -1,0 +1,43 @@
+WP_Post Object
+(
+[ID] => 549891
+[post_author] => 9
+[post_date] => 2019-10-25 09:56:54
+[post_date_gmt] => 2019-10-25 07:56:54
+[post_content] => Postoje parovi koji kliknu u seksu, a postoje parovi kod kojih je seks pravi doživljaj. Iskre frcaju, odjeća leti na sve strane...
+Ako pitate astrologe, odličan seks događa se između pet horoskopskih parova
+Ovan (21. ožujka - 19. travnja) + Strijelac (22. studenog – 21. prosinca)
+Što se dobije kad miješate vatru i vatru - pogađate, još veća vatra.
+Strijelci vole začiniti situaciju u spavaćoj sobi, a za to je najbolji partner strastveni i neustrašivi Ovan. Zajedno će provesti vruće sate isprobavajući razne poze i seksualne igračke. Oboje su skloni drugačijem i avanturama, a svaki trenutak njihovog maratonskog susreta bit će vruć.
+Lav (23. srpnja – 22. kolovoza) + Strijelac (22. studenog – 21. prosinca)
+Još dva vatrena znaka čije je spoj ispod plahti jako vruć.
+Lav će se potruditi onoliko koliko ga se hvali, a Strijelac ga voli hvaliti. Strijelci vole istraživati, a susret s lavom otkrit će im nove razine užitka.
+Vodenjak (20. siječnja – 18. veljače) + Ovan (21. ožujka – 19. travnja)
+Vodenjak je nekonvencionalan i maštovit. Voli zamišljati nove načine seksualnog zadovoljavanja, a kad se spoji s energičnim Ovnom, imat će dovoljno želje i volje da dignu svoj seksualni život na novu razinu.
+Blizanci (21. svibnja – 20. lipnja) + Vaga (23. rujna – 22. listopada)
+Blizanci su kraljevi malih prljavih razgovora. U paru s Vagama dobro će se zabaviti, posebice jer obje strane vole malo glume u spavaćoj sobi. Doktor i medicinska sestra, pilot i stjuardesa, direktor i tajnica... Mogućnosti su razne.
+Škorpion (23. listopada – 21. studenog) + Ribe (19. veljače – 20. ožujka)
+Nemojte da vas zavara njihova narav, Škorpioni i Ribe zajedno su poput vrućeg čajnika. Strastveni i intenzivni Škorpioni vole biti malo čudni u krevetu, dok su Ribe sanjive i nježne. Škorpion će dobiti priliku istražiti svaku fantaziju koju ima, a Ribe su spremne na sve kako bi njihov ljubavnik bio zadovoljan, prenosi Index.hr.
+(TIP)
+[post_title] => Pet horoskopskih parova koji imaju najbolji seks
+[post_excerpt] =>
+[post_status] => publish
+[comment_status] => open
+[ping_status] => closed
+[post_password] =>
+[post_name] => pet-horoskopskih-parova-koji-imaju-najbolji-seks
+[to_ping] =>
+[pinged] =>
+[post_modified] => 2019-10-25 09:56:54
+[post_modified_gmt] => 2019-10-25 07:56:54
+[post_content_filtered] =>
+[post_parent] => 0
+[guid] => http://tip.ba/?p=549891
+[menu_order] => 0
+[post_type] => post
+[post_mime_type] =>
+[comment_count] => 0
+[filter] => raw
+[post_category] => 0
+)
+Pet horoskopskih parova koji imaju najbolji seks

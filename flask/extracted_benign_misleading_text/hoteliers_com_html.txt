@@ -1,0 +1,75 @@
+Privacy statement
+You are on or redirected from a website of Hoteliers.com BV, a supplier of booking software and websites that processes bookings on behalf of hotels and hotel chains.
+Hoteliers.com BV, located at Gedempt Hamerkanaal 177, 1021 KP, Amsterdam, the Netherlands, is responsible for the processing of personal data as shown in this privacy statement.
+Personal data that we process
+Hoteliers.com processes your personal data because you are using our services and/or you are providing us with your personal data.
+Below you will find an overview of the personal data we process:
+Special and sensitive personal data that we process
+- First and last name
+- Gender
+- Address data
+- Phone number
+- E-mail address
+- IP address
+- Location data
+- Information about your activities on our website
+- Internet browser and device type
+- Other personal data that you actively provide by, for example, creating a profile on this website, in correspondence and by telephone
+Hoteliers.com does not intend to collect data about website visitors who are younger than 16 years of age, unless they have permission from parents or guardians. However, we can’t check if a visitor is older than 16. We encourage parents to be involved in the online activities of their children, in order to prevent data about children being collected without parental consent. If you are convinced that we have collected personal information about a minor without this permission, please contact us at support@hoteliers.com and we will delete this information.
+For what purpose and on what basis we process personal data
+We store your personal data only with your booking and your booking overview. We will not use this information for anything else. Hoteliers.com processes your personal data for the following purposes:
+Automated decision-making
+- Handling (the payment) your booking
+- To send our newsletter, if you choose to subscribe
+- To call you or send you an e-mail, if necessary to carry out our services
+- Inform you about changes to our services and products
+- Allow you to create an account
+- To provide services to you
+Hoteliers.com makes no decisions about matters that can have (significant) consequences for persons based on automated processing. These are decisions taken by computer programs or systems, without interference of a person (for example, a staff member of Hoteliers.com).
+How long we store personal data
+Hoteliers.com does not store your personal data for longer than is strictly necessary to realize the purposes for which your data is collected. Your personal data will be automatically deleted after 24 months. You can also delete your personal data 2 months after the departure date or after cancellation of your booking.
+Sharing personal data with third parties
+Hoteliers.com shares your personal data with various third parties if this is necessary for the execution of our services and to comply with any legal obligation. With companies that process data on our behalf, we entered into a Processor Agreement to ensure the same level of security and confidentiality of your personal data as we offer ourselves. Hoteliers.com remains responsible for these processing operations.
+In order to carry out your booking, your personal data will be shared with:
+- The accommodation: The hotel or accommodation for which you have made a booking.
+- Subprocessors: Hoteliers.com or the accommodation can use companies that process bookings and payments for the accommodation. This includes companies such as; a Channel Manager, this is a system that processes bookings of different booking sites for the accommodation; payment systems that process your payment information; Global Distribution Systems, for reservations through companies and travel agents; and other subprocessors.
+The processing of personal data is always done within the European Economic Area (EEA) or one of the countries that the EU considers to be safe.
+Cookies, or similar techniques, that we use
+Hoteliers.com only uses technical and functional cookies. Hoteliers.com also uses analytical cookies that do not infringe your privacy. A cookie is a small text file that is stored on your computer, tablet or smartphone when you first visit this website. The cookies we use are necessary for the technical operation of the website and your ease of use. They ensure that the website works properly and remember, for example, your preferences. We can also optimize our website with this. You can opt out of cookies by setting your internet browser so that it does not store cookies anymore. In addition, you can also delete all information previously saved via the settings of your browser.
+View, modify or delete data
+You have the right to view, correct or delete your personal data. You can do this yourself through the personal settings of your account. You also have the right to withdraw your consent to the data processing or to object to the processing of your personal data by our company. Finally, you have the right to data portability. This means that you can submit a request to us to send the personal information we have in your computer file to you or another organization mentioned by you.
+Do you want to use your right of objection, your right to data transfer or do you have other questions about data processing? Please send your specified request to support@hoteliers.com.
+In order to ensure that the request for access has been made by you, we ask you to send a copy of your identity document with the request. Make your passport photo, MRZ (machine readable zone, the strip with numbers at the bottom of the passport), passport number and civilian service number black in this copy, in order to protect your privacy. Hoteliers.com will respond to your request as soon as possible, but in any case, within four weeks.
+Hoteliers.com would also like to point out that you have the opportunity to file a complaint with the national supervisory authorities. This can be done via the following link: https://www.eugdpr.org/.
+How we protect personal data
+Hoteliers.com takes the protection of your data seriously and takes appropriate measures to prevent misuse, loss, unauthorized access, unwanted disclosure and unauthorized modification. If you feel that your data is not properly protected or there is evidence of abuse, please contact us via support@hoteliers.com.
+Below you will find a number of examples of the organizational and technical measures that Hoteliers.com has taken in order to protect your personal data.
+Organizational security measures:
+- Hiring the right people: Make sure that you check the references of applicants, so that you can trust them with personal details of your guests.
+- Confidentiality statement: Ensure that employees sign an agreement so that they are safe with personal details of your guests.
+- Train all employees: Ensure that all employees are trained in the security of personal data and in the security measures that your organization has taken to prevent unauthorized access. Password protection is also an important part of this training.
+- Clean desk policy: Make sure there are no papers in the office. Remind employees to keep files with personal data in a locked cabinet. This applies to offices, but especially to public areas such as the reception from the hotel.
+- Portable devices: Never leave portable devices, such as smartphones, tablets or laptops, unattended. Always lock your computer when you walk away from your desk. Never leave a portable device in your car (thieves now even have one trackers who can see if a portable device remains in the boot of a car).
+- Printed documents: Do not throw documents with personal data into the trash can, just use a paper shredder. Prevent as much as possible that you take paper documents outside the office.
+- Secure the office: Make sure you have the best possible security. Make sure there is access control, so that unwanted visitors cannot come to the office. This applies to offices, but especially to public areas such as the reception, spa or restaurant of the hotel.
+- Report Data breach: This is a security incident where personal data was possibly lost or unintentionally accessible to third parties. Hoteliers.com has made agreements with partners that the reporting of a possible Data breach is mandatory.
+Technical security measures:
+Changes to privacy statement
+- Access control: Make sure that only people who really need access have access. Does this person really need all administrator rights? Think of Privacy by Design and give users that way minimal access.
+- Do not share accounts: Never share accounts with your colleagues, because it will then be impossible to show via which account any information has been leaked. Most systems are on users manage, the manager ask for a create account for each new employee.
+- Strong passwords: Because users have to remember a lot of passwords, they come up with passwords such as "Welcome123 @" or "JanDeBoer1983!". These passwords can be cracked within a few minutes.
+- Use a password manager: Use a password management system to make your life easy. It also allows you to securely share passwords with colleagues (if there is no way to create individual user accounts).
+- Virus scanner: Make sure your virus scanner is set to automatically download updates every day.
+- USB sticks: Do not use USB sticks, as this is a common reason for data leaks or virus infections. Instead, use solutions for sharing documents, such as Dropbox or WeTransfer.
+- Secure access to your computer and smartphone: A four-digit code is insufficient and can be hacked within a few hours. Change your password in at least six digits. Also make sure that you activate tracking apps such as Find My iPhone.
+- Two-factor authentication: Many systems offer two-factor authentication. When you log in with your password, a code is sent to your smartphone to make sure you are genuine.
+- E-mail: Activate two-factor authentication if possible. Do not open messages that you do not expect. Do not open attachments that you do not expect. Ask your system administrator if your e-mail is being sent encrypted.
+- TLS, formerly SSL: We send your data via a secure internet connection. You can see this at the address bar 'https' and the padlock in the address bar.
+- DKIM, DMARC, and SPF: These are three internet standards that we use to prevent our domain name from being misused to send e-mails containing viruses, spam or which are intended to obtain personal (login) data.
+We reserve the right to change the privacy statement . Changes will be published on https://company.hoteliers.com.
+Contact details
+Gedempt Hamerkanaal 177
+1021 KP Amsterdam, the Netherlands
++31205313333
+https://www.hoteliers.com
+If you have questions about your privacy or the security of your personal data, please contact us. The Data Protection Officer of Hoteliers.com can be contacted via support@hoteliers.com.

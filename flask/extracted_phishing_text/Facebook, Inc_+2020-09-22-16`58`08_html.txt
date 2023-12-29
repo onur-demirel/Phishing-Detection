@@ -1,0 +1,12 @@
+Facebook
+facebook
+HIDE
+SHOW
+Log In
+<input type="hidden" name="_fb_noscript" value="true" />
+or
+Create New Account
+Forgot Password?
+·
+Help Center
+English (US)

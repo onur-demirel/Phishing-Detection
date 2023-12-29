@@ -1,0 +1,10 @@
+If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
+Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
+* Do you know what the FQDN is?
+Suggested article from our blog: What is FQDN? What does FQDN do?
+FQDN definition:
+The abbreviation means Fully Qualified Domain Name. It is the fullest, domain name of a computer or a host. It includes 3 parts.
+FQDN example:
+In the case of www.google.com, the .com is the Top Level Domain (TLD), the name of the domain is google, and the hostname is www.
+With the FQDN, you will get the exact location of the object on the DNS hierarchy.
+If you want to know how to perform a FQDN lookup, you can see examples here. Of course, you can do it, no matter if you are using Windows 10, macOS, or Linux.

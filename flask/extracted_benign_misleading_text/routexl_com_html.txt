@@ -1,0 +1,13 @@
+RouteXL
+The best route with multiple stops
+in three easy steps:
+1. Enter all addresses
+2. Click 'Find route' button
+3. The route is optimized
+There are no addresses yet.
+There are three ways to add destinations:
+- Type the address in the search bar
+- Click the location on the map
+- Import multiple addresses at once
+Find the quickest route with stops in various countries and languages:
+Data © OpenStreetMan contributors

@@ -1,0 +1,91 @@
+-
+Como permitir agendar apenas 3 horas antes e 3 horas depois de uma hora previamente agendada?Por Ivamberto Geraldo de Sousa,
+Olá, é uma satisfação está lançando minha primeira dúvida para que os amigos possam me ajudar! é o seguinte: tenho uma tabela no sql server para agendamento na sala de cinema de um condomínio e cada agendamento tem direito a permanecer 3 horas na sala, então só posso permitir um novo agendamento 3 horas antes ou 3 horas depois de uma hora que já esteja agendada. Se alguém poder me ajudar ficarei muito grato.
+- 0 respostas
+-
+Re: Exercício c++Por Rui Ramos,
+Obrigado pela ajuda , mas a minha duvida está em como construir um programa em C++ que me permita encontrar entre dois números inteiros positivos esta correspondência.
+- 2 respostas
+-
+Re: Exercício c++Por Edgar,
+Olá Rui,
+Eu penso que o problema está mesmo no enunciado: 1+2+3 != 1*2*3 porque 1+2+3 é de facto == 6, porém 1*2*3 será == 9.
+Agora se eu fosse aldrabão daria a volta criando um algoritmo sim para dar == entre as duas operações. Como?
+Brinco com a precedência pondo uns parênteses, ora topa:
+1) 1+2+3 != 1*2*3 porque 1+2+3 é de facto == 6, porém 1*2*3 será == 9 |até aqui já tínhamos visto e os resultados são diferentes|
+contundo o que te aconselho é
+2) 1+2+3 == 6 mas 1*(2*3) == 6 também
+Espero ter ajudado a pelo menos contornar a cena não é bem uma aldrabice como disse anteriormente mas é algo que à priori será válido e assim só tens de escrever o algoritmo e por parênteses .
+Abraço
+Boa Sorte
+FNC
+- 2 respostas
+-
+Re: Ligação Wordpress a BD MSSQLPor pc.cesar,
+Boa noite,
+Já há muito tempo que não vinha cá... Para ser franco andei muito tempo longe.
+Eu venho aqui, porque estou com um dilema técnico, já há muitos anos que andava fora destas andanças e começo a voltar, logo com um belo desafio, só que desta vez estou um pouco fora da moda...
+Estou com uma duvida em matéria de ligação entre uma plataforma do Wordpress e uma base de dados em Microsoft SQL. Uma pessoa criou um site, usando o Wordpress como plataforma, havendo uma página que tem um formulário de contacto que actualmente, ao despoletar a acção enviar, envia uma mensagem para um e-mail geral. Queria evoluir um pouco mais, fazendo com que esse formulário gravasse a informação numa base de dados situada num servidor Microsoft SQL. O servidor Wordpress está numa VPS situada algures na Europa, não tem nada a não ser um site apenas de apresentação de uma empresa, enquanto que a base de dados em questão, localiza-se num servidor dentro da própria empresa.
+Confesso que tenho andado a ler vários artigos, mas parece quanto mais procuro sobre o assunto, mais confuso fico... Num cenário desta natureza, o que aconselham? Onde poderia obter algum tutorial ou texto sobre boas práticas para um desenvolvimento desta natureza? O que recomendam neste caso?
+Obrigado.
+pode fazer no sql um linked server e dessa forma ligar as base de dados
+- 3 respostas
+-
+Re: Exercício c++Por Rui Ramos,
+Boa Noite,
+Estou a iniciar a minha vida em programação C++ e tenho um exercício em mãos que não estou a conseguir resolver.
+Tenho seguinte enunciado:
+Elabore um algoritmo que permita determinar quais os números, entre 2 inteiros positivos, que têm a soma dos seus algarismos igual ao seu produto. Exemplo 123, pois 1+2+3=1x2x3
+- 2 respostas
+-
+Re: Ajuda PHCPor pc.cesar,
+Boa tarde
+deve:
+1) efectuar o backup da base de dados
+2) aceder á framework do phc e criar um campo de utilizador memo, efectuar a instalação do mesmo
+3) aceder á framework, ecras personalizados e desenhar o ecra de clientes para incluir o campo criado
+- 1 resposta
+-
+Re: Utilizar Webservices da ATPor rukako,
+Boa noite pessoal!
+Estou a implementar as guias de transporte num cliente e vamos entrar agora em fase de testes.
+Visto que pelo que percebi o ambiente de testes esta em baixo á meses , alguem me consegue explicar como e que posso fazer testes em produção?
+Pelo que percebi devemos utilizar o user:
+User: 599999993/37
+- Password: testes1234
+E a nivel de certificados? Visto que ainda nao estamos em produção , tenho que utilizar o certificado assinado pela AT quando submeti o CSR?
+Muito Obrigado!
+Se alguem souber eu gostava de saber como fazer testes.
+- 8270 respostas
+-
+Re: Abrir Gaveta de dinheiroPor Alfonso CV,
+Olá M6.
+Eu sou programador experimentado em Visual FoxPro (VFP) e me iniciei em Lazarus faz pouco tempo, entretanto tenho avançado bastante. Em VFP eu enviava diretamente os comandos à porta USB (Ex. USB001, USB002) e abria mas aqui tentei já varias vezes de formas diferentes e enviando a porta USB também e nada. Em outro foro me sugerirem que coloque diretamente na impressora o comando de abertura da gaveta e isso fiz de forma que esta a trabalhar lindamente desse jeito.
+De qualquer forma M6 agradecido por responder.
+- 2 respostas
+-
+Re: Utilizar Webservices da ATPor PauloDuarte,
+Boa noite pessoal!
+Estou a implementar as guias de transporte num cliente e vamos entrar agora em fase de testes.
+Visto que pelo que percebi o ambiente de testes esta em baixo á meses , alguem me consegue explicar como e que posso fazer testes em produção?
+Pelo que percebi devemos utilizar o user:
+User: 599999993/37
+- Password: testes1234
+E a nivel de certificados? Visto que ainda nao estamos em produção , tenho que utilizar o certificado assinado pela AT quando submeti o CSR?
+Muito Obrigado!
+- 8270 respostas
+-
+Ordenar valores da matriz em ordem crescentePor Iago Marques,
+Código abaixo:
+#include <stdio.h> #include <stdlib.h> #include <math.h> #include <locale.h> #define lin 2 #define col 2 main(){ setlocale(LC_ALL, "Portuguese"); int mat[lin][col], l, c, temp; for(l=0; l<lin; l++){ printf("- Linha [%i]", l); for(c=0; c<col; c++){ printf("\n\t- Coluna [%i]: ", c); scanf("%i", &mat[l][c]); } } for(l=0; l<col; l++){ for(c=l+1; c<col; c++){ if(mat[l][c] > mat[c][l]) temp = mat[l][c]; mat[l][c] = mat[l][c]; mat[c][l] = temp; } } printf("\nMatriz em Ordem Crescente."); for(l=0; l<lin; l++){ printf("\n\n"); for(c=0; c<col; c++){ printf("\t [%i]", mat[l][c]); } } }
+- 0 respostas
+-
+Re: Formulários
+-
+Somar/multiplicar Binário (P3)Por halkye,
+Boa tarde.
+Queria receber dois números em binário e fazer a soma deles e também a multiplicação. Para a soma já pensei em usar a função xor por causa da sua tabela verdade mas não consigo pensar no "vai um" para conseguir realizar a soma.
+A WORD 1010110
+B WORD 11011010
+Já pensei em fazer uma and, pois se for 1 vai ter carry na soma mas não consigo. Ajudas por favor
+- 0 respostas

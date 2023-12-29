@@ -1,0 +1,7 @@
+.
+L'adresse email est requise.
+Le mot de passe est requis.
+Connexion
+Vous n'arrivez pas à vous connecter ?
+Ouvrir un compte
+Vérification de vos informations…

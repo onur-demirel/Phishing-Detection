@@ -1,0 +1,1692 @@
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|AWSELB
+|ads.playground.xyz
+|Used to distribute traffic to the website on several servers in order to optimise response times.
+|1 day
+|HTTP
+|connect.sid
+|ads.playground.xyz
+|The cookie is necessary for secure log-in and the detection of any spam or abuse of the website.
+|3 months
+|HTTP
+|__cfduid [x6]
+|bannerflow.com
+brealtime.com
+connectad.io
+pub.network
+solocpm.com
+districtm.io
+|Used by the content network, Cloudflare, to identify trusted web traffic.
+|1 year
+|HTTP
+|checkForPermission
+|bidr.io
+|Determines whether the visitor has accepted the cookie consent box.
+|1 day
+|HTTP
+|cf_ob_info [x2]
+|ck.solocpm.com
+i.connectad.io
+|Used to detect if the website is inaccessible, in case of maintenance of content updates - The cookie allows the website to present the visitor with a notice on the issue in question.
+|1 day
+|HTTP
+|cf_use_ob [x3]
+|ck.solocpm.com
+i.connectad.io
+districtm.io
+|Used to detect if the website is inaccessible, in case of maintenance of content updates - The cookie allows the website to present the visitor with a notice on the issue in question.
+|1 day
+|HTTP
+|id [x3]
+|connectad.io
+m6r.eu
+mookie1.com
+|Preserves the visitor's session state across page requests.
+|30 days
+|HTTP
+|cid
+|ctnsnet.com
+|This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.
+|1 year
+|HTTP
+|CONSENT
+|google.com
+|Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.
+|6652 days
+|HTTP
+|AWSALB
+|justpremium.com
+|Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+|6 days
+|HTTP
+|test
+|m6r.eu
+|Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.
+|1 day
+|HTTP
+|c [x11]
+|mfadsrvr.com
+r.scoota.co
+sportradarserving.com
+4finance.com
+admedo.com
+bidswitch.net
+clrstm.com
+creative-serving.com
+metadsp.co.uk
+programattik.com
+volvelle.tech
+|Used in order to detect spam and improve the website's security. Does not store visitor specific data.
+|2 years
+|HTTP
+|test_cookie [x2]
+|smadex.com
+doubleclick.net
+|This cookie determines whether the browser accepts cookies.
+|1 day
+|HTTP
+|local_storage_support_test
+|twitter.com
+|The cookie is used in context with the local-storage function in the browser. This function allows the website to load faster by pre-loading certain procedures.
+|Persistent
+|HTML
+|ASP.NET_SessionId
+|wdwmagic.com
+|Preserves the visitor's session state across page requests.
+|Session
+|HTTP
+|CookieConsent
+|wdwmagic.com
+|Stores the user's cookie consent state for the current domain
+|1 year
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|lang
+|cdn.syndication.twimg.com
+|Remembers the user's selected language version of a website
+|Session
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|ab
+|agkn.com
+|This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.
+|1 year
+|HTTP
+|crum
+|casalemedia.com
+|This cookie is used to identify the frequency of visits and how long the visitor is on the website.
+|Session
+|Pixel
+|DigiTrust.v1.identity
+|digitru.st
+|Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+|2 years
+|HTTP
+|Gtest
+|gemius.pl
+|This cookie is set to collect information on user behavior and navigation which is used to optimize the website - The cookie also allows Google Ads and Google Analytics to compile information on visitors for marketing purposes.
+|1782 days
+|HTTP
+|_cb
+|goodmorningamerica.com
+|Collects data such as visitors' IP address, geographical location and website navigation - This information is used for internal optimization and statistics for the website's operator.
+|1 year
+|HTML
+|_cb_expires
+|goodmorningamerica.com
+|This cookie is used in context with HTML local storage, this sets an expiry date/time for the _cb tracker, which makes it function like a cookie.
+|Persistent
+|HTML
+|_cb_ls
+|goodmorningamerica.com
+|Collects data on the user's visits to the website, such as which pages have been read.
+|1 year
+|HTTP
+|_cb_svref
+|goodmorningamerica.com
+|Collects data such as visitors' IP address, geographical location and website navigation - This information is used for internal optimization and statistics for the website's operator.
+|1 day
+|HTML
+|_cb_svref_expires
+|goodmorningamerica.com
+|This cookie is used in context with HTML local storage, this sets an expiry date/time for the _cb_sverf, which makes it function like a cookie.
+|Persistent
+|HTML
+|AMCV_#
+|goodmorningamerica.com
+|Unique user ID that recognizes the user on returning visits
+|2 years
+|HTTP
+|__utm.gif
+|google-analytics.com
+|Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+|Session
+|Pixel
+|__qca [x2]
+|littlstar.com
+wdwmagic.com
+|Collects anonymous data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.
+|1 year
+|HTTP
+|_ga
+|littlstar.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|2 years
+|HTTP
+|_gat
+|littlstar.com
+|Used by Google Analytics to throttle request rate
+|1 day
+|HTTP
+|_gid
+|littlstar.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|1 day
+|HTTP
+|data
+|media.net
+|This cookie is set by the audience manager of the website to determine the time and frequencies of visitor data synchronization - cookie data synchronization is used to synchronize and gather visitor data from several websites.
+|1 year
+|HTTP
+|visitor-id
+|media.net
+|This cookie is used to collect information on the visitor. This information will be stored for internal analytics at the website's operator – Internal analytics is used by websites to optimize their domains.
+|1 year
+|HTTP
+|PugT
+|pubmatic.com
+|Used to determine the number of times the cookies have been updated in the visitor's browser. Used to optimize the website's server efficiency.
+|29 days
+|HTTP
+|d
+|quantserve.com
+|Collects anonymous data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.
+|3 months
+|HTTP
+|personalization_id
+|twitter.com
+|This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+|2 years
+|HTTP
+|ouuid
+|volvelle.tech
+|Contains an visitor ID - This is used to identify the visitor upon re-entry to the website.
+|1 year
+|HTTP
+|__utma
+|wdwmagic.com
+|Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+|2 years
+|HTTP
+|__utmb
+|wdwmagic.com
+|Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+|1 day
+|HTTP
+|__utmc
+|wdwmagic.com
+|Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+|Session
+|HTTP
+|__utmt
+|wdwmagic.com
+|Used to throttle the speed of requests to the server.
+|1 day
+|HTTP
+|__utmv
+|wdwmagic.com
+|Saves user-defined tracking parameters for use in Google Analytics.
+|1 day
+|HTTP
+|__utmz
+|wdwmagic.com
+|Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+|6 months
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|tuuid [x8]
+|254a.com
+4finance.com
+admedo.com
+bidswitch.net
+creative-serving.com
+mfadsrvr.com
+programattik.com
+r.scoota.co
+|Collects unidentifiable data that is sent to an unidentifiable source. The source's identity is kept secret by the company, Perfect Privacy LLC.
+|3 months
+|HTTP
+|tuuid_lu [x8]
+|254a.com
+4finance.com
+admedo.com
+bidswitch.net
+creative-serving.com
+mfadsrvr.com
+programattik.com
+r.scoota.co
+|Contains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites. This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times.
+|3 months
+|HTTP
+|tluid
+|3lift.com
+|This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.
+|3 months
+|HTTP
+|bsw_uid [x2]
+|4finance.com
+mfadsrvr.com
+|Used to identify the visitor across visits and devices. This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|1 year
+|HTTP
+|auid
+|acuityplatform.com
+|Registers a unique user ID that recognises the user's browser when visiting websites that show ads from the same ad network. The cookie is used to collect statistical data of the visitor's movements and to generate targeted ads.
+|68 years
+|HTTP
+|na_id
+|addthis.com
+|Used to recognize the visitor upon re-entry. This allows the website to register the visitor’s behaviour and facilitate the social sharing function provided by Addthis.com.
+|13 months
+|HTTP
+|na_rn
+|addthis.com
+|Used to recognize the visitor upon re-entry. This allows the website to register the visitor’s behaviour and facilitate the social sharing function provided by Addthis.com.
+|29 days
+|HTTP
+|na_sc_e
+|addthis.com
+|Used to recognize the visitor upon re-entry. This allows the website to register the visitor’s behaviour and facilitate the social sharing function provided by Addthis.com.
+|29 days
+|HTTP
+|na_sr
+|addthis.com
+|Used to recognize the visitor upon re-entry. This allows the website to register the visitor’s behaviour and facilitate the social sharing function provided by Addthis.com.
+|29 days
+|HTTP
+|na_srp
+|addthis.com
+|Used to recognize the visitor upon re-entry. This allows the website to register the visitor’s behaviour and facilitate the social sharing function provided by Addthis.com.
+|1 day
+|HTTP
+|na_tc
+|addthis.com
+|Used to recognize the visitor upon re-entry. This allows the website to register the visitor’s behaviour and facilitate the social sharing function provided by Addthis.com.
+|13 months
+|HTTP
+|ouid
+|addthis.com
+|Sets an ID-string for the specific visitor. This is used to recognize the visitor upon re-entry. This allows the website to register the visitor’s behaviour and facilitate the social media sharing function provided by Addthis.com.
+|13 months
+|HTTP
+|uid [x7]
+|addthis.com
+adform.net
+adotmob.com
+connectad.io
+simpli.fi
+turn.com
+unrulymedia.com
+|Creates a unique, machine-generated user ID. AddThis, which is owned by Clearspring Technologies, uses the user ID to make it possible for the user to share content across social networks and provide detailed statistics to various providers.
+|13 months
+|HTTP
+|serving/cookie/match
+|adform.net
+|Used to determine if the visitor should be presented to popup-advertisement content on the website. This also allows the website to detect if an adblocker is present in the visitor’s browser.
+|Session
+|Pixel
+|bsw_sync
+|adhigh.net
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|1 year
+|HTTP
+|gi_u
+|adhigh.net
+|Used for targeted ads and to document efficacy of each individual ad.
+|1 year
+|HTTP
+|pubmatic_sync
+|adhigh.net
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|1 year
+|HTTP
+|UserID1
+|adition.com
+|This cookie is used to collect information on a visitor. This information will become an ID string with information on a specific visitor – ID information strings can be used to target groups with similar preferences, or can be used by third-party domains or ad-exchanges.
+|179 days
+|HTTP
+|am-uid
+|admixer.net
+|This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.
+|2 years
+|HTTP
+|anj
+|adnxs.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|3 months
+|HTTP
+|icu
+|adnxs.com
+|Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.
+|3 months
+|HTTP
+|uuid2
+|adnxs.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|3 months
+|HTTP
+|uuid [x4]
+|adotmob.com
+avocet.io
+innovid.com
+mathtag.com
+|This cookie is used to optimize ad relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.
+|1 year
+|HTTP
+|TDCPM
+|adsrvr.org
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|1 year
+|HTTP
+|TDID
+|adsrvr.org
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|1 year
+|HTTP
+|track/cmf/openx
+|adsrvr.org
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel
+|u [x3]
+|agkn.com
+erne.co
+creativecdn.com
+|Collects data on user visits to the website, such as what pages have been accessed. The registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing.
+|1 year
+|HTTP
+|ad-id
+|amazon-adsystem.com
+|Used by Amazon Advertising to register user actions and target content on the website based on ad clicks on a different website.
+|259 days
+|HTTP
+|ad-privacy
+|amazon-adsystem.com
+|Used by Amazon Advertising to register user actions and target content on the website based on ad clicks on a different website.
+|1904 days
+|HTTP
+|ATN
+|atdmt.com
+|Targets ads based on behavioural profiling and geographical location.
+|2 years
+|HTTP
+|bito
+|bidr.io
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 year
+|HTTP
+|google_push
+|bidswitch.net
+|Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+|1 day
+|HTTP
+|sync
+|bidswitch.net
+|Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+|Session
+|Pixel
+|ANONCHK
+|bing.com
+|Registers data on visitors from multiple visits and on multiple websites. This information is used to measure the efficiency of advertisement on websites.
+|1 day
+|HTTP
+|MUID
+|bing.com
+|Used widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains.
+|1 year
+|HTTP
+|MUIDB
+|bing.com
+|Registers data on visitors from multiple visits and on multiple websites. This information is used to measure the efficiency of advertisement on websites.
+|1 year
+|HTTP
+|b
+|blismedia.com
+|Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+|1 year
+|HTTP
+|pixel/cookiesync
+|bttrack.com
+|Detects whether partner data synchronization is functioning and currently running - This function sends user data between third-party advertisement companies for the purpose of targeted advertisements.
+|Session
+|Pixel
+|CMID
+|casalemedia.com
+|Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|1 year
+|HTTP
+|CMPRO
+|casalemedia.com
+|Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.
+|3 months
+|HTTP
+|CMPS
+|casalemedia.com
+|Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|3 months
+|HTTP
+|CMRUM3
+|casalemedia.com
+|Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|1 year
+|HTTP
+|CMST
+|casalemedia.com
+|Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|1 day
+|HTTP
+|CMSUM
+|casalemedia.com
+|Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.
+|1 year
+|HTTP
+|rum
+|casalemedia.com
+|Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|Session
+|Pixel
+|tuuid_new
+|clrstm.com
+|Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.
+|2 years
+|HTTP
+|tuuid_new_lu
+|clrstm.com
+|Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.
+|2 years
+|HTTP
+|colid
+|colpirio.com
+|Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.
+|3 months
+|HTTP
+|_dbefe
+|contextweb.com
+|Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.
+|Session
+|HTTP
+|_cc_aud
+|crwdcntrl.net
+|Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+|269 days
+|HTTP
+|_cc_cc
+|crwdcntrl.net
+|Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+|Session
+|HTTP
+|_cc_dc
+|crwdcntrl.net
+|Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+|270 days
+|HTTP
+|_cc_id
+|crwdcntrl.net
+|Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+|270 days
+|HTTP
+|cid_#
+|ctnsnet.com
+|Collects unidentifiable data that is sent to an unidentifiable source. The source's identity is kept secret by the company, Whois Privacy Protection Service, Inc.
+|1 year
+|HTTP
+|getuid/pubmatic
+|de17a.com
+|Detects whether partner data synchronization is functioning and currently running - This function sends user data between third-party advertisement companies for the purpose of targeted advertisements.
+|Session
+|Pixel
+|CDIUSER
+|deepintent.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|2 years
+|HTTP
+|demdex
+|demdex.net
+|Via a unique ID that is used for semantic content analysis, the user's navigation on the website is registered and linked to offline data from surveys and similar registrations to display targeted ads.
+|179 days
+|HTTP
+|dpm
+|demdex.net
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|179 days
+|HTTP
+|_dm_uid
+|districtm.io
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|13 days
+|HTTP
+|DSID
+|doubleclick.net
+|Used by Google DoubleClick for re-targeting, optimisation, reporting and attribution of online adverts.
+|1 day
+|HTTP
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|r/collect
+|doubleclick.net
+|This cookie is used to send data to Google Analytics about the visitor's device and behavior. It tracks the visitor across devices and marketing channels.
+|Session
+|Pixel
+|euid [x2]
+|emerse.com
+emxdgt.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|1 year
+|HTTP
+|EQUser
+|eqads.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|3 months
+|HTTP
+|everest_g_v2
+|everesttech.net
+|Used for targeted ads and to document efficacy of each individual ad.
+|1 year
+|HTTP
+|everest_session_v2
+|everesttech.net
+|Used for targeted ads and to document efficacy of each individual ad.
+|Session
+|HTTP
+|gglck
+|everesttech.net
+|Used for targeted ads and to document efficacy of each individual ad.
+|29 days
+|HTTP
+|extendtv_user_id
+|extend.tv
+|Collects data on visitor interaction with the website's video-content - This data is used to make the website's video-content more relevant towards the visitor.
+|2 years
+|HTTP
+|mako_uid
+|eyeota.net
+|Collects data on user visits to the website, such as what pages have been accessed. The registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing.
+|1 year
+|HTTP
+|match
+|eyeota.net
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|Session
+|Pixel
+|ONPLFTRH
+|eyeota.net
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|Session
+|HTTP
+|sec
+|eyeota.net
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|1 year
+|HTTP
+|__ev_uid
+|eyeviewads.com
+|Registers a unique ID that identifies the user's device during return visits. Used for conversion tracking and to measure the efficacy of online ads.
+|6 years
+|HTTP
+|fr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|tr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|Session
+|Pixel
+|_chartbeat2
+|goodmorningamerica.com
+|Used by the web analytics company Chartbeat to register whether the user has visited the website before.
+|1 year
+|HTML
+|_chartbeat2_expires
+|goodmorningamerica.com
+|Used by the web analytics company Chartbeat to register whether the user has visited the website before.
+|Persistent
+|HTML
+|_fbp [x3]
+|goodmorningamerica.com
+littlstar.com
+wdwmagic.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|_gcl_au
+|goodmorningamerica.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|3 months
+|HTTP
+|_v__chartbeat3
+|goodmorningamerica.com
+|Contains data on user navigation, interaction and time spent on the website and its sub-pages - This data is used to optimise the relevance of advertisements and for statistical purposes.
+|1 year
+|HTML
+|_v__chartbeat3_expires
+|goodmorningamerica.com
+|Contains data on user navigation, interaction and time spent on the website and its sub-pages - This data is used to optimise the relevance of advertisements and for statistical purposes.
+|Persistent
+|HTML
+|GED_PLAYLIST_ACTIVITY
+|goodmorningamerica.com
+|This cookie is set to count the number of times a specific visitor is shown a specific ad – the cookie enables the advertisers to differentiate the specific ads shown and thereby making the advertising more efficient.
+|Session
+|HTTP
+|1P_JAR
+|google.com
+|Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.
+|29 days
+|HTTP
+|NID
+|google.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|6 months
+|HTTP
+|pcs/activeview
+|googlesyndication.com
+|Used by DoubleClick to determine whether website advertisement has been properly displayed - This is done to make their marketing efforts more efficient.
+|Session
+|Pixel
+|vst
+|gumgum.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|1 year
+|HTTP
+|vid
+|hybrid.ai
+|Collects data on visitor interaction with the website's video-content - This data is used to make the website's video-content more relevant towards the visitor.
+|60 years
+|HTTP
+|ibbid
+|ibillboard.com
+|This cookie is used to collect information on a visitor. This information will become an ID string with information on a specific visitor – ID information strings can be used to target groups with similar preferences, or can be used by third-party domains or ad-exchanges.
+|1 year
+|HTTP
+|bridge
+|adgrx.com
+|Pending
+|Session
+|Pixel
+|partners
+|adotmob.com
+|Pending
+|1 year
+|HTTP
+|track/cmf/casale
+|adsrvr.org
+|Pending
+|Session
+|Pixel
+|s/ecm3
+|amazon-adsystem.com
+|Pending
+|Session
+|Pixel
+|cc
+|bannerflow.com
+|Pending
+|29 days
+|HTTP
+|__ab12# [x2]
+|bidtheatre.com
+wdwmagic.com
+|Pending
+|6 days
+|HTTP
+|site/#
+|bluekai.com
+|Pending
+|Session
+|Pixel
+|cmap/c
+|crwdcntrl.net
+|Pending
+|Session
+|Pixel
+|gmap
+|crwdcntrl.net
+|Pending
+|Session
+|Pixel
+|108
+|deepintent.com
+|Pending
+|2 years
+|HTTP
+|init
+|districtm.io
+|Pending
+|Persistent
+|HTML
+|nextrefresh
+|districtm.io
+|Pending
+|Persistent
+|HTML
+|t
+|districtm.io
+|Pending
+|Session
+|HTTP
+|adnw_prebid:#
+|goodmorningamerica.com
+|Pending
+|Persistent
+|HTML
+|loc
+|gumgum.com
+|Pending
+|29 days
+|HTTP
+|IXAI#
+|insightexpressai.com
+|Pending
+|2 years
+|HTTP
+|TID
+|insightexpressai.com
+|Pending
+|2 years
+|HTTP
+|adx [x2]
+|m6r.eu
+pxl.iqm.com
+|Pending
+|1 day
+|HTTP
+|log
+|media.net
+|Pending
+|Session
+|Pixel
+|ruuid
+|metadsp.co.uk
+|Pending
+|1 year
+|HTTP
+|ruuid_lu
+|metadsp.co.uk
+|Pending
+|1 year
+|HTTP
+|syncdata_#
+|mookie1.com
+|Pending
+|9 days
+|HTTP
+|sync/dds
+|openx.net
+|Pending
+|Session
+|Pixel
+|v
+|openx.net
+|Pending
+|1 day
+|HTTP
+|cookieJartestCookie
+|outbrain.com
+|Pending
+|1 day
+|HTTP
+|ssps:#
+|powerlinks.com
+|Pending
+|4 days
+|HTTP
+|_fsuid [x2]
+|pub.network
+wdwmagic.com
+|Pending
+|2 years
+|HTTP
+|chk
+|pubmatic.com
+|Pending
+|3 months
+|HTTP
+|DPSync3
+|pubmatic.com
+|Pending
+|3 months
+|HTTP
+|pp
+|pubmatic.com
+|Pending
+|3 months
+|HTTP
+|SyncRTB3
+|pubmatic.com
+|Pending
+|3 months
+|HTTP
+|#.gif
+|rlcdn.com
+|Pending
+|Session
+|Pixel
+|emilyRan
+|rubiconproject.com
+|Pending
+|Session
+|HTML
+|S_#
+|serving-sys.com
+|Pending
+|1 day
+|HTTP
+|https://p.skimresources.com/
+|skimresources.com
+|Pending
+|Session
+|Pixel
+|partner
+|spotxchange.com
+|Pending
+|Session
+|Pixel
+|svResp
+|survata.com
+|Pending
+|6 months
+|HTTP
+|__widgetsettings
+|twitter.com
+|Pending
+|Persistent
+|HTML
+|audience/blank.gif
+|unrulymedia.com
+|Pending
+|Session
+|Pixel
+|blank.gif
+|unrulymedia.com
+|Pending
+|Session
+|Pixel
+|td
+|unrulymedia.com
+|Pending
+|1 year
+|HTTP
+|unruly_m#
+|unrulymedia.com
+|Pending
+|6 days
+|HTTP
+|unruly_u
+|unrulymedia.com
+|Pending
+|1 year
+|HTTP
+|sync/put/ltm
+|userreport.com
+|Pending
+|Session
+|Pixel
+|_fsloc
+|wdwmagic.com
+|Pending
+|29 days
+|HTTP
+|_fssid
+|wdwmagic.com
+|Pending
+|1 day
+|HTTP
+|fsbotchecked
+|wdwmagic.com
+|Pending
+|Session
+|HTTP
+|fssts
+|wdwmagic.com
+|Pending
+|1 day
+|HTTP
+|DW
+|insightexpressai.com
+|Used for targeted ads and to document efficacy of each individual ad.
+|2 years
+|HTTP
+|DW_Time
+|insightexpressai.com
+|Used for targeted ads and to document efficacy of each individual ad.
+|2 years
+|HTTP
+|cu
+|ipredictive.com
+|Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.
+|1 year
+|HTTP
+|jpxumaster
+|justpremium.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|30 days
+|HTTP
+|jpxumatched
+|justpremium.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|1 day
+|HTTP
+|_kuid_
+|krxd.net
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|179 days
+|HTTP
+|ljt_reader
+|lijit.com
+|Collects data related to reader interests, context, demographics and other information on behalf of the Lijit platform with the purpose of finding interested users on websites with related content.
+|1 year
+|HTTP
+|viewer_token
+|loopme.me
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|30 days
+|HTTP
+|mt_mop
+|mathtag.com
+|Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads.
+|29 days
+|HTTP
+|uuidc
+|mathtag.com
+|Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads.
+|1 year
+|HTTP
+|data-mm
+|media.net
+|This cookie is used to optimize ad relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.
+|1 year
+|HTTP
+|gdpr_status
+|media.net
+|Determines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry.
+|6 months
+|HTTP
+|pi [x2]
+|ml314.com
+pubmatic.com
+|Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.
+|1 year
+|HTTP
+|utsync.ashx
+|ml314.com
+|This cookie is set by the audience manager of the website to determine the time and frequencies of visitor data synchronization - cookie data synchronization is used to synchronize and gather visitor data from several websites.
+|Session
+|Pixel
+|mdata
+|mookie1.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|1 year
+|HTTP
+|dsp_id
+|netmng.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|6 months
+|HTTP
+|_nauid
+|nrich.ai
+|Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.
+|1 year
+|HTTP
+|i
+|openx.net
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|1 year
+|HTTP
+|pd
+|openx.net
+|Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.
+|14 days
+|HTTP
+|w/1.0/sd
+|openx.net
+|Registers data on visitors such as IP addresses, geographical location and advertisement interaction. This information is used optimize the advertisement on websites that make use of OpenX.net services.
+|Session
+|Pixel
+|bdswch
+|outbrain.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|3 months
+|HTTP
+|obuid
+|outbrain.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|3 months
+|HTTP
+|pl_user_id
+|powerlinks.com
+|This cookie registers data on the visitor. The information is used to optimize advertisement relevance.
+|3 months
+|HTTP
+|AdServer/Pug
+|pubmatic.com
+|Sets a timestamp for when the visitor entered the website. This is used for analytical purposes on the website.
+|Session
+|Pixel
+|f5_cspm
+|pubmatic.com
+|Saves the address and port number of the web server that is managing the session. Used to improve the website's performance security.
+|Session
+|HTTP
+|KADUSERCOOKIE
+|pubmatic.com
+|Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.
+|3 months
+|HTTP
+|KCCH
+|pubmatic.com
+|Registers if the PubMatic partner-cookie has been set in the user's browser.
+|1 day
+|HTTP
+|KRTBCOOKIE_#
+|pubmatic.com
+|Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.
+|29 days
+|HTTP
+|KTPCACOOKIE
+|pubmatic.com
+|Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.
+|3 months
+|HTTP
+|PMDTSHR
+|pubmatic.com
+|Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.
+|1 day
+|HTTP
+|PMFREQ_ON
+|pubmatic.com
+|This cookie is used in conjunction with the functionality of the ad-delivery system on the website.
+|1 day
+|HTTP
+|PUBMDCID
+|pubmatic.com
+|Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.
+|3 months
+|HTTP
+|SPugT
+|pubmatic.com
+|Used in context with the shopping cart functionality. Remembers any wish-list products and visitor credentials when checking out.
+|29 days
+|HTTP
+|dpixel
+|quantserve.com
+|Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+|Session
+|Pixel
+|mc
+|quantserve.com
+|Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads.
+|13 months
+|HTTP
+|eud
+|rfihub.com
+|Registers user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|1 year
+|HTTP
+|euds
+|rfihub.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|Session
+|HTTP
+|rud
+|rfihub.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|1 year
+|HTTP
+|ruds
+|rfihub.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|Session
+|HTTP
+|smd
+|rfihub.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|1 year
+|HTTP
+|pxrc
+|rlcdn.com
+|This cookie registers data on the visitor. The information is used to optimize advertisement relevance.
+|2 months
+|HTTP
+|rlas3
+|rlcdn.com
+|Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|1 year
+|HTTP
+|sync/openx/5d1ea74e-3998-ea9d-ccd1-882fd5d5ad81
+|yahoo.com
+|Pending
+|Session
+|Pixel
+|sync/openx/706b4578-016b-ea20-efa1-0bf100f8d10b
+|yahoo.com
+|Pending
+|Session
+|Pixel
+|sync/openx/8ccddd92-e9c0-e174-c6c7-374047ea5336
+|yahoo.com
+|Pending
+|Session
+|Pixel
+|sync/openx/e3e355ab-794a-e5f5-c4b4-cc9ca2d9363c
+|yahoo.com
+|Pending
+|Session
+|Pixel
+|sync/openx/fb29ae67-2877-ea67-d557-202832727d49
+|yahoo.com
+|Pending
+|Session
+|Pixel
+|sync/pubmatic/A5A14552-AA21-4D0E-B5A7-59113D6AFAE5
+|yahoo.com
+|Pending
+|Session
+|Pixel
+|browser_id
+|rqtrk.eu
+|Used to recognise the visitor's browser upon reentry on the website.
+|6 days
+|HTTP
+|cd
+|rubiconproject.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|Session
+|HTTP
+|RUN_ID
+|rundsp.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|3 months
+|HTTP
+|RUN_SYNC_2
+|rundsp.com
+|This cookie is set by the audience manager of the website to determine the time and frequencies of visitor data synchronization - cookie data synchronization is used to synchronize and gather visitor data from several websites.
+|29 days
+|HTTP
+|UID
+|scorecardresearch.com
+|Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.
+|2 years
+|HTTP
+|UIDR
+|scorecardresearch.com
+|Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.
+|2 years
+|HTTP
+|A6
+|serving-sys.com
+|Registers data on visitors from multiple visits and on multiple websites. This information is used to measure the efficiency of advertisement on websites.
+|3 months
+|HTTP
+|u2
+|serving-sys.com
+|Collects data related to the user's navigation visits to webpages in order to assess the efficacy of ads that are displayed on the website.
+|3 months
+|HTTP
+|skimCSP
+|skimresources.com
+|This cookie registers data on the visitor. The information is used to optimize advertisement relevance.
+|1 year
+|HTTP
+|skimGUID
+|skimresources.com
+|Assigns a specific ID to the visitor - This allows the website to determine the number of specific user-visits for analysis and statistics.
+|1 year
+|HTTP
+|smxdc
+|smadex.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|14 days
+|HTTP
+|smxtrack
+|smadex.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|1 year
+|HTTP
+|pid
+|smartadserver.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|13 months
+|HTTP
+|zuuid
+|sportradarserving.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|1 year
+|HTTP
+|zuuid_lu
+|sportradarserving.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 year
+|HTTP
+|audience
+|spotxchange.com
+|Used to determine whether the video-ads have been displayed correctly on the website - This is done to make video-ads more effective and ensure that the visitor is not shown the same ads more times than intended. The cookie also detects whether the visitor has any Do Not Track preferences.
+|1 year
+|HTTP
+|sa-user-id
+|stackadapt.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|5 years
+|HTTP
+|sa-user-id-v2
+|stackadapt.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|5 years
+|HTTP
+|t_gid
+|taboola.com
+|This cookie assigns a specific visitor ID, when the visitor interacts with ads or content from the website - this allows the website to target the visitor with similar ads or content.
+|1 year
+|HTTP
+|TapAd_DID
+|tapad.com
+|Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.
+|2 months
+|HTTP
+|TapAd_TS
+|tapad.com
+|Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.
+|2 months
+|HTTP
+|sync-his
+|tidaltv.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 year
+|HTTP
+|tidal_ttid
+|tidaltv.com
+|Registers the ads provided by Videology that the user has seen and/or clicked. Used to generate a demographic profile of the user.
+|1 year
+|HTTP
+|ANON_ID
+|tribalfusion.com
+|Collects data on user visits to the website, such as what pages have been accessed. The registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing.
+|3 months
+|HTTP
+|i/jot
+|twitter.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|Session
+|Pixel
+|tc
+|unrulymedia.com
+|Contains data on user navigation, interaction and time spent on the website and its sub-pages - This data is used to optimise the relevance of advertisements and for statistical purposes.
+|1 year
+|HTTP
+|ouuid_lu
+|volvelle.tech
+|Used in context with the "Ouuid" cookie in order to retarget the visitor with relevant ads or product promotions.
+|1 year
+|HTTP
+|matchbidswitch
+|w55c.net
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|29 days
+|HTTP
+|matchcasale
+|w55c.net
+|Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads.
+|29 days
+|HTTP
+|matchopenx
+|w55c.net
+|Regulates synchronisation of user identification and exchange of user data between various ad services.
+|29 days
+|HTTP
+|matchpubmatic
+|w55c.net
+|Regulates synchronisation of user identification and exchange of user data between various ad services.
+|29 days
+|HTTP
+|wfivefivec
+|w55c.net
+|Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads.
+|13 months
+|HTTP
+|google_adsense_settings
+|wdwmagic.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|Persistent
+|HTML
+|google_experiment_mod
+|wdwmagic.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|Persistent
+|HTML
+|google_experiment_mod5
+|wdwmagic.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|Persistent
+|HTML
+|google_experiment_mod6
+|wdwmagic.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|Persistent
+|HTML
+|google_experiment_mod7
+|wdwmagic.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|Persistent
+|HTML
+|GoogleAdServingTest
+|wdwmagic.com
+|Used to register what ads have been displayed to the user.
+|Session
+|HTTP
+|gwsi
+|widespace.com
+|Registers data on visitors from multiple visits and on multiple websites. This information is used to measure the efficiency of advertisement on websites.
+|1 year
+|HTTP
+|B
+|yahoo.com
+|Collects anonymous data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The registered data is used to categorise the users' interest and demographical profiles with the purpose of customising the website content depending on the visitor.
+|1 year
+|HTTP
+|GPS
+|youtube.com
+|Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+|1 day
+|HTTP
+|PREF
+|youtube.com
+|Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+|8 months
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+|179 days
+|HTTP
+|YSC
+|youtube.com
+|Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|zuid
+|zemanta.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 year
+|HTTP
+|cicouid
+|zorosrv.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|1 year
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|avnguid
+|advangelists.com
+|Pending
+|1 year
+|HTTP
+|dt [x2]
+|biddr.brealtime.com
+emxdgt.com
+|Pending
+|Session
+|HTTP
+|(unnamed)
+|cdn.connectad.io
+|Pending
+|1 day
+|HTTP
+|ts
+|creativecdn.com
+|Pending
+|1 year
+|HTTP
+|cm/api/index
+|dmp.brand-display.com
+|Pending
+|Session
+|Pixel
+|d15
+|e1.emxdgt.com
+|Pending
+|1 day
+|HTTP
+|d20
+|e1.emxdgt.com
+|Pending
+|1 day
+|HTTP
+|d21
+|e1.emxdgt.com
+|Pending
+|1 day
+|HTTP
+|d27
+|e1.emxdgt.com
+|Pending
+|1 day
+|HTTP
+|d30
+|e1.emxdgt.com
+|Pending
+|1 day
+|HTTP
+|d31
+|e1.emxdgt.com
+|Pending
+|1 day
+|HTTP
+|d5
+|e1.emxdgt.com
+|Pending
+|1 day
+|HTTP
+|d8
+|e1.emxdgt.com
+|Pending
+|1 day
+|HTTP
+|ps [x2]
+|e1.emxdgt.com
+emxdgt.com
+|Pending
+|1 day
+|HTTP
+|put
+|e1.emxdgt.com
+|Pending
+|Session
+|Pixel
+|eapn_id
+|emxdgt.com
+|Pending
+|3 months
+|HTTP
+|akamai_amp
+|goodmorningamerica.com
+|Pending
+|Persistent
+|HTML
+|uids
+|prebid.pub.network
+|Pending
+|3 months
+|HTTP
+|districtm
+|pxl.iqm.com
+|Pending
+|29 days
+|HTTP
+|indexch
+|pxl.iqm.com
+|Pending
+|29 days
+|HTTP
+|iqm.retarget.uid
+|pxl.iqm.com
+|Pending
+|29 days
+|HTTP
+|liveramp
+|pxl.iqm.com
+|Pending
+|29 days
+|HTTP
+|smxbds
+|smadex.com
+|Pending
+|9 days
+|HTTP
+|oil_cookie_exp
+|sync-eu.connectad.io
+|Pending
+|Session
+|HTTP
+|oil_data
+|sync-eu.connectad.io
+|Pending
+|30 days
+|HTTP
+|tads_uid
+|technoratimedia.com
+|Pending
+|5 years
+|HTTP
+|_pubcid
+|wdwmagic.com
+|Pending
+|Persistent
+|HTML
+|_pubcid_exp
+|wdwmagic.com
+|Pending
+|Persistent
+|HTML
+|df-networkMap
+|wdwmagic.com
+|Pending
+|Session
+|HTML
+|df-ranges
+|wdwmagic.com
+|Pending
+|Session
+|HTML
+|google_experiment_mod11
+|wdwmagic.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod12
+|wdwmagic.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod13
+|wdwmagic.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod14
+|wdwmagic.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod15
+|wdwmagic.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod16
+|wdwmagic.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod17
+|wdwmagic.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod18
+|wdwmagic.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod19
+|wdwmagic.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod21
+|wdwmagic.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod4
+|wdwmagic.com
+|Pending
+|Persistent
+|HTML
+|google_pem_mod
+|wdwmagic.com
+|Pending
+|Persistent
+|HTML

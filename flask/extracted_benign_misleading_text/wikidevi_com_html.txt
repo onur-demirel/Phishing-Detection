@@ -1,0 +1,7 @@
+WikiDevi will be going offline 2019-10-31. For historical dumps of the database, see 'WikiDevi' @ the Internet Archive (MW XML, Files, Images).
+Final dumps will be made available after the site goes offline.
+There is no chance the data will not live on, in some form - even if it isn't 'WikiDevi' anymore. For example, see TechInfoDepot.
+Main Page
+|
+|
+State of the Database

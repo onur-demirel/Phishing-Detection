@@ -1,0 +1,14 @@
+<p class="jsDisabled">JavaScript must be enabled in order to use webmail interface.<br/> However, it seems JavaScript is either disabled or not supported by your browser.<br> To use webmail, enable JavaScript by changing your browser options, then try again.</p>
+Your
+TELUS Webmail
+Log in
+Email/Username
+Password
+Forgot?
+Show
+Enter the following text:
+Invalid text!
+Remember me
+Top tips to improve your safety online
+Learn more
+Need help?

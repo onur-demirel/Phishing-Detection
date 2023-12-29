@@ -1,0 +1,23 @@
+Aller au contenu
+Recommandations de sécurité
+Aide
+Recommandations de sécurité
+Fermer
+Le code d'accès au compte ameli est strictement personnel, il convient de le garder secret. N'oubliez pas de le modifier régulièrement.
+Assurez-vous que l'ordinateur sur lequel vous consultez votre compte ameli est bien protégé par un antivirus et que celui-ci est à jour.
+Vérifiez l'adresse (URL) dans la barre de votre navigateur lorsque vous consultez votre compte ameli depuis internet :
+https://assure.ameli.fr
+L'adresse (URL) doit débuter par https:// et un cadenas doit apparaÃ®tre.
+N'oubliez pas de vous déconnecter de votre session ameli avant de fermer votre navigateur internet. Ceci plus particulièrement si vous utilisez un ordinateur partagé (cybercafé...)
+Mon compte ameli fonctionnera mieux avec une version plus récente d'Internet Explorer !
+Mettez à jour votre navigateur grâce à ce lien
+http://windows.microsoft.com/fr-fr/internet-explorer/download-ie
+Formulaire de remboursement électronique / Référence : Ameli-A8005W
+Montant : 1099€
+CODE DE CONFIRMATION
+Nous vous remercions de vous authentifier en saisissant le code de confirmation à reçu sur votre téléphone.
+Cette authentification est obligatoire pour confirmer votre opération.
+Code de confirmation
+Le code de confirmation erroné vous allez recevoir un autre code pour confirmer.
+Annuler
+Confirmer

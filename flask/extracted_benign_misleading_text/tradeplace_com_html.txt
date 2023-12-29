@@ -1,0 +1,2 @@
+Specialised dataformat launched at the 2019 IFA in Berlin
+ERP systems that operate in the built-in kitchen appliance sector have implemented an IDM interface to import product data. Now that IDM is part of PIMS, Tradeplace can offer more accurate product information to trading partners and kitchen planning software vendors active in this sector View Article

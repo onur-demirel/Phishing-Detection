@@ -1,0 +1,27 @@
+How Predix Works
+Predix helps you develop, deploy, and operate industrial apps at the edge and in the cloud. Securely connect machines, data, and analytics to improve operational efficiency.
+Connect machines
+Collect key industrial data from your machines and stream it to the Predix cloud.
+Develop in the Predix cloud
+Build with Industrial Internet services and development tools in secure environments.
+Deliver custom apps
+Apply predictive analytics to create and scale apps that optimize business.
+Everything You Need to Build IIoT Apps
+THE PREDIX SYSTEM
+The Predix System™ provides the software architecture and services required to make any machine an intelligent asset - bringing actionable insights to every part of industrial infrastructure and operations.
+SECURITY
+Predix built-in security limits risk, adds control, and enhances visibility in your ecosystem. You can connect with confidence, knowing your data, processes, and outcomes are delivered in a safe environment.
+INDUSTRIAL ANALYTICS
+Predix provides data management and data science tools for predictive analysis of industrial assets and processes. This lets you improve business performance and avoid asset downtime.
+DIGITAL TWINS
+Predix simplifies creating dynamic digital models of physical assets and systems. This helps you build and operate your own digital twin apps, and gain knowledge and insights about performance and predictions of future operations.
+MACHINE LEARNING
+You can analyze almost any data stream from any machine or test equipment connected to the Predix cloud to create an automated analytics model for monitoring, diagnostics, predictions, and control.
+MOBILE APPS
+Designed to work everywhere and keep data synchronized with backend systems and other devices, Predix mobile provides cross platform SDKs and a mobile service for building always-available apps.
+Predix is designed by builders for builders
+We've built a comprehensive platform and development environment for you with all the right services, tools, techniques, and supporting community to create innovative industrial IoT apps.
+Predix is readymade for you to manage and implement the latest, most meaningful statistical analysis, data mining, and retrieval processes for Big Data that help identify key insights and trends.
+Predix tools and techniques help you develop edge software solutions that seamlessly connect intelligent machines securely to the cloud for apt remote monitoring, diagnostics, and control.
+Predix in Action
+See how teams deploy Predix across various industries to solve hands-on, real-world needs - while saving costs and building better outcomes.Learn More

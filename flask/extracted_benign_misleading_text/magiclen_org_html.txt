@@ -1,0 +1,1 @@
+如何使用Travis CI來和測試Rust的程式專案？ 2019 年 10 月 22 日 Magic Len Rust、研究分享、網站應用為了確保我們commit到GitHub上的Rust程式是可以正常工作的，我們可以替程式專案加入CI(持續整合，Continuous Integration)。Rust的crates.io線上套件庫也可以放上各種CI的狀態徽章(badge)，提供開發者在選用套件時一個參考，避免用到連套件作者自己寫的測試都測不過的套件。Travis CI是對於Rust程式語言親和力比較高的CI，這篇文章將會針對Rus...繼續閱讀 Continuous Integration、GitHub、Rust、Travis CI

@@ -1,0 +1,27 @@
+Nextcloud Files offers an on-premise Universal File Access and sync platform with powerful collaboration capabilities and desktop, mobile and web interfaces.Learn more
+Nextcloud Talk delivers on-premises, private audio/video conferencing and text chat through browser and mobile interfaces with integrated screen sharing and SIP integration.Learn more
+Nextcloud Groupware integrates Calendar, Contacts, Mail and other productivity features to help teams get their work done faster, easier and on your terms.Learn more
+the most popular self-hosted collaboration solution for tens of millions of users at thousands of organizations across the globe
+Protect, control and monitor data and communication across your company. Guarantee compliance with business and legal requirements. Keep your data on servers you own, at all times. Nothing leaks, not even metadata.
+Enable productivity across any platform, whether in the office or on the road, to share, collaborate and communicate across organizational boundaries. Nextcloud provides transparent access to data on any storage.
+Enjoy constant improvements from a thriving and transparent, entirely open-source community development model, free of lockins or paywalls. Enjoy the benefits of enterprise support when you need it.
+Your teams are using email attachments, public chat apps and consumer file sharing tools to communicate and collaborate. Regain control with Nextcloud.
+Nextcloud is committed to provide technology that is a perfect fit for your organization!
+Nextcloud provides the highest security for protected health information.
+Nextcloud has unique features for research and academic institutions.
+Nextcloud delivers confidentiality, security and compliance.
+Nextcloud offers the ultimate control to protect digital sovereignty in Government.
+Scale Nextcloud to hundreds of millions of users at comodity cost.
+Securely conduct transactions using an on-premises Nextcloud virtual data room.
+Nextcloud provides easy and efficient collaboration on large files.
+Nextcloud assures your clients that their documents stay 100% confidential.
+Construction and manufacturing
+Nextcloud has the easy, efficient UI engineers need to deliver on time.
+Thanks to build in support, remote wipe will work on devices not under MDM management like from guest users or students at universities. Users can wipe their own devices individually, admins can wipe all devices from a user.
+Our new distraction-free, collaborative rich-text editor makes taking notes or jotting down thoughts from a brainstorm and working with others on them easier than ever before.
+Nextcloud 17 can protect the confidentiality of documents with advanced watermarking and a secure mailbox feature which stores the contents and attachments of mails securely in Nextcloud.
+Setup two-factor authentication after first login, admins can create one-time login tokens in the web UI and delegate this to group admins
+LDAP write support makes it possible to manage users from Nextcloud
+S3 versioning support, IBM Spectrum Scale integration and Global Scale with Collabora Online
+Subscribe to our newsletter and never miss anythingSubscribe
+You have javascript disabled. We tried to make sure the basics of our website work but some functionality will be missing.

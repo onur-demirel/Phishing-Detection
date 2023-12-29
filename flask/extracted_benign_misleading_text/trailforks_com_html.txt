@@ -1,0 +1,238 @@
+Trailforks is a trail database, map & management system for users, builders and associations.
+A platform for trail associations to keep track of trail conditions, builders to log work & users to discover, plan and share their activities.
+Trailforks is dedicated to giving you the best interactive trail maps, custom designed for your selected activity.
+Topographic layer, points of interest, trail popularity, heatmaps, routes, trail conditions, Strava segments, photos, videos and so much more. Our Map empowers you with the info you need to navigate trail networks, so you won't be scared of getting lost.
+Trailforks is world-wide with trails mapped in over 100 countries. Track your rides to contribute trail usage data back to the biking community.
+Also view older Trailforks promo video
+Trailforks started as primarily a trail database for mountain biking. However, trails don't exist in isolation, So Trailforks has expanded to support many different trail activity types.
+Search for Areas & Regions
+Search for Trails
+- Unknown
+- Snow Groomed
+- Snow Packed
+- Snow Covered
+- Freeze/thaw Cycle
+- Icy
+- Prevalent Mud
+- Wet
+- Variable
+- Dry
+- Very Dry
+The colour categories are based on what percentage of riders are riding a trail in its intended direction.
+- > 96%
+- > 90%
+- > 80%
+- > 70%
+- > 50%
+- < 50%
+- < 2 days
+- < 1 week
+- < 2 weeks
+- < 1 month
+- < 6 months
+- > 6 months
+- Downhill Only
+- Downhill Primary
+- Both Directions
+- Uphill Primary
+- Uphill Only
+- One Direction
+- Description
+- Photos
+- Description & Photos
+- Videos
+- most popular
+- popular
+- less popular
+- not popular
+- Access Road/Trail
+- White
+- Green
+- Blue
+- Black
+- Double Black Diamond
+Trail Report Status
+- Clear / Green
+- Minor Issue / Yellow
+- Significant Issue / Amber
+- Closed
+- Land Owner Overlay
+- Wilderness (typically no bikes in USA)
+- BLM (public)
+- USFS (Wildlife sanctuaries darker than usfs)
+- State land
+- Indigenous
+- Military
+- Unknown
+- Snow Groomed
+- Snow Packed
+- Snow Covered
+- Freeze/thaw Cycle
+- Icy
+- Prevalent Mud
+- Wet
+- Variable
+- Dry
+- Very Dry
+- Map Markers
+- Trail Head
+- Photo
+- Directory Listing
+- Riding Area
+- TTF
+- Parking
+- Viewpoint
+- Information
+- Warning
+- Directions
+- Sight
+- Restrooms
+- eBike Charging Point
+- Water Fountain/Source
+- Gate
+- Trail Sign
+- Table or Bench
+- Ladder
+- Stairs
+- Bridge
+- Camping
+- Cabin
+- Lodge
+- Bear Cache
+- Dock
+- Ranger Station
+- Summit
+- Other
+Save the current map location and zoom level as your default home location whenever this page is loaded.
+Whether you're at home or travelling, find your perfect bike, hike, moto or horse trail. We collect a wide-array of metadata about trails such as it's difficulty, surface type, direction, ttfs, season, allowed activity types and much more.
+View photos & videos of trails including POV from your favorite Youtuber.
+Filter the map to only show trails you're interested in. Easily understand what trails you are allowed to ride. View trails color coded for popularity, condition, recent usage, direction & more.
+Route Planner
+Use our Route Planner to drag & drop routes along mountain bike, hiking & moto trails.
+Save your plan then sync it in your app under "My Wishlist".
+View our weather map to find the best area to ride given the forecast.
+Route Finder
+Our visual Route Finder helps you find routes on the map, filtered by the criteria you want. Also find popular curated routes and race courses.
+We scan millions of user ridelogs to programmatically determine the most popular routes people ride in each area.
+Share Routes
+Send a route or rideplan URL to a friend, or scan a QR Code. When opened on a phone it will load the route in the Trailforks app!
+"Wishlist" a route to sync a route to your apps routes tab under "My Routes".
+Popular Routes
+-
+- Flagline to Phil'sBend ORDistance: 22 miles
+Climb: 1,470 ft
+Trails: 6
+-
+- Prairie View to Jewell...ABDistance: 10 miles
+Climb: 2,280 ft
+Trails: 2
+-
+- Best of Mt AshlandAshland ORDistance: 21 miles
+Climb: 4,396 ft
+Trails: 12
+Trailforks is much more than a map & trail guide. It's an entire trail management system for trail associations & builders.
+We scan millions of ridelogs to calculate the most popular trails in each region. They are then color coded red to green on the popularity "trail style" layer. View riders heatmap or our "ride-guides" to increase the accuracy of mapped trails gps track.
+View major US & Canadian land owners overlayed on the map, such as USFS, BLM & Wilderness areas. Custom local land owners and polygons can also be added.
+Features like our 'ride starting point heatmap' to plan trail-heads, or trail direction & flow visualizations.
+Post your events to our calendar including races. Plan race routes using our route planner tool. Print race course maps using our print tool.
+We have over 20 customizable widgets you can add to your clubs website. RSS feeds or export trail data in various formats, including work report summary spreadsheets.
+Donate directly to the local trail associations via our Trail Karma feature. We have the largest directory of trail associations and bike shops.
+Users can check a riding areas current trail status before heading out on a ride, to avoid closed trails or trails with major issues.
+After a ride they can report the trail conditions or any issues on the trails they rode.
+Builders and associations can monitor the reports for issues that require action and send someone out to check or fix the issue and report that work done.
+Read more about our robust reporting features!
+Ridelog data from users is matched against trails generating a virtual trail counter. Statistics with demographic info is generated for trails & regions, which can be a valuable tool for trail advocacy & planning.
+Use a single map platform for all your regions trails for all their supported activities, including a seperate winter map mode.
+Promote trail supporters or stewards on trail & region pages to power local adopt-a-trail type programs.
+Keep tabs to what content is being added or edited for entire countries or states, local areas or specific trails. Subscribe to regions or trails to be notified when new content is added.
+Download offline trail maps for your rides. Record your activities. Always have the latest trail info including trail conditions in your pocket!
+Have a Garmin Edge device? Download our Custom MTB Garmin maps.
+Or buy an Edge 530 or 830 to get the Trailforks pre-loaded on the device!
+Upcoming Races
+- Aorere Enduro - Asia-Pacific Continental Round 1EnduroNelson
+- The 7th Annual Couch PotatoXCBrevard NC
+- 24 Hours Of SoCalTemecula CA
+- Stanford Cycling MTB raceXCMerced CA
+Upcoming Events
+- Outerbike BentonvilleDemo DayBentonville AR
+- Beatty Days Bike FestivalGroup RideBeatty NV
+- SATN SocialDemo DayAustin TX
+- Mobbs Fall Work DayTrail DayJericho VT
+- Ride the Red RocksGroup RideSedona AZ
+Browse Popular Trails
+-
+- John DeerNorth Vancouver BC
+-
+- Wasatch Crest (South)Park City UT
+-
+- BobsledNorth Vancouver BC
+-
+- Comfortably Numb...Whistler BC
+-
+- LPSMoab UT
+-
+- On the RocksWhistler BC
+-
+- Flow Trail 5Santa Cruz CA
+-
+- Dinah Moe HummWhistler BC
+-
+- B-Line - LowerWhistler BC
+-
+- Full NelsonSquamish BC
+-
+- Micro ClimateWhistler BC
+-
+- SlickrockMoab UT
+-
+- Troll StrollEast Burke VT
+-
+- Deuces WildIssaquah WA
+-
+- SSTBellingham WA
+Browse Popular Cities
+- Bellingham TrailsWA, United States
+- Bend TrailsOR, United States
+- Bentonville TrailsAR, United States
+- Brisbane TrailsAustralia
+- Calgary TrailsAB, Canada
+- Canberra TrailsAustralia
+- Canmore TrailsAB, Canada
+- Cedar Mountain TrailsNC, United States
+- Colorado Springs TrailsCO, United States
+- Draper TrailsUT, United States
+- East Burke TrailsVT, United States
+- Edmonton TrailsAB, Canada
+- Hood River TrailsOR, United States
+- Issaquah TrailsWA, United States
+- Lithia TrailsFL, United States
+- Maple Valley TrailsWA, United States
+- Milton TrailsON, Canada
+- Moab TrailsUT, United States
+- North Vancouver TrailsBC, Canada
+- Park City TrailsUT, United States
+- Phoenix TrailsAZ, United States
+- Reading TrailsPA, United States
+- Rotorua TrailsNew Zealand
+- Scottsdale TrailsAZ, United States
+- Sedona TrailsAZ, United States
+- Squamish TrailsBC, Canada
+- SunRise TrailsFL, United States
+- Toronto TrailsON, Canada
+- Uxbridge TrailsON, Canada
+- Whistler TrailsBC, Canada
+- 39,766,621checkins
+- 9,305,563ridelogs
+- 748,722reports
+- 399,481photos
+- 206,169trails
+- 74,586videos
+- 36,693poi
+- 14,340routes
+- 11,466places
+- 10,489trail networks
+- 4,101events
+- 1,925skillparks
+- 478bikeparks
+- 452polygons
+- 124products

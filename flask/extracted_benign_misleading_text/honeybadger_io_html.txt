@@ -1,0 +1,13 @@
+Zero-instrumentation, 360 degree coverage of errors, outages and service degradation. Deploy with confidence and be your team's devops hero.Start Your Free Trial or see how it works →
+Monitoring — like web development — is complex. Every day we hear about new tools and techniques, but they're usually for big organizations. Ones with dedicated devops teams and so much traffic they care more about “error rates” than individual user experiences.
+When you're on a smaller team, this doesn't work so well. You know instrumentation doesn’t pay the bills. Customers do. When they encounter a problem you need clear actionable intelligence, not walls of charts and reams of logs.
+What if there were a monitoring tool for developers like us? A single tool that could answer at a glance:
+That’s Honeybadger. We’re the application health monitoring tool built for you, not Google.
+Set up in minutes, not hours. Honeybadger automatically hooks into popular web frameworks, job systems, authentication libraries, and front-end JavaScript. Most installations are just a few lines of code.
+Reduce time to resolution with context-rich error reports and purpose-built tools. For example, you might see that an error report contains a certain cookie, do a search for other errors with that cookie, then click on a relevant line of the backtrace to open the file in GitHub and fix the problem.
+Honeybadger respects your unique workflow. Does your code live on GitHub, Bitbucket or GitLab? Does your team use GH Issues, Pivotal Tracker or Jira? Do you prefer to manage errors via web, or mobile app? We’ve got you covered with these and many more options.
+Honeybadger is used by tens of thousands of pragmatic developers in companies of all sizes who want to focus on shipping great, error-free products instead of wasting time building and maintaining a bespoke monitoring stack. Here’s what some of them say:
+All of these developers know the peace of mind of having Honeybadger on call. Their customers and stakeholders are happy because whenever the inevitable production issue does occur, it's fixed in record time.
+It only takes a few minutes to set up Honeybadger’s total monitoring suite. Try us free for 15 days.
+Try Honeybadger free for 15 days.
+You don't need a CC to sign up, and satisfaction is guaranteed.

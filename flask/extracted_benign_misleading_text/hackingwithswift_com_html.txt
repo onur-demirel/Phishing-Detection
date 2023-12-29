@@ -1,0 +1,38 @@
+Swift gives us map(), compactMap() and flatMap() methods, but although they might sound similar they do very different things. So, in this article we’ll look at map() vs compactMap() vs flatMap() to help you understand what each one does and when it’s useful.
+iOS 13 introduced new type-safe initializers for Core Image filters that allow us to use them much more easily – and without having to hope that our code works at runtime. Previously much of Core Image was stringly typed, meaning that we would create filters using strings, which in turn meant that Swift couldn't be sure that when we asked for a value to be set that it would actually exist. iOS 13 replaces that with a much better implementation, and you'll never want to go back to the old way.
+Apple just updated its Swift Playgrounds iPad app with support for Swift 5.1, dark mode, and SwiftUI, which means it’s now possible to try building SwiftUI apps and components entirely on your iPad.
+Get a free book delivered to your inbox, plus more discounts in the future!
+Our courses cover the important topics of app development, and repeat them at spaced intervals to help them sink into your long-term memory.
+We have thousands of questions and challenges to test your knowledge at every point along the way, ensuring you can apply what you've learned.
+It's not enough just to follow tutorials, which is why we get you writing your own apps as fast as possible – all with careful guidance and support.
+The vast amount of free content on Hacking with Swift is supported through the sale of books and courses that teach a wide range of more advanced topics. So, when you're ready to take your skills further check out the books below – and thank you for your support!
+We have a lot of books, so it can sometimes be hard to know where to start. To make things easier, We've highlighted a few common kinds of reader and recommended books for each of them. If you have further questions, don't hesitate to email me at paul@hackingwithswift.com or tweet me @twostraws.
+This table should help you choose a book based on your desired skill level:
+BEGINNER
+BEGINNER
+BEGINNER
+BEGINNER TO INTERMEDIATE
+BEGINNER TO INTERMEDIATE
+BEGINNER TO INTERMEDIATE
+BEGINNER TO INTERMEDIATE
+BEGINNER TO INTERMEDIATE
+BEGINNER TO INTERMEDIATE
+INTERMEDIATE TO ADVANCED
+INTERMEDIATE TO ADVANCED
+INTERMEDIATE TO ADVANCED
+INTERMEDIATE TO ADVANCED
+INTERMEDIATE TO ADVANCED
+INTERMEDIATE TO ADVANCED
+ADVANCED
+“The projects in this course are created in a way to expose you to real-world code – very practical and extensible! Highly recommended.”
+“Just finished reading Swift Design Patterns. It's awesome, just like other books by Paul. It helped me a lot to understand some iOS aspects deeply.”
+“Paul's is a warranty of quality. He writes books at a speed that always surprises me for its timing and effectiveness. This book represents all that!”
+“I'm a huge fan of Paul Hudson – more than an in-depth source of technical information, its super easy to understand and learning from him is inspiring!”
+“Paul Hudson is a Swift community treasure. I regularly turn to Pro Swift and Paul's other books for reference and inspiration. Thank you!”
+“I love the work Paul does. He has a real talent for making complex topics obtainable, fun, and engaging!”
+“The entire Hacking with Swift series is great! Swift Coding Challenges forces me to think abstractly and dig into the code more than ever.”
+“Paul's book does an amazing job teaching beginners how to use server-side Swift in an effective, testable, efficient way.”
+“Everything that you need, nothing that you don't. Paul does a great job of explaining even the most advanced concepts in an easy to understand manner.”
+My name is Paul Hudson, and I wrote Hacking with Swift to help you learn to make apps for iOS, macOS, watchOS, and more.
+On this site you can find my free Swift tutorials, lots of other awesome Swift books I wrote, a huge collection of Swift example code, plus Swift news, tips, and tutorials to help take your learning further.
+I've already helped thousands of people to learn Swift coding, and I'd love to help you too. Feel free to get in touch if you have questions – you can email me at paul@hackingwithswift.com or tweet me @twostraws.

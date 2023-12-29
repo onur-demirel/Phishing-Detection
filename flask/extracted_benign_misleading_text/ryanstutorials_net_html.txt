@@ -1,0 +1,16 @@
+A collection of introductory technology tutorials.
+An introduction to the Linux command line using the Bash shell. This tutorial introduces a series of commands and concepts that will allow you to effectively manage a Linux/ Unix system.
+An introduction to Bash scripting on the Linux/ Unix command line. Learn how to automate tedious and repetitive tasks to make your life happier.
+Learn how to create web pages by writing clean and elegant HTML. In this tutorial you'll master the basic HTML tags.
+Learn how to style web pages by writing clean and elegant CSS. In this tutorial you'll master basic CSS.
+A range of programming challenges, at varying degrees of difficulty, to help you develop your coding skills and problem solving ability.
+Learn how to be a better problem solver/ trouble shooter. This tutorial is a great refresher on how to get out of trouble when those gremlins rear their ugly little heads.
+You don't have to be a graphic designer to create elegant and stylish things. This tutorial introduces a series of easy to implement ideas and concepts that will make anything you create stand out.
+Solving the Rubik's Cube is easy when you know how. This tutorial teaches you the algorithms involved in solving the cube as well as tips and hints on getting faster times.
+Hi. My name is Ryan Chadwick and I have been teaching Linux to students for over 10 years now. It's something that I very much enjoy. In a world where we are increasingly hiding the complexities away from users (smart phones and tablets in particular), it is always satisfying to give that power back to people and allow them to do much more with their technology.
+But teaching is only one of the things I do. I also develop and manage websites, and manage computer systems for a few different organisations. I feel that all my work is complementary and benefits from what I learn in the others. Combined, they give me a fairly good understanding of how technology works, and also an understanding of how people use technology, perceive technology, learn technology and work around technology.
+This website is both for you, and for me. For you, it is a digital form of what I have been teaching my students over the years. For me, it is an opportunity to clarify and polish what I teach and how I deliver it. To these ends, if you have any feedback at all, be it to tell me you found a particular section confusing, or to let me know it was helpful, I would be more than happy to hear from you.
+Drop us a message at ryantutorial@todolistme.net
+Anyone may link to the content on this website.
+If you are a teacher, academic, manager or trainer and wish to use this material in your classes or training you are more than welcome to link to these pages and refer your students here or show them in your classes, but please do not just copy my material.
+I've put a fair amount of time and effort into creating these resources so please be cool and do the right thing.

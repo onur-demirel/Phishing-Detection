@@ -1,0 +1,9 @@
+Log in to your PayPal account
+orSign Up
+We sent a notification
+ResendSent
+PayPal
+Sorry, we couldn't confirm it's you
+We didn't receive a response so we were unable confirm your identity.
+Sorry, we couldn't confirm it's you
+Need a hand?, We can help.

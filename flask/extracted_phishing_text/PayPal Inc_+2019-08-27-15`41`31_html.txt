@@ -1,0 +1,6 @@
+<p class="nonjsAlert" role="alert">Hinweis: Für viele Funktionen der PayPal-Website sind JavaScript und Cookies erforderlich.</p>
+E-Mail-Adresse
+Passwort
+Weiter
+oder
+Neu anmelden

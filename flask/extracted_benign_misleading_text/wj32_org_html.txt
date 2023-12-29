@@ -1,0 +1,8 @@
+This patch allows you to use more than 3/4GB of RAM on an x86 Windows system. Works on Windows Vista SP2, Windows 7 SP0, Windows 7 SP1, Windows 8, Windows 8.1 and Windows 10 (build 10586). Instructions and source code included.
+Download:
+PatchPae2.zip (1683294 downloads)
+Source code: https://github.com/wj32/PatchPae2
+Before using this patch, make sure you have fully removed any other “RAM patches” you may have used. This patch does NOT enable test signing mode and does NOT add any watermarks.
+Note: I do not offer any support for this. If this did not work for you, either:
+- You cannot follow instructions correctly, or
+- You cannot use more than 4GB of physical memory on 32-bit Windows due to hardware/software conflicts. See the comments on this page for more information.

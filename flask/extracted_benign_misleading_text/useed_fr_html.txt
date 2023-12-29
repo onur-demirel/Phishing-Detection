@@ -1,0 +1,13 @@
+Stockage Cloud
+Stockez, synchronisez, partagez et sécurisez vos documents grâce à la haute disponibilité de nos serveurs.
+Sécurité
+Les données que vous nous confiées sont par défaut privées, c'est vous qui décidez si vous souhaitez les partager et avec qui.
+Réseau
+Tous nos serveurs sont sur un réseau Gigabit ce qui vous permet d'envoyer et de récupérer vos documents à grande vitesse.
+Assistance
+Nous proposons un support à l'écoute, de qualité, rapide et parce que l'un n'empêche pas l'autre, agréable.
+VPN inclus
+Sécurisez tout vos échanges sur Internet quelque soit votre configuration
+Quasiment indispensable pour vous connecter aux WiFi publics.
+Console
+La console vous permet de gérer vos Seedbox très simplement. La gestion de vos appareils et documents n'a jamais été aussi simple.

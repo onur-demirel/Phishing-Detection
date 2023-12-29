@@ -1,0 +1,18 @@
+Chcesz otrzymywać powiadomienia?
+Żeby nic Cię nie ominęło:
+- kliknij zieloną kłódkę
+- przejdź do pozycji „Powiadomienia”
+- wybierz „Zawsze zezwalaj w tej witrynie”
+Żeby nic Cię nie ominęło:
+- idź do „Preferencji” programu Safari
+- przejdź do zakładki „Powiadomienia”
+- wybierz „Pozwól” przy domenie Onet.pl
+- odśwież stronę
+Żeby nic Cię nie ominęło:
+- kliknij zieloną kłódkę
+- zamknij komunikat „Zablokowano” przy opcji „Wyświetlanie powiadomień”
+- odśwież stronę i zezwól na otrzymywanie powiadomień
+Żeby nic Cię nie ominęło:
+- kliknij zieloną kłódkę
+- przy opcji „Wyświetlanie powiadomień” zmień komunikat na „Zezwalaj”
+Gotowe!

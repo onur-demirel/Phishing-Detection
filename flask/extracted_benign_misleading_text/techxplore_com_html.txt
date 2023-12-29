@@ -1,0 +1,45 @@
+Study warns of security gaps in smart light bulbs
+Smart bulbs are expected to be a popular purchase this holiday season. But could lighting your home open up your personal information to hackers?
+17 hours ago
+0
+51
+Smart bulbs are expected to be a popular purchase this holiday season. But could lighting your home open up your personal information to hackers?
+17 hours ago
+0
+51
+Energy storage company Highview Power has announced its intention to build a cryogenic energy storage facility in the north of England—a first for the U.K. The project calls for converting a decommissioned thermal power ...
+12 hours ago report
+2
+266
+Google said it has achieved a breakthrough in quantum computing research, saying an experimental quantum processor has completed a calculation in just a few minutes that would take a traditional supercomputer thousands of ...
+10 hours ago
+0
+194
+A group of researchers led by a BYU computer engineering professor has created a protocol that significantly extends the distance a Wi-Fi-enabled device can send and receive signals.
+13 hours ago
+0
+15
+Computer scientists created a new algorithm to recommend tags for social media posts which should boost the popularity of the post in question. This algorithm takes into account more kinds of information than previous algorithms ...
+12 hours ago
+0
+36
+For many people who are not tech professionals, the word "firmware" first appears to them in the negative. News items over the past years have used the word over and over again to report attacks. What is firmware? If software ...
+14 hours ago weblog
+0
+49
+Ubuntu 19.10. Kubernetes at the edge. Integrated AI and machine learning. Those were a few of the top notes bleated out by Canonical, sounding its trumpet on October 17 with its announcement of the Ubuntu 19.10 release.
+Oct 22, 2019 weblog
+1
+576
+Researchers from North Carolina State University have developed an open-source tool that allows users to track and record the behavior of JavaScript programs without alerting the websites that run those programs. The tool, ...
+Oct 22, 2019
+0
+16
+As wearable sensors become more prevalent, the need for a material resistant to damage from the stress and strains of the human body's natural movement becomes ever more crucial. To that end, researchers at the University ...
+Oct 22, 2019
+0
+101
+If the Internet had its own superhero, it might be the congestion control algorithm (CCA). CCAs are an essential piece of code Internet giants use to ensure that the Internet doesn't cripple amid a massive data traffic jam. ...
+Oct 22, 2019
+1
+64

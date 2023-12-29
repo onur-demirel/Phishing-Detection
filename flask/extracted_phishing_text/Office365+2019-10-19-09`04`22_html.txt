@@ -1,0 +1,8 @@
+Sign in
+Enter password
+Keep me signed in
+Forgot my password
+No account?
+Create one!
+Can t access your account?
+Next

@@ -1,0 +1,15 @@
+Select multi files (Straight by default):
+Only jpg,jpeg,png,gif images are accepted
+Maximum image size is 5 Mb, 50 files max
+All BB Codes (small):
+All HTML Codes (small):
+All BB Codes (medium):
+All HTML Codes (medium):
+All Direct Links:
+BB CODES
+All BB Codes (small):
+All BB Codes (medium):
+HTML CODES
+All HTML Codes (small):
+All HTML Codes (medium):
+All Direct Links::

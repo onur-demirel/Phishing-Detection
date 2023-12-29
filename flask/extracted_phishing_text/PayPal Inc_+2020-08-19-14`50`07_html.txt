@@ -1,0 +1,4 @@
+Update account information
+Just like a bank, we need to confirm the information you've given us. Please provide the requested information as soon as possible to ensure you can continue to use your PayPal account.
+Until we can confirm the information you've given us, we need to limit most of the functionality on your account.For now, you can continue to receive payments but you won't be able to withdraw funds or make payments.
+If your account is restricted, you won't be able to send transfer or receive funds.

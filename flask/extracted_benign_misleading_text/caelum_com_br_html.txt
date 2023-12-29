@@ -1,0 +1,87 @@
+Cursos de programação, front-end, mobile, UX, Scrum e mais!
+Projetos práticos com a exclusiva didática Caelum
+Podemos te ajudar a
+Especializar em Agilidade Certificado pela Scrum Alliance
+-
+Python e Data Science
+-
+Iniciar em Programação e em Tecnologia
+Lógica, variável, função, if/else...
+-
+Desenvolver em Java
+Orientação a Objetos, Collections, Spring, Testes...
+-
+Aprofundar-se em Java
+Hibernate, JSF, SOA, Primefaces, CDI...
+-
+Desenvolver um Site
+HTML5, CSS3, PHP, Javascript, jQuery
+-
+Desenvolver um Aplicativo Mobile
+SQLite, Firebase, Delegate, Swift, Retrofit...
+-
+Desenvolver Pessoas e Ideias
+Agilidade, Scrum, Lean Lego Game...
+-
+Criar um Produto com UX
+UX, usabilidade, Strategy, Crazy eights...
+-
+Desenvolver em Microsoft .NET
+.NET, ASP.NET, MVC, Orientação a Objetos...
+-
+Desenvolver em PHP
+CRUD, MySQL, DAO, Orientação a Objetos...
+-
+Desenvolver em Node
+Express, WebSockets, EJS, Middleware...
+-
+DevOps
+DevOps e Docker
+Próximas Turmas
+|Outubro
+|Java para Desenvolvimento Web
+|26/10 a 07/12
+|Rio de Janeiro
+|Desenvolvimento Móvel com Google Android em Kotlin
+|26/10 a 23/11
+|São Paulo
+|Java e Orientação a Objetos
+|28/10 a 08/11
+|Rio de Janeiro
+|Lógica de Programação com JavaScript
+|28/10 a 31/10
+|São Paulo
+|Novembro
+|Microservices com Spring Cloud
+|02/11 a 30/11
+|São Paulo
+|Angular para construção de Web Apps
+|02/11 a 30/11
+|São Paulo
+|JavaScript Moderno e os fundamentos para construção de Web Apps
+|02/11 a 23/11
+|São Paulo
+|Microservices com Spring Cloud
+|04/11 a 08/11
+|Brasília
+|React e Redux para construção de Web Apps
+|04/11 a 14/11
+|Brasília
+|JavaScript Moderno para front-end e back-end
+|04/11 a 19/11
+|Rio de Janeiro
+|Lógica de Programação com JavaScript
+|04/11 a 14/11
+|Rio de Janeiro
+O que os alunos falam
+Fábio Thomaz Vieira Jr
+O curso foi muito bom. Muitas dúvidas que eu tinha sobre o paradigma OO foi esclarecido. A didática e o material são muito bons. Recomendo a todos!
+Thiago Prado de Mello Branco
+Simplesmente fantástico a experiencia com professores da Caelum, material e didática muito elevada muito satisfeito com time Caleum.
+Paulo Henrique
+Experiência única. Estou muito satisfeito, e com sede de querer mais, parabéns Caelum, ótima infraestrutura e ótimos profissionais que vocês tem.
+Apostilas abertas
+Confiamos tanto em nossos materiais que disponibilizamos algumas apostilas gratuitamente para você!
+Fale com a gente!
+Podemos te ajudar a escolher o curso ideal e tirar suas dúvidasEntre em contato
+Não encontrou o curso que procura? Conheça a Alura, a plataforma online da CaelumConheça a Alura

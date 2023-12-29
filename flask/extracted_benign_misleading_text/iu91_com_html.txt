@@ -1,0 +1,13 @@
+请选择省份/Choose Province
+不列颠哥伦比亚省
+British Columbia
+大城市: 温哥华等
+安大略省
+Ontario
+大城市: 多伦多、渥太华等
+魁北克省
+Quebec
+大城市: 蒙特利尔、魁北克城等
+加拿大其他省
+Other Provinces
+大城市: 卡尔加里、埃德蒙顿等

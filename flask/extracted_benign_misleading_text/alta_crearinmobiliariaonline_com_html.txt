@@ -1,0 +1,43 @@
+Responsable de seguridad
+Persona encargada de coordinar la aplicación de la LOPD en la empresa
+Administrador de sistemas
+Persona dentro de la empresa encargada de la gestión informática
+Trabajadores
+Trabajador 1
+DNI
+Cargo/Departamento/Area
+Encargados de Tratamiento
+Empresas externas que pueden acceder a datos, por ejemplo: gestoría laboral, asesor fiscal, video vigilancia, empresa informática, prevención riesgos, empresa de seguridad, destrucción de papel, copias de seguridad online, etc.)
+Razon Social
+C.I.F
+DIRECCION, TEL y @
+SERVICIO QUE NOS PRESTA
+Tipos de datos que accede: básico, medio o alto.
+¿Los derechos arco los gestiona un tercero?
+No
+Sí
+¿La empresa forma parte de un grupo
+No
+Sí
+¿Existen terceras empresas SIN acceso a datos? (ejemplo: empresa limpieza)
+No
+Sí
+healing
+¿Trata datos de salud en su negocio?
+center_focus_strong
+¿Hay cámaras de seguridad?
+compare_arrows
+¿Realiza transferencia internacional de datos fuera de la UE?
+attachment
+¿Tiene ficheros inscritos con anterioridad en la Agencia de Protección de Datos?
+Aspectos Técnicos
+¿Los usuarios se validan (sist. operativo o aplicaciones) con claves de acceso?
+No
+Sí
+¿Hay definidos perfiles de usuario para acceder a datos? (Dependiendo del usuario que se valide en el sistema tiene distintos permisos unos que otros)
+¿Se realizan copias de seguridad de los datos?
+No
+Sí
+¿Se tratan datos de nivel alto?
+No
+Sí

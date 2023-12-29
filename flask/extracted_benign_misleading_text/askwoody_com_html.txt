@@ -1,0 +1,57 @@
+AskWoody
+-
+Windows Insiders: If you’re in the Slow ring, you’re about to get pushed to the next-next version of Win10, version 2003 (a.k.a. 20H1)Posted on October 22nd, 2019 at 07:40 Comment on the AskWoody Lounge
+Paul Thurrot caught this – it went right over my head.
+If you’re one of the (16 million?) folks in the Windows marketing beta… er, Windows Insider program… you should check which ring you’re on. If you’re in the Slow Ring, and are currently beta testing Win10 version 1909, you’ll be switched over to testing Win10 version 2003 (or whatever they’ll call it) “very shortly.”
+Paul nails it:
+Last night, Microsoft updated a blog post that was originally posted 11 days earlier. This marks the second time they’ve released news to this post by editing the post, and the company seems to be clueless about the fact that these updates are basically sent into a black hole: Without issuing a new post, no one will ever be alerted to the news.
+Although I subscribe to the Windows Insider Twitter account, I didn’t notice the tweet. One of my test machines is on the Slow Ring — and it’s about to get pushed to version 20H1/2003. Oh boy.
+Anyway, word to the wise, and thanks Paul.
+-
+Are you still running Win10 version 1803? Microsoft’s pushing hard to get you to 1903Posted on October 21st, 2019 at 07:35 Comment on the AskWoody Lounge
+But you don’t have to take it.
+If you’re running Win10 Pro (or Education), you can manually move to Win10 version 1809. It’s easy.
+Detailed instructions in Computerworld Woody on Windows.
+Thx Terry!
+-
+Seven Semper Fi: Three months to go; here’s what to do.Posted on October 21st, 2019 at 01:15 Comment on the AskWoody Lounge
+WOODY’S WINDOWS WATCH
+By Woody Leonhard
+Time’s running out! Microsoft’s still scheduled to deliver its last Windows 7 security patches on January 14, 2020.
+If you plan to continue using your Win7 machines, there’s a variety of tasks you should tackle now to minimize the chances of getting thrown under the bit bus.
+Read the full story in AskWoody Plus Newsletter 16.38.0 (2019-10-21).
+-
+Free tools help prevent Universal Serial Bus slowdownsPosted on October 21st, 2019 at 01:10 Comment on the AskWoody Lounge
+LANGALIST
+By Fred Langa
+Unintentionally mixing devices from USB’s four different generations can be a performance killer.
+Trouble is, you can’t always trust the labels and color coding on USB devices; the standards are voluntary, and some manufacturers do things their own way! So it’s not surprising that I’ve received several letters from readers asking for some illumination on this topic.
+Here’s how to fully and completely identify every element in your PC’s USB setup — and to see whether your USB devices’ labels and colors really mean what you think they do!
+Read the full story in AskWoody Plus Newsletter 16.38.0 (2019-10-21).
+-
+Microsoft wants to sell you security patches for Win7Posted on October 21st, 2019 at 01:05 Comment on the AskWoody Lounge
+WINDOWS 7 SUPPORT
+By Amy Babinchak
+Given the approaching Windows 7 end of life (January 14, 2020), here’s a surprising development from Microsoft: paid support for all business customers.
+Microsoft is, perhaps, bowing to reality — thousands of businesses are not going to migrate to Win10 before the deadline. Whatever the reason, beginning December 1, even small firms will be able to purchase an Extended Security Updates (ESU) license for their Win7 systems.
+Read the full story in AskWoody Plus Newsletter 16.38.0 (2019-10-21).
+-
+The return of our occasional Ultimate Utilities listPosted on October 21st, 2019 at 01:00 Comment on the AskWoody Lounge
+ULTIMATE UTILITIES LIST
+By T B Capen
+Back in my Windows Secrets days, I updated and published the WS Ultimate Utilities List about twice a year. Readers seemed to appreciate it.
+Jump forward to 2019, and utilities are just as important as ever — as we highlight in our regular Best Utilities column. Recently, I was reminded of the tools I often use — and some that have gone by the wayside.
+Read the full story in AskWoody Plus Newsletter 16.38.0 (2019-10-21).
+-
+Patch Lady – countdown reminderPosted on October 20th, 2019 at 21:40 Comment on the AskWoody Lounge
+Spotted this web site tonight:
+https://howmanydaystill.com/its/windows-7-end-of-support-life
+86 days and counting
+-
+Patch Lady – okay Microsoft, how about you help?Posted on October 19th, 2019 at 19:22 Comment on the AskWoody Lounge
+So the other day the only place I could find solid actionable information about the risk of attacks from the IE zero day was on a Microsoft 365 ATP E5 console called the Threat analytics dashboard. It was the only place that gave me information that assured me that we could wait until the issues with the patches were dealt with and we didn’t need to rush to patch. Today I went to the console and saw there was a new alert. At the bottom of the alert is brand new wording:
+© Microsoft 2019. All rights reserved. Reproduction or distribution of the content of this site, or any part thereof, without written permission of Microsoft is prohibited
+Sigh. So there goes another resource that Microsoft is limiting access to just certain paying customers. Once upon a time Microsoft gave actionable information that helped administrators of all sizes to make smarter decisions about security and the risks they face. They told everyone ahead of time on the Thursday before the second Tuesday the types of patches to expect. They had webcasts open to all customers to help all of us understand how to deploy updates better.
+Now we have a MSRC blog that just tells us to turn on automatic updates and provides no overall discussion about risks. Thanks guys, but I rushed out that out of band update and spent several HOURS fitzing with printers, updating drivers, removing the update – and in one case had to roll the entire workstation back to the week before to get printing working again. Customers with premier support contracts are the only folks that still get security guidance webcasts. Customers with premier support contracts still get the security patch heads up email on the Thursday before Patch Tuesday.
+We’re told by Microsoft that Patching is a social responsibility. Well yes, Microsoft it is. And you have a social responsibility to all of your customers large and small to treat their IT assets with respect. You need to do the right thing and release better patches that don’t break printing (as a recent sample of impact) and you need to release better information to all customers to help us understand the risks of not patching as well as patching. You have a responsibility to all of your customers, and not just those with premier support contracts.
+-

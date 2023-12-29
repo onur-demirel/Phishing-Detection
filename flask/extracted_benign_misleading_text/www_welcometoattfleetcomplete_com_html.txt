@@ -1,0 +1,28 @@
+AT&T Fleet Complete Customer Portal
+This Welcome Portal contains all the information that you may need to install,
+set up and learn how to use AT&T Fleet Complete.
+For assistance, contact AT&T Fleet Complete Technical Support at 844-684-3262
+or Puerto Rico at 855-823-8056.
+For questions about billing, contact AT&T Advance Solutions Care (ASC) at 866-563-4703.
+AT&T Fleet Complete BigRoad setup instructions
+Take advantage of our resource library below to successfully set up your devices and ensure you have all the necessary information to be fully compliant.
+Account set-up: Fleet Complete
+Account set-up: BigRoad
+How to install MGS700
+How to install Dashlink
+Editing the Logs
+Pairing Devices
+Access Fleet Complete apps from mobile and browser!
+Download a free App on your smartphone, iOS or Android, or track your vehicles in your internet browser.
+Become the Master of Fleet Complete!
+Our informative Webinars feature a range of AT&T Fleet Complete topics that include key product functionalities, features & benefits, peripherals, solution-specific reports, and most importantly how to increase your ROI by leveraging your AT&T Fleet Complete system.
+Quick Reference Cards - QRCs
+The Quick Reference Cards capture key application tasks that support you in your day-to-day activities using Fleet Complete Tracking.
+These two-page documents include step-by-step instructions, images that highlight your location in the application, and serve as complementary materials to your live training.
+*Referred friend must become an AT&T Fleet Complete customer.
+Tip of the month!
+Changing the language on login
+will also affect the date format
+English (CAN) dates will appear as: yyyy-mm-dd
+English (US) dates will appear
+as: mm-dd-yyyy

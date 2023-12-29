@@ -1,0 +1,37 @@
+Only 2 steps to distribute your beta apps:
+1. Upload IPA/APK files, 2. Download by scanning QR Code.
+BetaAppHost
+{
+retu
+Beta Hosting
+Only 2 steps to distribute your beta apps:
+1. Upload IPA/APK files, 2. Download by scanning QR Code.
+Access Control
+Flexible access control for private beta testing.
+Open API
+Use open API to build with your own system. Automatically build and upload your apps to fir.im
+Combo Page
+Simplify your beta distribution with combined QR codes or short links for iOS and Android apps.
+fir-cli
+Automate app building and uploading with fir-cli in command line.
+Web Hooks
+fir.im integrates well with your workflow.Testers can receive update info via email, Slack, HipChat, Pubu.im etc.
+Utility Tools
+Easy to get UDID
+GET
+UDID
+Fix "unable to install" problems quickly
+LOG
+GURU
+Get version updates in real time
+AUTO-
+UPDATE
+Check your network speed issues
+SPEED
+TEST
+What Our Users Say
+就像送自己的孩子去托儿所一样，安全、便捷，fir.im 将我们这些“父母”从发包内测中解放！期待越办越好，小美会一如既往支持 fir.im！
+We use fir.im to conduct private test and grayscale test. The IPA and APK can be distributed very quickly and safely. It's very convinent to use. And the UI design is fantastic!
+fir.im 解决了京东阅读客户端每日测试发布的难题，大大减轻了跨地域开发测试的难度，fir.im 加油！
+e 保养一直在用 fir.im 进行测试托管分发，喜欢 fir.im 的 UI 和用户体验设计，硅谷范儿的产品！
+fir.im 与下厨房一样，都在 UI 和 UE 上下功夫，将开发者工具做到简洁极致，提高效率的同时也令人赏心悦目。

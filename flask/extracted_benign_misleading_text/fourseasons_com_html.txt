@@ -1,0 +1,22 @@
+{"eo-ofr1-q1-2018":{"exclusivePerkTitle":"Exclusive Offer: Complimentary Premium Wi-Fi","exclusiveOfferTitle":"EXCLUSIVE OFFER FOR YOU","shortDescription":"
+Complimentary Premium Wi-Fi for your next booking","termsUrl":"/content/fshr/pages/en/landing-pages/corporate/wifi-terms-and-conditions","termsConditionsTitle":"Exclusive Offer Terms & Conditions","termsConditions":"
+©Four Seasons Hotels Limited. All Rights Reserved. 2018. \n
+Advance reservations are required and offers are subject to availability. Certain terms, conditions, blackout dates and restrictions apply. Offers may not be combined with any other promotions/offers/partner program benefits. Only valid on new reservations. Terms and conditions are subject to change.\n
+Four Seasons Hotels and Resorts, 1165 Leslie Street, Toronto, Ontario, Canada M3C 2K8","campaignId":"eo-ofr1-q1-2018","campaignTitle":"Complimentary Premium Wi-Fi"},"eo-ofr2-q1-2018":{"exclusivePerkTitle":"Exclusive Offer: Complimentary Room Upgrade, subject to availability","exclusiveOfferTitle":"EXCLUSIVE OFFER FOR YOU","shortDescription":"
+Complimentary Room Upgrade for your next booking, subject to availability","termsUrl":"/content/fshr/pages/en/landing-pages/corporate/upgrade-terms-and-conditions","termsConditionsTitle":"Exclusive Offer Terms & Conditions","termsConditions":"
+©Four Seasons Hotels Limited. All Rights Reserved. 2018. \n
+Upgrade of one accommodation category, based on availability at time of check-in (excluding signature suites, villas, and private residences). Room type inclusions may vary slightly by property. Advance reservations are required and offers are subject to availability at time of check-in. Certain terms, conditions, blackout dates and restrictions apply. Offers may not be combined with any other promotions/offers/partner program benefits. Only valid on new reservations. Terms and conditions are subject to change.\n
+Four Seasons Hotels and Resorts, 1165 Leslie Street, Toronto, Ontario, Canada M3C 2K8","campaignId":"eo-ofr2-q1-2018","campaignTitle":"Complimentary Upgrade"},"eo-ofr3-q1-2018":{"exclusivePerkTitle":"Exclusive Offer: Complimentary 100 USD Food & Beverage Credit","exclusiveOfferTitle":"EXCLUSIVE OFFER FOR YOU","shortDescription":"
+Complimentary 100 USD Food & Beverage Credit for your next booking","termsUrl":"/content/fshr/pages/en/landing-pages/corporate/fbcredit-terms-and-conditions","termsConditionsTitle":"Exclusive Offer Terms & Conditions","termsConditions":"
+©Four Seasons Hotels Limited. All Rights Reserved. 2018. \n
+Receive one 100 USD (or equivalent in local currency) Food & Beverage Credit per stay. Hotel credit applies only to food and beverage charges incurred at the Hotel/Resort, has no cash value, is non-transferable, applies once per stay, must be used in conjunction with the initial stay, and will be applied at check-out. Advance reservations are required and offers are subject to availability. Certain terms, conditions, blackout dates and restrictions apply. Offers may not be combined with any other promotions/offers/partner program benefits. Only valid on new reservations. Terms and conditions are subject to change.\n
+Four Seasons Hotels and Resorts, 1165 Leslie Street, Toronto, Ontario, Canada M3C 2K8","campaignId":"eo-ofr3-q1-2018","campaignTitle":"100 USD Food and Beverage Credit"},"eo-ofr4-q1-2018":{"exclusivePerkTitle":"Exclusive Offer: Complimentary Late Check-out, subject to availability","exclusiveOfferTitle":"EXCLUSIVE OFFER FOR YOU","shortDescription":"
+Complimentary Late Check-out for your next booking, subject to availability","termsUrl":"/content/fshr/pages/en/landing-pages/corporate/late-checkout-terms-and-conditions","termsConditionsTitle":"Exclusive Offer Terms & Conditions","termsConditions":"
+©Four Seasons Hotels Limited. All Rights Reserved. 2018. \n
+Complimentary late check-out, based on availability at time of check-in. Advance reservations are required and offers are subject to availability at time of check-in. Certain terms, conditions, blackout dates and restrictions apply. Offers may not be combined with any other promotions/offers/partner program benefits. Only valid on new reservations. Terms and conditions are subject to change.\n
+Four Seasons Hotels and Resorts, 1165 Leslie Street, Toronto, Ontario, Canada M3C 2K8","campaignId":"eo-ofr4-q1-2018","campaignTitle":"Complimentary Late Checkout"}}
+null
+×
+EXCLUSIVE OFFER FOR YOU
+REVEAL OFFER * Terms and Conditions
+- Complimentary perks, best rate guaranteed and personalized service when you book with us.

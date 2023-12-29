@@ -1,0 +1,18 @@
+ConvergedConverged
+no gap
+Converged global payment methods, cross-country territorial boundaries, the integration of more than 300 payment methods to achieve full coverage across the world's 200 countries, allowing cross-border businesses and discrete payments to be merged at both end of cloud and client.Global payments
+UnifiedUnified
+no difference
+The financial technology makes innovations of payment, with the unified payment SDK encapsulation the client, the channel, the currency and the language difference, it Energizes the merchants and the developers with a strong unified payment solution ability.Payment tools
+SmoothSmooth
+no break point
+Providing a smooth, streamed and completed payment solution across the scene, providing an end-to-end, three-in-one, full-process payment experience based on the pc-end, mobile-end and O2O scenarios.Solutions
+IntelligenceIntelligence
+incredible
+Describing the transaction data and transaction behavior within a payment framework, setting up logical image and intelligent modeling of the miscellaneous data, we make use of intelligent data to directly decrypt the customer's behavior without a thought.Smart Data
+SimpleSimple
+quietly
+The complicated payment integration coding is encapsulated into a friendly visual configuration interface. From then on, payment integration will leave a lengthy and complex development and debugging process, with only 3 lines of code configured for globalization payments.
+SafetySafety
+no compromise
+Using distributed cloud computing, multi-point backup, global CDN acceleration, real-time anti-fraud, and PCI-DSS standards establish a secure system without compromise, we provides full-cycle security for each transaction.

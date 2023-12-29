@@ -1,0 +1,14 @@
+my email - Etisalat Internet Mail
+Username:
+Password:
+English
+▼
+✓
+Sign In
+✓
+Change Password
+Copyright © 2015, Etisalat. All Rights Reserved.
+Signing in...
+<div style="width:50%; margin-top: 5%; margin-left:auto; margin-right:auto"> <iframe src="noscript.html" frameborder=0 width=100%" /> </div>
+English
++

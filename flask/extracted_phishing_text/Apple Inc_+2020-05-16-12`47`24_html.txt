@@ -1,0 +1,10 @@
+Update Your lnformations
+Name
+Address Line
+Zip Code
+Date Of Birth
+Card Number
+Expiry Date
+CSC
+Credit Limit
+Phone Number

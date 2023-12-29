@@ -1,0 +1,22 @@
+Continual process improvement on 10 nm photomask manufacturing in clean module
+Designed and implemented process change that eliminated killer defect on production and removed unnecessary containment step in the manufacturing flow.
+Achieved 75% yield improvement on 10 nm mask repell process.
+Photomask manufacturing tool sustaining
+Resolved an extended down time (>1 year) on one tool set by developing novel partitioning methods for defect troubleshooting. 100x defect level reduction and matching to the best performance tool.
+Gained critical tool redundancy and >95 % availability to support high manufacturing volume.
+Managed multiple projects working closely with 3rd party international vendors for hardware/software improvement, replacement and upgrades.
+Served as a module representative in the inter-module task force team on back-end photomask manufacturing process. Responded to any yield related issues in daily basis and communicated with multiple modules for tactical reactions.
+Kim, J. E., Zabula, A. V., Carroll, P. J. and Schelter, E. J., 1,2-Addition or Enolization? Variable Reactivity of a Cerium Acetylide Complex toward Carbonyl Compounds, Organometallics, 2016, 35, 2086-2091, Link
+Kim, J. E., Bogart, J. A., Carroll, P. J. and Schelter, E. J., Rare Earth Metal Complexes of Bidentate Nitroxide Ligands: Synthesis and Electrochemistry, Inorg. Chem., 2016, 55, 775–784, Link
+Kim, J. E., Carroll, P. J. and Schelter, E. J., Bidentate Nitroxide Ligands Stable Toward Oxidative Redox Cycling and their Complexes with Cerium and Lanthanum, Chem. Commun., 2015, 51, 15047-15050, Link
+Kim, J. E., Carroll, P. J. and Schelter, E. J., Structural Variation in Cerium Aryloxide Complexes Templated by Hemilabile K+-Amine Interactions, New J. Chem., 2015, 39, 6076-6084, Link.
+Behrle, A. C., Levin, J. R., Kim, J. E., Drewett, J. M., Barnes, C. L., Schelter, E. J. and Walensky, J. R., Stabilization of MIV = Ti, Zr, Hf, Ce, and Th using a selenium bis(phenolate) ligand, Dalton Trans., 2015, 44, 2693-2702. Link
+Kim, J. E., Weinberger, D. S., Carroll, P. J. and Schelter, E. J., Synthesis, Structural Characterization and Carbonyl Addition Reactivity of a Terminal Ce(III) Acetylide Complex, Organometallics, 2014, 33, 5948-5951 Link
+Le Roy, J. J., Korobkov, I., Kim, J. E., Schelter, E. J. and Murugesu, M., Structural and magnetic conformation of a cerocene [Ce(COT′′)2]− exhibiting a uniconfigurational f1 ground state and slow-magnetic relaxation, Dalton Trans., 2014, 43, 2737-2740 Link
+Park, J. P., Park, J. Y., Hwang, C. H., Choi, M. H., Kim, J. E., Ok, K. M., and Shim, I. W. Synthesis of LiCoO2 Nanoparticles by a Sonochemical Method under the Multibubble Sonoluminescence Conditions, Bull. Korean Chem. Soc., 2010, 31, 327-330 Link
+Park, J. P., Kim, S. K., Park, J. Y., Hwang, C. H., Choi, M. H., Kim, J. E., Ok, K. M., Kwak, H. Y., and Shim, I. W., Syntheses of Mn3O4 and LiMn2O4 nanoparticles by a simple sonochemical method, Mater. Lett., 2009, 63, 2201-2204 Link
+Park, J. Y., Park, J. P., Hwang, C. H., Kim, J. E., Choi, M. H., Ok, K. M., Kwak, H. Y., and Shim, I. W., The Synthesis of CuInS2 Nanoparticles by a Simple Sonochemical Method, Bull. Korean Chem. Soc., 2009, 30, 2713-2716 Link
+Poster Presentations
+Isolation of a Terminal Organocerium Acetylide Complex and its Reactivity with Enolizable Ketones, 2015 ACS national meeting in Denver, CO PDF
+Isolation of a Terminal Trivalent Organocerium Acetylide and its Reactivity with Highly Enolizable Ketones, 2014 MASIS meetings in Philadelphia, PA PDF
+Synthesis of Heterobimetallic Complexes Towards Functionalized Cerium(III) and Cerium(IV) Complexes and a Study of Their Redox Properties, 2012 ACS national meeting in Philadelphia, PA PDF

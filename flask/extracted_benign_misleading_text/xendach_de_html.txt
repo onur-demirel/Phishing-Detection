@@ -1,0 +1,142 @@
+XenDACH - Die deutschsprachige XenForo-Community
+-
+-
+News
+- Themen:
+- 409
+Zuletzt: XenForo 2.1.3 inkl. XFMG, XFRM & XFES veröffentlicht mph, 16. Juli 2019
+- Beiträge:
+- 4.073
+-
+Feedback zu xenDACH
+- Themen:
+- 95
+Zuletzt: Probleme mit den Zugriffen yitzhak, 3. Okt. 2019
+- Beiträge:
+- 1.618
+-
+-
+-
+Diskussionen rund um XenForo
+- Themen:
+- 284
+Zuletzt: XF 2 Sprachpaket? mph, Dienstag um 19:00 Uhr
+- Beiträge:
+- 6.697
+-
+Fragen vor dem Kauf
+- Themen:
+- 142
+Zuletzt: Forum + Chat Software? otto, 25. Sep. 2019
+- Beiträge:
+- 2.419
+-
+Fehler, Fragen und Antworten
+- Themen:
+- 1.820
+Zuletzt: Darf die alte vB Datenbank nach Import gelöscht werden? spicer, Gestern um 07:59 Uhr
+- Beiträge:
+- 15.210
+-
+Informationen, Tipps und Tricks
+- Themen:
+- 223
+Zuletzt: Neues Urteil bez. Cookies Sep. 2019 Tealk, 17. Okt. 2019
+- Beiträge:
+- 1.836
+-
+-
+-
+Fragen und Antworten
+- Themen:
+- 1.121
+Zuletzt: XF301VB-1.1.5 redirect Addon spicer, 17. Okt. 2019
+- Beiträge:
+- 9.770
+-
+Vorschläge für Add-ons
+- Themen:
+- 110
+Zuletzt: Neues Thema mit hilfe von Schagwörter ein Forum zuweisen michael24179, 25. Mai 2019
+- Beiträge:
+- 1.616
+-
+Fehler und Probleme
+- Themen:
+- 160
+Zuletzt: Spoiler BBcode wird falsch geschrieben. spicer, 17. Okt. 2019
+- Beiträge:
+- 1.413
+-
+Style und Design
+- Themen:
+- 198
+Zuletzt: Verlauf im Body bereich? BlackBurn, 20. Okt. 2019
+- Beiträge:
+- 1.595
+-
+Jobs und Angebote
+- Themen:
+- 82
+Zuletzt: Suche einen Entwickler für Anpassung im Zahlungssystem Kid, 4. Juli 2019
+- Beiträge:
+- 373
+-
+Technik und Co.
+- Themen:
+- 51
+Zuletzt: Cron-Eintrag bearbeiten nicht möglich McAtze, 29. Juli 2019
+- Beiträge:
+- 702
+-
+-
+-
+Sprachpakete
+- Themen:
+- 169
+Zuletzt: Deutsches Sprachfile [Du] für XenForo Heffalump, 8. Okt. 2019
+- Beiträge:
+- 2.242
+-
+Add-Ons und Code-Änderungen
+- Themen:
+- 49
+Zuletzt: Boothby / LTE - Language Translation Enhancements Boothby, 18. Okt. 2019
+- Beiträge:
+- 2.029
+-
+Styles, Grafiken und Template-Änderungen
+- Themen:
+- 9
+Zuletzt: Move Create Thread Button oldie-teile, 6. Apr. 2019
+- Beiträge:
+- 114
+-
+Tipps, Hilfen und Anleitungen
+- Themen:
+- 27
+Zuletzt: Font Awesome Icons in Navbar Paridus, 15. Mai 2019
+- Beiträge:
+- 411
+-
+Sonstige Ressourcen
+- Themen:
+- 4
+Zuletzt: [FAT] WBB 3.x Importer [Kostenpflichtig] ragtek, 16. Feb. 2015
+- Beiträge:
+- 18
+-
+Server, Hosting und sonstiges
+- Themen:
+- 1
+Zuletzt: IPv4-Adressen - Tipps und Kniffe otto, 5. Feb. 2019
+- Beiträge:
+- 1
+-
+Archiv
+- Themen:
+- 85
+Zuletzt: Das Rechtesystem des XenForo Tamara-Jasmin, 20. Sep. 2018
+- Beiträge:
+- 1.140
+-

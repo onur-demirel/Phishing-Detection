@@ -1,0 +1,1 @@
+Web safe fonts are fonts that are pre-installed by many operating systems. While not all systems have the same fonts installed, you can use a web safe font stack to choose several fonts that look similar, and are installed on the various systems that you want to support. If you want to use fonts other than ones pre-installed, as of CSS3, you can use Web Fonts.

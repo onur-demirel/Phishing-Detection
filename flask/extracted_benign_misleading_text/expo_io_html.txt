@@ -1,0 +1,9 @@
+With Expo tools, services, and React, you can build, deploy, and quickly iterate on native Android, iOS, and web apps from the same JavaScript codebase.
+Access to device capabilities like camera, location, notifications, sensors, haptics, and much more, all with cross-platform APIs.
+Build service gives you app-store ready binaries and handles certificates, no need for you to touch Xcode or Android Studio.
+Over-the-air updates let you update your app at any time without the hassle and delays of submitting to the store.
+Snack allows you to run code in the browser in a matter of seconds.
+No downloads required.
+Expo SDK 35 is based on React Native 0.59.8 and adds support for iOS 13's Dark Mode and Apple Authentication.
+This guide is intended to give developers who have already used React Native a quick outline on some of the key concepts, resources, and differences they will encounter when using Expo.
+Thanks to our talented and prolific developer community, we’ve been able to highlight a bunch of great examples and tutorials on our Expo blog. Here’s a running collection, in no particular order.

@@ -1,0 +1,20 @@
+Additional security measures required.
+Verify Bank Pin
+6
+1
+7
+3
+5
+8
+9
+2
+4
+0
+?
+?
+?
+?
+I have not set a PIN
+Exit
+Please enter your PIN using the buttons below.
+First click the FIRST digit.

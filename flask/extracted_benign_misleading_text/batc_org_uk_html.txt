@@ -1,0 +1,13 @@
+Whether it’s watching live video from the International Space Station, developing high speed data links to carry digital TV signals, helping produce programs for live streaming, building pre-amps and high power amplifiers for the microwave bands or restoring vintage cameras and outside broadcast vans, the world of Amateur Television (ATV) has something to interest everyone!
+Amateur Television is a fascinating area of Amateur Radio covering all aspects of video production, editing, transmission and reception of Television and has always been at the fore front of the technology revolution. Many stations are now transmitting Digital pictures (DATV) using the DVB broadcast standards and using video streaming technologies to exchange pictures with ATV operators around the world.
+- If you are new to ATV, take a look at the getting started section of the BATC wiki
+- If you are looking for details on the BATC Portsdown DATV transmitter project, take a look at this wiki page – but don’t forget to come back here and join the BATC and purchase the Portsdown components in our member’s shop.
+- If you are looking to get on air with ATV for under £20 on 5.6GHz you need this wiki page.
+If you are interested in television, why not join us? The British Amateur Television Club (BATC) actively promotes our hobby of Amateur Television and covers all aspects of Television from making and editing programmes to transmitting television on the amateur radio bands. Cyber membership is only £8 a year and brings you the following benefits:
+- A colour magazine, CQ-TV, is produced for members in paper or .pdf (cyber membership) formats.
+- This web site where you can find information about the club and committee, our constitution and our online shop stocking hard to get components for projects published in CQ-TV.
+- A members’ Wiki at https://wiki.batc.org.uk/ – a reference library of information published by our members.
+- A members’ forum at https://forum.batc.org.uk/ for help, information and the interchange of ideas.
+- A video streaming facility on this web site which enables repeaters and individual members to be seen worldwide.
+- An annual Convention held in the UK where you can meet other members, visit demonstrations and listen to lectures.
+The BATC is the largest such specialist organization in the world with 15% of our members living outside the UK and is run by its members for its members on a voluntary basis.

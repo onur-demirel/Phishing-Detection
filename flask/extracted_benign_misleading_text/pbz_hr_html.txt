@@ -1,0 +1,69 @@
+Jednostavnije bankarstvo
+Apple Pay je dostupan sada!
+#withPAY
+Trebate vratiti novac prijateljima?
+Učinite to brzo zahvaljujući #withPAY, odaberite primatelja s popisa kontakata i pošaljite novac u trenu.
+#withCASH
+Do novca bez kartice.
+#withCASH omogućuje podizanje gotovine na bankomatima jednostavno generiranjem koda iz mobilne aplikacije. Možete ga koristiti i za dijeljenje novca s obitelji i prijateljima na siguran način.
+#withSAVE
+Zahvaljujući #withSAVE
+Postavite cilj, štedite novac jednostavno povlačeći ga u kasicu, dođite do cilja, oslobodite ušteđeni iznos i ostvarite svoje želje.
+Odaberite kredit koji vam treba
+-
+Vaš kredituz status klijenta
+- Mjesečni anuitet Mjesečni anuitet uz fiksnu kamatnu stopu - HRK
+- Mjesečni anuitet uz promjenjivu kamatnu stopu - HRK
+- Iznos kredita - HRK
+- Ukupan iznos za otplatu - HRK
+- Rok otplate - -
+- Kamatna stopa Fiksna kamatna stopa - %
+- Promjenjiva kamatna stopa - %
+- EKS - %
+- EKS - %
+- Naknada za obradu kreditnog zahtjeva - HRK
+Krediti se ugovaraju isključivo uz fiksnu kamatnu stopu za prvih 5 godina otplate i nakon toga promjenjivu kamatnu stopu u preostalom razdoblju otplate. Visina kamatne stope ovisi o kreditnom riziku klijenta i statusu klijenta. Promjenjiva kamatna stopa definira se kao zbroj fiksnog i promjenjivog dijela (6M NRS1 za HRK/6M NRS1 za EUR). Prikazana je kamatna stopa uz najniži kreditni rizik i uz status klijenta. EKS i ukupan iznos za otplatu izračunati su na odabrani iznos kredita i rok otplate, bez interkalarne kamate i dodatnih troškova.
+Za više informacija pogledajte Opće informacije koje su dostupne na www.pbz.hr ili u poslovnici.
+Izračun je informativan i nije obvezujući za Banku.
+Upoznajte naše proizvode
+Tečajna lista
+Datum 26. 10. 2019.
+- Kupovni
+- Srednji
+- Prodajni
+- CHFšvicarski franak
+- Kupovni6,557920
+- Srednji6,760742
+- Prodajni6,963564
+- EUReuro
+- Kupovni7,400000
+- Srednji7,450000
+- Prodajni7,500000
+- GBPfunta sterlinga
+- Kupovni8,388186
+- Srednji8,603268
+- Prodajni8,818350
+- USDamerički dolar
+- Kupovni6,506258
+- Srednji6,707482
+- Prodajni6,908706
+- Kupovni
+- Srednji
+- Prodajni
+- CHFšvicarski franak
+- Kupovni6,739989
+- Srednji6,760270
+- Prodajni6,780551
+- EUReuro
+- Kupovni7,426795
+- Srednji7,449142
+- Prodajni7,471489
+- GBPfunta sterlinga
+- Kupovni8,578947
+- Srednji8,604761
+- Prodajni8,630575
+- USDamerički dolar
+- Kupovni6,682979
+- Srednji6,703088
+- Prodajni6,723197
+Tečajnu listu za uslugu DCC pogledajte ovdje

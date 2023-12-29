@@ -1,0 +1,67 @@
+Empower your development!
+GrapeCity experts anticipate the needs of the market and offer the industry’s best support. A diverse product line delivers JavaScript and .NET grids, UI, reporting, spreadsheets, and mobile controls for the enterprise and beyond.Learn More
+Understanding Our Customers
+What Separates Us From The Pack
+Invest in the future of your enterprise
+Prepare yourself for compatibility! As Microsoft and Visual Studio partners, we're prepared months in advance to deliver compatibility on new operating systems, new browsers, and new IDEs.
+Build anything with our extensible, flexible APIs
+Go beyond! With GrapeCity's intuitive, flexible APIs built for sheer extensibility--in addition to hundreds of out-of-the-box features--you'll surpass the limits of what you thought you could do.
+Get the toolkit, get the team
+With over 30 years of experience in components, our teams will make sure your onboarding is a breeze... and that our roadmap aligns with yours.
+Spend more time solving better problems
+Focus on the big picture. With GrapeCity's tools, you and your team can focus on developing great business logic and solving the problems worth solving.
+ComponentOne
+Deliver brilliant UI, fast, with .NET UI grids, charts, and controls
+Save your time for the big problems when you leverage the power of this complete .NET UI control collection
+Learn More:
+ActiveReports
+An industry-leading .NET reporting solution you'll enjoy
+With code-based reporting, easy-to-use designers, and a flexible API, ActiveReports provides a reporting experience you'll love
+Spread
+You need this extensible .NET and JavaScript spreadsheet solution
+Design and develop first-class enterprise apps with a flexible, dependency-free Excel-like UI.
+Learn More:
+Wijmo
+Cutting-edge JavaScript/HTML5 UI controls for any framework
+Build fast, lightweight, responsive web apps with these cutting-edge JavaScript/HTML5 UI controls
+Learn More:
+Documents
+Fast, efficient Excel, Word, and PDF APIs for .NET Core 2.0 and Java
+Take total document control with ultra-fast, low-footprint document APIs for enterprise apps
+Wyn
+Business Intelligence to Empower Your Enterprise
+Wyn Enterprise is a fully secured enterprise business intelligence software that delivers collaborative self-service reporting & analytics
+Learn More:
+- ComponentOne
+- ActiveReports
+- Spread
+- Wijmo
+- Documents
+- Wyn
+The Latest From GrapeCity
+Read, Watch, and Download
+Building a Business Intelligence App using Xamarin.Forms
+Simple and effective dashboard that can be used on mobile devices as well as on the desktop.
+[ View All Blogs ]
+Web Component Accessibility
+GrapeCity Developers discuss how to improve user experience by building accessible apps.
+[ View All Videos ]
+Choosing the Best JavaScript Framework for Your Team
+This in-depth comparison of the top JavaScript framework provides a methodology for selecting what will work for you.
+Our Customers
+See What Our Customers Have to Say
+Customer satisfaction is our ultimate goal. See what GrapeCity customers have to say about our development toolkits, APIs and reporting solutions.
+Read our case studies and testimonials to see how customers are using GrapeCity products.
+80,000 Customers
+and Counting
+75% of Fortune 500 companies use our products including software developers, software architects, IT professionals and developers.
+Developing Controls
+Since 1987
+Complete your enterprise development toolkit with our first-class components, APIs, and solutions.
+Distribution in Over
+175 Countries
+Worldwide distribution in 10 languages and over 20 currencies through ComponentSource, our master distributor.
+Subscribe And Stay Up To Date
+Join Our Mailing List
+Never Miss a Beat
+Subscribe to our email list to receive the latest release information, videos, tutorials, and industry news on .NET, JavaScript, technology, and development trends

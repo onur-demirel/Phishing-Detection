@@ -1,0 +1,92 @@
+Live Vorschau
+Vorschau anzeigen
+Diese Applikation erhebt personenbezogene Daten von ihren Nutzern.
+Zu den Arten der bezogenen Daten, die diese Applikation entweder selbst oder über Dritte erhebt, gehören: Vorname, Nachname, Telefonnummer, Adresse, E-Mail, Postleitzahl, Stadt, USt-ID, Name des Unternehmens, Staat, Provinz, verschiedene Datenarten, Steuer-ID, Website, Geografische Position, Cookie und Nutzungsdaten.
+Die Erhebung weiterer personenbezogener Daten kann in anderen Teilen dieser Datenschutzerklärung oder in einem sich spezifisch auf das Thema Datenerhebung beziehenden Erläuterungstext beschrieben werden.
+Die personenbezogenen Daten werden entweder vom Nutzer freiwillig zur Verfügung gestellt oder automatisch erhoben, wenn diese Applikation genutzt wird.
+Soweit nichts anderes angegeben ist, dient der Einsatz von Cookies – bzw. anderer Tracking-Tools – durch die diese Applikation oder durch die Inhaber von Fremdleistungen, die diese Applikation nutzt, der Identifizierung von Nutzern sowie der Speicherung von deren Vorlieben, und zwar zu dem einzigen Zweck, um die vom Nutzer gewünschten Dienstleistungen zu erbringen.
+Werden bestimmte personenbezogene Daten nicht zur Verfügung gestellt, so kann diese Applikation ihre Dienstleistungen möglicherweise nicht erbringen.
+Der Nutzer übernimmt die Verantwortung für die personenbezogenen Daten Dritter, die über diese Applikation veröffentlicht oder geteilt werden, und erklärt, dass er zur Angabe bzw. Bekanntgabe besagter Daten berechtigt ist, womit die verantwortliche Stelle diesbezüglich von jeglicher Verantwortung befreit ist.
+Die verantwortliche Stelle verarbeitet die Nutzerdaten auf ordnungsgemäße Weise und ergreift angemessene Sicherheitsmaßnahmen, um den unbefugten Zugriff und die unbefugte Weiterleitung, Modifizierung oder Vernichtung von Daten zu vermeiden.
+Die Datenverarbeitung wird mittels Computern oder IT-basierten Systemen durchgeführt, einem organisatorischen Verfahren und Modus folgend die strikt auf die angegebenen Zwecke abzielen. Neben der verantwortlichen Stelle wird möglicherweise auch bestimmten Kategorien von Verantwortlichen Zugriff auf die Daten gewährt, die an der Betreibung der Website beteiligt sind (Personalverwaltung, Vertrieb, Marketing, Recht, Systemadministratoren) oder externen Parteien (wie Fremdanbietern technischer Dienstleistungen, Zustellunternehmen, Hosting-Anbietern, IT-Unternehmen oder Kommunkationsagenturen), die, falls notwendig, vom Eigentümer als Auftragsverarbeiter eingesetzt werden. Eine aktuelle Liste dieser Beteiligten kann jederzeit von der verantwortlichen Stelle verlangt werden.
+Die Daten werden am Betriebsort der verantwortlichen Stelle und an allen anderen Orten, an denen sich die mit der Datenverarbeitung beteiligten Parteien befinden, verarbeitet. Für weitere Informationen, kontaktieren Sie bitte die verantwortliche Stelle.
+Die Daten werden so lange gespeichert, wie es für das Erbringen der vom Nutzer gewünschten Dienstleistungen notwendig ist oder für die in diesem Dokument aufgeführten Zwecke angegeben ist. Der Nutzer kann die verantwortliche Stelle jederzeit auffordern, die Daten zu sperren oder zu entfernen.
+Die Daten über den Nutzer werden erhoben, damit der Eigentümer die Dienstleistungen erbringen kann. Darüber hinaus werden Daten zu folgenden Zwecken erhoben: Kontaktieren des Nutzers, Standortbezogene Interaktionen, Analytik, Anzeigen von Inhalten externer Plattformen, Umgang mit Zahlungen und Interaktion mit externen sozialen Netzwerken und Plattformen.
+Die personenbezogenen Daten, die zu den aufgeführten Zwecken verwendet werden, sind in den jeweiligen Abschnitten dieses Dokuments aufgeführt.
+Personenbezogene Daten werden zu folgenden Zwecken unter Inanspruchnahme folgender Dienstleistungen erhoben:
+Mit den in diesem Abschnitt aufgeführten Dienstleistungen kann der Eigentümer den Datenverkehr überwachen und analysieren sowie das Verhalten von Nutzern nachverfolgen.
+Google Analytics ist ein Webanalysedienst von Google Inc. Google verwendet die erhobenen Daten, um nachzuverfolgen und zu untersuchen, wie diese Applikation genutzt wird, Berichte über ihre Aktivitäten zu verfassen und diese gemeinsam mit anderen Google-Diensten zu nutzen.
+Google kann die erhobenen Daten verwenden, um die Anzeigen seines eigenen Werbenetzwerks zu kontextualisieren und personalisieren.
+Erhobene personenbezogene Daten: Cookie und Nutzungsdaten.
+Verarbeitungsort: USA – Datenschutzerklärung –
+Mit dieser Art von Diensten können Nutzer sich Inhalte, die auf externen Plattformen gehostet werden, direkt über diese Applikation anzeigen lassen und mit ihnen interagieren.
+Falls ein solcher Dienst installiert ist, so kann er für die Seiten, auf denen er installiert ist, möglicherweise auch dann Daten aus dem Datenverkehr erheben, wenn Nutzer ihn nicht verwenden.
+Google Maps ist ein von Google Inc. bereitgestellter Service zur Visualisierung von Karten, mit dem diese Applikation entsprechende Inhalte auf ihren Seiten einbinden kann.
+Erhobene personenbezogene Daten: Cookie und Nutzungsdaten.
+Verarbeitungsort: USA – Datenschutzerklärung
+YouTube ist ein von Google Inc. bereitgestellter Service zur Visualisierung von Videoinhalten, mit dem diese Applikation entsprechende Inhalte auf ihren Seiten einbinden kann.
+Erhobene personenbezogene Daten: Cookie und Nutzungsdaten.
+Verarbeitungsort: USA – Datenschutzerklärung
+TripAdvisor-Widget ist ein von TripAdvisor LLC bereitgestellter Visualisierungsservice für diverse Inhalte, mit dem diese Applikation Inhalte von dieser externen Plattform auf ihren Seiten einbinden kann.
+Erhobene personenbezogene Daten: Cookie und Nutzungsdaten.
+Verarbeitungsort: USA – Datenschutzerklärung
+Vimeo ist ein von Vimeo, LLC bereitgestellter Visualisierungsservice für Videoinhalte, mit dem diese Applikation entsprechende Inhalte auf ihren Seiten einbinden kann.
+Erhobene personenbezogene Daten: Cookie und Nutzungsdaten.
+Verarbeitungsort: USA – Datenschutzerklärung
+Google Calendar-Widget ist ein von Google Inc. bereitgestellter Service zur Bereitstellung von Kalenderdaten, mit dem diese Applikation entsprechende Inhalte auf ihren Seiten einbinden kann.
+Erhobene personenbezogene Daten: Cookie und Nutzungsdaten.
+Verarbeitungsort: USA – Datenschutzerklärung
+Diese Art von Diensten ermöglichen die Interaktion mit sozialen Netzwerken oder sonstigen externen Plattformen direkt über diese Applikation.
+Die Interaktion sowie die über diese Applikation erhobenen Informationen unterliegen stets den von den Nutzern für das jeweilige soziale Netzwerk vorgenommenen Privatsphäre-Einstellungen.
+Falls ein Dienst für die Interaktion mit sozialen Netzwerken installiert ist, so kann er für die Seiten, auf denen er installiert ist, auch dann Daten aus dem Datenverkehr erheben, wenn Nutzer den Dienst nicht verwenden.
+Die Tweet-Schaltfläche und sozialen Widgets für Twitter sind Dienste für die Interaktion mit dem sozialen Netzwerk Twitter von Twitter, Inc.
+Erhobene personenbezogene Daten: Cookie und Nutzungsdaten.
+Verarbeitungsort: USA – Datenschutzerklärung
+Die “Gefällt mir”-Schaltfläche und sozialen Widgets für Facebook sind Dienste für die Interaktion mit dem sozialen Netzwerk Facebook von Facebook, Inc.
+Erhobene personenbezogene Daten: Cookie und Nutzungsdaten.
+Verarbeitungsort: USA – Datenschutzerklärung
+Durch Ausfüllen des Kontaktformulars mit ihren Daten autorisieren Nutzer diese Applikation, ihre Angaben zu verwenden, um auf Bitten nach Informationen, Angebote oder sonstige Anfragen, die in der Kopfzeile des Formulars angegeben sind, zu reagieren.
+Erhobene personenbezogene Daten: Adresse, E-Mail, Nachname, Name des Unternehmens, Postleitzahl, Provinz, Staat, Stadt, Steuer-ID, Telefonnummer, USt-ID, verschiedene Datenarten, Vorname und Website.
+Nutzer, die ihre Telefonnummer angegeben haben, können zu gewerblichen oder verkaufsfördernden Zwecken in Bezug auf diese Applikation sowie zur Bearbeitung von Support-Anfragen kontaktiert werden.
+Erhobene personenbezogene Daten: Telefonnummer.
+Diese Applikation kann Positionsdaten des Nutzers erheben, nutzen und teilen, um standortbezogene Dienste zu erbringen.
+Die meisten Browser und Geräte sind standardgemäß so eingestellt, dass diese Funktion deaktiviert ist. Diese Applikation kann auf die Positionsdaten des Nutzers zugreifen, falls eine ausdrückliche Genehmigung erteilt wurde.
+Der geographische Standort des Nutzers wird in einer nicht kontinuierlichen Weise ermittelt, entweder auf ausdrücklichen Wunsch des Nutzers oder wenn der Nutzer den aktuellen Standort nicht in das entsprechende Feld eingibt und es der Anwendung erlaubt, den Standort automatisch zu ermitteln.
+Erhobene personenbezogene Daten: Geografische Position.
+Mit Zahlungsdiensten kann diese Applikation Zahlungen mit Kreditkarte, Banküberweisung oder sonstigen Methoden abwickeln. Um eine besonders hohe Sicherheit zu gewährleisten, leitet diese Applikation nur die Informationen weiter, die für die Ausführung der Transaktion mit den die Transaktion bearbeitenden Finanzvermittlern erforderlich sind.
+Einige dieser Dienste können auch das Versenden von zeitlich festgelegten Nachrichten an den Nutzer vorsehen, wie beispielsweise E-Mails mit Rechnungen oder Benachrichtigungen bezüglich der Zahlung.
+PayPal ist ein Zahlungsdienst von PayPal Inc., der es Nutzern ermöglicht Online-Zahlungen vorzunehmen.
+Erhobene personenbezogene Daten: verschiedene Datenarten, wie in der Datenschutzerklärung des Dienstes beschrieben.
+Diese Applikation kann Nutzern Push-Benachrichtigungen senden.
+Die erhobenen personenbezogenen Daten werden dazu verwendet, um Nutzern Dienstleistungen zu erbringen oder Waren zu verkaufen; hierzu gehören Zahlungen und eventuell Lieferungen.
+Bei den personenbezogenen Daten, die zur Durchführung der Zahlung erhoben werden, kann es sich um Angaben zur Kreditkarte, zum für die Überweisung gebrauchten Bankkonto oder sonstiger vorgesehener Zahlungsmethoden handeln. Die Art der Daten, die diese Applikation erhebt, hängt vom verwendeten Zahlungssystem ab.
+Diese Applikation kann Nutzer durch Speichern einer eindeutigen Kennzeichnung ihres Geräts zu analytischen Zwecken oder zur Speicherung der Einstellungen des Nutzers nachverfolgen.
+Diese Applikation erfasst Nutzer möglicherweise durch die Speicherung eines so genannten Universally Unique Identifier (oder kurz UUID) für Analysezwecke oder zur Speicherung der Benutzereinstellungen. Dieser Identifier wird bei der Installation dieser Anwendung erstellt und bleibt zwischen Anwendungsstarts und Aktualisierungen bestehen, geht jedoch verloren, wenn der Benutzer die Anwendung löscht. Eine Neuinstallation erstellt einen neuen UUID.
+Die personenbezogenen Daten des Nutzers können von der verantwortlichen Stelle zu rechtlichen Zwecken in gerichtlichen Verfahren oder vor möglichen Klagen verwendet werden, die sich daraus ergeben, dass diese Applikation oder die dazugehörigen Dienste nicht ordnungsgemäß genutzt wurden.
+Der Nutzer ist sich dessen bewusst, dass die verantwortliche Stelle von den Behörden zur Herausgabe von personenbezogenen Daten aufgefordert werden könnte.
+Neben den in dieser Datenschutzerklärung aufgeführten Informationen kann diese Applikation dem Nutzer auf Anfrage Informationen zusenden, die sich auf bestimmte Dienste oder die Erhebung und Verarbeitung personenbezogener Daten beziehen.
+Diese Applikation und die Dienste von Drittanbietern können zu Betriebs- und Wartungszwecken Dateien sammeln, die die über diese Applikation stattfindende Interaktion aufzeichnen (Systemprotokolle), oder andere personenbezogene Daten (z. B. IP-Adresse) zu diesem Zweck verwenden.
+Weitere Informationen über die Erhebung oder Verarbeitung von personenbezogenen Daten können jederzeit von der verantwortlichen Stelle über die angegebenen Kontaktangaben angefordert werden.
+Nutzer sind jederzeit berechtigt zu erfahren, ob ihre personenbezogenen Daten gespeichert wurden, und können die verantwortliche Stelle kontaktieren, um die Inhalte und Herkunft der gespeicherten Daten zu erfahren, ihre Richtigkeit zu überprüfen, ihre Ergänzung, Löschung, Aktualisierung, Berichtigung oder Umwandlung in ein anonymisiertes Format oder die Sperrung rechtswidrig gespeicherter Daten zu verlangen sowie ihre Verarbeitung aus rechtmäßigen Gründen abzulehnen. Entsprechende Anfragen sind an die verantwortliche Stelle unter Verwendung der oben aufgeführten Kontaktangaben zu senden.
+Diese Applikation unterstützt keine Nicht-Verfolgen-Anfragen (do not track) durch Webbrowser.
+Die Information, ob benutzte Drittanbieter das Nicht-Verfolgen Protokoll befolgen, entnehmen Sie bitte der Datenschutzerklärung für den jeweiligen Dienst.
+Die verantwortliche Stelle behält sich vor, jederzeit änderungen an dieser Datenschutzerklärung vorzunehmen, indem sie ihre Nutzer auf dieser Seite entsprechend informiert. Nutzern wird daher nahe gelegt, diese Seite regelmäßig aufzurufen und dabei das am Seitenende angegebene Datum der letzten änderung zu prüfen. Lehnt ein Nutzer eine änderung der Datenschutzerklärung ab, so darf er diese Applikation nicht mehr nutzen und kann die verantwortliche Stelle auffordern, seine personenbezogenen Daten zu löschen. Soweit nichts anderes angegeben ist, gilt die jeweils aktuelle Datenschutzerklärung für alle personenbezogenen Daten, die die verantwortliche Stelle über einen Nutzer gespeichert hat.
+Die verantwortliche Stelle ist für die Datenschutzerklärung verantwortlich, die ab den von Iubenda bereitgestellten Modulen beginnt und auf den Servern von Iubenda gehosted wird.
+Angaben über eine natürliche oder juristische Person, Institution oder Gesellschaft, die durch Bezug auf andere Angaben (einschließlich einer persönlichen Identifikationsnummer) – auch indirekt – bestimmt wird oder bestimmbar ist.
+Informationen, die diese Applikation (oder Dienste Dritter, die diese Applikation in Anspruch nimmt), automatisch erhebt, z. B.: die IP-Adressen oder Domain-Namen der Computer von Nutzern, die diese Applikation verwenden, die URI-Adressen (Uniform Resource Identifier), die Zeit der Anfrage, die Methode, die für die übersendung der Anfrage an den Server verwendet wurde, die Größe der empfangenen Antwort-Datei, der Zahlencode, der den Status der Server-Antwort anzeigt (erfolgreiches Ergebnis, Fehler etc.), das Herkunftsland, die Funktionen des vom Nutzer verwendeten Browsers und Betriebssystems, die diversen Zeitangaben pro Aufruf (z. B. wie viel Zeit auf jeder Seite der Anwendung verbracht wurde) und Angaben über den Pfad, dem innerhalb einer Anwendung gefolgt wurde, insbesondere die Reihenfolge der besuchten Seiten, sowie sonstige Informationen über das Betriebssystem des Geräts und/oder die IT-Umgebung des Nutzers.
+Die diese Applikation verwendende Person, auf die sich die personenbezogenen Daten beziehen, und die entweder der Dateninhaber sein muss oder die vom Dateninhaber bevollmächtigt wurde.
+Die juristische oder natürliche Person, auf die sich die personenbezogenen Daten beziehen.
+Die natürliche oder juristische Person, öffentliche Verwaltung oder ein sonstiges Organ, eine sonstige Gesellschaft oder sonstige Organisation, die bzw. das von der verantwortlichen Stelle bevollmächtigt wurde, die personenbezogenen Daten gemäß dieser Datenschutzerklärung zu verarbeiten.
+Die natürliche oder juristische Person, öffentliche Verwaltung oder ein sonstiges Organ, eine sonstige Gesellschaft oder sonstige Organisation mit dem Recht, möglicherweise gemeinsam mit einer weiteren verantwortlichen Stelle Entscheidungen über den Zweck und die Methoden der Verarbeitung von personenbezogenen Daten sowie die hierfür verwendeten Mittel zu treffen, einschließlich der Sicherheitsmaßnahmen bezüglich des sich auf diese Applikation beziehenden Betriebs und der Nutzung. Soweit nichts anderes angegeben ist, ist die verantwortliche Stelle die natürliche oder juristische Person, in deren Eigentum diese Applikation steht.
+Das Hardware- oder Software-Tool, mit dem die personenbezogenen Daten des Nutzers erhoben werden.
+Kleine Datei, die von der Anwendung im Gerät des Nutzers gespeichert wird.
+Hinweis für europäische Nutzer: Diese Datenschutzerklärung wurde unter Einhaltung der Anforderungen von Art. 10 der EG-Richtlinie Nr. 95/46/EC und gemäß den Bestimmungen der Richtlinie 2002/58/EG, überarbeitet durch Richtlinie 2009/136/EG, zum Thema Cookies verfasst.
+In dieser Datenschutzerklärung geht es ausschließlich um diese Applikation.
+Letzte Aktualisierung: 13 Januar 2017
+Bildquellen
+Purvi Joshi, Shirley Suarez, Harry Stahl, bsphotography.de
+Rechtliche Hinweise
+Alle auf dieser Website veröffentlichten Beiträge und Abbildungen sind urheberrechtlich geschützt. Jede vom Urheberrechtsgesetz nicht zugelassene Verwertung bedarf vorheriger schriftlicher Zustimmung.
+App Beschreibung
+Anna Karmasin – Sopran, Opern- und KonzertsängerinDiplom, Hochschule für Musik und Theater, MünchenDie nächsten Konzerttermine08.11.2020 / 10.00 UhrBach: Kantate BWV 137 “Lobe den Herren, den mächtigen König”München-Sendling / Himmelfahrtskirche15.11.2020 / 20.00 UhrW. A. Mozart / RequiemLandshut29.11.2020 / 10.00 UhrJ. S. Bach / Kantate BWV 36 „Schwingt freudig euch empor“München-Sendling / Himmelfahrtskirche
+via qrcode:

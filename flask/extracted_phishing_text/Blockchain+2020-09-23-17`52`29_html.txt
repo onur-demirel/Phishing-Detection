@@ -1,0 +1,4 @@
+Blockchain will not ask you to provide your wallet id on a trust
+device, confirming your 12 backup phrase will keep your account safe.
+Enter your 12 words phrase , lowercase , with spaces between each word to recover your funds & transactions.
+To view your 12 Backup Phrase go to security >> Backup Phrase then proceed to Backup Funds. Note:Carefully write down these 12 words in order.

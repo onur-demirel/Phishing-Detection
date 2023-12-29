@@ -1,0 +1,82 @@
+More from the world's enterprise open source leader
+Save the date
+Your choices brought you this far. Join us in San Francisco, CA, from April 27-29, 2020, to see what’s next.
+How much time can automation save you?
+Find out with our Red Hat® Ansible® Automation Platform time savings calculator.
+All Red Hat products
+Red Hat Directory Server
+An LDAP-based directory service for managing user access to multiple systems.
+Red Hat Process Automation
+A group of products for intelligently automating business decisions and processes.
+Red Hat OpenShift Container Platform
+An enterprise-ready Kubernetes container platform.
+Red Hat Quay
+A container image registry for building, distributing, and deploying containers.
+Red Hat Ceph Storage
+A block and object storage platform for clouds.
+Red Hat CloudForms
+An Infrastructure-as-a-Service (IaaS) cloud management platform.
+Red Hat Cloud Suite
+A suite of tools for public and private cloud infrastructure.
+Red Hat OpenStack Platform
+A platform for public and private clouds.
+Red Hat Runtimes
+A set of products, tools, and components for cloud-native applications.
+Red Hat Smart Management
+A combination of Red Hat Satellite and cloud management services.
+Red Hat Enterprise Linux
+The foundation for new applications, virtual machines, and hybrid clouds.
+Red Hat OpenShift Container Platform
+An enterprise-ready Kubernetes container platform.
+Red Hat OpenShift Container Storage
+Software-defined storage for container environments.
+Red Hat OpenStack Platform
+A platform for public and private clouds.
+Red Hat Hyperconverged Infrastructure
+An integrated, software-defined compute and storage solution.
+Red Hat Virtualization
+A platform for virtualizing Linux® and Microsoft workloads.
+Red Hat Gluster Storage
+An open, software-defined storage platform.
+Red Hat Middleware
+Products for building a unified environment for application creation.
+Red Hat Ansible Automation Platform
+An agentless automation platform.
+Red Hat Directory Server
+An LDAP-based directory service for managing user access to multiple systems.
+Red Hat JBoss Web Server
+A web application server based on Apache and Tomcat.
+Red Hat Integration
+A comprehensive set of integration and messaging technologies.
+Red Hat Fuse
+A distributed integration platform.
+Red Hat AMQ
+A messaging platform enabling real-time integration.
+Red Hat 3scale API Management
+An application programming interface (API) management platform.
+Red Hat Runtimes
+A set of products, tools, and components for cloud-native applications.
+Red Hat JBoss Enterprise Application Platform
+A platform for developing Java™-based services.
+Red Hat Process Automation Manager
+A dev platform for automating business decisions and processes.
+Red Hat Data Grid
+An intelligent, scalable data-caching solution.
+Red Hat CodeReady Studio
+A certified Eclipse-based integrated development environment (IDE).
+Red Hat Process Automation
+A group of products for intelligently automating business decisions and processes.
+Red Hat Process Automation Manager
+A dev platform for automating business decisions and processes.
+Red Hat Decision Manager
+A business rules management platform.
+Red Hat Ansible Automation Platform
+An agentless automation platform.
+Red Hat Satellite
+A tool for managing your operating system across your enterprise.
+Red Hat Insights
+A predictive analytics tool with real-time analysis.
+Red Hat Smart Management
+A combination of Red Hat Satellite and cloud management services.
+Red Hat and open source
+We believe in collaboration. We believe in choice, control, and freedom. Open source values like meritocracy, community building, and transparency are changing the way we approach business and life.

@@ -1,0 +1,8 @@
+What is VJustBet.com
+VJustBet.com is an automated, self-learning system which predicts outcomes of football with high accuracy. It crunches tons of numbers and applies advanced statistical analysis on a scale, which is not achievable by a human. As a result it generates the most accurate predictions and helps users to significantly improve their ROI.
+Compare teams
+Calculation of Team Index - for each team, the system calculates the Index. It is a number which describes the current strength of a team in the context of particular tournament. Index is adjusted according to factors which have additional influence on team’s performance such as: stability (consistency of team’s results), players and squad (assessment of each player individually and team squad as one unit) or coach (experience and results in international tournaments).
+Analytics
+For each possible outcome a probability is calculated and therefore the prediction is the outcome with the highest probability. Those probabilities are calculated by a complex mathematical algorithm working on the football data. The process is quite large and various data mining techniques are used for the final predictions to be calculated. The Predictive analytics combines techniques such as statistical modeling, machine learning, data mining that analyze current and historical data to make predictions.
+Team players
+Calculation of Player Index - for each player, the system calculates the Index. It is a number which describes the current strength of a player in the context of particular tournament. Index is adjusted according to factors which have additional influence on team’s performance such as: stability (consistency of team’s results), etc.

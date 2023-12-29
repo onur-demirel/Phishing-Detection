@@ -1,0 +1,14 @@
+PostFinance Checkout
+Contact and support
+Login
+<div class="alert flash-message alert-danger"> <i class="fa fa-fw fa-warning"></i> <span>Javascript is required. Please enable it in your browser and reload this page.</span> </div>
+Email Address
+Password
+Forgot Password
+Login
+Sign up
+Language
+English
+Français
+English
+Deutsch

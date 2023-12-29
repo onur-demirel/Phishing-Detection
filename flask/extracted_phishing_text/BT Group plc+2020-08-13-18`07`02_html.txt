@@ -1,0 +1,9 @@
+Additional accounts detected.
+We have detected additional accounts have been added since you last viewed your
+Faults and Orders dashboard. In order to view the dashboard you will need to add
+the new account(s) in My Permissions.Go to My permissions
+******7257
+Don't worry, if you don't have the details of these accounts you can still track
+a fault or order with your fault or order references. If you add all your accounts
+later the dashboard view will be restored.
+×

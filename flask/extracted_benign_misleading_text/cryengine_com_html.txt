@@ -1,0 +1,13 @@
+The most powerful game development platform for you and your team to create world-class entertainment experiences.
+What you see is what you get: Sandbox allows you to create seamless worlds without any baking. Create your world and export to a game as you see it in the Editor.
+Fully realtime dynamic global illumination with a fully PBR workflow allows you to create ultra realistic environments using the tools you're used to.
+Physical simulations that take into account real world physical properties in a realistic manner to provide easily configurable and dynamic scenes.
+Use CRYENGINE's exclusive Audio Translation Layer that allows you to choose the middleware you want, when you want. Allowing for workflows that work for you.
+Achieve photorealism in huge open world environments with a completely streamlined flow for level design. Immediately test your lighting in realtime — no baking required.
+CRYENGINE packs a complete physics solution out of the box. Take complete control over physics to bring your world and gameplay to life.
+Handle complex and expensive effects with ease. Build stunning worlds for gamers to explore with unparalleled performance.
+Uniting the most scalable, technically advanced animation and rendering systems to deliver realistic results in realtime.
+Supporting all of today’s high end platforms. Develop for PC, Xbox, Playstation, Oculus, and many more.
+CRYENGINE 5.6 comes with significant improvements. New tools and enhancements make the game development process more intuitive than ever before.
+Access the latest version of the engine behind visual benchmark titles like the Crysis series and Hunt: Showdown. Use the same tools as our internal teams.
+Use CRYENGINE for free. 5% royalty applies when you ship your project. Your first $5K annual revenue per project is royalty-free.

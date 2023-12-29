@@ -1,0 +1,32 @@
+"The best driver WIKI ever! I wil keep coming back for sure."Eric Smalter, Boston, MA
+Our main support OS are: Windows 7, Windows 7 64 bit, Windows 7 32 bit, Windows 10, Windows 10 64 bit, Windows 10 32 bit, and Windows 8.
+Most Popular Drivers in 2017
+We have been receiving a lot of driver updates this year, and many of our users have been asking what drivers should be their top priority for installation. We have put together a list of our most popular drivers, here it is for your convenience:
+Default distribution of Web browser to operating system
+General Interest
+What started out as a possible hand slap for trying distribution of its Web browser to its operating system now may get out of hand. The growing consensus: The Department of Justice will go far beyond its limited goals and launch a wide-ranging attack against Microsoft Corp.'s business practices on and off the Internet. 'I believe there's a new monopolization case that will be filed within 60 days,' said one lobbyist who closely tracks the case. 'What Microsoft is doing is balkanizing the Internet.' It seemed like a simple case. The DOJ, borrowing a page from its past, hit Microsoft with a suit alleging it had violated a previous court order that barred it from several anti-competitive practices. The narrowly defined complaint said Microsoft had stepped over the line when it bundled its Internet Explorer (IE) browser with the Windows operating system (OS). 'We took this action today for three reasons,' Attorney General Janet Reno told reporters on Oct. 20.
+'To enforce the earlier court order, to prevent Microsoft from protecting and expanding its Windows PC OS monopoly by anti-competitive means, and, most importantly, to ensure that consumers will have the ability to choose among competing software products.' And that was that. Not only was there no mention of a wider effort, the complaint itself hung from a settlement that Microsoft Chairman Bill Gates described as a 'nothing.' William Neukom, Microsoft's senior vice president for law and corporate affairs, called the complaint 'just a matter of interpreting straightforward language in a consent decree.' Four months later, few in Washington, D.C., believe that line anymore. This week the DOJ will file its first round of arguments before an appeals court explaining why that court must uphold a lower court's decision to force Microsoft to offer its Internet browser separately from its OS. Just last week, a group of 10 state attorneys general met with federal prosecutors to coordinate strategy on their separate investigations of Microsoft's business practices. That meeting followed a Feb. 2 announcement by New York State Attorney General Dennis Vacco, in which he said New York and 10 other states issued subpoenas to Microsoft regarding bundling IE with Windows 95. On March 3, Senate Judiciary Chairman Orrin Hatch, R-Utah, will host Gates, Netscape Communications Corp. Chief Executive Officer Jim Barksdale and Sun Microsystems Inc. CEO Scott McNealy in hearings expected to turn into an open debate on Microsoft's right to dominate PC software markets.
+The consensus now: The DOJ will go far beyond its limited goals and launch a wide-ranging attack against Microsoft's business practices. 'The Sherman Antitrust Act covers almost anything' that the DOJ will throw at Microsoft, University of Baltimore law professor Robert Lande said. Lande, who helped sue Microsoft over its earlier bundling of Windows with the Microsoft Disk Operating System on behalf of the developers of the competing DR-DOS, said he believes the DOJ can show that the company that produces more than 90 percent of the PC OSes sold can exert far-ranging control over the market for personal computer software. Once DOJ attorneys do that - a slam dunk, in Lande's opinion - they need only show the company has used that power to maintain market share, dictate prices or otherwise compete under conditions that favor Microsoft. The range of potential penalties is as broad as the law itself. Courts could draw some sort of line between the OS and applications that run on top of it and order Microsoft to cease adding features of one kind or another. Judges could tell the company how much to charge for products, require advance notice of new features to rivals or, in a doomsday scenario, break Microsoft into as many pieces as necessary to keep the company from taking over the whole software industry. Or they could do nothing at all.
+Whatever happens, a larger case 'will take years of litigation, during which time the market can restore competition,' said John Chapman, former DOJ antitrust litigator and attorney representing the Computer and Communications Industry Association. Microsoft officials declined to be interviewed for this article. 'We're not going to speculate on what the Department of Justice or states might do,' spokesman Jim Cullinan said. DOJ officials weren't saying how they'll move next, but they're almost certain to include Microsoft's practice of bundling ever more features into its OSes in any future suit against the company. Gary Reback, perhaps the most famous of all lawyers to take on the giant of Redmond, Wash., said the problem is obvious. 'The question is not whether we have a problem. The question now is what we're going to do about it.' Neukom and other Microsoft officials said the company has continually added features to its OSes to respond to market demand. But Reback and the companies he represents insisted that a growing list of companies that were killed or are dying as a result of Microsoft's bundling practices is a prime exhibit in an illegal tying case against the company. 'Microsoft is trying to penetrate damn near any business there is . . . through their control of the OS,' Reback said.
+.
+Some Drivers may sometimes be at fault for other drivers ceasing to function
+These are the driver scans of 4 of our recent wiki members*
+*Scans were performed on computers suffering from Some Drivers disfunctions.
+Scan performed on 4/30/2017, Computer: HP Presario V2000
+Outdated or Corrupted drivers:6/20
+Device/Driver
+Status
+Status Description
+Updated By Scanner
+Motherboards
+Intel(R) ICH10 Family PCI Express Root Port 3 - 3A44
+Up To Date and Functioning
+Mice And Touchpads
+WheelMouse USB Advanced Wheel Mouse
+Corrupted By Some Drivers
+Logicool Logitech Cordless Mouse (USB)
+Up To Date and Functioning
+Fujitsu Component touchpad/touchscreen
+Up To Date and Functioning
+Usb Devices
+Microsoft Intel(R) 82801DB/DBM USB universell vertskontroller - 24C4

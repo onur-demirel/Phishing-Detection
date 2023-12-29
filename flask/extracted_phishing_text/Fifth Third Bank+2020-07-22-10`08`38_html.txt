@@ -1,0 +1,7 @@
+Existing Users
+To access your accounts, please use your custom User ID, Fifth Third ATM, Debit, Credit, Prepaid Card number or Social Security number as your ID and your associated Online Banking PIN (Personal Identification Number) as your password.
+First Time Users
+User ID:
+Use your Fifth Third debit, credit, prepaid or ATM card number the first time you log in. View Forgot User ID or Password to change User ID.
+Password:
+Use your Card PIN (Personal Identification Number) to log in to Online Banking. After entering Online Banking for the first time using your Card PIN, you will be prompted to create an exclusive password for Online Banking.

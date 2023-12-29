@@ -1,0 +1,1290 @@
+|Comscore
+|ANALYTICS - ADVERTISING
+|A9
+|ADVERTISING
+|Google
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Pubmatic
+|MARKETING - ADVERTISING - PERSONALIZATION
+|Rubicon Project
+|MARKETING - ADVERTISING - PERSONALIZATION
+|OpenX
+|MARKETING - ADVERTISING - PERSONALIZATION
+|AppNexus
+|MARKETING - ADVERTISING - PERSONALIZATION
+|Sovrn
+|MARKETING - ADVERTISING - PERSONALIZATION
+|Lijit
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Gum Gum
+|MARKETING - ADVERTISING - PERSONALIZATION
+|Context Web
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|SpotXchange
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Spotx TV
+|MARKETING - ADVERTISING - PERSONALIZATION
+|LKQD.net
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|LKQD.com
+|MARKETING - ADVERTISING - PERSONALIZATION
+|TremorHub
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Brightroll
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Spring Serve
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|My6Sense
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|FreeWheel
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Smart AdServer
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|ONE by AOL
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Beachfront Video SSP
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Tout
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Native Ads
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Smarty Ads
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|SoMo Audience
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Monetize
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Cedato
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Moat Creative Wrapper
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Truste Creative Wrapper
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Quantcast Audience Insights CW
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Confiant CW
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Telaria
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Brightroll2
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Fyber
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Improve Digital
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Novoroll
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|33Across
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|One Ad Server
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|AOL Cloud
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Criteo
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Feature Forward
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Index Exchange
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Media.net
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Revcontent
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Smaato
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Synacor
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Taboola
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|FirstImpression
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Outbrain
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|ShareThrough
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Hyfn Local
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Distroscale
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Teads
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Positive Mobile
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Mediabong
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|emxdgt.com
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Sonobi
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Bidfluence
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Rhythm One
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Primis
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|District M
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Brightcom
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|COMET
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Q1Connect
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|WideOrbit
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Meme Video
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Vidoplay
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Vidoplay2
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Vidoplay3
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Carambola
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Fidelity Media Exchange
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Vertoz
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Adform
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|AdYouLike
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Conversant Media
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|jadserve.postrelease.com
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Yieldbot
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Advinteo
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Total Media Solutions
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Adblade
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|PilotX
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|RockYou Media
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|aralego.com
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Video Intelligence
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|tidaltv.com
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|yieldlab.net
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Trion
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|yumenetworks.com
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Video Media Group
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Connatix
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Saambaa
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Kargo
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Anyclip
+|MARKETING - ANALYTICS - ADVERTISING - PERSONALIZATION
+|Emerse Sverige AB
+|Information storage and access - Personalisation - Ad selection, delivery, reporting -
+|AdMaxim Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|BeeswaxIO Corporation
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|TripleLift, Inc.
+|Information storage and access - Personalisation -
+|ADventori SAS
+|Information storage and access - Personalisation -
+|Oath (EMEA) Limited
+|Information storage and access - Personalisation
+|Venatus Media Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Exponential Interactive, Inc
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|AdSpirit GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|BidTheatre AB
+|Information storage and access - Personalisation
+|Conversant Europe Ltd.
+|Information storage and access
+|Etarget SE
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|ADITION technologies AG
+|Information storage and access
+|Quantcast International Limited
+|Information storage and access
+|Adikteev / Emoteev
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Roq.ad GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Vibrant Media Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|Captify Technologies Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|NEURAL.ONE
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|Sovrn Holdings Inc
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|NEORY GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|AppNexus Inc.
+|Information storage and access
+|Index Exchange, Inc.
+|Information storage and access
+|ADARA MEDIA UNLIMITED
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Avocet Systems Limited
+|
+|xAd, Inc. dba GroundTruth
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Tradelab, SAS
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Smart Adserver
+|Information storage and access
+|The Rubicon Project, Inc.
+|Information storage and access
+|Dataxu, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|MediaMath, Inc.
+|Information storage and access
+|Criteo SA
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Crimtan Holdings Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|RTB House S.A.
+|Information storage and access - Personalisation -
+|Scene Stealer Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Blis Media Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Simplifi Holdings Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|ShareThis, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting
+|N Technologies Inc.
+|
+|Madison Logic, Inc.
+|
+|Sirdata
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|OpenX
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|GroupM UK Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting
+|Justpremium BV
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Intent Media, Inc.
+|Information storage and access
+|Vdopia DBA Chocolate Platform
+|Information storage and access - Personalisation -
+|RhythmOne, LLC
+|Information storage and access -
+|Sharethrough, Inc
+|Information storage and access - Personalisation -
+|PulsePoint, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Amobee, Inc.
+|Information storage and access
+|Purch Group, Inc.
+|Information storage and access
+|LifeStreet Corporation
+|Information storage and access - Personalisation - Ad selection, delivery, reporting -
+|affilinet
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|Admotion SRL
+|Information storage and access - Personalisation -
+|realzeit GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Switch Concepts Limited
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Parsec Media Inc.
+|Information storage and access - Personalisation -
+|uppr GmbH
+|
+|LEMO MEDIA GROUP LIMITED
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|RevLifter Ltd
+|Information storage and access
+|Turbo
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|Sizmek
+|Information storage and access
+|M32 Connect Inc
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Greenhouse Group BV (with its trademark LemonPI)
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|GumGum, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|Active Agent AG
+|
+|PubMatic, Inc.
+|Information storage and access
+|Tapad, Inc.
+|Information storage and access
+|Skimbit Ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|adsquare GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|Impression Desk Technologies Limited
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Adverline
+|Information storage and access -
+|Smaato, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Rakuten Marketing LLC
+|Information storage and access
+|Yieldlab AG
+|
+|Adform A/S
+|Information storage and access
+|NetSuccess, s.r.o.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Fifty Technology Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|The Trade Desk
+|Information storage and access - Personalisation
+|Hottraffic BV (DMA Institute)
+|Information storage and access - Personalisation -
+|Taboola Europe Limited
+|Information storage and access
+|Maytrics GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|comScore, Inc.
+|Information storage and access - Personalisation -
+|LoopMe Ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|Eyeota Ptd Ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Adloox SA
+|
+|Teads
+|Information storage and access - Personalisation
+|admetrics GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|SlimCut Media SAS
+|Information storage and access - Personalisation
+|Rich Audience
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Widespace AB
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Avid Media Ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|LiveRamp, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|ConnectAd Realtime GmbH
+|Information storage and access
+|Nano Interactive GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|PIXIMEDIA SAS
+|Information storage and access - Personalisation - Ad selection, delivery, reporting -
+|Ströer SSP GmbH
+|
+|ShowHeroes GmbH
+|
+|Confiant Inc.
+|Information storage and access
+|Teemo SA
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|YOC AG
+|Information storage and access - Personalisation
+|Beemray Oy
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|MiQ
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|ADman Interactive SL
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Admedo Ltd
+|
+|MADVERTISE MEDIA
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Underdog Media LLC
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|Seedtag Advertising S.L
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Snapsort Inc., operating as Sortable
+|Information storage and access - Personalisation -
+|ID5 Technology SAS
+|Information storage and access
+|Reveal Mobile, Inc
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Adacado Technologies Inc. (DBA Adacado)
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|NextRoll, Inc.
+|Information storage and access
+|IPONWEB GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|BIDSWITCH GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|EASYmedia GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Outbrain UK Ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|district m inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|Bombora Inc.
+|Information storage and access - Personalisation
+|Yieldmo, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|TreSensa, Inc.
+|Information storage and access
+|Flashtalking, Inc.
+|Information storage and access
+|Sift Media, Inc
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Sublime
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|FORTVISION
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|digitalAudience
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Adkernel LLC
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Thirdpresence Oy
+|Information storage and access
+|EMX Digital LLC
+|Information storage and access - Personalisation
+|33Across
+|Information storage and access - Personalisation -
+|Platform161
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Teroa S.A.
+|Information storage and access
+|1020, Inc. dba Placecast and Ericsson Emodo
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting
+|Media.net Advertising FZ-LLC
+|Information storage and access - Personalisation
+|Delta Projects AB
+|Information storage and access
+|advanced store GmbH
+|
+|video intelligence AG
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Semasio GmbH
+|
+|Location Sciences AI Ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|Zemanta, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Tapjoy, Inc.
+|
+|Sellpoints Inc.
+|
+|2KDirect, Inc. (dba iPromote)
+|
+|Centro, Inc.
+|Information storage and access
+|Rezonence Limited
+|Information storage and access - Personalisation -
+|Publicis Media GmbH
+|Information storage and access
+|SYNC
+|Information storage and access - Personalisation -
+|ORTEC B.V.
+|Information storage and access -
+|Ligatus GmbH
+|
+|Adssets AB
+|
+|Collective Europe Ltd.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Ogury Ltd.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting
+|1plusX AG
+|
+|AntVoice
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|smartclip Holding AG
+|Information storage and access
+|DoubleVerify Inc.
+|Information storage and access -
+|Mediasmart Mobile S.L.
+|Information storage and access - Personalisation -
+|IgnitionOne
+|
+|emetriq GmbH
+|Information storage and access
+|Leadplace - Temelio
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|adrule mobile GmbH
+|Information storage and accessPersonalisation -
+|A Million Ads Limited
+|
+|remerge GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Rockerbox, Inc
+|
+|Bounce Exchange, Inc
+|Information storage and access
+|ZBO Media
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Smartology Limited
+|
+|OneTag Ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting
+|LiquidM Technology GmbH
+|
+|ARMIS SAS
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Audiens S.r.l.
+|Information storage and access - Personalisation -
+|7Hops.com Inc. (ZergNet)
+|
+|Bucksense Inc
+|Information storage and access
+|Bidtellect, Inc
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Adello Group AG
+|
+|RTK.IO, Inc
+|Information storage and access - Personalisation -
+|Spotad
+|Information storage and accessPersonalisation -
+|AdTheorent, Inc
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Digitize New Media Ltd
+|Information storage and accessPersonalisation -
+|Bannerflow AB
+|Information storage and access
+|Sonobi, Inc
+|Information storage and access - Personalisation
+|Unruly Group Ltd
+|
+|Spolecznosci Sp. z o.o. Sp. k.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Research Now Group, Inc
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Goodway Group, Inc.
+|
+|Netsprint SA
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Intowow Innovation Ltd.
+|Information storage and access - Personalisation -
+|Mirando GmbH & Co KG
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Sanoma Media Finland
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Viralize SRL
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Genius Sports Media Limited
+|Information storage and accessPersonalisation -
+|Collective, Inc. dba Visto
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Onnetwork Sp. z o.o.
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Revcontent, LLC
+|
+|RockYou, Inc.
+|Information storage and access -
+|LKQD, a division of Nexstar Digital, LLC.
+|
+|Golden Bees
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Spot.IM Ltd.
+|
+|Triton Digital Canada Inc.
+|
+|plista GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting
+|TimeOne
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Inskin Media LTD
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Jaduda GmbH
+|
+|Converge-Digital
+|Information storage and access
+|Smadex SL
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Comcast International France SAS
+|Information storage and access
+|McCann Discipline LTD
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|AdClear GmbH
+|Information storage and access - Personalisation -
+|Codewise Sp. z o.o. Sp. k
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|ADYOULIKE SA
+|Information storage and accessPersonalisation -
+|mobalo GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|A.Mob
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Steel House, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Improve Digital International BV
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|On Device Research Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Keymantics
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|R-TARGET
+|Information storage and access
+|mainADV Srl
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Integral Ad Science, Inc.
+|
+|Qwertize
+|Information storage and access - Personalisation - Ad selection, delivery, reporting -
+|Sojern, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|Celtra, Inc.
+|Information storage and access - Personalisation -
+|SpotX
+|Information storage and access
+|ADMAN - Phaistos Networks, S.A.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|SMARTSTREAM.TV GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Knorex Pte Ltd
+|
+|Gamned
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Accorp Sp. z o.o.
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|ADUX
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|PowerLinks Media Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting -
+|Jivox Corporation
+|
+|Connatix Native Exchange Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Polar Mobile Group Inc.
+|Information storage and access - Personalisation
+|Clipcentric, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|Readpeak Oy
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Perform Media Services Ltd
+|Information storage and access -
+|Fusio
+|Information storage and access - Personalisation - Ad selection, delivery, reporting -
+|Mobile Professionals BV
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|usemax advertisement (Emego GmbH)
+|
+|Adobe Advertising Cloud
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|The ADEX GmbH
+|Information storage and access
+|Welect GmbH
+|
+|StackAdapt
+|
+|WEBORAMA
+|Information storage and access
+|Liveintent Inc.
+|Information storage and access
+|DigiTrust / IAB Tech Lab
+|Information storage and access
+|zeotap GmbH
+|
+|TabMo SAS
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Adevinta Spain S.L.U.
+|
+|Permodo GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|AdTiming Technology Company Limited
+|Information storage and access - Personalisation -
+|Fyber
+|Information storage and access -
+|ad6media
+|Information storage and access - Personalisation - Ad selection, delivery, reporting -
+|The Kantar Group Limited
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Rockabox Media Ltd
+|Information storage and access
+|Marfeel Solutions S.L
+|Information storage and access - Personalisation -
+|InMobi Pte Ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Telaria, Inc
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Gemius SA
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Wizaly
+|Information storage and access - Personalisation -
+|Apester Ltd
+|Information storage and access -
+|Adelphic LLC
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Aerserv LLC
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Instinctive, Inc.
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Optomaton UG
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting
+|Video Media Groep B.V.
+|Information storage and access -
+|Digilant Spain, SLU
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Vuble
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|Orion Semantics
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Signal Digital Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Visarity Technologies GmbH
+|Information storage and access -
+|DIGITEKA Technologies
+|
+|Linicom
+|Information storage and access -
+|Acuityads Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Mindlytix SAS
+|
+|Permutive Technologies, Inc.
+|
+|Permutive Ltd.
+|
+|Mobfox US LLC
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|MGID Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Meetrics GmbH
+|
+|Yieldlove GmbH
+|Information storage and access
+|Seeding Alliance GmbH
+|
+|My6sense Inc.
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Ezoic Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting -
+|Bigabid Media Ltd
+|
+|Free Stream Media Corp. dba Samba TV
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Samba TV UK Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Somo Audience Corp
+|Information storage and access - Personalisation
+|Vidoomy Media SL
+|Information storage and access - Personalisation
+|communicationAds GmbH & Co. KG
+|
+|Getintent USA, inc.
+|Information storage and access
+|mediarithmics SAS
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|VECTAURY
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Nielsen Marketing Cloud
+|Information storage and access - Personalisation
+|Digital Control GmbH & Co. KG
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|numberly
+|Information storage and access
+|Qriously
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Audience Trading Platform Ltd.
+|
+|Pixalate, Inc.
+|
+|Triapodi Ltd.
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Exactag GmbH
+|Information storage and access - Personalisation -
+|Affectv Ltd
+|
+|AddApptr GmbH
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|The Reach Group GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|Hybrid Adtech GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Mobusi Mobile Advertising S.L.
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|Oracle
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting
+|Duplo Media AS
+|
+|twiago GmbH
+|
+|Pocketmath Pte Ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|Effiliation
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|Eulerian Technologies
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Whenever Media Ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Webedia
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Yormedia Solutions Ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Seenthis AB
+|
+|Nativo, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting
+|Browsi Mobile Ltd
+|Information storage and access - Personalisation -
+|Bidmanagement GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|SheMedia, LLC
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Brand Metrics Sweden AB
+|Information storage and access
+|LeftsnRight, Inc. dba LIQWID
+|
+|TradeTracker
+|
+|AudienceProject Aps
+|Information storage and access - Personalisation
+|Avazu Inc.
+|
+|Cloud Technologies S.A.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|iotec global Ltd.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|dunnhumby Germany GmbH
+|
+|IgnitionAi Ltd
+|
+|Commanders Act
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|DynAdmic
+|Information storage and access - Personalisation -
+|SINGLESPOT SAS
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Arrivalist Co.
+|
+|Ziff Davis LLC
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|INVIBES GROUP
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|R-Advertising
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Myntelligence Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|PROXISTORE
+|Information storage and access
+|Mobile Journey B.V.
+|
+|Tradedoubler AB
+|
+|Signals
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Beachfront Media LLC
+|
+|Publishers Internationale Pty Ltd
+|Information storage and access - Personalisation
+|Proxi.cloud Sp. z o.o.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Bmind a Sales Maker Company, S.L.
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|Ooyala Inc
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Neodata Group srl
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Innovid Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting
+|Playbuzz Ltd.
+|Information storage and access -
+|Cxense ASA
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Adimo
+|Information storage and access
+|GDMServices, Inc. d/b/a FiksuDSP
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Cuebiq Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|travel audience GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Demandbase, Inc.
+|Information storage and access
+|Solocal
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|ADRINO Sp. z o.o.
+|
+|Forensiq LLC
+|
+|Adludio Ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Adtelligent Inc.
+|Information storage and access - Personalisation -
+|mbr targeting GmbH
+|
+|PREX Programmatic Exchange GmbH&Co KG
+|
+|bidstack ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|TACTIC™ Real-Time Marketing AS
+|Information storage and access - Personalisation -
+|Yieldr UK
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|White Ops, Inc.
+|
+|Telecoming S.A.
+|
+|Ad Unity Ltd
+|
+|Cybba, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Zeta Global
+|
+|DEFINE MEDIA GMBH
+|
+|Affle International
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|AdElement Media Solutions Pvt Ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reporting -
+|Social Tokens Ltd.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|TAPTAP Networks SL
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|hbfsTech
+|
+|TARGETSPOT BELGIUM SPRL
+|
+|Internet BillBoard a.s.
+|
+|B2B Media Group EMEA GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|HIRO Media Ltd
+|
+|pilotx.tv
+|Information storage and accessPersonalisation -
+|CerebroAd.com s.r.o.
+|
+|Ströer Mobile Performance GmbH
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Totaljobs Group Ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Madington
+|
+|Neustar, Inc.
+|Information storage and access
+|AdColony, Inc.
+|
+|YellowHammer Media Group
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Adledge
+|
+|Clicksco Digital Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting
+|Arcspire Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Automattic Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting
+|KUPONA GmbH
+|
+|Kubient
+|Information storage and access -
+|Sub2 Technologies Ltd
+|Information storage and accessPersonalisation - Ad selection, delivery, reporting -
+|Haensel AMS GmbH
+|Information storage and access - Personalisation -
+|Opinary GmbH
+|
+|PLAYGROUND XYZ EMEA LTD
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Oracle AddThis
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting
+|Triboo Data Analytics
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|PurposeLab, LLC
+|Information storage and access -
+|NEXD
+|Information storage and access -
+|Schibsted Product and Tech UK
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Little Big Data sp.z.o.o.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting -
+|LotaData, Inc.
+|
+|Lucid Holdings, LLC
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|PubNative GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|FlexOffers.com, LLC
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Cablato Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|Pexi B.V.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|AdsWizz Inc.
+|
+|UberMedia, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Shopalyst Inc
+|Information storage and access - Personalisation
+|SunMedia
+|Information storage and access - Personalisation
+|Accelerize Inc.
+|Information storage and access
+|Admixer EU GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|INFINIA MOBILE S.L.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Shopstyle
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|ATG Ad Tech Group GmbH
+|Information storage and access - Personalisation -
+|netzeffekt GmbH
+|Information storage and access
+|nugg.ad GmbH
+|
+|ZighZag
+|Information storage and access - Personalisation -
+|ChannelSight
+|Information storage and access
+|The Ozone Project Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Fidzup
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Kayzen
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|Jampp LTD
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|salesforce.com, inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|SmartyAds Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|INNITY
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Uprival LLC
+|Information storage and access
+|Tealium Inc
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Near Pte Ltd
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|AdDefend GmbH
+|
+|Alliance Gravity Data Media
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Chargeads
+|Information storage and access - Personalisation
+|X-Mode Social, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|RUN, Inc.
+|
+|Smartclip Hispania SL
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting -
+|GlobalWebIndex
+|Information storage and access
+|Densou Trading Desk ApS
+|
+|PUB OCEAN LIMITED
+|Information storage and access
+|Kochava Inc.
+|
+|PaperG, Inc. dba Thunder Industries
+|Information storage and access - Personalisation
+|Cydersoft
+|
+|Illuma Technology Limited
+|Information storage and access
+|Tunnl BV
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Video Reach
+|Information storage and access - Personalisation -
+|Smart Traffik
+|Information storage and access - Personalisation -
+|DeepIntent, Inc.
+|
+|ReigNN Platform Ltd.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Bit Q Holdings Limited
+|Information storage and access - Personalisation -
+|Adhese
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|adhood.com
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Happydemics
+|Information storage and access -
+|Leiki Ltd.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|RMSi Radio Marketing Service interactive GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Dr. Banner
+|Information storage and access
+|Adobe Audience Manager
+|Information storage and access - Personalisation - Ad selection, delivery, reporting -
+|Drawbridge, Inc.
+|Information storage and access
+|CHEQ AI TECHNOLOGIES LTD.
+|Information storage and access
+|ViewPay
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Jointag S.r.l.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Czech Publisher Exchange z.s.p.o.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Otto (GmbH & Co KG)
+|
+|LBC France
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Kairos Fire
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|Neustar on behalf of The Procter & Gamble Company
+|
+|Sourcepoint Technologies, Inc.
+|
+|Localsensor B.V.
+|Information storage and access
+|MAIRDUMONT NETLETIX GmbH&Co. KG
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Goldbach Group AG
+|
+|Programatica de publicidad S.L.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Realeyes OÜ
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Mobilewalla, Inc.
+|
+|audio content & control GmbH
+|Information storage and access
+|InsurAds Technologies SA.
+|Information storage and access -
+|StartApp Inc.
+|Information storage and access -
+|Colpirio.com
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Bandsintown Amplified LLC
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Better Banners A/S
+|
+|Dynamic 1001 GmbH
+|Information storage and access -
+|WebAds B.V
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Maximus Live LLC
+|
+|Join
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Impactify
+|Information storage and access - Personalisation
+|News and Media Holding, a.s.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Online Solution Int Limited
+|Information storage and access - Personalisation
+|Adnami Aps
+|
+|Consumable, Inc.
+|Information storage and access - Personalisation -
+|Market Resource Partners LLC
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Adsolutions BV
+|Information storage and access - Personalisation -
+|ucfunnel Co., Ltd.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Predicio
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Onfocus (Adagio)
+|
+|Blue
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Azerion Holding B.V.
+|
+|Seznam.cz, a.s.
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Norstat Danmark A/S
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Adprime Media Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Lotame Solutions, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|BEINTOO SPA
+|Information storage and access - Personalisation -
+|Capitaldata
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|BILENDI SA
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|: Tappx
+|Information storage and access
+|Contact Impact GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Hivestack Inc.
+|
+|Relay42 Netherlands B.V.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|D-Edge
+|Information storage and access
+|Passendo ApS
+|Information storage and access - Personalisation -
+|Gamoshi LTD
+|Information storage and access
+|Smile Wanted Group
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|WebMediaRM
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Ve Global
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Noster Finance S.L.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Smartme Analytics
+|
+|Adserve.zone / Artworx AS
+|Information storage and access
+|Dailymotion SA
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|Skaze
+|Information storage and access - Personalisation
+|Notify
+|Information storage and access - Personalisation - Ad selection, delivery, reporting -
+|TrueData Solutions, Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Axel Springer Teaser Ad GmbH
+|Information storage and access -
+|GRAPHINIUM
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Research and Analysis of Media in Sweden AB
+|
+|Think Clever Media
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting
+|Alive & Kicking Global Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|GP One GmbH
+|
+|Sportradar AG
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Soundcast
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Digital East GmbH
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Telefonica Investigación y Desarrollo S.A.U
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|BeOp
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Mobsuccess
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|BLIINK SAS
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Liftoff Mobile, Inc.
+|
+|WhatRocks Inc.
+|Information storage and access - Personalisation -
+|Timehop, Inc.
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Duration Media, LLC.
+|Information storage and access - PersonalisationAd selection, delivery, reporting -
+|Instreamatic inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|BusinessClick
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Intercept Interactive Inc. dba Undertone
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Schibsted Norge AS
+|
+|Radio Net Media Limited
+|Information storage and access - Personalisation - Ad selection, delivery, reporting
+|Blue Billywig BV
+|
+|The MediaGrid Inc.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Arkeero
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|MISSENA
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Go.pl sp. z o.o.
+|Information storage and access - Personalisation - Ad selection, delivery, reporting - Content selection, delivery, reporting - Measurement
+|Lifesight Pte. Ltd.
+|Information storage and access - Personalisation - Ad selection, delivery, reportingContent selection, delivery, reporting -
+|ADWAYS SAS
+|

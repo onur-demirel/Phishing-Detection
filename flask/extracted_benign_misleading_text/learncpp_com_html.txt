@@ -1,0 +1,355 @@
+|
+|
+The C++ Tutorial
+LearnCpp.com is a free website devoted to teaching you how to program in C++. Whether you’ve had any prior programming experience or not, the tutorials on this site will walk you through all the steps to write, compile, and debug your C++ programs, all with plenty of examples.
+Becoming an expert won’t happen overnight, but with a little patience, you’ll get there. And LearnCpp.com will show you the way.
+Having trouble remembering where you saw something? Not sure where to find something? Use our site index to find what you’re looking for!
+Please excuse the disjoint lesson numbering while we continue to update our tutorials.
+|Chapter 9
+|
+|Operator overloading
+|9.1
+|
+|Introduction to operator overloading
+|9.2
+|
+|Overloading the arithmetic operators using friend functions
+|9.2a
+|
+|Overloading operators using normal functions
+|9.3
+|
+|Overloading the I/O operators
+|9.4
+|
+|Overloading operators using member functions
+|9.5
+|
+|Overloading unary operators +, -, and !
+|9.6
+|
+|Overloading the comparison operators
+|9.7
+|
+|Overloading the increment and decrement operators
+|9.8
+|
+|Overloading the subscript operator
+|9.9
+|
+|Overloading the parenthesis operator
+|9.10
+|
+|Overloading typecasts
+|9.11
+|
+|The copy constructor
+|9.12
+|
+|Copy initialization
+|9.13
+|
+|Converting constructors, explicit, and delete
+|9.14
+|
+|Overloading the assignment operator
+|9.15
+|
+|Shallow vs. deep copying
+|9.x
+|
+|Chapter 9 comprehensive quiz
+|
+|Chapter 10
+|
+|An introduction to object relationships
+|10.1
+|
+|Object relationships
+|10.2
+|
+|Composition
+|10.3
+|
+|Aggregation
+|10.4
+|
+|Association
+|10.5
+|
+|Dependencies
+|10.6
+|
+|Container classes
+|10.7
+|
+|std::initializer_list
+|10.x
+|
+|Chapter 10 comprehensive quiz
+|
+|Chapter 11
+|
+|Inheritance
+|11.1
+|
+|Introduction to inheritance
+|11.2
+|
+|Basic inheritance in C++
+|11.3
+|
+|Order of construction of derived classes
+|11.4
+|
+|Constructors and initialization of derived classes
+|11.5
+|
+|Inheritance and access specifiers
+|11.6
+|
+|Adding new functionality to a derived class
+|11.6a
+|
+|Calling inherited functions and overriding behavior
+|11.6b
+|
+|Hiding inherited functionality
+|11.7
+|
+|Multiple inheritance
+|11.x
+|
+|Chapter 11 comprehensive quiz
+|
+|Chapter 12
+|
+|Virtual Functions
+|12.1
+|
+|Pointers and references to the base class of derived objects
+|12.2
+|
+|Virtual functions and polymorphism
+|12.2a
+|
+|The override and final specifiers, and covariant return types
+|12.3
+|
+|Virtual destructors, virtual assignment, and overriding virtualization
+|12.4
+|
+|Early binding and late binding
+|12.5
+|
+|The virtual table
+|12.6
+|
+|Pure virtual functions, abstract base classes, and interface classes
+|12.7
+|
+|Virtual base classes
+|12.8
+|
+|Object slicing
+|12.9
+|
+|Dynamic casting
+|12.10
+|
+|Printing inherited classes using operator<<
+|12.x
+|
+|Chapter 12 comprehensive quiz
+|
+|Chapter 13
+|
+|Templates
+|13.1
+|
+|Function templates
+|13.2
+|
+|Function template instances
+|13.3
+|
+|Template classes
+|13.4
+|
+|Template non-type parameters
+|13.5
+|
+|Function template specialization
+|13.6
+|
+|Class template specialization
+|13.7
+|
+|Partial template specialization
+|13.8
+|
+|Partial template specialization for pointers
+|13.x
+|
+|Chapter 13 comprehensive quiz
+|
+|Chapter 14
+|
+|Exceptions
+|14.1
+|
+|The need for exceptions
+|14.2
+|
+|Basic exception handling
+|14.3
+|
+|Exceptions, functions, and stack unwinding
+|14.4
+|
+|Uncaught exceptions, catch-all handlers, and exception specifiers
+|14.5
+|
+|Exceptions, classes, and inheritance
+|14.6
+|
+|Rethrowing exceptions
+|14.7
+|
+|Function try blocks
+|14.8
+|
+|Exception dangers and downsides
+|14.x
+|
+|Chapter 14 comprehensive quiz
+|
+|Chapter 15
+|
+|Move semantics and smart pointers
+|15.1
+|
+|Intro to smart pointers and move semantics
+|15.2
+|
+|R-value references
+|15.3
+|
+|Move constructors and move assignment
+|15.4
+|
+|std::move
+|15.5
+|
+|std::unique_ptr
+|15.6
+|
+|std::shared_ptr
+|15.7
+|
+|Circular dependency issues with std::shared_ptr, and std::weak_ptr
+|15.x
+|
+|Chapter 15 comprehensive review
+|
+|Chapter 16
+|
+|The Standard Template Library
+|16.1
+|
+|The Standard Library
+|16.2
+|
+|STL containers overview
+|16.3
+|
+|STL iterators overview
+|16.4
+|
+|STL algorithms overview
+|
+|Chapter 17
+|
+|std::string
+|17.1
+|
+|std::string and std::wstring
+|17.2
+|
+|std::string construction and destruction
+|17.3
+|
+|std::string length and capacity
+|17.4
+|
+|std::string character access and conversion to C-style arrays
+|17.5
+|
+|std::string assignment and swapping
+|17.6
+|
+|std::string appending
+|17.7
+|
+|std::string inserting
+|
+|Chapter 18
+|
+|Input and output (I/O)
+|18.1
+|
+|Input and output (I/O) streams
+|18.2
+|
+|Input with istream
+|18.3
+|
+|Output with ostream and ios
+|18.4
+|
+|Stream classes for strings
+|18.5
+|
+|Stream states and input validation
+|18.6
+|
+|Basic file I/O
+|18.7
+|
+|Random file I/O
+|
+|Appendix A
+|
+|Miscellaneous Subjects
+|A.1
+|
+|Static and dynamic libraries
+|A.2
+|
+|Using libraries with Visual Studio
+|A.3
+|
+|Using libraries with Code::Blocks
+|
+|Appendix B
+|
+|C++ Updates
+|B.1
+|
+|Introduction to C++11
+|B.2
+|
+|Introduction to C++14
+|B.3
+|
+New Mar 31
+|Introduction to C++17
+|
+|Appendix C
+|
+|The end
+|C.1
+|
+New Feb 16
+|The end?
+|

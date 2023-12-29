@@ -1,0 +1,178 @@
+Project Trident je desktopový operační systém aktuálně postavený na TrueOS, což je operační systém vycházející z FreeBSD, s grafickým prostředím Lumina. Vývojáři Tridentu oznámili, že přechází z TrueOS na Void Linux. Výhody ale i nevýhody přechodu v oficiálním oznámení.
+Samsung oznámil, že program Linux on DeX končí. Android 10 už nebude podporován. Linux on DeX umožňuje spouštět linuxový desktop a aplikace z vybraných telefonů od Samsungu připojených pomocí Samsung DeX.
+Ubuntu slaví 15 let od vydání první verze. Přesně před patnácti lety, 20. října 2004, byla vydána první verze 4.10 s kódovým názvem Warty Warthog.
+Ve středu 23. října 2019 se od 16.00 koná akce na téma Oracle Labs - Live for the Code. Představí projekty Oracle Labs, na kterých se pracuje i v České republice: Oracle Labs Data Studio a GraalVM. Místo konání: budova Oracle v Praze–Jinonicích. Vstup po registraci zdarma. Občerstvení zajištěno.
+Byly zveřejněny videozáznamy přednášek z konference LinuxDays 2019, která proběhla 5. a 6. října v Praze. Odkazy na videa společně s prezentacemi naleznete v programu, případně můžete jít rovnou na stránku video. Záznamy pořizovalo Audiovizuální centrum SiliconHill.
+Bylo vydáno OpenBSD 6.6. Opět bez oficiální písně. Z novinek lze zmínit například sysupgrade(8).
+Vyšla nová verze monitorovacího řešení Centreon 19.10.0. Novinek je spousta (realtime API, podpora JIRA, vylepšený systém notifikací...), ale těmi nejdůležitějšími je pro mnohé uživatele podpora nové verze rrdtool 1.7.x a php 7.2. Systém tak půjde bez problémů provozovat na jiných distribucích než CentOS 7. Kompletní přehled novinek v seznamu změn. Předpřipravená appliance i samotné části jsou k dispozici na oficiálních stránkách.
+Dnes vyjde Ubuntu 19.10 s kódovým názvem Eoan Ermine. Přehled novinek v poznámkách k vydání. Ubuntu 20.04 LTS bude Focal Fossa.
+Padesátiny Unixu lze oslavit také hrou The Unix Game aneb na unixové roury pomocí Scratche.
+Vývojáři svobodného 3D softwaru Blender oznámili, že nejnovějším firemním sponzorem Blenderu je společnost Adidas. Jedná se o úroveň Corporate Silver, tj. 12 tisíc eur ročně.
+Microsoft je vedoucím vývojářem PC softwaru, od operačních systémů Windows až po sady nástrojů produktivity Office. Dává vám nástroje a zdroje, jaké potřebujete pro vaši každodenní život a práci. Když potřebujete nový OS Windows 10 pro vaše osobní nebo podnikové počítače, obchod GoodOffer24 by mohl být řešením, jaké hledáte!
+Podnikové služby v čele digitální revoluce. HPE v Praze objevovala více. Proč blockchain selhává. Zákony informatiky: Reedův zákon a sítě v sítích.
+Před více než měsícem jsme oznámili vstup významných zahraničních investorů do VSHostingu. Je to první krok k dalšímu velkému růstu, který nás v brzké době čeká. Německé investiční fondy, které spolupracují i na projektech typu GoDaddy (největší globální hosting) či PLESK vyhodnotili VSHosting jako nejzajímavější lokální managed hosting firmu z pohledu potenciálu růstu.
+Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.
+Chytré sklo vytváří neuronovou síť se speciálními vlastnostmi. Plazma by mohlo zesilovat signál temné hmoty. Umělá inteligence se dokázala sama naučit fyziku a chemii, program navrhuje nové sloučeniny. Výzkum dendritů by mohl vylepšit baterie Li-ion a otevřít cestu bateriím lithium-kov. Obarvujeme mapy na kouli či tóru. Větry z černých děr.
+Pracujete v IT? Tak berete něco mezi 22 a 250 tisíci. Norimberský IT bezpečnostní veletrh it-sa je už největším na světě. Docuride 2019: Technologie mění svět i byznys. Databáze míří do cloudu, prodej on-premise řešení začne klesat. Taktik počtvrté se zákazníky 93 metry nad zemí.
+|Linuxová poradna
+|Stav
+|Reakcí
+|Poslední
+|Jak se vloupat Do IPhone a Macka?
+|6
+|dnes 01:36
+|Debian 10 a VirtualBox 6.0
+|5
+|včera 21:59
+|NAS pro slabé cpu
+|11
+|včera 21:42
+|Debian 10.1 & AXAGON RSI-X1
+|8
+|včera 19:37
+|Smart plug z Číny
+|37
+|včera 17:37
+|Kto nahradil Iana Murdocka
+|11
+|včera 15:41
+|poskodena micro sd karta ?
+|11
+|20.10. 20:00
+|Lze při připojování pomoci cifs nastavit i popisovač?
+|3
+|20.10. 11:02
+|Jak se připojit k routeru z command line
+|3
+|19.10. 16:52
+|Je moj procesor chraneny proti utokom spectre a meltdown ...
+|14
+|19.10. 13:32
+|LInux a přístup k cestovním profilům (Zentyal)
+|1
+|18.10. 18:51
+|gwt webAppCreator
+|8
+|18.10. 17:43
+|Výběr vhodné distribuce
+|10
+|18.10. 15:04
+|Uložení / znovunahráti hry - z živé paměti na disk a zpět
+|1
+|18.10. 08:18
+|Centos - blokace IPv6 služeb
+|2
+|18.10. 07:16
+|Unixová poradna
+|Stav
+|Reakcí
+|Poslední
+|VPS - súkromie - bezpečnosť
+|4
+|20.10. 12:29
+|Kde môžem zdarma získať poslednú verziu SUN Solaris ?
+|1
+|2.10. 12:30
+|FreeBSD problemy s ntp serverom
+|2
+|4.7. 09:31
+|Zastupce(zpoustetc) na plose
+|5
+|7.3. 21:24
+|(ne)funkční wifi na různých OS
+|4
+|3.2. 18:00
+|Databázová poradna
+|Stav
+|Reakcí
+|Poslední
+|MySQL: převzetí databází z 5.7 do 8.0
+|3
+|16.10. 15:02
+|memory advisor u oraclu
+|5
+|23.9. 09:08
+|Aplikace na vytváření a export kontaktů a jejich případný...
+|15
+|11.9. 13:45
+|MYSQL PHP čeština a názvy databaze a tabulek
+|10
+|6.9. 13:13
+|Mysql dotaz vezme 100% vykonu SQL serveru
+|11
+|31.7. 22:38
+|Programovací poradna
+|Stav
+|Reakcí
+|Poslední
+|Javascript - Nefunkční this uvnitř funkce
+|8
+|18.10. 18:55
+|Uváznutí v Aktor systému
+|4
+|16.10. 20:51
+|je LAMP / PHP single thread?
+|3
+|14.10. 06:00
+|Je tu někdo, kdo programuje v Lispu
+|13
+|13.10. 23:22
+|psani python skryptu ve wordu
+|9
+|11.10. 15:09
+|Hardwarová poradna
+|Stav
+|Reakcí
+|Poslední
+|ata2 DRDY ERR
+|5
+|včera 23:12
+|SD karta v kamere
+|8
+|včera 22:05
+|existuje ntb s normalni klavesnici a trackpointem?
+|6
+|20.10. 03:29
+|Server pro SmartHome diy
+|13
+|11.10. 20:14
+|Externí box na optickou mechaniku (ne-slim)
+|3
+|11.10. 19:25
+|Poradny ze skupin
+|Stav
+|Reakcí
+|Poslední
+|IPv6 web
+|91
+|18.10. 10:35
+|Píšeme jinde
+|7
+|25.9. 16:14
+|Reklama GoodOffer24
+|28
+|31.7. 10:47
+|Seriozni dotaz na ADMINA
+|189
+|30.7. 15:58
+|Upgrade
+|2
+|26.6. 14:46
+|Chybová hláška překladu texmakeru
+|4
+|11.3. 15:18
+|WINE 3.0.2. na Ubuntu 18.04
+|2
+|21.12.2018 07:44
+|Neplatný certifikát abclinuxu.cz v chrome 70
+|11
+|31.10.2018 16:17
+|off-topic
+|47
+|28.6.2018 08:36
+|Reklama v Vzkazy spravcum
+|10
+|26.6.2018 17:18
+|
+|Slashdot
+|HDmag.cz

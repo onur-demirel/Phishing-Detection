@@ -1,0 +1,2 @@
+Blazor pages get partial class support
+Next .NET Core version 3.1 brings some good news to Blazor – partial page classes. Maybe it’s not so big thing for many guys out there but sure great feature for those who like clean solutions. Here’s my story about partial page classes and their comparison with code-behind classes supported already today.Read more

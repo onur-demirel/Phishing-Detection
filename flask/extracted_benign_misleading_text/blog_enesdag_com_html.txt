@@ -1,0 +1,7 @@
+#1 Blink Uygulaması
+Bu uygulamada Arduino üzerindeki 13. dijital pine bağlı olan LED, yakılıp söndürülerek dijital çıkış pini kullanımı gösterilmiştir.
+0 Yorum
+30 Ağustos 2020
+Bu uygulamada Arduino üzerindeki 13. dijital pine bağlı olan LED, yakılıp söndürülerek dijital çıkış pini kullanımı gösterilmiştir.
+"Bölüm 2 - C Programlamaya Giriş" ünitesindeki bölüm sonu problemlerinin çözümleri
+"Bölüm 2 - C Programlamaya Giriş" ünitesinde işlenen konulara ait projeler

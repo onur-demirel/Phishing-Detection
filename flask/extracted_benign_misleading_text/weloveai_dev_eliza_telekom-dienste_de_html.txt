@@ -1,0 +1,28 @@
+Who we are
+AI Enterprise is an innovation project at Deutsche Telekom. Our mission is to raise our customers' experiences and the efficiency of delivering our services to new levels − using Artificial Intelligence (AI).
+Imagine ...
+... you have an issue with your Internet connection at home. Your favorite show is starting in a minute, but your Internet-connected TV is not working. This is the moment you want to reach out for help. And − as we know from continuously talking to our customers − you most likely want this help to be:
+- NOW: No waiting in a hotline, and via the channels you prefer.
+- SIMPLE: One-stop help, after explaining your issue just once, and without being bothered by technological jargon.
+- FOR YOU: The helping hand knows you as a customer, helps you in a personalized manner, and remembers your conversation when you reach out via a different channel next time − it almost feels like talking to a friend.
+Our vision
+This is exactly what we are working on in project AI Enterprise. Our vision is to create:
+ONE coherent and rewarding CONVERSATION with each customer across all touchpoints.
+What we are working on
+In working towards our vision, we are focusing on two intertwined initiatives:
+We have built and are constantly improving human-like, easy-to-access, no-waiting, around-the-clock support for our customers. Our digital assistant FRAG MAGENTA:
+- is where our customers are − on our websites, in our MeinMagenta service app, in our Hello Magenta smart speaker, and soon in WhatsApp and our hotline.
+- offers immediate support for a wide range of issues − from billing inquiries all the way to fixing your Internet connection.
+- seamlessly hands over to a human agent if required, sharing all of your previous conversation with them.
+We are making our customers' interactions with Deutsche Telekom an increasingly personalized experience. For this, we are developing MAGENTA 4U. It:
+- personalizes our customers' dialogues with Frag Magenta if they need support, and
+- individualizes our customers' experiences across other digital touchpoints to help them explore the full power of Deutsche Telekom and its products/services more easily.
+How we work
+A strong culture of customer centricity is key to our work. This is particularly important when working in a field as technologically promising − and challenging − as AI. On top of this, we
+- work as one team with our operative business units to ensure relevance of innovation from day 1,
+- deliver tangible business impact fast,
+- complement human capabilities with AI, rather than replacing them,
+- always leverage AI along clearly communicated ethical AI Guidelines, and
+- work in a strongly international and empowered team for diversity of ideas and maximum impact.
+How to contact us
+Want to know more? The best way to contact us is to simply drop an e-mail to michal.roth@telekom.de.

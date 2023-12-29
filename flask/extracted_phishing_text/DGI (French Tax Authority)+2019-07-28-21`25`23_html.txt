@@ -1,0 +1,5 @@
+*
+La saisie de toutes les zones est obligatoire.
+Lors d'un erreur de
+saisie veuillez verifier tous les champs signalés par
+.

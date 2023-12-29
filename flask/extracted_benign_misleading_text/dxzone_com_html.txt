@@ -1,0 +1,92 @@
+HAM RADIO
+Beginner's guides , Band Plans , Blogs , Ham Radio Clubs , IARU Societies , Europe , USA , Canada , Asia , Australia , South America , ARES RACES , ARRL , DX Clubs, CW Clubs , QRP Clubs , Universities clubs , Technical specialty clubs , Personal Pages , Other Resources , Demographics, Exams , Exam Questions , Exam Practice , Exam Study Guides , Famous Hams , Licence, Licensing worldwide , Learning Morse Code , Hamfests , Audio newscasts , QRZ lookup , Contesting , Elmers , HF Radios , VHF Radios , Awards , DXCC , IOTA , QSLing
+MANUFACTURERS
+Accessories , RF Amplifiers , Antennas , Antenna Analyzers , Antenna Masts and Mounts , Antenna Parts , Antenna Rotators , Antenna Tuners , Baluns , Broadcasting equipment , Cables and connectors , Digital, TNC, Modems, DSP , Interfaces , Fiberglass tubing , Aluminium tubing , Filters , Generators , Lighting surge protection , Memory Keyers , Microphones , Microwave , Morse Key , Morse Keyers , Multimeters , Oscilloscope , Parts and surplus , Power Supply , QRP Kits , QSL printing , Receivers , Repeaters , Scanners , Signal generator , Solar Panels , Software Defined Radios , Soldering , SWR meters , Speakers and Headsets , Spectrum Analyzers , Test Equipment , TNC , Towers , Tower erection , Transceivers , Icom , Kenwood , Transverters , Tubes , Wattmeters
+SHOPPING AND SERVICES
+Regional , Australia , Canada , Europe , Italy , France , Spain , New Zealand , U.S.A. , Alternative Power , Antique radios , Accessories , Amateur Television , Antennas , Antenna Mounts , Batteries , Cables and Connectors , CB Radio Stores , Electronics , Electronic Components , Ham Radio Stores , Internet Services , Kits and Components , QSL printers Radio Parts and Surplus , Radio Scanner Stores , Repair services , RF Tubes , T-shirts , Test equipment , Oscilloscope ,
+RADIO EQUIPMENT
+Ham radio reviews & comparisons , HF Transceivers , Icom IC-706 , Icom IC-718 , Icom IC-746 , Icom IC-756 , Icom IC-7000 , Icom IC-9100 , Kenwood TS-50 , Kenwood TS-570 , Kenwood TS-850 , Kenwood TS-2000 , Ten-Tec Jupiter , Ten-Tec Orion , Yaesu FT-100 , Yaesu FT-450 , Yaesu FT-1000MP , Yaesu FT-2000 , Yaesu FT-817 , Yaesu FT-847 , Yaesu FT-857 , Yaesu FT-897 , Yaesu FT-950 , Yaesu FT-9000 , VHF UHF Handhelds radios , Kenwood TH-F6A , Yaesu VX-150 , Yaesu VX-170 , Yaesu VX-2 , Yaesu VX-3 , Yaesu VX-5R , Yaesu VX-6R , Yaesu VX-7R , Yaesu VX-8R , VHF-UHF Mobile radios , ICOM IC-2100H , ICOM IC-2720H , ICOM IC-V8000 , Receivers , Yaesu VR-5000 , HF Vertical Antennas , GAP Titan , Hustler 5-BTV , Maldol MFB-300 , Solarcon A99 ,
+RADIO SCANNING
+Aeronautical , Maritime , Military , Frequencies , Nature , Weather , Police Scanning , RailRoad scanning , Scanning in Australia , Scanning in Canada , Scanning in Europe , Scanning in United States , Beginner's guides Live scanner feeds , Scanners , VHF Antennas , Scanners and Receivers Manufacturers
+SHORTWAVE LISTENING
+Schedules and frequencies, Shortwave Antennas, SWL DX Newsletters, Clubs and Organizations , BCL Resources , Beacons , Broadcasters , Clandestine radios, Time signal radios, Pirate radios, Press Services , SWL Resources , Numbers stations , Radio Spectrum , Receivers Manufacturers , Wire Antennas , Shortwave Software , Listening Guides, Beginner's guides
+CB RADIO
+TECHNICAL REFERENCE
+Alternative Power , Antennas , Antenna Switch , Amplifiers , VHF Amplifiers , HF Amplifiers , Attenuators , Audio , Batteries , Beacon keyers , BPL , Coax Cables and Connectors , Components , CB Radio mods , Dummy Loads , Duplexers, Diplexers , Digital ATV , Electronics , Filters , Grounding , HF Radios mods , Homebrewing , Memory Keyers , Lightning Protection , Manuals , Mic Wiring , Power Supply , Preamplifiers , RF signal generators , Radio Frequency Interference , Scanners Mods , Software Defined Radio , Soldering and Desoldering , Sound Cards to Radio interfaces , Spectrum Analyzers , Transverters , VHF Radios mods
+ANTENNAS
+Antenna Calculators , VHF UHF, 2 m , 70 cm , 4 m , 6 m , 10 m , 12 m , 15 m , 17 m , 20 m , 30 m , 40 m , 80 m , 160 m , 2.4 Ghz , HF Multiband , Array , Baluns , Bazooka , Beverage , Choke , Collinear , Dipole , Delta loop , End Fed , EH , Feed Lines , G5RV , Gain , J-Pole , Halo , Helical , Hentenna , HexBeam , Homebrewing Techniques , Log Periodic , Loop , Magnetic Loop , Mobile , Moxon , NVIS , Portable , Quad , Quagi , Receiving only , Rhombic , Satellite , Shortwave , Stealth and hidden , Theory , Towers , Traps , Tuners , Vertical , Wi Fi , Windom , Wire , W3DZZ , VHF & UHF, Yagi , Antenna Software , Antenna manufacturers , Antenna books
+SOFTWARE
+ACARS , Antenna Analysis , Antenna rotor control, APRS , Audio Recorders , Awards tracking , Beacon Monitoring , Browser extensions & toolbars , Circuit Design , Clip Art , Collections , Contesting , Databases , Decoders , DRM , Digital Signal Processing , DX Cluster , D-STAR , Filter Design , Grid Square, Bearing & Maps , Hellschreiber , Internet Linking , iPhone , JT65 , Linux , Log Books , Log Converters , Low Frequency , Macintosh , Morse code decoders , Morse code training , Multimode , Olivia , Oscilloscope , Packet Radio , PalmOS , Pocket PC , Propagation , PSK31 , QSL , Radio Control , Radio Programming , RTTY , Satellite tracking , Shortwave , Signal Generator , Software Defined Radio , Spectrum Analyzers , SSTV , Time and clocks , Utilities , Vox and Voice tools , Weather & FAX
+DX RESOURCES
+Awards , Beacons , Beacon Stations , Beacon List , Call Sign search , County Hunting , DX Clusters , DX Clubs, DX News and Newsletters , DX Nets , DX-peditions , DXCC , IOTA , Log search , QSL routes , QSL Galleries , Shack rental SOTA , Vanity call signs ,
+CONTESTING
+OPERATING MODES
+50 Mhz , Amateur Radio Astronomy , APRS , Amateur Television , Balloons , Chip64 , Digital ATV , Digital Signal Processing , Direction finding , D-STAR , Echo Link , EME, Moonbounce , Hellschreiber , International Space Station , Internet Linking , IRLP , GPS , LongWave , Meteors , Mobile , Motorcycle mobile , RV & Camping , Bicycle mobile , MFSK , Morse Code, CW , Packet Radio , PSK31 , QRP , QRSS , Repeaters , RTTY , Satellites , AO-51 , SSTV , Stealth Amateur Radio, Top Band , VHF and up WEFAX ,
+OPERATING AIDS
+PROPAGATION
+INTERNET & RADIO
+Banners , Chat , Classifieds , Forums , Ftp sites , Gateways , Humor , Live Police Scanners , Live streaming , Mailing lists, Reflectors , More resources News Groups , Online Receivers , Pictures Podcasts , Sounds , Video , WebCams , Web links , Web Rings , Web SDR ,
+ANTIQUE RADIOS
+PUBLICATIONS
+Yaesu FT-991
+The FT-991 is the next generation in all mode, all band MF/HF/VHF/UHF transceiver with C4FM
+Amateur Radio News
+International Amateur Radio Union R2 » News - Oct 22, 2019
+Last Saturday, on October 19, 2019, 5 members of Radio Club de Honduras (RCH) participated, along with about 60 scouts, in the Jamboree on the Air (JOTA) from the “Pompilio Ortega” scouts headquarters in the city of San Pedro Sula. With its part...
+ARRL - Oct 22, 2019
+Southgate ARC - Oct 22, 2019
+The National WWI Museum and Memorial is teaming with area amateur radio operators to host special event station WW1USA...
+Southgate ARC - Oct 22, 2019
+The Independent Communications Authority of South Africa (ICASA) has shut down a number of community-run radio stations across the country...
+Southgate ARC - Oct 22, 2019
+Radio amateurs in Austria took part in this year's Civil Protection Day on October 5 and made use of the amateur radio transponder on the QO-100 geostationary satellite...
+Southgate ARC - Oct 22, 2019
+Videos of the presentations given at the AMSAT-UK International Space Colloquium, which was held as part of the RSGB Convention in Milton Keynes, October 12-13, 2019, are being made available on YouTube...
+Southgate ARC - Oct 22, 2019
+NASA highlight the role of amateur radio in letting young people speak directly with astronauts and cosmonauts on the International Space Station...
+Michigan State University Amateur Radio Club Celebrates Centennial with Second-Century Special Event
+ARRL - Oct 21, 2019
+The Michigan State University Amateur Radio Club (MSUARC) turns 100 this month. The club, which holds the call signs W8MSU and W8SH, celebrated its centennial with a special event station on October 19.“We’re celebrating a milestone,” said Facu...
+ARRL - Oct 21, 2019
+ARRL - Oct 21, 2019
+A transmission from the vintage Alexanderson alternator in Grimeton, Sweden, will complement activities marking United Nations Day on October 24. Transmitter startup for the 17.2 kHz transmission will take place at around 1630 UTC, with a peace messa...
+ARRL - Oct 21, 2019
+Pitcairn Island DXpedition leader Glen Johnson, W0GJ, reports the VP6R team arrived at the South Pacific island on October 17, after the m/v Braveheart anchored offshore. After clearing customs and immigration, the team was transported to the home of...
+Southgate ARC - Oct 21, 2019
+Can an Apple-1 computer decipher a message encrypted with an Enigma cyphering machine in a reasonable time? ...
+Southgate ARC - Oct 21, 2019
+For many years the licence fee in Norway has been linked to ownership of a television. This will all change from 2020...
+Southgate ARC - Oct 21, 2019
+The Braveheart anchored just off Pitcairn Island at dawn, Thursday, October 17th. After customs and immigration, the team was transported to the home of Andy Christian where all of the equipment was waiting for us. This equipment arrived about 6 week...
+Southgate ARC - Oct 21, 2019
+On November 3, from 08:00 to 12:00 UTC, it will be held the next edition of the "sprint contest" version of the same name Award, devoted to the "Radio Clubs of the World" ...
+Recent Articles
+CQ WW DX SSB Contest 2019
+The CQ WW is the largest Amateur Radio competition in the world. Over 35,000 participants take to the airwaves on the last weekend of October (SSB) with the goal of making as many contacts with as many different DXCC entities and CQ Zones as possible.
+62nd Jamboree on the Air
+JOTA Jamboree on the Air is a spectacular opportunity to introduce Scouts to amateur radio. 18-20 October 2019
+ICOM IC-705 – New Product
+Icom announces the IC-705, new all bands, all modes QRP Transceiver at Tokio HamFair 2019. IC 705 is a SDR HF/VHF/UHF All modes compact transceiver
+5 Free Amateur Radio Logbook Programs Worth a Try
+A selection of five free ham radio logging programs, Logger 32, DXKeeper, Swisslog, Log4OM and BBLogger taken from the amateur radio logging software category.
+WSJT-X version 2.1.0 released
+The WSJT Development Group is pleased to announce the general availability (GA) release of WSJT-X Version 2.1.0.
+5 Free Virtual Audio Cable Software
+This virtual device drivers, will permit to record audio streams from your applications, and to pass audio to other programs. Interface multiple audio streams with vitual cables.
+Last Links
+Hermes-Lite Low Cost HF SDR
+the hermes lite is a low cost direct down up conversion software defined amateur radio hf transceiver based on a broadband modem chip and the hermes sdr project it is entirely open source and open hardware including the tools used for design and fabrication files over 300 hermes lite 2 0 units have been successfully built
+Icom IC7300 Modifications by M0FOX
+icom ic 7300 noisy fan replacements with a whisper quiet noctua nf a8 pwm and installing and configuring wsjt x with ic 7300 correctly
+remoteAudio - audio streaming application
+remoteaudio is an multi platform audio streaming application for amateur radio purposes the most typical use case for this software is the remote operation of an amateur radio station remoteaudio supports multiple users and multiple audio sources at any time multiple clients can listen simultaneously on the same radio although remoteaudio only allows one user to transmit
+5K0K Log Online
+5k0k san andres island dxpedition log online
+LA1K RadioKlubb
+official web site of la1k la1ark la1uka akademisk radioklubb
+WSPR monitoring with RTL-SDR and Raspberry Pi
+the goal of this interesting project is to monitor a particular set of frequencies for a set period of time in this article your will find instructions to build and operate an all band wspr node using cheap hardware and free software at the end of this you ll have a raspberry pi connected to an rtl sdr dongle that monitors all of the wspr frequencies rotating randomly every 15 minutes
+VU7RI Lakshadweep Island DXpedition
+vu7ri iota as011 dx pedition to lakshadweep island 9 october 2019 30 october 2019
+VP6R Log Online
+vp6r online log for the pitcaris island dx pedition 2019 october 18 till november 1 2019 service provided by clublog

@@ -1,0 +1,28 @@
+SuiteCRM is the world’s most popular Open Source CRM.
+Powerful, customisable, easy to use, with hundreds of extensions and integrations, SuiteCRM is used by millions of people every day.
+Now available, our revolutionary Software as a Service CRM product, Suite:OnDemand, means the end of per-user charging and the end of charging for premium features. Take back control and scale CRM throughout your business without fear of hidden charges or vendor lock-in.
+Sell, market & service smarter with the world’s number 1 Open Source CRM
+Why SuiteCRM?
+360 Degree View
+Know your customer by creating a central repository for all your customer data enabling you to gain key insights that can be used to enhance and nurture your business relationships.
+Freedom
+Dramatically reduce your total cost of ownership with open source CRM providing the freedom and flexibility to customise your CRM to your own bespoke needs.
+Integration
+Increase productivity across your organisation using our open REST API allowing you to integrate CRM with core business systems, enabling you to share and collaborate across any boundaries.
+Community
+Our Open Source model has a vibrant community providing constant improvements, documentation and testing managed by SalesAgility
+SuiteASSURED delivers the freedoms, quality and innovation of open source CRM with the security, warranties and indemnities of proprietary software.
+It is the world’s first assurance program for open source CRM systems and provides you with a total care package for your CRM needs.
+Transform your business with Open Source CRM
+Build Relationships
+No More Mess
+Our flexible data model allows you to create a single tailored repository for all your customer data and use those key insights to improve efficiency, understand your customers needs and automate key actions. Our powerful reporting and dashboards give you quick visibility of key metrics to support your business.
+Increase Sales
+Don’t Miss a Sale
+Capitalise on your rich customer profiles to convert more leads and sell smarter. Our Open Source CRM provides you with all the tools to capture important leads, manage your opportunities and create personalised quotations freeing up precious time to sell.
+Engage Your Customers
+Stop sending the wrong message to the wrong customer
+Engage your customers more effectively with personalised experiences and consistent messaging. Automate customer segmentation, send targeted marketing content and track important activity to generate more leads and feed the funnel.
+Improve Customer Satisfaction
+Keep your customer happy
+Enable excellent customer service by mitigating information silos whilst empowering your customer service team with the tools that will allow them to service smarter, faster and more professionally.

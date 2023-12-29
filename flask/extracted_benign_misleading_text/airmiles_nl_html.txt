@@ -1,0 +1,159 @@
+Op onze website worden functionele cookies, analytische cookies, advertentiecookies en sociale media cookies geplaatst. Wijzig uw voorkeuren via de instellingen knop. Privacy en cookiebeleid.
+|Naam
+|Aanbieder
+|Doel
+|Verval termijn
+|Type
+|BACKEND
+|airmiles.nl
+|Houdt gebruikersstatussen over paginabezoeken bij.
+|Session
+|HTTP
+|cookie-accepted
+|airmiles.nl
+|Slaat op of de gebruiker cookies geaccepteerd heeft
+|1 jaar
+|HTTP
+|CookieConsent
+|airmiles.nl
+|Slaat de cookiestatus van de gebruiker op voor het huidige domein
+|1 jaar
+|HTTP
+|cookieversion
+|airmiles.nl
+|Houdt bij voor welke versie de gebruiker akkoord heeft gegeven voor het plaatsen van cookies en privacy settings
+|1 jaar
+|HTTP
+|DeviceType
+|airmiles.nl
+|Houdt bij met welk type device de gebruiker de website bezoekt
+|Session
+|HTTP
+|JSESSIONID
+|airmiles.nl
+|Houdt gebruikersstatussen over paginabezoeken bij.
+|Session
+|HTTP
+|logStatus
+|airmiles.nl
+|Gebruikt voor tonen klanterservice blok/chat
+|Session
+|HTML
+|mx-cookie-test
+|airmiles.nl
+|Backend functionele test voor gebruik van cookies
+|Session
+|HTTP
+|xasid
+|airmiles.nl
+|Houdt het sessienummer bij van de gebruiker
+|Session
+|HTTP
+|XASSESSIONID
+|airmiles.nl
+|Houdt het sessienummer bij van de gebruiker
+|Session
+|HTTP
+|Hybrid
+|airmiles.nl
+|In afwachting
+|Session
+|HTTP
+|Wij gebruiken geen cookies van dit type
+|Naam
+|Aanbieder
+|Doel
+|Verval termijn
+|Type
+|_ga
+|airmiles.nl
+|Registreert een uniek ID die wordt gebruikt om statistische gegevens te genereren over hoe de bezoeker de website gebruikt.
+|2 jaar
+|HTTP
+|_gat
+|airmiles.nl
+|Gebruikt door Google Analytics om verzoeksnelheid te vertragen
+|1 dag
+|HTTP
+|_gid
+|airmiles.nl
+|Registreert een uniek ID die wordt gebruikt om statistische gegevens te genereren over hoe de bezoeker de website gebruikt.
+|1 dag
+|HTTP
+|collect
+|google-analytics.com
+|Gebruikt om gegevens naar Google Analytics te verzenden over het apparaat en het gedrag van de bezoeker. Traceert de bezoeker op verschillende apparaten en marketingkanalen.
+|Session
+|Pixel
+|Naam
+|Aanbieder
+|Doel
+|Verval termijn
+|Type
+|IDE
+|doubleclick.net
+|Gebruikt door Google DoubleClick om de acties van de websitegebruiker te registreren en te rapporteren na het bekijken of klikken op een van de advertenties van de adverteerder met het doel de effectiviteit van een advertentie te meten en om gerichte advertenties aan de gebruiker te presenteren.
+|1 jaar
+|HTTP
+|r/collect
+|doubleclick.net
+|Deze cookie wordt gebruikt om gegevens over het apparaat en het gedrag van de gebruiker naar Google Analytics te zenden. De cookie volgt de gebruiker op verschillende apparaten en marketingkanalen.
+|Session
+|Pixel
+|test_cookie
+|doubleclick.net
+|Gebruikt om te controleren of de browser van de gebruiker cookies ondersteunt.
+|1 dag
+|HTTP
+|fr
+|facebook.com
+|Gebruikt door Facebook om een reeks advertentieproducten te leveren, zoals realtime bieden van externe adverteerders.
+|3 maanden
+|HTTP
+|tr
+|facebook.com
+|Gebruikt door Facebook om een reeks advertentieproducten te leveren, zoals realtime bieden van externe adverteerders.
+|Session
+|Pixel
+|pagead/1p-user-list/#
+|google.com
+|Gebruikt door Google om conversies op marketing campagnes te meten
+|Session
+|Pixel
+|rc::c
+|google.com
+|Gebruikt in context met video-advertenties. De cookie beperkt het aantal keren dat een bezoeker dezelfde advertentie te zien krijgt. De cookie wordt ook gebruikt om de relevantie van de video-advertentie voor de specifieke bezoeker te waarborgen.
+|Session
+|HTML
+|Mobile Journey- Shell
+|mobilejourney.com
+|We gebruiken cookies van Mobile Journey op de aanmeldpagina voor Miles & Me om doelgroepsegmenten en locatie vast te stellen, op basis van uw gebruik van onze website(s) en applicatie(s), en om deze anonieme segmenten vervolgens gerichte (mobiele) advertenties aan te bieden. Daarnaast verzamelt Mobile Journey anonieme informatie over klanten welke een bezoek brengen aan Shell vestigingen. Mobile Journey weet wat voor browser of apparaat u gebruikt, maar verzamelt geen persoonlijke gegevens zoals naam en contactgegevens
+|Persistent
+|Pixel
+|smxtrack
+|smadex.com
+|Pixel voor convesries op advertentieprogramma's campagnes
+|Persistent
+|Pixel
+|Naam
+|Aanbieder
+|Doel
+|Verval termijn
+|Type
+|obi-chat-customer-guid
+|airmiles.nl
+|In afwachting
+|Session
+|HTML
+|obi-chat-page-urls
+|airmiles.nl
+|In afwachting
+|Session
+|HTML
+Op onze website wordt gebruik gemaakt van cookies en vergelijkbare technologieën waarbij tijdens jouw bezoek aan onze website, informatie naar jouw computer, tablet en/of mobiel wordt gestuurd en opgeslagen. De daarin opgeslagen informatie kan bij een volgend bezoek weer naar onze eigen beveiligde servers of die van de betreffende derde partijen teruggestuurd worden. Voor het leesgemak worden alle dergelijke technieken hier verder ‘cookies’ genoemd.
+Ook via derden die door ons zijn ingeschakeld worden cookies geplaatst.
+Wanneer je onze website voor het eerst bezoekt, wordt er een mededeling getoond waarin wij je uitleggen waarom wij cookies gebruiken. Door op ‘akkoord’ te klikken stem je in met het plaatsen van de cookies zoals beschreven in dit privacy- en cookiebeleid. Het staat je vrij om cookies uit te schakelen middels je browser. Houd er wel rekening mee dat het mogelijk is dat onze website dan niet meer optimaal werkt.
+Met derden die cookies plaatsen hebben wij afspraken gemaakt over het gebruik van de cookies en applicaties. Toch hebben wij geen volledige controle op wat de aanbieders van deze applicaties zelf met de cookies doen wanneer zij deze uitlezen.
+Voor meer informatie over deze applicaties en hoe zij met cookies omgaan, zie graag de privacy- en cookieverklaringen van deze partijen (let op: deze kunnen regelmatig wijzigen).
+Wat vind jij?
+Log in om je persoonlijke gegevens te bekijken, je Air Miles in te wisselen en je Air Miles kaart te koppelen.

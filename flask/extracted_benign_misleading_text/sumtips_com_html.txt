@@ -1,0 +1,10 @@
+Learn how to customize Microsoft Excel’s File Open dialog to show only specific file types using VB Macro. This custom filter would be available on all new sheets.
+Learn how to allow customized data entry in specific cells in Excel, and protect formulas, workbook structure and entire spreadsheet from unwanted users.
+Here’s how you can assign a keyboard shortcut to toggle pin/unpin status of browser tabs on Google Chrome, Mozilla Firefox, and Opera browsers.
+PowerShell Beautifier is a free module that formats code, making it easier to read and validate. It can also replace aliases & parameters with proper names
+This PowerShell script runs a search through subfolders and copies all files to target directory, keeping the original files intact by renaming duplicates
+Here’s a handy PowerShell script that automatically rotates browser tabs at desired time intervals. The script is browser independent so it would work with Google Chrome, Opera, Firefox, Edge, or any other browser your might be using.
+Here’s how you can directly open a file at a specific line number in Notepad++ when launched from the command line or via a shortcut on your computer.
+Here we have a quick script that would allow you to control YouTube playback in Chrome with AutoHotkey while working in another tab, window, or application.
+Here’s a small AutoHotkey script to auto-generate a shareable YouTube playlist link by simply copying video url from the website to the clipboard.
+In this post we are going to see a few command-line methods to get BIOS Information with PowerShell and CMD. This could be useful if you are looking to update the BIOS and need to know the existing version details.

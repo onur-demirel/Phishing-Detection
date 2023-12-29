@@ -1,0 +1,16 @@
+/ camera / month
+It’s free to try.
+No credit card required.
+If you have any questions contact us.
+IPCamLive can receive and display high resolution video streams leg. Full HD
+IPCamLive can also broadcast the audio together with the video
+IPCamLive supports Full HD video resolution for excellent video quality
+IPCamLive can serve as many viewers as you have
+IPCamLive supports RTSP video streaming protocol and can handle H.264 video compression
+Using ONVIF protocol it’s easy to find the proper video stream of your camera
+IPCamLive can generate Time-lapse video clip(s) from the live video stream
+IPCamLive can blur the motion port of the image in order to make the faces unrecagnizable on the video streams
+Protects your video stream against embedding on a foreign domain.
+Delayed live video broadcast in order to be able to interrupt the broadcast in case something happened
+Camera will be online during this time window only
+IPCamLive notifies you in case your camera cannot be connected

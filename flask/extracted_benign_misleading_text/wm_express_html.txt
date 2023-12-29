@@ -1,0 +1,141 @@
+|
+-
+|
+|QIWI RUB
+-
+|
+|Приват 24 UAH
+-
+|
+|Яндекс.Деньги
+-
+|
+|Visa/MasterCard UAH
+-
+|
+|Ощадбанк
+-
+|
+|Монобанк
+-
+|
+|ПУМБ
+-
+|
+|Райффайзен UAH
+-
+|
+|Bitcoin (BTC)
+-
+|
+|Bitcoin Cash (BCH)
+-
+|
+|Ethereum (ETH)
+-
+|
+|Ether Classic (ETC)
+-
+|
+|Ripple (XRP)
+-
+|
+|Litecoin (LTC)
+-
+|
+|Dogecoin (DOGE)
+-
+|
+|Monero (XMR)
+-
+|
+|Dash (DASH)
+-
+|
+|Zcash (ZEC)
+-
+|
+|NEM (XEM)
+-
+|
+|Visa/MasterCard RUB
+-
+|
+|Сбербанк
+-
+|
+|Тинькофф
+-
+|
+|ВТБ
+-
+|
+|Альфа-Банк
+-
+|
+|Русский Стандарт
+-
+|
+|Visa/MasterCard KZT
+-
+|
+|HalykBank
+-
+|
+|Казкоммерцбанк
+-
+|
+|Сбербанк KZT
+-
+|
+|Kaspi Bank
+-
+|
+|B-UAH
+|
+|Приват 24 UAH
+|41471.10
+|Яндекс.Деньги
+|36351.90
+|Visa/MasterCard UAH
+|269752.00
+|Ощадбанк
+|347792.00
+|Монобанк
+|287133.00
+|ПУМБ
+|322497.00
+|Райффайзен UAH
+|233388.00
+|Bitcoin (BTC)
+|1.67
+|Bitcoin Cash (BCH)
+|6.50
+|Ethereum (ETH)
+|0.00
+|Ether Classic (ETC)
+|317.19
+|Ripple (XRP)
+|2428.07
+|Litecoin (LTC)
+|3.59
+|Dogecoin (DOGE)
+|442287.00
+|Monero (XMR)
+|49.26
+|Dash (DASH)
+|22.02
+|Zcash (ZEC)
+|24.26
+|NEM (XEM)
+|15639.30
+|Visa/MasterCard KZT
+|330881.00
+|HalykBank
+|312868.00
+|Казкоммерцбанк
+|318943.00
+|Сбербанк KZT
+|239192.00
+|Kaspi Bank
+|299018.00

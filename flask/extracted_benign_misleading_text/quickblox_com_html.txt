@@ -1,0 +1,6 @@
+Your backend infrastructure for chat, API and dashboard are 5 minutes away — register for free to put it live.
+Drag & drop the QuickBlox SDK library into your code, copy & paste app credentials from the dashboard.
+Your users start chatting.
+Cloud / dedicated server
+Dedicated server
+The open-source, cross platform, video calling and instant messaging app.

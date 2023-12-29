@@ -1,0 +1,32 @@
+Avis : ceci n'est pas un site Web et n'est pas destiné à l'être.
+Ce n'est que la page d'intégration générale que je mets comme page d'accueil sur mon serveur,
+car il est quand même préférable d'y mettre quelque chose.
+Son usage essentiel est de
+m'y retrouver.
+Documentation Unix & Linux. ·
+Photos de famille ·
+Partage ·
+Admin ·
+F
+TeamViewer 11 : PC, MAC — (qs) : PC, MAC
+Asperansa · Atelier de Malicorne · CSciences · Hubert Reeves · La Grand'Visite · Pouchin TV Mod · EliseCare · Carte Vélib
+Carte de la ville de Yoshkar-Ola.
+Autres régions et détails :
+Alsace-Lorraine
+Auvergne
+Bretagne
+Île-de-France
+Midi-Pyrénées Nord & Picardie Normandie PACA Rhône-Alpes
+États-Unis Europe Proche-Orient Québec Russie
+Météo-France
+Revenu de base
+Ce serveur personnel a longtemps tourné sur un PC Intel Celeron à 466 MHz
+(512 Mo RAM, disque dur 20 Go + backup 20 Go)
+tournant (grâce lui en soit rendue) sous Linux RedHat 9.0.
+La connexion Internet était réalisée avec un accès ADSL.
+À partir de mai 2010, il a été hébergé sur un serveur dédié
+Kimsufi
+chez OVH à Roubaix,
+lequel, devenu trop ancien, a lui-même été remplacé par deux autres serveurs (un à Roubaix, un à Gravelines) à partir de mars 2017.
+Les services DNS (noms de domaine) me sont fournis, selon les sites, par OVH,
+par Dyn, ou bien par GANDI.

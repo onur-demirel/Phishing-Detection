@@ -1,0 +1,52 @@
+Time tracking software for teams
+Accurate time tracking for project management, invoicing or payroll.
+Works inside Asana · Trello · Basecamp
+What’s inside?
+-
+Resource planning
+Schedule hours of your employees, see their workload and time off to plan projects work accordingly
+-
+Timesheets
+Easy to use online timesheets. Invite anyone to track time, set flexible rates and enjoy easy billing and reporting
+-
+Live dashboard
+Quickly find who is working at this moment and on what without distracting employees and taking them out of the flow
+-
+Project budgeting
+Keep track of all your projects, set budgets and alerts, split billable and non-billable hours
+-
+Invoicing
+Create accurate invoices from the logged work just in a few clicks. Watch the reported time and the time invoiced
+integrations
+integrations
+Time tracking right inside Asana interface
+- no manual projects setup;
+- no switching between apps to log time;
+- more accurate data and timely timesheets;
+integrations
+Time tracking right inside Trello interface
+- no manual projects setup;
+- no switching between apps to log time;
+- more accurate data and timely timesheets;
+integrations
+Time tracking right inside Basecamp interface
+- no manual projects setup;
+- no switching between apps to log time;
+- more accurate data and timely timesheets;
+integrations
+Time tracking right inside Jira interface
+- no manual projects setup;
+- no switching between apps to log time;
+- more accurate data and timely timesheets;
+integrations
+Time tracking right inside GitHub interface
+- no manual projects setup;
+- no switching between apps to log time;
+- more accurate data and timely timesheets;
+Loved by 2,800+ companies around the world
+Kellie S. (Manager, Global Accounts)
+As an outsource marketing agency, we rely on Everhour to get our contractors' time reports to ensure we are within budget and scope.
+Maciej B. (Senior Analyst)
+Everhour integration with Asana is seamless — it looks and feels like it's always just part of Asana. Easy to add and edit time.
+Elizabeth W. (Creative Director)
+We use Everhour to track our internal hours against contracted hours and be sure we are not going overbudget and that we are profitable on every job.

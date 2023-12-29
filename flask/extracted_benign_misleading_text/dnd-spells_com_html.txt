@@ -1,0 +1,29 @@
+A new look when generated spell cards have been created.
+I see that I really have to go through all the spells and look for extra lines. Be patient and I'll try to go over the spell the next couple of days. I might tweak the final look of the PDF.
+Generate, save as PDF or even print your Dungeons and Dragons 5e spells. YOU choose, YOU organize.
+Create spell cards based on your class or character, generate a PDF or print them. Sort the spells by level, alphabetical and many other ways. Spells and cantrips from all the classes, Sorcerer, Wizard, Druid, Bard, Paladin, Cleric, Ranger, Warlock.
+Customize the output. Two or three columns, you prefer the paper in portrait or landscape view? Filter and sort the spells based on class, level, casting time, ritual, concentration. Preview the printable PDF and save it for later or print it directly from your browser.
+Why not create a spellbook and save your spells so you easily can reach them on your mobile, tablet or computer. Now you can even toggle the prepared spells.
+Your DM want to take a look in your spell list? Did your RPs find a spellbook during the campaign? No problem, you can now share your spellbooks with others.
+I'm working on a new part of this site. A way to add custom / homebrewed spells. A way to add your own touch to the game and if you'd like, share it with others. If this is what you are looking for, stay a while and get to know the other tools.
+With time even more spells will be added.
+Join the fun, we get around 100 new accounts every couple of days.
+Not everyone needs a persistent spellbook, but try it out. It's pretty neat.
+I see that I really have to go through all the spells and look for extra lines. Be patient and I'll try to go over the spell the next couple of days. I might tweak the final look of the PDF.
+Yep i finally got the time to fix the sign-up-bug.
+And while I was at it I changed the email provider for the forgotten-password-emails. Dont know if they have, but they shouldn't get stuck in the spam folders any more.
+I've started to get a couple of emails about changes to the spells.
+Im trying to go through the changes as they come in.
+Some EE-spells have been revised and updated so if you are a heavy user of EE-spells, its time to print out a new spell book.
+I would like to specially thank Sean, one of my users who sent me a list of small alterrations that I'd never would have seen.
+After yesterday's major update the register / sign up function is broken. I'll try to take a look at it later today.
+Ok, so the new spells have been added. Weeei !
+- I know some of the descriptions are a bit off, Im gonna attend to them tomorrow. Feel free to send me a notice if you find some error with the spells, use the form on the /contact -page.
+- I rewrote some of the pages and ran some tests, all should be good.. But if not, please use the contact-form to let me know.
+- The "Reset you... Read More...
+"I'm so glad someone did this. I have been looking for an on-line spell card generator. You're awesome"
+"Keep up the good work, it's a fantastic tool that has filled a gaping hole in my group's play!
+"I am so excited to find this site! What a great idea!"
+Love your site, I use it all the time, and I know my DM would have lost his hair by now without it. Our entire party uses it and it's become an invaluable resource, I look forward to seeing where you take it.
+"This is a fantastic site, thank you for all your efforts!"
+"This site is a lifesaver for searching spells. Thank you."

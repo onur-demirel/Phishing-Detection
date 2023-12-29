@@ -1,0 +1,205 @@
+|mbox
+|adobe.com
+|This cookie is used to collect non-personal information on the visitor's behavior and non-personal visitor statistics, which can be used by a third-party ad-targeting agency.
+|1 day
+|HTTP
+|MUID
+|bing.com
+|Used widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains.
+|1 year
+|HTTP
+|MUIDB
+|bing.com
+|Registers data on visitors from multiple visits and on multiple websites. This information is used to measure the efficiency of advertisement on websites.
+|1 year
+|HTTP
+|S
+|docs.google.com
+|Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+|1 day
+|HTTP
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|test_cookie
+|doubleclick.net
+|Used to check if the user's browser supports cookies.
+|1 day
+|HTTP
+|fr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|tr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|Session
+|Pixel
+|NID
+|google.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|6 months
+|HTTP
+|rc::a
+|google.com
+|This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+|Persistent
+|HTML
+|rc::b
+|google.com
+|This cookie is used to distinguish between humans and bots.
+|Session
+|HTML
+|rc::c
+|google.com
+|This cookie is used to distinguish between humans and bots.
+|Session
+|HTML
+|bcookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|bscookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|lidc
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|1 day
+|HTTP
+|UserMatchHistory
+|linkedin.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|29 days
+|HTTP
+|__zlcmid
+|onlogic.com
+|Preserves users states across page requests.
+|1 year
+|HTTP
+|_fbp
+|onlogic.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|gwcc
+|onlogic.com
+|Enables Google Website Call Conversions - This registers if the visitor has clicked on call within the "contact us" sub-page. This information is used for statistics and marketing purposes.
+|3 months
+|HTTP
+|tk_lr
+|onlogic.com
+|Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.
+|1 year
+|HTTP
+|tk_or
+|onlogic.com
+|Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.
+|5 years
+|HTTP
+|tk_r3d
+|onlogic.com
+|Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.
+|2 days
+|HTTP
+|tk_tc
+|onlogic.com
+|Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.
+|Session
+|HTTP
+|tve_leads_unique
+|onlogic.com
+|The cookie is used to manage the mailing list, if the visitor has subscribed to any newsletters or blog posts.
+|29 days
+|HTTP
+|zte#
+|onlogic.com
+|Saves a Zopim Live Chat ID that recognises a device between visits during a chat session.
+|Session
+|HTTP
+|GPS
+|youtube.com
+|Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+|1 day
+|HTTP
+|PREF
+|youtube.com
+|Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+|8 months
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+|179 days
+|HTTP
+|YSC
+|youtube.com
+|Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|GFE_RTT
+|docs.google.com
+|Pending
+|1 day
+|HTTP
+|punchv-e-f
+|docs.google.com
+|Pending
+|Persistent
+|HTML
+|punchv-e-n
+|docs.google.com
+|Pending
+|Persistent
+|HTML
+|punchv-e-v
+|docs.google.com
+|Pending
+|Persistent
+|HTML
+|pagead/1p-user-list/#
+|google.com
+|Pending
+|Session
+|Pixel
+|rc::d-15#
+|google.com
+|Pending
+|Persistent
+|HTML

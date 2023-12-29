@@ -1,0 +1,38 @@
+Creating and using identification and diagnostic keys has never been easier. The Lucid Builder, Player, Fact Sheet Fusion, and the Lucid Mobile platform provide all tools needed to produce world class keys.
+Welcome to Lucidcentral.org
+Home of identification and diagnostic keys
+Lucid Builder
+Spotlight Features
+No limits
+Add as many species and characters to your key as you want.
+Import/Export
+Lucid supports importing and exporting of key data in open formats. No data lock in here.
+Reporting tools
+Generate reports on the state of your key. Check if your keys features are enough for your end users to make an identification.
+Easy scoring
+Linking your features (questions/characters) to your species is just point and click. You can score three different ways.
+Play as you go
+With the built in Player you can 'play' your key anytime during its development.
+Multiple operating system support
+Run the Builder on Windows, OSX and Linux. The Player works without any installation and is also available on Android and Apple iOS via native apps.
+Attach multimedia
+Attach images and Html to your features and species. It also support attachments via Fact Sheet Fusion.
+Create written descriptions
+Make the most of your key data. The Lucid Builder can create natural language output from your key.
+Fast deployment
+The Lucid Builders built-in key deployment process makes getting your key to end users a fast and simple process.
+Fact Sheet Fusion
+News
+From our blog
+Thrips of the British Isles
+This Lucid based identification and information system includes 177 species of thrips that have been taken alive on the British Isles at least once. It provides a means of identifying species, together with an introduction to what is known of the biology and distribution of each species. Developed by Laurence Mound (Australian National Insect Collection,…
+Fact Sheet Fusion Update
+A new update to Fact Sheet Fusion (v2.0.5.132) is now available (free to existing v2 licence holders). This update includes: New features and enhancements The main forms (Main interface, Glossary manager, Media manger and Image viewer) now save and reload their position, size and layout between openings. The Image Viewer now allows you to move…
+Lucid v3.6 Updated
+A new Lucid v3.6 update is now available. It adds additional features and corrects several minor bugs. Changes include: Lucid JavaScript (Browser) Player New auto unprune option. Fixed bug preventing manual discard in the application player. Lucid Builder Major updates to numeric input dialog, and improvements to the process for entering numeric data. Enhancements to…
+Lucid Mobile Platform
+Case Studies
+case studies
+Our products
+Contact
+For any inquiries please email

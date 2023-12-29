@@ -1,0 +1,12 @@
+Coming soon: Another fine website hosted by WebFaction.
+Site not configured
+If you are the owner of this website and weren’t expecting to see this message, here are some potential causes and solutions:
+- You recently created a new website record, but opened the URL before your changes were activated in the web server and DNS configuration. Wait a moment and refresh.
+- You created a new website record without the current subdomain (for example,
+www). Return to the control panel to add the current subdomain to the website record and refresh.
+- You added a new domain in the control panel but didn’t create a site record to link it with an application. Create a website record with the control panel and refresh.
+- Your website record is set for HTTPS, but you visited a HTTP URL (or vice-versa). Open the URL with the other protocol.
+- You tried to access your website by IP address. Access the website by domain name instead.
+- There is a problem with your account. Check the control panel for unresolved support tickets and check your email for recent messages from support@webfaction.com.
+For more details, please see Error: Site not configured.
+WebFaction provides modern hosting with friendly customer support. Visit our main website for more information.

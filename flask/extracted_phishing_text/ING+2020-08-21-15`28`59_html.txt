@@ -1,0 +1,20 @@
+NL
+EN
+Particulier
+Zakelijk
+Log in bij Mijn ING
+Gebruikersnaam en wachtwoord
+Gebruikersnaam
+Je gebruikersnaam is verplicht
+Wachtwoord
+Je wachtwoord is verplicht
+Onthoud mijn gebruikersnaam
+Inloggen
+Hulp nodig?
+Hulp
+Sorry, we kunnen je nu geen hulp-opties laten zien. We doen ons best dit snel te verhelpen.
+Wachtwoord en/of gebruikersnaam vergeten?
+Mijn ING Particulier aanvragen
+Mijn ING Zakelijk aanvragen
+Contact met ING Particulier
+Contact met ING Zakelijk

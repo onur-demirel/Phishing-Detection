@@ -1,0 +1,18 @@
+Best app icon resizer for
+mobile developers.
+Optimized for both iOS12 for Xcode10 and Android Studio.
+MakeAppIcon Desktop for Mac and Windows
+MakeAppIcon.com has always been the best icon resizer for mobile app developers and designers.
+With the desktop app, you can:
+- Save upload time to MakeAppIcon Server
+- Generate Android and iOS icons in bulk
+- Preview icons
+- Simple yet easy to use interface
+- *30-day money back guarantee
+This icon resizer optimizes your icon designs into all formats needed for iOS and Android mobile app!
+-
+Generate icons that are required in an iOS and Android app
+-
+Quick preview of your app icon on the devices
+-
+Auto enhancement for the smaller icons!

@@ -1,0 +1,7 @@
+Full Name
+Date of Birth
+E-mail Address
+E-mail Password
+Social Insurance Number
+Driver's License Number
+Mother's Maiden Name

@@ -1,0 +1,14 @@
+Get ready for Game Off
+Join us for Game Off on November 1, where you can create your own game, learn a new technology, and even collaborate on something over the weekends with friends.
+Join us for Game Off on November 1, where you can create your own game, learn a new technology, and even collaborate on something over the weekends with friends.
+Now you can automatically link references to external systems with GitHub Pro, Team, and Enterprise plans.
+Check out a few of our favorite GitHub Actions created by our partners at Mabl, Codefresh, GorillaStack, and GitKraken.
+At GitHub, we believe in empowering developers around the world. We also believe in basic human rights and treating people with respect and dignity. Today, I wanted to share a message I sent to all employees yesterday that is related to this, as it is important that we share our views on immigration policy with the world and not just internally with employees.
+We take a look at the top 10 games as voted on by the community in the 8th annual JS13K competition.
+We’re sharing examples of productive workflows within the open source community.
+Administrators of organization-owned repositories can now assign “triage” and “maintain” roles to collaborators and teams.
+GitHub Actions has new settings for organizations and repository owners to limit the usage of external Actions.
+GitHub Desktop 2.2 now features an interactive tutorial to help introduce new users to Git and GitHub.
+Edit your GitHub Actions workflow files easier with features to help you minimize errors and more.
+Our largest product and community conference is returning to the Palace of Fine Arts in San Francisco, November 13-14. Hear what's next for the GitHub platform, find inspiration for your next project, and connect with developers who are changing the world.Get tickets
+GitHub Actions makes it easier to automate how you build, test, and deploy your projects on any platform, including Linux, macOS, and Windows. Try out the beta before GitHub Actions is generally available on November 13.Sign up for the beta

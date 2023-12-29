@@ -1,0 +1,5 @@
+Attention
+Внимание
+Account disabled by server administrator.
+Аккаунт отключен администратором сервера.
+ISPsystem © 1997-

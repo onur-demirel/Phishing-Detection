@@ -1,0 +1,36 @@
+Ofertas Laborales
+Cargo
+Seleccione Opción
+Regiones
+Seleccione Opción
+Comuna
+Seleccione Opción
+Trabajo o Práctica
+Seleccione Opción
+Desarrollador - Región Metropolitana
+Cargo: Desarrollador Experto C. Agilidad
+Ubicación: Región Metropolitana de Santiago, Santiago
+Arquitecto Tecnológico - On Premise y Cloud
+Cargo: Analista de Sistemas Sr.
+Ubicación: Región Metropolitana de Santiago, Santiago
+Ingeniero DevSecOps
+Cargo: Ingeniero DevSecOps Sr.
+Ubicación: Región Metropolitana de Santiago, Santiago
+Oficial de Negocios Especiales - Plazo Fijo
+Cargo: Oficial de Neg. Especiales
+Ubicación: Región Metropolitana de Santiago, Santiago
+Ingeniero Ciberseguridad Senior - Protección de Activos
+Cargo: Ingeniero Ciberseguridad Sr.
+Ubicación: Región Metropolitana de Santiago, Santiago
+Technical Leader
+Cargo: Líder Tecnico C. Agilidad
+Ubicación: Región Metropolitana de Santiago, Santiago
+Vigilante Privado Región Metropolitana
+Cargo: Vigilante
+Ubicación: Región Metropolitana de Santiago, Santiago
+Vigilante Privado - San Antonio
+Cargo: Vigilante
+Ubicación: Región de Valparaiso, Valparaíso
+Ejecutivo FonoBank Corporativo Senior
+Cargo: Ejec. FonoBank Corporativo Sr.
+Ubicación: Región Metropolitana de Santiago

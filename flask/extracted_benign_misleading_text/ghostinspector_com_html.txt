@@ -1,0 +1,21 @@
+Test Recorder & Codeless Editor
+Video & Screenshot Comparison
+Multiple Browsers & Screen Sizes
+API & Third Party Integrations
+Advanced Test Scheduling
+Parallel Testing by Default
+Ghost Inspector makes it simple to ensure your website is working properly — with no programming or testing experience required. Whether your team is made up of engineers, manual testers or people who are brand new to testing, our intuitive set of tools will allow you to accomplish your goals.
+Don't let your customers be the ones to discover bugs. 10x your quality assurance power with Ghost Inspector.
+Simply install our extension in your Chrome or Firefox web browser. Click the toolbar icon on your website to start recording a test scenario.
+Our extension records all your interactions. You can then set assertions that will be checked to determine if the test has passed.
+Once saved, your browser tests can be run continuously on a schedule or triggered via our API. We track results and even compare screenshots.
+Get notified when tests fail via email or 3rd party integrations. Log in to investigate results and watch full video of the test run.
+Ghost Inspector has been a game changer for us. Its simplicity means anyone in our company can easily setup and monitor tests. Additionally, the team there is always very responsive whenever we have any questions.
+Peter Sharkey
+Co-founder and Chief Product Officer at Autopilot
+Ghost Inspector lets us easily test our critical user flows from end to end, so we know immediately when something goes wrong!
+Brandon Weiss
+Engineering Manager at Intercom
+The victory for us is how both Runscope and Ghost Inspector have changed the face of QA in our company. We are beginning to grow what I believe is a QA culture—even our chairman writes Ghost Inspector tests now!
+Patrick McKenna
+Global Head of Product Engineering at Kurtosys

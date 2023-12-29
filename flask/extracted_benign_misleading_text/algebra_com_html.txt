@@ -1,0 +1,16 @@
+|Algebra, math homework solvers, lessons and free tutors online.Pre-algebra, Algebra I, Algebra II, Geometry, Physics. Created by our FREE tutors. Solvers with work shown, write algebra lessons, help you solve your homework problems. Interactive solvers for algebra word problems. Ask questions on our question board. Created by the people. Can you help?
+|
+|
+|
+|
+News: (subscribe to Site updates RSS (?)) - ticker.Our math tutors are adding stuff to this site daily. So stop by once in a while, or get notified about updates via RSS, or watch realtime Algebra.Com ticker (New!), or follow our Twitter Feed.
+Apr 17: Algebra.Com under attack
+On 4/17/19 Algebra.Com was under cyber attack, whereby someone dumped a lot of trash content into the question and answer area. I had to restore from backup from last night.
+May 18: You can write functions like "sine squared" in solutions
+You can now plot functions like "sine squared", for example
+sin^2(z):
+May 15: I quit my job to do algebra.com FULL TIME.
+I quit my day job, in order to work on algebra.com full time. My mission is to make homework more fun and educational, and to help people teach others for free.
+May 15: Password reset for absent minded professors...
+I added a function to reset a forgotten password. It asks you for the registered email address, and resets a password if you prove that you own the email address.
+Algebra.Com Privacy Policy

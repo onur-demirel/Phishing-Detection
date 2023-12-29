@@ -1,0 +1,5 @@
+Play Pokemon MMO Online. We have been testing the new Pokemon Legends game which has been in production over the last couple of years. Progress on the game has been amazing and since this is the first post on the blog I thought it would be a great idea to share why Pokemon Legends is different from other Fan-Made Pokemon MMO’s!
+- Pokemon Legends is completely browser based using the latest HTML5 technology – NO DOWNLOAD REQUIRED!
+- Pokemon Legends is built capitalising on the experience of building multiple fan games over the years.
+- Thats right! – Lead Programmer Kyro was also the original creator of Pokemon World Online, Pokemon Battle Arena and The Pokemon League!
+- Tournaments are automated! There are various tournaments which begin every hour, as long as enough people are in the Arena to participate. Different tournaments have different level restrictions. Prizes include Shiny Pokemon!

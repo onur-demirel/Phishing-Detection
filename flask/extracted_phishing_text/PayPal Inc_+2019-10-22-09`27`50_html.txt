@@ -1,0 +1,6 @@
+A valid email address is required
+Password is required
+Log In
+Forgot your email address or password?
+Sign Up
+Checking your info ...

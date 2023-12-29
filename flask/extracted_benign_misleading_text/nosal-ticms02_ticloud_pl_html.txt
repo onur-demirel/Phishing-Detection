@@ -1,0 +1,46 @@
+Select Language
+▼
+Toggle navigation
+TiCMS 02
+Home
+Korzeń Produkty
+Zamówienia
+Koszyk konsultacji
+Koszyk
+Strona główna
+/
+Konfigurator
+·
+sklep
+·
+systemu propozycji
+·
+formularz
+/
+Konfigurator
+·
+sklep
+·
+systemu propozycji
+·
+formularz
+Artykuł
+Artykuł | To jest tytuł w menu
+Użytkownik
+Hasło
+Kliknij tu by zarejestrować się.
+pdf.pdf
+Zmień wielkość czcionki:
+rozmiar domyślny
+rozmiar 1
+rozmiar 2
+Zmień styl strony(przez makro):
+Wersja Domyślna
+Zmiana przez kod JS (zmiany w css lokalne)
+Motyw ciemny
+Motyw jasny
+Ostatnia modyfikacja: 2020-07-03
+Sprawdzanie czy należysz do grupy 'klubowicze':
+NIE
+Original text
+Contribute a better translation

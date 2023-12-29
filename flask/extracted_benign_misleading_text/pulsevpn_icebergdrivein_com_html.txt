@@ -1,0 +1,8 @@
+If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
+Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
+* Do you know what the SOA record is in DNS?
+Suggested article from our blog: What is SOA (Start of Authority) record?
+SOA is an abbreviation that means the Start of Authority. The most important part of the SOA is the written authoritative server that indicates the original source. Only one SOA Record is allowed per zone.
+The content of a SOA Record includes:
+The full list you can find in this article!
+Are you wondering how to manage your SOA records?

@@ -1,0 +1,41 @@
+Create your own GitHub profile
+Sign up for your own profile on GitHub, the best place to host code, manage projects, and build software alongside 40 million developers.
+Sign up
+Matthew Oslan
+Derpthemeus
+Organizations
+Pinned
+-
+Source for http://championmasterylookup.derpthemeus.com/
+TypeScript
+28
+16
+-
+OpenSprinkler weather service used to calculate watering scale for the OpenSprinkler Unified Firmware.
+TypeScript
+21
+11
+-
+Helps users make informed decisions when building rune pages. Winner of the 2017 Riot Games API Challenge (education category).
+Java
+7
+3
+-
+The Riot Games API Bot
+TypeScript
+16
+13
+273 contributions
+in the last year
+Contribution activity
+October 2019
+Derpthemeus has no activity
+yet for this period.
+September 2019
+1
+contribution
+in private repositories
+Sep 14
+You can’t perform that action at this time.
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.

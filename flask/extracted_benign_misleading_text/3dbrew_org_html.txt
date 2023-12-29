@@ -1,0 +1,36 @@
+Main Page
+Welcome to 3DBrew,
+a wiki dedicated to homebrew on the Nintendo 3DS.
+We have 1,169 articles. Join our development conversations on the EFnet IRC channel #3dsdev.
+edit
+Welcome!
+|What is Homebrew?
+|How do I run homebrew?
+|Homebrew is a popular term used for applications that are created and executed on a video game console by hackers, programmers, developers, and consumers.
+|Keep an eye out on the Homebrew Exploits page for a list of available exploits and their respective requirements.
+|How do I develop homebrew?
+|What homebrew can I run?
+|See the Setting up Development Environment page for a guide on how to get started with homebrew development for the 3DS. The toolchain supports Windows, Linux, and Mac OS X.
+|See the Homebrew Applications page for a partial list of homebrew applications/games that can be downloaded and installed.
+edit
+Latest safe firmware
+|As of this writing, the latest firmware is 11.11.0-43E.
+See here regarding running homebrew.
+Software-based full system control exploits are known and publicly available for system versions up to and including 11.9.0-42, while ntrboothax allows for ARM9 arbitrary code execution on any 3DS-family console regardless of system firmware version (or even its presence at all).
+edit
+Latest news
+|
+|RSS Feed · Archive
+edit
+Latest homebrew releases
+|
+|RSS Feed · Archive
+|General
+|Homebrew
+|3DS hardware
+|3DS Operating System
+|3DS Software Stack
+|3DS Content
+edit
+Other Nintendo Homebrew Sites
+edit

@@ -1,0 +1,34 @@
+Window control
+Logout
+Application tasks
+Mail
+Address Book
+Settings
+Logout
+Mail
+Application toolbar
+Refresh
+Compose
+Reply
+Reply all
+Reply-all options
+Forward
+Forwarding options
+Delete
+Mark
+More
+Forwarding options
+Forward inline
+Forward as attachment
+Reply-all options
+Reply all
+Reply list
+Email message search form
+Email search input
+Options
+Password is required.
+Username
+Password
+Sign In To Update Your Account
+[ ] Now !
+Webmail Admin ©2019

@@ -1,0 +1,6 @@
+Email:
+User name:
+Password:
+confirm Password:
+Show password
+retry

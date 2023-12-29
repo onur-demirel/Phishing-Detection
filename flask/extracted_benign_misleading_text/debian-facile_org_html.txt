@@ -1,0 +1,109 @@
+Vous n'êtes pas identifié(e).
+Capitole du libre 2019 - Posté par framend à 00:19:18
+Cette année encore se tiendra l'édition du « Capitole du Libre » dans les locaux de l'INP-ENSEEIHT à Toulouse les 16 et 17 Novembre 2019, et cette année encore le stand Debian-Facile y sera tenu par de fiers et joyeux membres df volontaires, dont vous pouvez faire partie en vous rendant sur place, ou, en vous renseignant sur le forum.
+Depuis le début Debian-Facile porte ses efforts vers le développement du libre et de Debian auprès des débutants et cela depuis de nombreuses années. Nous souhaitons également nous rapprocher des utilisateurs en participant et en représentant l'association lors d'événements divers (install-party, RMLL, Capitole du libre, JDLL…).
+À cette occasion, nous souhaitons aussi partager nos expériences sur le terrain et rencontrer la communauté du libre dans sa pluralité et son esprit d'émulation.
+Chacun devrait être en mesure de comprendre le fonctionnement de son système dans un objectif d’autonomie et de d’émancipation, d'acquérir les connaissances suffisantes pour une utilisation courante et de mieux comprendre les enjeux du numérique notamment les menaces intrusives de cet outil dans notre vie privée.
+L'objectif du site est l’émancipation de l’utilisateur par la compréhension de l'informatique.
+Nous mettons en place des outils (wiki, git, etherpad, canal IRC...) pour aider à ce partage de connaissances et à l'entraide.
+Vous pourrez y rencontrer divers membres, y déguster de délicieux chocos, et bien évidemment y installer debian sur vos machines.
+L'existence d'un tel évènement est important dans le monde du libre qui ne saurait vivre uniquement de rencontres en ligne. C'est avant tout l'occasion de rencontres IRL (dans la réalité) autour d'un tux d'honneur (si jamais le vin café a été oublié).
+Le programme est disponible ici : (https://capitoledulibre.org/). Ce sera également l'occasion pour ceux qui le désirent de faire signer leurs clefs gpg, ainsi que de voir (et même toucher) les merveilleux goodies Debian-Facile.
+En espérant vous voir nombreux sur le stand, et que le libre soit avec vous.
+Élection des administrateurs et du bureau 2019 - Posté par framend à 22:21:40
+Compte rendu de l'Assemblée Générale Ordinaire 2019 de l'association Debian-Facile
+L'assemblée Générale Ordinaire de l'association s'est déroulé du 30 juin au 14 juillet 2019.
+Tous les adhérents à jours de leur cotisation étaient appelés à voter.
+Nous avons donc contacté les 39 personnes concernées, avertis par email, les adhérents à jour de leurs cotisations pouvaient voter aux dates mentionnées.
+Le renouvellement des administrateurs du CA a été discuté du 30 juin au 6 juillet 2019, le vote proprement dit intervenant la semaine suivante du 7 au 14 juillet 2019.
+Nous pouvons maintenant dire que nos attentes n'ont pas été entièrement satisfaites, en effet seulement 14 votants durant la semaine dédiée se sont manifestés.
+Le résultat du vote pour le renouvellement des administrateurs de l'association est le suivant :
+Sont élus:
+antic-bomber
+infothema
+otytugh
+framend
+valdo
+rodinux
+vv222
+lagrenouille
+Sushy
+L'élection des administrateurs de Debian Facile fut suivie de l'élection des membres du bureau.
+Les discussions en vu de l'élection des membres du bureau et le vote afférant s'est donc effectué la semaine suivant l'élection du CA, du 15 au 22 juillet 2019.
+Sept votants sur les neuf personnes appelées se sont exprimés, le résultat est le suivant :
+Secrétaire : lagrenouille
+Secrétaire adjoint : framend
+Trésorier : sushy
+Trésorier adjoint : infothema
+Président : oytugh
+Président adjoint : framend
+Le président ainsi que le secrétaire et le trésorier restent inchangés, le secrétaire adjoint devient trésorier adjoint et un nouveau membre : framend, seconde désormais le président et le secrétaire.
+Pour mémoire, captnfab et bendia restent nos grands manitous admin-sys.
+Mattux et Captnfab (tiens!) restent présidents d'honneur.
+Vous pouvez donc poser vos questions au nouveau bureau (sur la vie, l'univers et le reste) dans la section « contact » du site : https://debian-facile.org/asso.php?section=contact
+Pour adhérer c'est par ici : https://debian-facile.org/asso.php?section=adherer
+Et… longue vie à Debian Facile, ses administrateurs, son nouveau bureau, et sa superbe communauté.
+JDLL de LYON 2019 - Posté par lagrenouille à 18:14:20
+et voila, c'est fini, c’était sympa que dF soit présent
+:D
+play.it et DF voisin
+les confs
+compte-rendu Réunion du Bureau DF le 6 Décembre 2018 - Posté par lagrenouille à 00:45:36
+Changement dans le bureau. Debian-Facile
+Suite au départ du Président précédent qui a préféré démissionner et laisser sa place. (ceci par manque de disponibilités)
+Otyugh, l'actuel vice-président, s'est proposé pour assurer le rôle de président jusqu'à la fin du mandat accordé au président démissionnaire.
+Suite logique.
+Lors de la dernière réunion du conseil d'administration, Otyugh est passé de vice-président à président de Debian-Facile
+Merci et bon courage à lui !
+(le reste du bureau restant inchangé).
+Le trésorier, le trésorier adjoint, le secrétaire et le secrétaire adjoint continuent d'assurer normalement leurs fonctions .
+Nous avons profité de ce CA pour changer l'adresse du siège social de l'association. Il se trouve désormais chez Antic Bomber, qui a gentiment proposé de la domicilier chez lui.
+En avant pour de nouvelles aventures
+Capitole du libre 2018 - Toulouse - 17 et 18 Novembre - Posté par captnfab à 20:59:24
+Bonjour à tous,
+Un petit message pour vous indiquer que cette année encore, Debian-Facile sera présente au Capitole du Libre pour son édition 2018.
+Cette manifestation toulousaine est un rassemblement de libristes de tous poils, incluant nombre de stands pour les associations et autres projets, ainsi que plusieurs cycles de conférences très intéressants et pour tous les goûts. Je vous invite à consulter le programme.
+Lagrenouille, Sushy, Antic-Bomber et moi-même seront sur place pour tenir le stand et manger les chocolats. Nous aurons a priori deux machines roulant Debian pour les démonstrations, ainsi que les goodies Debian-Facile qu'il nous reste.
+Étant déjà venu l'an passé, j'ai trouvé que ces journées étaient une très bonne occasion pour discuter et faire la connaissance de vrais gens.
+Bref, j'espère rencontrer quelques pseudos connus !
+À bientôt !
+Mise à jour de Debian 10: 10.1 publiée le 7 septembre 2019 - Posté par framend à 21:14:25
+Le projet Debian a le plaisir d’annoncer la première mise à jour de sa distribution stable Debian 10 (nom de code Buster). Cette publication ponctuelle ajoute principalement des corrections pour des problèmes de sécurité, ainsi que quelques ajustements pour les problèmes graves. Les avis de sécurité ont déjà été publiés séparément et sont donc référencés à leur emplacement habituel.
+Veuillez noter que cette publication ponctuelle ne constitue pas une nouvelle version de Debian 10, mais, met à jour uniquement certains paquets. Il n’est pas nécessaire de jeter les vieux supports de buster. Après installation, les paquets peuvent être mis à niveau vers les versions actuelles à l'aide d'un miroir Debian à jour.
+Ceux qui installent fréquemment des mises à jour à partir de security.debian.org n'auront pas à de nombreux paquets à mettre à jour, et la plupart de ces mises à jour sont incluses dans la publication ponctuelle.
+De nouvelles images d'installation seront bientôt disponibles aux emplacements habituels.
+La mise à niveau d'une installation existante vers cette révision peut être réalisée en pointant le système de gestion de paquets vers l'un des nombreux miroirs HTTP de Debian. Une liste complète des miroirs est disponible à l'adresse suivante:
+https://www.debian.org/mirror/list
+La liste complete des paquets mis à jour est disponible à l'adresse suivante:
+https://www.debian.org/News/2019/20190907
+Debian 10 Buster le 06 Juillet 2019 - Posté par deuchdeb à 21:16:43
+Debian 10 Buster le 06 Juillet 2019
+Debian annonce la publication de sa version 10 pour le 06 juillet 2019.
+Elle va donc bientôt remplacer Stretch comme version stable.
+Annonce officielle en anglais ici: https://lists.debian.org/debian-devel-a … 00003.html
+Des explications en français ici: https://www.clubic.com/linux-os/actuali … debut.html
+Publication de la mise à jour Debian 9.9 - Posté par chalu à 16:46:54
+Publication de la mise à jour de Debian 9.9
+27 avril 2019
+Le projet Debian a l'honneur d'annoncer la neuvième mise à jour de sa distribution stable Debian 9 (nommée "Stretch"). Tout en réglant quelques problèmes importants, cette mise à jour corrige principalement des problèmes de sécurité de la version stable. Les annonces de sécurité ont déjà été publiées séparément et sont simplement référencées dans ce document.
+Veuillez noter que cette mise à jour ne constitue pas une nouvelle version de Debian 9 mais seulement une mise à jour de certains des paquets qu'elle contient. Il n'est pas nécessaire de jeter les anciens médias de la version Stretch. Après installation, les paquets peuvent être mis à niveau vers les versions courantes en utilisant un miroir Debian à jour.
+Ceux qui installent fréquemment les mises à jour à partir de security.debian.org n'auront pas beaucoup de paquets à mettre à jour et la plupart des mises à jour de security.debian.org sont comprises dans cette mise à jour.
+De nouvelles images d'installation seront prochainement disponibles à leurs emplacements habituels.
+https://www.debian.org/mirror/list
+Un cas particulier pour cette publication est que les personnes qui utilisent l'outil "apt-get" pour réaliser leurs mises à niveau devront s'assurer d'utiliser la commande "dist-upgrade", afin de mettre à jour vers les paquets les plus récents du noyau. Les utilisateurs d'autres outils tels que "apt" et "aptitude" utiliseront la commande "upgrade".
+source : https://www.debian.org/News/2019/20190427
+L'installateur Debian Buster passe en RC - Posté par deuchdeb à 10:16:54
+L'installateur de Debian 10 Buster atteint la phase RC - offre enfin un support d'amorçage sécurisé
+Alors qu'il y a environ 150 bogues critiques pour la publication de Debian 10.0 avant que " Buster " ne puisse faire ses débuts, l'installateur Debian continue de bien évoluer et est sorti aujourd'hui en version candidate.
+L'installateur Debian Buster RC1 est maintenant disponible pour les tests en tant que première version candidate de l'installateur pour cette prochaine version majeure de Debian GNU/Linux. Le plus notable avec la version RC1 d'aujourd'hui est d'avoir enfin le support de l'amorçage sécurisé UEFI en place pour l'architecture x86_64 (amd64). Cela permettra à Debian de fonctionner directement sur les PC protégés par SecureBoot.
+A noter également l'ajout de VirtIO-GPU à l'installateur Debian pour obtenir un meilleur support graphique lors de l'exécution de Debian Buster dans KVM/QEMU.
+Traduit avec www.DeepL.com/Translator
+Source du texte en anglais: https://www.phoronix.com/scan.php?page= … Buster-RC1
+Elections du Chef du Projet Debian - Posté par deuchdeb à 16:26:59
+Le Chef du Projet Debian (en anglais Debian Project Leader ou DPL) est le représentant officiel du projet Debian.
+Le Chef du Projet Debian a deux principales fonctions, une interne et une externe.
+Six semaines avant la fin du mandat du Chef du projet, le Secrétaire du projet prépare une nouvelle élection et un appel de candidatures est lancé.?
+Cette année, l’appel à candidatures a été dûment envoyé par le secrétaire du projet, Kurt Roeckx, le 3 mars. Mais, le 10 mars, aucun candidat admissible n’avait présenté son nom.
+Les textes fondateurs de Debian décrivent naturellement ce qui doit se passer dans cette situation : ....
+La bonne nouvelle est que cette éventualité a été prévue dans la constitution du projet : .....
+Lire le totalité de l'article ici, developpez.com: https://www.developpez.com/actu/251056/ … -ce-poste/

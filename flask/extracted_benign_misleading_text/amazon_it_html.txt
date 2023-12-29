@@ -1,0 +1,1 @@
+Questa operazione è utile per capire se l'utente è un robot. Per ottenere risultati ottimali, assicurati che il tuo browser accetti i cookie.

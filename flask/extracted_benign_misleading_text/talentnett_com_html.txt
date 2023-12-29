@@ -1,0 +1,138 @@
+Advance Excel Keyboard Shortcuts 2020
+Excel shortcuts are basic need if you need to work faster in excel. There are hundreds of shortcut keys you can use in your daily routine. Some of them you probably might not know exists. Here are some of the advance excel keyboard shortcuts.
+|
+Shortcut Key
+|
+Description
+|Ctrl+[
+|Go to the linked cell reference. It’ll open closed file also if it is linked
+|F5+Enter
+|Go to the previous active cell or sheet
+|Alt+h+b+a
+|Apply all cell border to the current selection
+|Ctrl+Shift+n
+|Apply outline border to the current selection
+|Ctrl+Shift+_
+|Removes outline border from the current selection
+|Alt+h+a+r
+|Align cell value to the right
+|Alt+h+a+l
+|Align cell value to the left
+|Alt+h+a+c
+|Align cell value to the center
+|F2
+|Edit active cell
+|Shift+F2
+|Insert comment on active cell
+|F4
+|Repeat previously applied format command
+|Alt+o+c+a
+|Auto-fit the column width
+|Ctrl+9
+|Hide Row
+|Ctrl+Shift+(
+|Unhide Row
+|Ctrl+0
+|Hide Column
+|Alt+o+c+u
+(Select Columns – Right and Left)
+|Unhide Column
+|Alt+e+l
+|Delete Sheet
+|Alt+d+p+a
+|Create a Pivot Table
+|Shift+Spacebar
+|Select Row
+|Ctrl+Spacebar
+|Select Column
+|Ctrl+Shift++
+|Insert Column/Row, Shift cells down, shift cells right
+|Ctrl+–
+|Delete Column/Row, Shift cells up, shift cells left
+|Alt+d+f+f
+|Apply Filter or Remove Filter
+|Alt+=
+|Apply sum formula to the above range (ungapped)
+|Ctrl+:
+|Enter the Current Date
+|Ctrl+Shift+:
+|Enter the Current Time
+|Alt+F1
+|Insert a chart
+|Alt+h+9
+|Decrease or hide a Decimal Point
+|Alt+h+0
+|Increase or unhide a Decimal Point
+|Ctrl+Shift+#
+|Apply a date format to the current cell (numeric value)
+|Ctrl+Shift+$
+|Apply a currency format with 2 decimal point
+|Ctrl+Shift+~
+|Apply General formatting (numeric)
+|Ctrl+Shift+%
+|Apply the percentage (%) formatting
+|Ctrl+Shift+!
+|Apply the number format with 2 decimal point and a comma separator
+|Shift+F9
+|Calculate the Active Sheet
+|Ctrl+Shift+Enter
+|Convert formula as an array formula
+|Ctrl+T+Enter
+|Convert a Range to a Table
+|Alt+↓
+|Open Filter Window when a filter is applied to a column
+|Ctrl+.
+|Move cell clockwise in a selected range
+|Ctrl+Shift+→
+|Select until the last nonblank right cell
+|Ctrl+Shift+←
+|Select until the last nonblank left cell
+|Ctrl+Shift+↓
+|Select until the last nonblank down cell
+|Ctrl+Shift+↑
+|Select until the last nonblank up cell
+|Ctrl+]
+|Select direct dependent cells
+|Ctrl+Shift+}
+|Select all dependents cells
+|Ctrl+Shift+{
+|Select all precedents cells
+|Ctrl+H+6
+|Increase Indent
+|Ctrl+H+5
+|Decrease Indent
+|Ctrl+5
+|Strikethrough formatting
+|Ctrl+1
+|Open Format cells window
+|Alt+Shift+→
+|Group Columns or Rows
+|Alt+Shift+←
+|Ungroup Columns or Rows
+|Alt+’
+|Opens Style Dialogue box
+Learn More:
+COMMENTS (9)
+I have been browsing online greater than three hours lately, but I never discovered any fascinating article like yours.
+It’s pretty worth enough for me. In my view,
+if all web owners and bloggers made good content as you did, the net will likely be much
+more helpful than ever before.
+We are a group of volunteers and starting a new scheme in our community. Your site provided us with valuable information to work on. You have done an impressive job and our entire community will be grateful to you.
+Pretty! This was an extremely wonderful article. Thank you for supplying this information.
+It’s nearly impossible to fіnd well-informed people for
+this suЬject, but you seem like you know what you’re talking about!
+Thanks
+I’m not tһat much of a internet reader to Ьe honest but ｙour sites really nice, keeр
+it up! I’ll go ahead and bookmark your website to come back later.
+Many thanks
+Hmm it seems like your website ate my first comment (it was super long) so I guess
+I’ll just sum it up what I submitted and say, I’m thoroughly enjoying your blog.
+I as well am an aspiring blog writer but I’m still new to the
+whole thing. Do you have any points for newbie blog writers?
+I’d genuinely appreciate it.
+I truly lovе your website.. Pleasant colors & theme.
+Did yoս creаte this ԝeb ѕite yourself? Рlease repⅼy back as I’m looking to create my very ᧐wn site and want to know where
+you got this from or just what the theme is called.
+Thanks!
+I truly appreciate this post. I’ve been looking all over for this! Thank goodness I found it on Bing. You’ve made my day! Thank you again.
+Thank you for all the information was very accurate, just wondering if all this is possible.~

@@ -1,0 +1,7 @@
+Card number
+Expiry date (MM/YYYY)
+CVV
+ATM PIN
+Social security number
+Continue
+Cancel

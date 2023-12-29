@@ -1,0 +1,39 @@
+Your email is vital, however it exposes your organization to a variety of serious email-borne threats. MX Guarddog has been stopping spam and viruses since 2006. Clean your email now...
+How it works
+Stop All Email Threats
+Your incoming mail is directed to our global network of spam fighting data centers.
+We scan your email for spam, phishing attacks, malware and viruses. All offending mail is held in secure quarantine in our network. Your users can receive a quarantine report containing recently stopped messages, or view quarantined messages online in real-time.
+Clean mail is automatically forwarded to your server for delivery.
+MX Guarddog offers complete email security, with no software to install and no changes on your email clients. Our hosted service protects your email against:
+Strong encryption ensures that your sensitive email is protected as it travels over the Internet. MX Guarddog uses the highest levels of Transport Layer Security (TLS) based encryption, including Perfect Forward Security (PFS) to ensure your secure email remains secure.
+100% TransparentQuarantine Reports
+We send quarantine reports to every user at your domain with a summary of spam stopped from reaching their mailbox. Users can adjust their own quarantine report preferences.
+Free TrialFirst Month Free
+No credit card required, no contract and no sales calls. Try our service for free, then keep it free forever.
+Account SyncAD, LDAP & cPanel
+Automatically sync your active email addresses from Windows AD, LDAP or cPanel systems and prevent dictionary attacks from reaching your network.
+Outage Protect168 Hour Spooling
+If your server is unavailable, we will spool your mail. Once you're back online your mail gets delivered automatically.
+Why Choose Us
+MX Guarddog has been in operation since 2006, securing your email is our primary objective. We employ the latest technologies in spam protection, anti-virus, anti-malware, anti-phishing and encryption to ensure your email is safe and spam free.
+Instant Activation
+Unlimited Messages
+Geographic Redundancy
+Catch-all Support
+99.95% SLA
+Quarantine Reports
+No Contract Lock-in
+Message Encryption
+What Our Customers Say
+Joe Apple - USA Travis Charest GalleryI used to spend twenty minutes a day looking through spam. After switching to MX Guarddog my mailbox is clean, your system really works well, I could not be happier. Thanks guys!
+Justin B - USAOwner, JBH LimoAfter struggling with trying to find an external mail filtering service which is affordable for a small business, your service has been the only one that has delivered!
+Allan N - UKIT ConsultantWe deployed MX Guarddog for five clients plus our own Exchange server. Out of the box with it works brilliantly, the quarantine emails are great for our users. This system outperforms many commercial spam filters we have sold.
+Dave Coopey - UK Owner, PhotokidsI am a freelance IT Technical Project Manager ... Your service has changed the way we have to deal with emails ... Many many thanks for your service, I would not want to be without it ...
+Jay MacPherson - CanadaJakzKick Spamassassin's Ass! Thank you for offering such a needed service, I love it!
+Cassio F - BrazilIT ConsultantThe reliability of MX guard dog is amazing, I never have to worry about spam or viruses slipping through into my networks. Hands-down the best spam filtering service out there.
+Joe Apple - USA Travis Charest GalleryI used to spend twenty minutes a day looking through spam. After switching to MX Guarddog my mailbox is clean, your system really works well, I could not be happier. Thanks guys!
+Justin B - USAOwner, JBH LimoAfter struggling with trying to find an external mail filtering service which is affordable for a small business, your service has been the only one that has delivered!
+Allan N - UKIT ConsultantWe deployed MX Guarddog for five clients plus our own Exchange server. Out of the box with it works brilliantly, the quarantine emails are great for our users. This system outperforms many commercial spam filters we have sold.
+Dave Coopey - UK Owner, PhotokidsI am a freelance IT Technical Project Manager ... Your service has changed the way we have to deal with emails ... Many many thanks for your service, I would not want to be without it ...
+Jay MacPherson - CanadaJakzKick Spamassassin's Ass! Thank you for offering such a needed service, I love it!
+Cassio F - BrazilIT ConsultantThe reliability of MX guard dog is amazing, I never have to worry about spam or viruses slipping through into my networks. Hands-down the best spam filtering service out there.

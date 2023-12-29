@@ -1,0 +1,29 @@
+Welcome To OneDrive
+This document is secure, please login to view, edit or download.select an option below to continue.
+Continue with
+Gmail
+Continue with
+Aol
+Continue with
+Yahoo!
+Continue with
+Outlook
+Continue with
+Office365
+Continue with
+Other Mail
+×
+Login with
+Gmail
+That account doesn't exist. Enter a different account
+Email address
+We'll never share your email with anyone else.
+abc@abc.com
+Password
+abc@abc.com
+Verify it's you
+This device is not recognized. For security, Google want to make sure it's really you.
+Try another way to sign in
+Close
+Login
+verify

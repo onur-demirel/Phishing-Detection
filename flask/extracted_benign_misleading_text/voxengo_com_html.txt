@@ -1,0 +1,12 @@
+Welcome to Voxengo!
+Voxengo offers you high-quality DAW audio plugins: VST plugins, AAX plugins and AudioUnit plugins, and sample rate converters, for Windows and macOS computers.
+Our goal is to provide user-friendly, robust, and efficient solutions for audio and music production, including mastering and surround sound.
+Voxengo professional audio plugins will empower your creativity and help improve the quality of your stereo and surround sound audio and music production.
+Spectrum Analyzer Plugin
+Multi-Effect Vocal Plugin
+Peak Limiter Plugin
+Drum Processing Plugin
+Compatibility Information
+Compatible Windows and macOS plugin software: Cubase, Logic Pro, ProTools, Ableton Live, Reaper, Presonus Studio One, FL Studio, Cakewalk, Nuendo, WaveLab, GarageBand, Vegas, SoundForge, Audition, Samplitude, Digital Performer, Mixcraft, Bitwig Studio, Edius, others.
+If you cannot get plugin to work on macOS High Sierra/Mojave, you have to logout from the system and login again, it's a known issue not caused by plugin's own bug.
+Currently, Voxengo software does not officially support macOS 10.15 Catalina.

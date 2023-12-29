@@ -1,0 +1,165 @@
+Notwendige Cookies helfen dabei, eine Webseite nutzbar zu machen, indem sie Grundfunktionen wie Seitennavigation und Zugriff auf sichere Bereiche der Webseite ermöglichen. Die Webseite kann ohne diese Cookies nicht richtig funktionieren.
+|Name
+|Anbieter
+|Zweck
+|Ablauf
+|Typ
+|CookieConsent
+|Cookiebot
+|Speichert den Zustimmungsstatus des Benutzers für Cookies auf der aktuellen Domäne.
+|1 Jahr
+|HTTP
+|fe_typo_user
+|www.bundesgesundheitsministerium.de
+|Behält die Zustände des Benutzers bei allen Seitenanfragen bei.
+|Session
+|HTTP
+|M1R4X
+|www.bundesgesundheitsministerium.de
+|Kontroll-Cookie, das in Verbindung mit dem Content Delivery Network (CDN) der Website verwendet wird.
+|Session
+|HTTP
+|AWSELB
+|Siteimprove
+|Verwendet, um Verkehr auf der Website auf mehreren Servern zu verteilen, um die Antwortzeiten zu optimieren.
+|1 Tag
+|HTTP
+|AWSELBCORS
+|Siteimprove
+|Registriert, welcher Server-Cluster den Besucher bedient. Dies wird im Zusammenhang mit dem Lastausgleich verwendet, um die Benutzererfahrung zu optimieren.
+|Session
+|HTTP
+Präferenz-Cookies ermöglichen einer Webseite sich an Informationen zu erinnern, die die Art beeinflussen, wie sich eine Webseite verhält oder aussieht, wie z. B. Ihre bevorzugte Sprache oder die Region in der Sie sich befinden.
+|Name
+|Anbieter
+|Zweck
+|Ablauf
+|Typ
+|mute
+|European Union
+|Dieser Cookie wird in Verbindung mit dem Videoplayer verwendet. Der Cookie merkt sich, ob der Benutzer die Lautstärke stummgeschaltet hat, und behält diese Einstellung für andere Videoinhalte bei, die vom Besucher angesehen werden.
+|Persistent
+|HTML
+Statistik-Cookies helfen Webseiten-Besitzern zu verstehen, wie Besucher mit Webseiten interagieren, indem Informationen anonym gesammelt und gemeldet werden.
+|Name
+|Anbieter
+|Zweck
+|Ablauf
+|Typ
+|nmstat
+|Siteimprove
+|Dieses Cookie enthält einen ID-String über die aktuelle Sitzung. Dieser beinhaltet nicht personenbezogene Informationen über die Unterseiten, die der Besucher aufruft – diese Informationen werden benutzt, um die Nutzererfahrung des Besuchers zu optimieren.
+|999 Tage
+|HTTP
+|loglevel
+|European Union
+|Sammelt Daten zur Besucherinteraktion mit dem Video-Inhalt der Webseite - Diese Daten werden verwendet, um den Video-Inhalt der Webseite für den Besucher relevanter zu machen.
+|Persistent
+|HTML
+|image.aspx
+|Siteimprove
+|Registriert statistische Daten über das Verhalten der Besucher auf der Webseite. Wird vom Webmaster für interne Analysen verwendet.
+|Session
+|Pixel
+Marketing-Cookies werden verwendet, um Besuchern auf Webseiten zu folgen. Die Absicht ist, Anzeigen zu zeigen, die relevant und ansprechend für den einzelnen Benutzer sind und daher wertvoller für Publisher und werbetreibende Drittparteien sind.
+|Name
+|Anbieter
+|Zweck
+|Ablauf
+|Typ
+|IDE
+|Google
+|Verwendet von Google DoubleClick, um die Handlungen des Benutzers auf der Webseite nach der Anzeige oder dem Klicken auf eine der Anzeigen des Anbieters zu registrieren und zu melden, mit dem Zweck der Messung der Wirksamkeit einer Werbung und der Anzeige zielgerichteter Werbung für den Benutzer.
+|1 Jahr
+|HTTP
+|test_cookie
+|Google
+|Verwendet, um zu überprüfen, ob der Browser des Benutzers Cookies unterstützt.
+|1 Tag
+|HTTP
+|youbora.accCode
+|European Union
+|Wird verwendet, um dem Besucher relevante Inhalte und Werbung zu präsentieren - Der Dienst wird von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|Persistent
+|HTML
+|youbora.data
+|European Union
+|Wird verwendet, um dem Besucher relevante Inhalte und Werbung zu präsentieren - Der Dienst wird von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|Persistent
+|HTML
+|youbora.dataTime
+|European Union
+|Wird verwendet, um dem Besucher relevante Inhalte und Werbung zu präsentieren - Der Dienst wird von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|Persistent
+|HTML
+|youbora.session
+|European Union
+|Wird verwendet, um dem Besucher relevante Inhalte und Werbung zu präsentieren - Der Dienst wird von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|Persistent
+|HTML
+|youbora.sessionExpire
+|European Union
+|Wird verwendet, um dem Besucher relevante Inhalte und Werbung zu präsentieren - Der Dienst wird von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|Persistent
+|HTML
+|youboraOffline.views
+|European Union
+|Wird verwendet, um dem Besucher relevante Inhalte und Werbung zu präsentieren - Der Dienst wird von Drittanbietern bereitgestellt, die Echtzeitgebote für Werbetreibende ermöglichen.
+|Persistent
+|HTML
+|VISITOR_INFO1_LIVE
+|YouTube
+|Versucht, die Benutzerbandbreite auf Seiten mit integrierten YouTube-Videos zu schätzen.
+|179 Tage
+|HTTP
+|YSC
+|YouTube
+|Registriert eine eindeutige ID, um Statistiken der Videos von YouTube, die der Benutzer gesehen hat, zu behalten.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|YouTube
+|Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos
+|Session
+|HTML
+|yt-remote-connected-devices
+|YouTube
+|Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos
+|Persistent
+|HTML
+|yt-remote-device-id
+|YouTube
+|Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|YouTube
+|Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos
+|Session
+|HTML
+|yt-remote-session-app
+|YouTube
+|Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos
+|Session
+|HTML
+|yt-remote-session-name
+|YouTube
+|Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos
+|Session
+|HTML
+Nicht klassifizierte Cookies sind Cookies, die wir gerade versuchen zu klassifizieren, zusammen mit Anbietern von individuellen Cookies.
+|Name
+|Anbieter
+|Zweck
+|Ablauf
+|Typ
+|youbora.host
+|European Union
+|Anstehend
+|Persistent
+|HTML
+|youbora.pageScrollDepth
+|European Union
+|Anstehend
+|Session
+|HTML

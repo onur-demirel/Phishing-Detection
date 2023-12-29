@@ -1,0 +1,35 @@
+|__cfduid
+|Used by the content network, Cloudflare, to identify trusted web traffic.
+|false
+|__utmt
+|Used to throttle the speed of requests to the server.
+|false
+|__utmt_e
+|Used to throttle the speed of requests to the server.
+|false
+|__utmt_f
+|Used to throttle the speed of requests to the server.
+|false
+|_bsc3ad8587a605986784efac1710d6abbe
+|true
+|active_template::265
+|false
+|cookieconsent_dismissed
+|Used to track closure of a cookie consent dialog.
+|false
+|e99a6319b481ee8b8a21fe0ea50e67ea
+|true
+|ezCMPCookieConsent
+|false
+|ez_pub_site
+|false
+|ez_rdr
+|false
+|ez_rdr_count
+|false
+|freewheel-detected-bandwidth
+|Used to check and record how fast your internet connection is
+|false
+|session_depth
+|Used to track the number of pages you visit in a session on this site.
+|false

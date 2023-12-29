@@ -1,0 +1,7 @@
+|
+Intente lo siguiente:
+- Actualizar la página: busque la página de nuevo haciendo clic en el botón Actualizar. Puede que el tiempo de espera se haya agotado debido a una congestión de Internet.
+- Comprobar ortografía: compruebe que la dirección de la página web esté bien escrita. Puede que se haya cometido un error al escribirla.
+- Obtener acceso desde un vínculo: si existe un vínculo a la página que está buscando, intente obtener acceso a la página desde dicho vínculo.
+Información técnica (para personal de soporte técnico)
+- Código de error: 403 Prohibido. El servidor denegó la dirección URL (Uniform Resource Locator) especificada. Póngase en contacto con el administrador del servidor. (12202)

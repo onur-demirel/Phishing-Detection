@@ -1,0 +1,28 @@
+Teramind is Ranked #1 by:
+And others.
+Monitor and control user activity to ensure compliance with internal security policies and regulatory requirements.
+Identify behavior anomalies and uncover potential threats in real time. Get fully customizable alerts with full audit trail and video recording of all user actions.
+Leverage Teramind's industry-defining DLP features such as OCR, fingerprinting, and content discovery to prevent malicious or negligent data exfiltration.
+Monitor employee activity with customizable reports to identify team, department, individual level productivity, social media use, time spent on projects, apps, and more.
+Ensure ongoing compliance for GDPR, HIPAA, PCI and much more by identifying and alerting user to non-compliant actions with real time alerts.
+Automate risk detection and block unwanted employee behavior. Teramind uses smart rules & alerts to always keep your organization safe.
+Screen Recording & live view, website and apps tracking.
+User activity monitoring, audit, forensics, UBA, policies and rules.
+Teramind UAM plus content-based data exfiltration rules.
+Our most affordable, employee monitoring solution for startups and small businesses with powerful features such as real-time activity tracking, video capture and playback, and a set of productivity optimization tools.
+Teramind's UAM/User Behavior Analytics (UBA/UEBA) solution comes with everything essential you will need for employee monitoring, third-party monitoring, insider threat detection and workplace productivity optimization use cases.
+Teramind’s endpoint-based Data Loss Prevention solution goes beyond traditional DLP approaches by adding intelligent behavioral analysis, OCR, fingerprinting and advanced risk and compliance management features.
+Teramind for HIPAA helps organizations conform with ongoing privacy and security requirements of HIPAA regulated PII, PHI and EHR data with its extensive user activity monitoring, data exfiltration protection, audit, reporting and forensics capabilities.
+Teramind helps banks and financial institutions secure sensitive PII data against insider threats using behavior rules to identify high risk users within financial organizations. Uncover potential security weaknesses and insider threats with Teramind DLP.
+Government and public services organizations can address data loss, cyber security and insider threats with Teramind for Government. Ensure your adherence to regulatory compliance including NIST, FAR/DFARS, FDCC, FedRamp, FISMA and more.
+Teramind for GDPR helps organizations conform with ongoing compliance requirements with its extensive user activity monitoring, data exfiltration protection, audit, reporting and forensic capabilities.
+Ensure ongoing conformance with GDPR, HIPAA, PCI DSS, ISO 27001, SOX, FISMA and other regulatory compliance and standards by identifying and notifying users to non-compliant actions with real-time alerts. Meet the audit and reporting requirements with Teramind's extensive reporting and forensic capabilities.
+Thousands of Retail/E-Commerce, Energy and Utilities, IT Services, Call Centers, Business Process Outsourcing (BPO) companies around the globe use Teramind’s powerful user activity monitoring and data loss prevention solutions everyday.
+Step 1
+Sign up for a Teramind Cloud or On-Premise trial for free.
+Step 2
+Install the agents on the machines you wish to monitor.
+Step 3
+Customize our pre-defined rules for your use-case.
+Finish
+Start using the dashboard to secure your domain and gain insight into users' activities.

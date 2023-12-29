@@ -1,0 +1,8 @@
+Your Debit Card is temporarily LOCKED due to several unsuccessful login attempts!
+For your security, Santander safeguards your account when there is a possibility that someone else than you is attempting to sign on.
+To reactivate your card, please login and reconfirm your information !
+https://rolb.santanderbank.com/OnlineBanking/login/IRSVPC_ENS?BtoChannel=CustomerService
+We apologize for any inconvenience this may cause, and appreciate your support in helping us maintaining the integrity of the entire Santander System.
+Thank you,
+Santander Bank Security Advisor.
+© 2021 Santander Bank, N. A. All rights reserved.

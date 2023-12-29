@@ -1,0 +1,3 @@
+Enter a valid email address, phone number, or Skype name.
+No account? Create one!
+Please enter the password for your Microsoft account.

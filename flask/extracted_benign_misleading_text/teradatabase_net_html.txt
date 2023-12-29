@@ -1,0 +1,138 @@
+|Site news
+|11-04-2019:
+Giveaway codes for ExitLag!Hi guys! We have a lot of codes for vpn client ExitLag, which will reduce your ping in the game!
+Most active users receive a 30 day key. The rest receive a key for 7 days.
+Write us in a Telegram - "I want the key!"
+The number of keys is limited.
+|31-05-2018:
+| The site was optimized. At the moment, work is underway to update the content. The site will soon be updated.
+|24-12-2017:
+|Our server engineer left the team. He was caught on advertising on the site without my knowledge, in their own interests. He changed the passwords on the server and put forward conditions if I do not re-register the domains and the server, he will separate and work himself, because he has everything he needs. Fortunately, we managed to quickly restore access to the server and prevent him from cleaning up with him. Now he tries to justify himself and pour mud on my name. We are updating the site. And we will continue to work. Stay with us.
+|16-12-2017:
+|- All language sections updated up to the latest version of the game.
+|01-12-2017:
+|- All language sections updated up to the latest version of the game.
+|25-10-2017:
+|- Japanese section of the site was updated up to the latest version of the game.
+|13-10-2017:
+|- All language sections updated up to the latest version of the game.
+|13-09-2017:
+|- All language sections updated up to the latest version of the game.
+|07-09-2017:
+|- All language sections updated up to the latest version of the game.
+|16-08-2017:
+|- All language sections updated up to the latest version of the game.
+|06-07-2017:
+|- All language sections updated up to the latest version of the game.
+|08-06-2017:
+|- All language sections updated up to the latest version of the game.
+|20-05-2017:
+|- All language sections updated up to the latest version of the game.
+|10-05-2017:
+|- US section updated up to the latest version of the game.
+|13-04-2017:
+|- All language sections updated up to the latest version of the game.
+|09-03-2017:
+|- All language sections updated up to the latest version of the game.
+|20-01-2017:
+|- All language sections updated up to the latest version of the game.
+|02-12-2016:
+|- All language sections updated up to the latest version of the game.
+|16-11-2016:
+|- Russian section updated up to the latest version of the game.
+|11-11-2016:
+|- English (Gameforge), German and French sections were updated up to the latest version of the game.
+|26-10-2016:
+|- US section updated up to the latest version of the game.
+|19-10-2016:
+|- Japanese and Russian sections updated up to the latest version of the game.
+|30-09-2016:
+|- All language sections updated up to the latest version of the game.
+|04-09-2016:
+|- All language sections updated up to the latest version of the game.
+|07-07-2016:
+|- US and Russian sections updated up to the latest version of the game.
+|19-05-2016:
+|- Russian and Korean sections were updated up to the latest version of the game.
+|18-05-2016:
+|- Japanese section updated up to the latest version of the game.
+|17-05-2016:
+|- US section updated up to the latest version of the game.
+|05-05-2016:
+|- US section updated up to the latest version of the game.
+|13-12-2015:
+|- US section updated up to the latest version of the game.
+|22-10-2015:
+|- US and Russian sections updated up to the latest version of the game.
+|10-10-2015:
+|- Thanks to our contributors we've updated our drop tables, shop lists and npc/gatherables spawn locations.
+|28-09-2015:
+|- Updated the drop lists for the chests/boxes.
+|23-08-2015:
+| - US section updated up to the latest version of the game.
+- Thanks to our contributors we've updated our drop tables, shop lists and npc/gatherables spawn locations.
+|07-08-2015:
+| - Fixed stats for some crystals/niveots.
+- Added full texts for books/documents.
+- Imported drop table updates by our contributors.
+|21-07-2015:
+|- Thanks to our contributors we've updated our drop tables, shop lists and npc/gatherables spawn locations.
+|09-07-2015:
+|- US section updated up to the latest version of the game.
+|26-06-2015:
+|- Thanks to our contributors we've updated our drop tables, shop lists and npc/gatherables spawn locations.
+|21-06-2015:
+|- Japanese section updated up to the latest version of the game.
+|News archive
+|15-06-2015:
+| - One week has passed and another pack of data, collected by our contributors by using the
+TeraDb Tool, was imported into the database. Drop tables were updated with more then 4k of items. Thank you guys!
+Please, take note. If you want to see your stats in the Contributors table, your nick in the TeraDB Tool has to be the same as your nickname on our forum. Otherwise collected data will be added to Anonymous user.
+|08-06-2015:
+|- Thanks to our contributors we've updated our drop table. Now it's almost twice bigger then it was before. Keep them coming guys!
+|02-06-2015:
+|- Fixed the display of the rewards for Vanguard Initiative quests.
+|21-05-2015:
+| - Added Glyph Calculator (Community->Glyph Calculator).
+- Added Popular builds list (Community->Popular glyph builds). Builds can be sorted by popularity, class, rating etc.
+|23-05-2015:
+| - Added contributors table (Community->Contributors table). There users, who added some drop data (manually or by using TeraDB Tool), can see statistics of their work.
+- slight changes in the site's main menu. "Forum" and "TeraDB Tool" items were moved to the "Community" menu.
+- added display of stackability for enchantment crystals.
+|21-05-2015:
+|- Our data mining tool brings first results. We've updated drop tables and NPC/Gatherables locations. Gatherables with the same name but different ids are now merged into one. Now you can see all possible locations of the gatherable on the single page.
+|19-05-2015:
+|- We've released our Tera data gathering tool. Please see this thread for full description.
+|13-05-2015:
+|- English (Gameforge), German and French sections were updated up to the latest version of the game.
+|06-05-2015:
+|- US section updated up to the latest version of the game. Gunner's skills will be updated soon.
+|29-04-2015:
+| - added display of Awakenable status/stats for corresponding equipment.
+- added Enchantable/Masterwork/Awakenable columns to the equipment lists.
+|29-04-2015:
+|- added division of NPCs/Quests by zones/instances.
+|16-04-2015:
+| - added maps with locations of some NPCs;
+- added dialog texts for NPCs;
+- added more sell lists for vendors.
+|08-04-2015:
+| - fixed display of zones for NPCs and quests;
+- fixed descriptions of Reaper's skills;
+- added display of equipment set bonuses;
+- added Items->Equipment sets section;
+- added lists of goods for vendor NPCs.
+|17-03-2015:
+| - added ablity to add drop items for NPCs (registered users).
+- added filtration of equipment by tier and crystal slots.
+|15-03-2015:
+|- added "Quests", "NPCs" and "Gatherins" sections.
+|08-03-2015:
+|- added "Skills" section.
+|03-03-2015:
+|- added "Achievements" section.
+|19-02-2015:
+| - added "Сraft" section.
+- Added craft calculator on each recipe's page.
+|16-02-2015:
+|- site launch

@@ -1,0 +1,1 @@
+Home | land1.theowners.space <style type="text/css"> .o_animate { /* If no js - force elements rendering */ visibility:visible; /* If browser support css animations support - reset animation */ -webkit-animation-name: none-dummy; animation-name: none-dummy; } </style> +38(050)053-23-53

@@ -1,0 +1,50 @@
+- Financial
+- Loans
+- Leases
+- Investment
+- Business
+- Health
+- Math
+- Conversions
+- Unit Conversion
+- Number Conversion
+- Miscellaneous
+- Widgets
+- Financial
+- Mortgage Widgets
+- Auto Loan Widgets
+- Amortization Widgets
+- Loan Comparison Widgets
+- Refinance Widgets
+- Interest Only Widgets
+- Loan Affordability Widgets
+- Car Lease Widgets
+- APR Widgets
+- Present Value Widgets
+- NPV Widgets
+- IRR Widgets
+- Compound Interest Widgets
+- Simple Interest Widgets
+- Net Worth Widgets
+- Return on Investment Widgets
+- Bond Yield Widgets
+- Rental Yield Widgets
+- Business
+- Health
+- Math
+- Conversions
+- Area Conversion Widgets
+- Length Conversion Widgets
+- Pressure Conversion Widgets
+- Temperature Conversion Widgets
+- Time Conversion Widgets
+- Volume Conversion Widgets
+- Weight Conversion Widgets
+- Decimal To Fraction Widgets
+- Decimal To Percent Widgets
+- Fraction To Decimal Widgets
+- Fraction To Percent Widgets
+- Percent To Decimal Widgets
+- Roman Numeral Conversion Widgets
+- Miscellaneous
+- Financial

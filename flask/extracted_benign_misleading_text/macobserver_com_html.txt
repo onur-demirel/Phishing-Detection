@@ -1,0 +1,53 @@
+Netflix has told John about a small change to the way Dolby Vision is confirmed on your Apple TV 4K and other streaming devices.
+TR9 True Wireless Headphones with Charging Case: $34.99
+We have a deal on a pair of TR9 True Wireless Headphones with a charging case. Small and lightweight, these in-ear earphones were designed to sit comfortably in and around your ear so you can go for a jog, hit the gym, or do your daily commute without having to worry about them falling out. They’re $34.99 through our deal.
+Firefox 70 Brings Enhanced Tracking Protection Today
+Mozilla released Firefox 70 today and one of the new features is Enhanced Tracking Protection turned on by default on all platforms.
+More privacy protections from Enhanced Tracking Protection:
+Social tracking protection, which blocks cross-site tracking cookies from sites like Facebook, Twitter, and LinkedIn, is now a standard feature of Enhanced Tracking Protection.
+The Privacy Protections report shows an overview, with details, of the trackers Firefox has blocked. It provides consolidated reports from Monitor and Lockwise.
+Lee Pace, Jared Harris Star in Apple's 'Foundation'
+Apple is bringing Jared Harris (Chernobyl) and Lee Pace (Halt and Catch Fire) to star in its Foundation series.
+Based on Isaac Asimov’s novel series of the same name, Foundationchronicles the epic saga of The Foundation, a band of exiles who discover that the only way to save the Galactic Empire from destruction is to defy it. Harris will star as Hari Seldon, a mathematical genius who predicts the demise of the empire. Pace is set as Brother Day, the current Emperor of the Galaxy.
+AirPods Pro or Airpod Pros? – TMO Daily Observations 2019-10-22
+Dave Hamilton and Bryan Chaffin join host Kelly Guimont to discuss speculation about new AirPods, their features, and earning the “pro” name.
+totallee's New Green Case Matches the Green iPhone 11 Pro
+totallee makes thin iPhone cases so your smartphone doesn’t become bulky. It recently released a line of green cases for the midnight green iPhone 11 Pro.
+This case covers every corner of your phone and features a camera lens “lip” for added protection. Like a brushed finish? Go matte. Looking for invisible protection? Transparent all the way. Want a sophisticated backing? Leather is for you. This case maintains the original look of your iPhone 11 Pro. No branding. No bulk. No nonsense.
+You can pick up one of these cases for US$29.
+Apple TV+ Guide: All of the Original Video Content [Update]
+We’ve put together an Apple TV+ guide for all of the original content that the company has right now, and will have in the future. The content won’t appear until fall 2019. The list will be updated continuously, so be sure to bookmark this page.
+Tim Cook Talks Sustainability at Ceres 30th Anniversary Gala
+Ceres is a nonprofit that promotes sustainable energy. Monday night it celebrated its 30th anniversary where it gave Apple an award.
+Forty-seven States Taking Part in Facebook Antitrust Investigation
+Forty-seven states are taking part in a New York led antitrust investigation into Facebook. New York State Attorney General Letitia James made the announcement Tuesday, CNBC reported.
+The multistate investigation was first announced in September with participation from Colorado, Florida, Iowa, Nebraska, North Carolina, Ohio, Tennessee and the District of Columbia, but has since expanded considerably. The probe will zero in on Facebook’s dominance in the social media industry and whether it broke any state or federal laws as a result of any anticompetitive conduct related to that dominance. “After continued bipartisan conversations with attorneys general from around the country, today I am announcing that we have vastly expanded the list of states, districts, and territories investigating Facebook for potential antitrust violations,” James said in a statement. “Our investigation now has the support of 47 attorneys general from around the nation, who are all concerned that Facebook may have put consumer data at risk, reduced the quality of consumers’ choices, and increased the price of advertising. As we continue our investigation, we will use every investigative tool at our disposal to determine whether Facebook’s actions stifled competition and put users at risk.”
+Only One Percent of Customers Always Tip Their Uber Driver
+Do you tip your Uber driving? No? Turns out 60 percent of us never do. That’s according to a new paper from the National Bureau of Economic Research, reported on by The Verge.
+The paper was authored by Stanford University’s Bharat Chandar and University of California-San Diego’s Uri Gneezy, as well as John List, former chief economist at Uber who is now at Lyft, and Ian Muir, current head of economics at Lyft. The researchers were uniquely positioned: in addition to combining big data analyzation with field experimentation, the team actually helped Uber implement its in-app tipping option, which rolled out in June 2017. As such, they were able to develop data from more than 40 million trips. What they found was not a whole lot of tipping. Roughly 16 percent of Uber rides are tipped. Yet, most riders (60 percent) never tipped over the research team’s four weeks of data collection. Of those who do tip, very few (1 percent) tip on every trip. The remainder of people only tip on about 25 percent of trips.
+Future Apple Watch Band May Allow Replaceable Power Source or Additional Sensors
+In the future, the Apple Watch might have electrical and data contacts. This would allow it to do things like have a replaceable power source or additional sensors not in the watch itself. That’s according to a new patent, discovered by AppleInsider.
+In a patent granted to Apple by the US Patent and Trademark Office on Tuesday for “Accessory Contacts,” the company suggests a solution could be found in the form of contacts embedded within the connector used to affix bands to the Apple Watch. According to the filing, the system would be somewhat reminiscent of the existing method of connectivity for Apple Watch bands, with a section that slides in from a side and is held in place using spring-loaded pins that pop into recesses within the Apple Watch body. A button can be pressed to pull the pin sections back, allowing the band connector to slide out.
+Review: Yes, I'm Obsessed With Mario Kart Tour? And?
+Mario Kart Tour brings classic courses and characters to iPhone and shows how games should be converted from game consoles to mobile devices.
+iOS 13: How to Make Sure all Traffic is Routed Through Your VPN
+ProtonVPN found an issue with iOS that affects VPNs: When you connect to a VPN some data is left outside of the network.
+Verizon Offers Free Year of Disney+
+Verizon is giving new and existing customers a free year of Disney+ which will launch on November 12 for $6.99/month.
+UK Lawmaker Demands Answers From Facebook on Political Ads and Messaging Encryption
+A senior UK lawmaker wrote to Facebook to raise concerns about its change in policy for political adverts the merger of messaging services.
+'See' Becomes Latest Apple TV+ Series to Premier
+Apple hosted the premier for See, starring Jason Momoa, which takes place in the distant future when a deadly virus has decimated humankind.
+Encryption Hasn't Stopped the FBI From Fighting Child Porn
+Despite arguments from governments that encryption would hinder their ability to fight criminals, this clearly isn’t the case. In a recent example one of the biggest child porn sites on the dark web was recently taken down.
+No backdoors were needed to track down the owner of the server or hundreds of the site’s visitors. For that matter, the FBI didn’t even need a warrant. The FBI did not deploy its infamous NIT (Network Investigative Technique) to track down site users. The flaw was the payment system linked to the site. Users may have thought their Bitcoin transactions couldn’t be traced back to them, but they were wrong.
+The Four Horsemen of the Infocalypse: Terrorists, pedophiles, drug dealers, organized crime.
+Former Apple Engineering Director Don Melton - TMO Background Mode Interview
+Don Melton is probably best known as the person who started the Safari and WebKit projects at Apple and his rise to Apple Engineering Director of Internet Technologies. These days he’s an aspiring writer, podcaster and recovering programmer.
+Don walks us through his early career starting with his aspiration to become a comic strip or comic book artist. His artistic talent led to a newspaper job which led to information graphics which led to work with Macs. His tinkering with the Mac revealed that he had a special talent for programming, and that ultimately led to his job at Netscape developing the Navigator browser. Later, a relationship with Andy Hertzfeld and Bud Tribble led to his job at Apple in 2001, chartered by Scott Forstall, to write a web browser. Don tells a fascinating story about the development of Safari for Mac OS X and the race to replace Microsoft’s Internet Explorer.
+Disk Drill PRO: $39
+We have a deal on Disk Drill PRO for Mac or Windows. This software is designed to make it easy to recover documents, music, photos, videos, or even whole partitions that have gone missing from your computer. You can get Disk Drill Pro through our deal for $39.
+Facebook Claims it can Protect Elections But Lets Politicians Lie
+Facebook announced new features today that it claims can stop 2020 election interference. However, its advertising policy lets politicians lie and gladly pockets the money it gets from allowing it.
+One new feature is called Facebook Protect. By hijacking accounts of political candidates or their campaign staff, bad actors can steal sensitive information, expose secrets, and spread disinformation. So to safeguard these vulnerable users, Facebook is launching a new program with extra security they can opt into.
+Mark Zuckerberg on letting politicians lie in Facebook ads: “I don’t think people want to live in a world where you can only say things that tech companies decide are 100 percent true. And I think that those tensions are something we have to live with.”

@@ -1,0 +1,6 @@
+Sign-On to your On-Line Access
+This is a private computer system which is restricted to authorized individuals. Actual or attempted unauthorized use of this computer system will result in criminal and/or civil prosecution. We reserve the right to view, monitor and record activity on the system without notice or permission. Any information obtained by monitoring, reviewing or recording is subject to review by law enforcement organizations in connection with the investigation or prosecution of possible criminal activity on the system. If you are not an authorized user of this system or do not consent to continued monitoring, exit the system at this time.
+.
+.
+- If you have ideas about how we can make the online system easier or more valuable, please let us know on the Feedback page.
+Your access and use of this system is validated and protected using Secure Socket Layer(SSL) and all communication to and from this system is encrypted for your security. Click on the VeriSign logo for more information.

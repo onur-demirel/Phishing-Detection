@@ -1,0 +1,286 @@
+We provide unlimited disk space and unlimited bandwidth with our unlimited cheap web hosting plans. Our aim is to empower the website owners by offering them flexible and scalable web hosting solutions in USA with no disk space and bandwidth limits.
+We have not set a cap on disk space or bandwidth usage. The web hosting users must comply with our TOS and Unlimited hosting policy. We will not restrict the user on space or bandwidth required for the normal functioning of the website. This doesn’t mean that large websites that are suitable for running on a Virtual Private Server or Dedicated Server will be accommodated on a cheap web hosting platform. The unlimited web hosting plan is recommended for small and medium size websites. It’s very rare for a user managing such website to exceed our usage policy.
+Using the unlimited web hosting for file sharing, backup, games, etc is prohibited. Refer to the unlimited hosting policy page to view the complete details.
+Choose our unlimited cheap web hosting USA plans to launch your website.
+We provide one free .COM domain name with our Swift and Turbo web hosting plan. To avail, the free domain client must order the Swift or Turbo hosting package for minimum one year. The client can either register a new domain or transfer an existing domain to MilesWeb. The client must add the free domain to the shopping cart before making the payment for the web hosting plan.
+Domain name will be free for the first year and renewal charges will be applicable from the second year. The cheap web hosting plan can be ordered for multiple years and the domain will be free for multiple years. This offer is valid on new sign-ups only.
+Choose our cheap web hosting USA plans and book your free domain now!
+Secure your website with our free SSL certificate. All our web hosting plans have built-in SSL certificate integrated with them.
+Each and every website hosted at MilesWeb server will be secured by Let’s Encrypt SSL certificate for free. A green padlock will appear in your visitor’s browser when they visit your website. Also, an HTTPs connection on your website will build trust among your customers and they will have an assurance that your site is secure. Additionally, it will also help in boosting your search engine rankings.
+We promise to deliver world-class web hosting services at the lowest price possible. But due to any reason, if you feel that our web hosting solution is not up to the mark, we offer a hassle-free money back policy for our clients.
+We will refund your full payment just in a few steps.
+This can be claimed within the first 30 days of your purchase with MilesWeb. We also ensure that this process is less of a trouble for you. If you need any help, you can get in touch with our team and they will guide you through the process.
+|Package Features
+|Tyro
+|Swift
+|Turbo
+|Regular Price
+|
+0.90 /mo
+|
+2.90 /mo
+|
+4.40 /mo
+|Host Website
+|1
+|1
+|Unlimited
+|Free Domain
+|SSD Disk Space
+|1 GB
+|Unlimited
+|Unlimited
+|Bandwidth
+|Unlimited
+|Unlimited
+|Unlimited
+|cPanel Control Panel
+|Sub-Domains
+|Unlimited
+|Unlimited
+|Unlimited
+|Parked Domains
+|Unlimited
+|Unlimited
+|Unlimited
+|Addon Domains
+|Unlimited
+|SSL Certificate
+|Email Features
+|Email Accounts
+|10
+|Unlimited
+|Unlimited
+|Email Forwarders
+|Unlimited
+|Unlimited
+|Unlimited
+|Email Autoresponders
+|Unlimited
+|Unlimited
+|Unlimited
+|Attachment Limit
+|50 MB
+|50 MB
+|50 MB
+|Webmail
+|SMTP, POP3, IMAP
+|SpamAssassin
+|Mailing Lists
+|Unlimited
+|Unlimited
+|Unlimited
+|Catch All Facility
+|SPF
+|Domain Keys
+|BoxTrapper
+|CSV Import (Email & Forwarders)
+|Programming Languages and Server Features
+|Apache mod_lsapi
+|PHP 5.6, PHP 7.0, PHP 7.1 and PHP 7.2
+|MySQL 5.X.X
+|CGI
+|Javascript
+|SSI
+|Python 2.6.6,2.7.9,3.3.2,3.4.1,3.6.3-1
+|ImageMagick 6.5.x
+|Zend Optimiser
+|GD
+|Perl 5.10
+|Ruby on Rails
+|SSH Access (Jailed)
+|WAF Protection
+|Caching
+|Cloudflare CDN with Railgun
+|Node.JS 6.15, 8.14 & 9.11
+|Cloudflare
+|Railgun
+|Database Features
+|MySQL Databases
+|3
+|Unlimited
+|Unlimited
+|PHP MyAdmin
+|Remote MySQL
+|Scripts
+|Softaculous Script Installer
+|Blogs
+|Portals
+|Content Management System
+|Customer Support
+|Discussion Boards
+|E-Commerce
+|FAQ
+|Hosting Billing
+|Image Galleries
+|Polls and Surveys
+|Project Management
+|Site Builders
+|Wiki
+|Statistic / Web Stats
+|Awstats
+|Raw Logs Statistics
+|Error Logs
+|Bandwidth Stats
+|Disk Usage Viewer
+|Latest Visitors
+|Google Analytics Compatible
+|Control Panel Features
+|Virus Scanner
+|Image Manager
+|Apache Handlers Manager
+|Hotlink Protection
+|IP Deny Manager
+|Index Manager
+|Leech Protect
+|Mailman List Manager
+|MIME Types Manager
+|Network Tools
+|PGP/GPG
+|Random HTML Generator
+|Redirect Manager
+|Simple CGI Wrapper
+|Server Status Viewer
+|Change Language
+|Web Disk
+|Web Protect
+|Customizable php.ini
+|Cron Jobs
+|Simple DNS Zone Editor
+|Advanced DNS Zone Editor
+|Install PHP PEAR Packages
+|Install Perl Modules
+|Install Ruby Gems
+|Backup Manager
+|Git Version Control
+|CPU and Concurrent Connections Usage
+|Account Resources
+|CPU Core
+|1.5
+|3
+|4
+|RAM
+|2 GB
+|3 GB
+|5 GB
+|Concurrent connections (EP)
+|50
+|100
+|200
+|Number of processes (nPROC)
+|100
+|200
+|400
+|IO Limit
+|1MBPS
+|1MBPS
+|1MBPS
+|Our Guarantees
+|30 Day Money Back Guarantee
+|99.95% Uptime Guarantee
+|Cancel Anytime
+|24/7/365 Expert Support
+|Transfer Assistance
+|Instant Setup
+|Price & Billing Cycle
+|3 Years at
+|
+1.80/mo
+0.90/mo
+|
+5.80/mo
+2.90/mo
+|
+8.80/mo
+4.40/mo
+|2 Years at
+|
+2.40/mo
+1.20/mo
+|
+6.80/mo
+3.40/mo
+|
+9.80/mo
+4.90/mo
+|1 Year at
+|
+3/mo
+1.50/mo
+|
+7.80/mo
+3.90/mo
+|
+10.80/mo
+5.40/mo
+|1 Month at
+|-
+|
+10/mo
+5/mo
+|
+13/mo
+6.50/mo
+We are not just another web hosting company. We strive to provide outstanding, brisk and steadfast hosting services which is backed by our technical experts all round the clock.
+We ensure that you have a great experience while hosting your websites at our server. Whenever you need any technical assistance, our experts are available 24/7/365 to fix your technical issues.
+We are committed to providing the best web hosting solution. However, if you are dissatisfied with our web hosting services, you can initiate a refund request.
+We know the availability of your website is your primary concern and so is ours. We utilize Tier-3 and Tier-4 data centers that enable us to provide you the best uptime.
+Have no fear!
+Motabhai will clarify some basics about launching your website online.
+Need assistance with your web hosting?
+We are happy to answer your queries about our service. Our skilled professionals are available 24/7/365 for any support you need.
+|Regular Price
+|
+2.90 /mo
+|
+6.14 /mo
+|
+3.98 /mo
+|
+6.91 /mo
+|
+3.68 /mo
+|Free .COM Domain
+|SSD Servers
+|Free SSL Certificate
+|Free Malware Scan & Removal
+|Paid
+|Offsite Website Backups
+|Paid
+|Paid
+|CloudFlare CDN with Railgun
+|Sitebuilder with 400+ Templates
+|Paid
+|Built-in Page Caching
+|Free Website Migration
+|Instant Chat Response
+We do have confidence about our web hosting services and so, we offer a 30-day money back guarantee. You just need to initiate the refund request within the first 30 days from the date of purchase and we will return your money.
+It's not necessary to inform us the reason for your refund, but we'll appreciate if you let us know, as this will help us understand the expectations of our customers and help in the betterment of our services.
+Get a free domain name from cheap web hosting services in USA. Buy our Swift or Turbo hosting plan and get free .COM domain. Domain name will be free for the first year and renewal charges will be applicable from the second year.
+Get blazing fast performing websites by hosting your site on our servers that are powered with SSD drives. An SSD increases up to 20x page load speed than that of spinning drives.
+An SSL certificate secures as well as boosts your website ranking in search engines. Get a free SSL certificate with any of our cheap web hosting USA plan.
+Get quick and easy access to your emails by using webmails or email clients. We support POP3 / SMTP / IMAP protocols to send and receive emails.
+Our cheapest web hosting USA plan gives you free control panel account to manage your hosting account. This cPanel provides you tools to help you run your website with ease. You can manage your domains, sub-domains, emails, security, file management etc. with your cPanel.
+Save your precious hours of installing and configuring your hosting account. Seamlessly install CMS like WordPress, Joomla, Drupal and more such 400 apps with our one-click Softaculous installer.
+Hiring a web developer or a company for building your website seems to be expensive? Don't worry. With our inbuilt website builder tool, you can go online within no time. Simply choose a template, drag and drop your files and there you go!
+Never lose your website’s data while you host your website at our server. Backup website files, folders, databases with our automatic daily cloud backups. We charge additional for website backup and restore service.
+Highly improve your page load speed and overall site’s performance with APC, xCache and OpCache. Caching can be enabled to deliver faster web pages to your site visitors.
+Get the latest, stable and compatible version of PHP and MySQL installed on your hosting server. We ensure a more secure and stable environment for hosting your site.
+If your target audience belongs to a specific region, it's important that you choose the server location nearer to that geographical area. MilesWeb lets you pick your preferred data center location as per your target audience.
+We provide SSH root access with basic shell commands and its usage is restricted to your account. To request the access drop an email to the support team.
+Kick-start your own web hosting business and be your own boss. Become MilesWeb reseller by selling web hosting service to your clients.
+Host your WordPress website, blog or WooCommerce store with our WordPress hosting. Pick from a wide range of WordPress hosting plans.
+Excellent price and service. The technical guy helped a lot during the process. All done well. Truly they are the greatest service provider. All types of technical issues are fixed with good customer support. Thank you for your help.
+Great prices and Amazing service. Highly recommended. Their team helped me a lot and that too very quickly! Milesweb is far better than other web hosting companies in the market. So far the experience has been very good.
+A domain is the web address of your website, while a domain name is the name of your website followed by TLD .com, .in, .co.in, etc
+Web hosting allows a website owner to publish their website on the internet. A web hosting provider or a web host is the one who provides the technologies and services needed for the website or webpage to be viewed on the Internet.
+To launch your website online you will need both- domain as well as web hosting. A domain helps your audience to find your website with an address, while web hosting is the space on the web server where all the content of your website resides.
+We have already designed a wide range of web hosting plans that you can choose from. However, you can upgrade your existing web hosting plans anytime. This upgrade can be done instantly and doesn't affect your web hosting.
+Our technical support team is available 24/7/365 days to answer any of your hosting related queries or resolve any technical issue that occurs.
+Yes, we do provide reseller hosting for those who want to re-sell our web hosting services. This reseller hosting is white labeled, which means you can add your own brand name while selling web hosting packages.
+We have a special infrastructure for websites built in WordPress. You can check our managed WordPress hosting plans to host your WordPress website.
+Yes, we offer VPS server powered by DigitalOcean and dedicated hosting services at cost-effective prices.
+Payments are accepted through PayPal, Credit Card, Debit Card, Cash Card, Net Banking, Bank Transfer as well as Cheque.
+Yes, you can cancel your hosting account before the first 30 days of your purchase and get the refund. We offer 30 days money back guarantee for our customers.
+Yes. You can transfer your existing domain name to MilesWeb server. Just ensure you ask to transfer the old domain and not the new one.
+MilesWeb often offers discount and special offers to customers on web hosting plans. These are limited period offers and its valid for first term only. The discounted price will not be applicable on renewals. After completing the initial term the web hosting plans will automatically renew at regular rate.

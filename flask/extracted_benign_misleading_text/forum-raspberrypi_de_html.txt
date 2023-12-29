@@ -1,0 +1,256 @@
+Deutsches Raspberry Pi Forum
+Die RPi Community
+-
+Neue Forensoftware
+Bitte alle Fragen, Wünsche, Sorgen rund um die neue Forensoftware als jeweiliges Thema hier hinein
+- Themen
+- 137
+- Beiträge
+- 1,9k
+-
+Allgemeines
+-
+Tutorials & Anleitungen
+Nützliche Anleitungen & Tutorials zum durchstarten....
+- Themen
+- 633
+- Beiträge
+- 12k
+-
+News
+In-/offizielle News und Infos zum Raspberry Pi
+- Themen
+- 65
+- Beiträge
+- 1,9k
+-
+- Themen
+- 34
+- Beiträge
+- 148
+-
+-
+Hardware
+-
+- Themen
+- 2,2k
+- Beiträge
+- 20k
+-
+- Themen
+- 195
+- Beiträge
+- 2,1k
+-
+Raspberry Pi 2, Modell B und B+
+2x/4x USB 2.0, 10/100 MBit/s Netzwerk (RJ45)
+- Themen
+- 1,1k
+- Beiträge
+- 8,8k
+-
+- Themen
+- 1,4k
+- Beiträge
+- 13k
+-
+- Themen
+- 103
+- Beiträge
+- 1,5k
+-
+- Themen
+- 35
+- Beiträge
+- 252
+-
+Raspberry Pi Camera Module
+5 MP - 1080p Full HD
+- Themen
+- 564
+- Beiträge
+- 3,7k
+-
+- Themen
+- 736
+- Beiträge
+- 5,8k
+-
+- Themen
+- 274
+- Beiträge
+- 1,5k
+-
+- Themen
+- 283
+- Beiträge
+- 1,8k
+-
+- Themen
+- 1k
+- Beiträge
+- 7,8k
+-
+SD-Karten
+Adapter, SD, SDHC, SDXC, miniSD, microSD
+- Themen
+- 226
+- Beiträge
+- 2,6k
+-
+Stromversorgung
+Netzteile, Batterie/Akku
+- Themen
+- 644
+- Beiträge
+- 7,4k
+-
+Displays
+LCD, Touch, TV, Monitor, usw..
+- Themen
+- 1,3k
+- Beiträge
+- 9,6k
+-
+Gehäuse
+Alles rund um das Thema Gehäuse für den Raspberry Pi
+- Themen
+- 243
+- Beiträge
+- 701
+-
+-
+Software
+-
+- Themen
+- 3,7k
+- Beiträge
+- 28k
+-
+- Themen
+- 2,1k
+- Beiträge
+- 13k
+-
+-
+Netzwerk und Server
+Von Streaming Server über Webserver bis hin zum Gameserver
+- Themen
+- 4,9k
+- Beiträge
+- 40k
+-
+- Themen
+- 428
+- Beiträge
+- 2,1k
+-
+Heimautomatisierung
+Alles rund um das Thema Heimautomatisierung
+- Themen
+- 199
+- Beiträge
+- 1,8k
+-
+Musikboxen, Webradios, Musikplayer
+Alles rund um die Themen Musikboxen, Webradios, Musikplayer
+- Themen
+- 87
+- Beiträge
+- 1,5k
+-
+Backup
+Alles zum Thema Backup
+- Themen
+- 27
+- Beiträge
+- 647
+-
+-
+Programmierung
+-
+Python
+Alles rund um die Programmiersprache Python
+- Themen
+- 2,9k
+- Beiträge
+- 27k
+-
+andere Programmiersprachen
+Java, C, C++, Ruby, Delphi/Pascal, Batch/Shellscripting usw
+- Themen
+- 2,3k
+- Beiträge
+- 19k
+-
+-
+Betriebssysteme
+-
+- Themen
+- 1,2k
+- Beiträge
+- 9k
+-
+Debian & Raspbian
+Alle Fragen zu den Distributionen "Debian" und "Raspbian"
+- Themen
+- 2,9k
+- Beiträge
+- 22k
+-
+- Themen
+- 1,3k
+- Beiträge
+- 7k
+-
+OpenELEC/ LibreELEC
+Für Fragen zu XBMC findet ihr hier Hilfe: www.xbmcnerds.com oder www.xbmc.de
+- Themen
+- 1,1k
+- Beiträge
+- 5,5k
+-
+- Themen
+- 387
+- Beiträge
+- 780
+-
+-
+Elektronik
+-
+- Themen
+- 427
+- Beiträge
+- 4,6k
+-
+- Themen
+- 2,5k
+- Beiträge
+- 26k
+-
+Mikrocontroller
+Fragen zu Raspberry Pi in Verbindung mit µControllern wie Arduino, AVR, PIC und co.
+- Themen
+- 372
+- Beiträge
+- 4,1k
+-
+-
+Projekt Forum
+-
+laufende Projekte und Ideen
+Laufende Projekte und Ideen rund um den Raspberry Pi
+- Themen
+- 1,9k
+- Beiträge
+- 22k
+-
+Abgeschlossene Projekte
+Showroom für abgeschlossene Projekte!
+- Themen
+- 293
+- Beiträge
+- 5,1k
+-
+-
+Verschiedenes

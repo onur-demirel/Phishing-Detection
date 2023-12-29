@@ -1,0 +1,15 @@
+RPanel
+Next
+Language
+Deutsch
+English
+Welcome Back!
+OTP
+Sign in
+Or
+sign up
+to become a reseller.
+Our previous version of RPanel still is available
+here
+.
+Learn more on how to become a reseller of Joker.com, and benefit from discounts of up to 40%!

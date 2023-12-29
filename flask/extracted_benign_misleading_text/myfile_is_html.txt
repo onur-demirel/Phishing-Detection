@@ -1,0 +1,9 @@
+Important changes to our API
+We've changed from myfile.is/api/upload to api.myfile.is/upload
+Please see the API Documentation for details.
+Share files with MyFile - the Privacy Oriented file host.
+Max 20 GB per file.
+Visit our friends:
+OpenLoad
+- MegaUpload
+- Share-Online

@@ -1,0 +1,38 @@
+Skip to main content
+Create an account
+Welcome to eBay
+<div class="non-js-content-wrapper"><section class="page-notice page-notice--priority" data-widget="/@ebay/ebayui-core$2.8.3/dist/components/ebay-notice/index" id="s0-0-24-13-1-2" aria-labelledby="s0-0-24-13-1-2-status"><h3 class="page-notice__status" id="s0-0-24-13-1-2-status"><span aria-label="Priority" role="img"></span></h3><div class="page-notice__content"><p id="disabled-js-error-msg" tabindex="0">You must have Java Script enabled to sign in.</p></div></section></div>
+Welcome to eBay SignIn
+Hello
+Welcome
+You can use your email or username, or continue with your social account.
+Sign in to eBay or
+create an account
+Sign in
+Sign in with Facebook
+Sign in with Google
+Email or username
+Password
+Sign in
+Text a temporary password
+Reset your password
+or
+Sign in with Facebook
+Sign in with Google
+Stay signed in
+Using a public or shared device?
+Uncheck to protect your account.
+Learn more
+The quick brown fox jumps over the lazy dog.
+BESbswy
+BESbswy
+BESbswy
+BESbswy
+BESbswy
+BESbswy
+BESbswy
+BESbswy
+BESbswy
+BESbswy
+BESbswy
+BESbswy

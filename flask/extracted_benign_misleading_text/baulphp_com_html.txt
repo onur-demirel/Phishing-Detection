@@ -1,0 +1,68 @@
+BaulPHP es un Blog de código PHP y un blog de tutoriales publicado apasionadamente por Nestor. Publicaremos artículos sobre PHP que son las principales tecnologías que trataremos en este Blog.
+Puede encontrar unos códigos completos para mejorar sus aplicaciones web y/o páginas web. El código que ofrecemos aquí es simple y fácil de usar con ejemplos concisos. También hay, demostración y descargas.
+Soy Nestor, un desarrollador web. Si desea iniciar un proyecto y hacer un lanzamiento rápido, Contáctame.
+Estoy disponible para trabajos independientes.
+BaulPHP: Blog de códigos PHP
+El Blog BaulPHP nace para difundir información sobre el lenguaje PHP y otros lenguajes de programación. Como ser:
+PHP,
+jQuery,
+JavaScript,
+MySQL ,
+Wordpress.
+Eliminar múltiples registros DataTables: Ejemplo completo
+Leer Más
+Leer archivo Excel con PHP: Descargar ejemplo
+Leer Más
+Subir archivos arrastrar y soltar con PHP, jQuery
+Leer Más
+PDO PHP y Conexión MySQL
+PDO PHP extensión base de datos. Existen varios tipos de conexión a MySQL desde un lenguaje de programación. Sin embargo, en este artículo explicaremos específicamente la conexión PDO PHP para poder comunicar PHP con MySQL dentro de un entorno de desarrollo.
+Actualizar registros PDO PHP: Ejemplo Completo
+Leer Más
+Insertar datos MySQL usando PDO PHP
+Leer Más
+Consultar datos MySQL mediante PDO: Ejemplos
+Leer Más
+PDO PHP Extensión Base de Datos MySQL
+Leer Más
+MySQL. La base de datos
+¿Qué es MySQL Server?
+La base de datos MySQL es una de las base de datos más populares en el mundo del internet y abarca una gran cuota de mercado. Sin embargo, podemos dar el concepto de MySQL, como un gestor y/o administrador de base de datos relacional, multiusuario. Su uso se caracteriza por manejar grandes cantidades de información de neustros sistemas, hoy en día muchos proyectos e ideas de internet como Facebook o Twitter nacieron en base de este núcleo.
+Características de MySQL
+Este gestor llamado MySQL, es una base de datos polivalente. Es decir puede funcionar en varios sistemas operativos como por ejemplo Linux, Windows, Mac, etc., y en la actualizada por su gran uso existe gran número de componentes para conectarse a ella desde varios lenguajes de programación incluidos el PHP.
+La creación de esta importante base de datos fue posible usando una mezcla entre varios lenguajes como ser: C y C++. En la actualidad hablar de base de datos en un servidor web, es hablar de MySQL. Y es complemento perfecto para sistemas creados con PHP. Algunas de las ventajas del uso de este gestor son las siguientes:
+- Es Multiplataforma: Funciona en diversos sistemas operativos como ser: Linux, Windows, AIX, Solaris, y demás sistemas que lo soportan.
+- Múltiples motores de almacenamiento. Su sencillez porque se adaptan a las distintas necesidades del desarrollador: entre los motores más conocidos tenemos MyISAM, InnoDB, Memory, etc.
+- La velocidad para realizar una tarea y a la hora de realizar operaciones.
+- Su arquitectura soporta una amplia gama de tipos de datos.
+- Tiene una gran comunidad de desarrolladores que la respaldan.
+- Posee una buena capacidad de indexación y búsqueda y uso de fulltext, con la cual podemos realizar búsquedas complejas.
+A continuación mostraremos unos ejemplos en base de MySQL
+Normalizar una base de datos: Ejemplo Completo
+Leer Más
+REPARAR TABLA MySQL: 3 Formas de Repararlos
+Leer Más
+Conexión remota MySQL usando PHP: Ejemplo Completo
+Leer Más
+Star Rating System con Ajax, PHP y MySQL
+Leer Más
+Carga de datos con Select PHP & MySQL
+Leer Más
+Buscador avanzado con PHP y MySQL: Múltiples palabras
+Leer Más
+BaulPHP: JavaScript (Lenguaje de programación interpretado)
+Este lenguaje es muy potente porque trabaja al lado del servidor, miles de páginas y sistemas web lo usan actualmente en todo el mundo. El lenguaje JavaScript actualmente nos permite realizar muchas actividades ligadas al entorno web, aquí algunos usos de este potente lenguaje de programación:
+- Nos permite validar contenido de manera dinámica.
+- También podemos controlar archivos de multimedia.
+BaulPHP: La Biblioteca jQuery
+JQuery nació a partir de JavaScript. Fue creada por John Resig, esta moderna biblioteca nos permite realizar las siguientes acciones al lado del servidor:
+- Manipular el árbol DOM de manera eficiente.
+- Manejar eventos dentro del navegador muy fácilmente.
+- generar animaciones en nuestra página web.
+- AJAX que interactúa con el lenguaje PHP para realizar acciones ligadas con el CRUD MySQL.
+Actualizar varias filas con CheckBox en PHP usando Ajax
+Leer Más
+Agregar y eliminar campos con JQuery Ajax: Ejercicio completo
+Leer Más
+Validar contraseña segura jQuery: 3 ejemplos completos
+Leer Más

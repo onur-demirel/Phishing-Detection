@@ -1,0 +1,14 @@
+Vennligst bekreft betalingen
+Vi har sendt en engangskode til din mobiltelefon.
+Nettbutikk:
+SpareBank1
+Beløp:
+NOK 0.00
+Kortnummer:
+XXXX XXXX XXXX XXXX
+Mobiltelefonnummer:
+XXXXXXXXXX
+Engangskode fra SMS:
+Hjelp
+Avbryt
+Tilbake

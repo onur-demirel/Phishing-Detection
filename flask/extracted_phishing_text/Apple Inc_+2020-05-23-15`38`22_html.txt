@@ -1,0 +1,2 @@
+Doğrulama ve güncelleme işlemi için ekrandaki talimatları izleyerek
+Bazen kullanıcılarımızın hesap bilgilerinde dosya üzerinde doğrulama yapmalarını veya güncellemelerini istiyoruz. Bunun nedeni, geçersiz hesap ayrıntıları veya süresi dolan bir ödeme yöntemi yüzünden olabilir.Bu işlem tamamlanıncaya kadar

@@ -1,0 +1,5 @@
+Log in to your PayPal account
+Already set up to use your mobile number to log in? Type it below. Otherwise, click the link to log in with email.
+It looks like the number you typed is not set up for login. Try again or use email instead.
+orSign Up
+or

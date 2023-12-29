@@ -1,0 +1,13 @@
+Ookla collects certain data through Speedtest that may be considered personally identifiable, such as your IP address, unique device identifiers or location. Ookla believes it has a legitimate interest to share this data with internet providers, hardware manufacturers and industry regulators to help them understand and create a better and faster internet. For further information including how the data may be shared, where the data may be transferred and Ookla’s contact details, please see our Privacy Policy.
+You now have the option to use a single connection which is best for testing over a VPN or simulating a single file download.
+It looks like you're using a VPN. Single connection mode is best for testing over a VPN or simulating a single file download.
+Single connection mode is best for testing over a VPN or simulating a single file download.
+Don't show again
+Multi connection mode will show your maximum potential speed by using multiple streams in parallel.
+Don't show again
+Servers close to you:
+Secure Testing
+Servers that do NOT support secure testing yet are indicated with this icon:
+These servers can no longer be selected for testing. If you are a server host and want to enable secure testing, please review this support article.
+Remove ads on Speedtest.net for life
+$5.00 for ad-free internet testing

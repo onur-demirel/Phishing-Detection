@@ -1,0 +1,60 @@
+How to improve app monetization (improved ad targeting)
+August 28, 2019, by James Kielty
+Monetizing apps by adding ads is a popular way for creators to fund their efforts. Consumers are more likely to install an app which doesn’t have an up-front fee, so in-app advertising is a natural fit for both parties. However, as apps don’t function the same way as browsers do, the default exchange between the... Read More
+The guide to non-blocking code on the web
+June 28, 2019, by Luke Captain
+In this article we’ll give a run down of what non-blocking is, how it can help you improve performance on your site, and maybe even get that sweet, sweet 100 on performance in Google Lighthouse. (All examples will be JavaScript/node related) What is blocking code? Blocking code is any code that prevents the execution of... Read More
+Android v iOS market share – 2019
+June 6, 2019, by James Kielty
+Our latest dive into Android v iOS market share compares data from Q1 2019 with the previous year. In Canada, iOS lost over 10% share. It also lost over 12% in Egypt, 14% in Ireland, 9% in Italy and Japan, and a concerning 18.17% in Portugal. There were some gains, though, such as 11.65% in... Read More
+The DeviceAtlas Guide to Device Detection for Video Advertising
+May 29, 2019, by James Kielty
+Video as an online trend is nothing new, but there's no doubt that video consumption on the web has skyrocketed – time spent watching video is growing rapidly. Consider the following numbers to get an idea of just how big video has become: 75% of mobile traffic will be video by 2020 – Cisco YouTube... Read More
+Under pressure in the UK, how popular are Huawei smartphones?
+May 1, 2019, by James Kielty
+Huawei are in the headlines again – it’s been a hectic 12 months for the world’s second largest smartphone manufacturer. The latest news follows a leak from the UK’s National Security Council, confirming Huawei will be allowed to supply non-core 5G tech (such as antennas) for Britain’s emerging network needs. The news travelled quickly across... Read More
+The most active bots and crawlers on the web
+April 16, 2019, by James Kielty
+Allowing web crawlers to scan your site is vital if you want your web pages to appear in Google, Bing and other search results. However, unwanted traffic spikes caused by non-human visitors can be costly in terms of bandwidth, website stability, potentially leading to site outages. To help you understand web crawlers, bots and spiders... Read More
+Turning off JavaScript: Too much trouble, if you ask me
+April 4, 2019, by Mike Eichler
+This would be the ugly secret of the internet, except everyone knows about it: the overuse of JavaScript makes the modern web slow and annoying to browse as well as possibly dangerous. On the desktop, many people choose to restrain the beast with something like NoScript which allows the user selectively run/stop scripts using simple... Read More
+Viewport, resolution, diagonal screen size and DPI for the most popular smartphones
+April 1, 2019, by James Kielty
+Knowing the specifications of a smartphone's screen allows you to better tailor and sculpt the experience for your users. In this post, we list the most common diagonal screen size in 35 countries across the world. Skip to country: Argentina Australia Brazil Canada Colombia Denmark Egypt Finland France Germany India Indonesia Ireland Israel Italy Japan... Read More
+Counterfeit mobile phones are everywhere
+March 20, 2019, by ronan
+A growing problem, worldwide Fake handbags, fake watches, fake news—these are all so familiar to us now that we don’t give them a moment’s thought and accept them as a matter of course. So it should come as no surpise to us that counterfeit phones are widespread also. How widespread? The EU’s Intellectual Property Office... Read More
+DeviceAssure launches at MWC19 (Video)
+March 14, 2019, by James Kielty
+On the final day of this year’s Mobile World Congress in Barcelona, the Afilias team took to the stage to present DeviceAssure. DeviceAssure allows for the identification of counterfeit and non-standard devices in real-time. This can help secure your network against the many threats posed by such devices, which were explained in the presentation. It’s... Read More
+The DeviceAtlas guide to detecting iPhones
+January 3, 2019, by James Kielty
+The latest DeviceAtlas whitepaper explains the difficulty around accurate device detection of iOS devices. In all Apple devices, the User-Agent string only indicates the hardware type, not the model. By parsing User Agents alone, all you’ll know is whether you’re dealing with an iPhone or an iPad. This leaves some useful properties outside your field... Read More
+Surveillance capitalism is killing the web
+May 30, 2018, by James Kielty
+As GDPR rolled into town, we spotted some odd examples of how companies and news websites are dealing with their newly enforced responsibilities. Instead of submitting to the spirit of the whole exercise, many high-value sites chose to segment their traffic into EU v Non-EU, and provide the former with a stripped down, minimal version... Read More
+The Physical Web is dead, long live the physical web
+February 2, 2018, by Martin Clancy
+Launched in 2014 Google’s Physical Web project promised much, but seems to have died a quiet death over the last few months. This post takes a look at what the technology promised, and the speed bumps it hit along the way that may ultimately prove to have derailed it. Everything is a tap away Google’s... Read More
+Mobile ad UX: how to use ads and alienate people
+July 27, 2017, by Ruadhán O'Donoghue
+As a follow up to our previous article on the rising prevalence of ad blockers we thought it would be useful to review the types of ad that are likely to deliver a poor user experience, annoy your visitors, and sink your conversion rates. Ads, even at the best of times, aren’t particularly liked by... Read More
+The SIM – the tiny computer in your pocket that’s really in control
+July 11, 2017, by ronan
+The Subscriber Identity Module (SIM) was first introduced by the GSMA in 1987 in a farsighted move to ensure that a mobile subscriber on a GSM cellular network could maintain an identity on the network independant of a particular mobile device. While its visibility has decreased over time, the humble SIM has been an essential... Read More
+Reducing page weight
+March 28, 2017, by Ruadhán O'Donoghue
+When approaching the issue of web page weight, it’s useful to keep in mind the well known engineering maxim, “Simplify, and then add lightness“. This article describes some of the ways you can add lightness and reduce your web page weight... Read More
+Why your content doesn’t work on mobile
+December 14, 2016, by Martin Clancy
+Anyone involved in developing content for the mobile web is probably already aware of the huge performance challenges on mobile. There is now widespread acceptance that we should budget for performance just as much as we should for design, and functionality. Perhaps even more so. So why are many websites still failing users by serving... Read More
+Taking the web offline with service workers
+October 21, 2015, by Ruadhán O'Donoghue
+You’re probably already familiar with the idea of offline web apps, web apps that can continue to work in the face of intermittent network connectivity. This concept has been around for a while, and various technologies have been developed along the way to achieve offline web apps, (Google) Gears, and Appcache for example, but none of these addressed the offline challenge quite as well as service workers... Read More
+Web push notifications
+September 17, 2015, by Ruadhán O'Donoghue
+Web push notifications are the best thing to hit the web since the hyperlink! No kidding, this technology is going to be huge. Until recently web developers could only dream of push enabled web apps. Things have changed however, and web push notifications, the asynchronous delivery of messages to a user's device from a website, even when the website is not open in the browser, are now a reality thanks to a number of HTML5 APIs:... Read More
+Touch-friendly Drag and Drop
+July 22, 2015, by Ruadhán O'Donoghue
+In this article we explore some touch-friendly drag and drop implementations. In particular we'll be looking at DOM and canvas-based drag and drop approaches. We'll also build on some of the things we learned in previous HTML5 articles on mobiForge... Read More

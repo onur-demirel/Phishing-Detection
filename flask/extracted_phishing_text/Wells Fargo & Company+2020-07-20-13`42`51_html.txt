@@ -1,0 +1,16 @@
+Social Security number (SSN) or Individual Tax Identification Number (ITIN)
+Enter your SSN or ITIN that was issued to you. Otherwise, enter your username. If you are unable to recover your username and need further password help, please call Wells Fargo Online Banking Customer Service at 1-800-956-4442 available 24 hours a day, 7 days a week.End of popup
+Account, loan, or card number
+Enter one of your Wells Fargo numbers or the account number printed on your ATM/debit card (not your Personal Identification Number (PIN)).
+- Brokerage accounts: Please enter a W in front of your account number.
+- Credit cards: Enter the account number that is printed on your credit card and credit card statement.*
+- Trust and managed investment services accounts: Enter the complete number as it appears on your statement, including any letters, numbers, and hyphens.
+- Employer-sponsored accounts: Do not enter a number here. Go to the next field and enter your date of birth.
+- Mortgage accounts: Enter the loan number that appears on the upper right hand corner of your monthly mortgage statement. If you do not know your mortgage account number, go to the next field and enter your date of birth.
+- Health savings accounts: Enter the 10-digit account number on your account statement or the 16 digit number on your Wells Fargo Visa� HSA Debit Card.
+- Online payroll accounts: If you do not have an account number or ATM/debit card number, please call 1-800-956-4442 for assistance.
+- For Personal Insurance Policies and Safe Deposit Box: Enter one of your other eligible accounts above or please call customer service to get assistance.
+- For all other accounts: Enter the number on your statement or card, without dashes or spaces.
+*Note: Wells Fargo Financial credit cards are not eligible for Wells Fargo Online�. To access these accounts online, please go to wellsfargofinancial.com.
+Account Identification
+For your security, please complete one field below to confirm your identity and continue.

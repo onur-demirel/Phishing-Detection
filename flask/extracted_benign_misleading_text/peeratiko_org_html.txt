@@ -1,0 +1,6 @@
+|
+Not logged in!
+Error: The page you tried to view can only be used when you're logged in.
+Note: You need cookies enabled to sign up or log in.
+Note: if your experiencing login issues delete your old cookies.
+[10] failed logins in a row will result in banning your ip

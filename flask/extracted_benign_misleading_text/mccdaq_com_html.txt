@@ -1,0 +1,31 @@
+Forgot Password?
+Create an Account
+800.234.4232
+Loading...
+WebDAQ Data Loggers
+Log and access vibration and temperature data from anywhere.
+DAQ HATs for Raspberry Pi®
+Bring high quality measurements to the popular low-cost computer.
+UL for Linux®
+Open-source support for our most popular DAQ devices.
+MEASUREMENT COMPUTING CORP (MCC)
+Whatever your data acquisition and data logging needs, MCC provides high-quality hardware and software products at a great price. MCC will provide a data acquisition product that is easy to use, easy to integrate and easy to support, all with a 30-day money back guarantee.
+USB, Ethernet, and PCI (PCIe) acquisition systems for a wide range of applications. Measure current, voltage, temperature, strain and digital signals with industry standard hardware backed by our one year warranty.
+MCC offers a wide selection of temperature measurement DAQ products for use with thermocouples, thermistors, and RTDs. USB, Ethernet, Wireless, and Data Logger solutions are available to meet all your requirements.
+Directly measure IEPE-type vibration sensors, accelerometers or voltage inputs using USB and Ethernet data acquisition (DAQ) devices. Our high-precision dynamic signal analyzers include signal conditioning so that no additional processing is needed.
+Our stand-alone data loggers provide solutions for recording temperature, voltage, current, humidity and more. Available with various channel configurations and each product comes with easy to use software to log, view, and process data.
+Board-only solutions with easy to integrate connectors. MCC recognizes that OEM needs differ from end user requirements. As a leading supplier of OEM DAQ solutions, MCC provides volume pricing and free technical support to get your products to market quickly.
+Out-of-the-box software for non-programmers, plus comprehensive drivers for VB®, C++®, Java™, NI LabVIEW™, DASYLab® and MATLAB®. OS support includes Windows®, Linux®, and Android™.
+All products are backed with a one year warranty. Buy with confidence.
+Free technical support, for the life of your product, is available from qualified application engineers.
+MCC offers free shipping on all orders placed on-line. Shipping charges apply to all other orders.
+If you aren’t happy, simply return the product for a full refund (U.S. customers only).
+Our new Data Acquisition Catalog features our most popular products, including our newest Raspberry Pi® and IoT devices.
+The latest edition has been enhanced to address more practical applications than theoretical measurement issues. Each chapter covers a major topic with sufficient detail to help readers understand the basic principles of sensor operation and the need for careful system interconnections.
+Raspberry Pi is a low-cost, single-board computer that runs the Linux® kernel-based operating system. Add high-quality measurements to your Raspberry Pi application following this step-by-step guide on how to acquire data from most MCC data acquisition devices.
+As the low-cost PC market grows, more and more DAQ users are looking to design systems around platforms like Raspberry Pi®. Learn more about Raspberry Pi and DAQ.
+High quality Data Acquisition, and Data Loggers that are easy-to-use,
+easy-to-integrate and easy-to-support with a wide range of device options.
+Mixed signal Data Acquisition systems
+for measuring various sensor types.
+Advanced DAQ devices specializing in dynamic signal analyzers and isolated data acquisition. Products specifically designed for demanding desktop and integrated applications.

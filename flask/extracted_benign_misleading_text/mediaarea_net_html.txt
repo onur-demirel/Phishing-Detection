@@ -1,0 +1,34 @@
+MediaArea
+MediaArea is an open source software company focused on digital media analysis. We develop and support tools that aid developers in integrating digital media file investigation into their work.
+We do mostly open source code, without rejecting proprietary code on request.
+MediaInfo is our flagship product with 4 000 downloads per day, we also currently work on MediaConch, and we worked in the past on QCTools, BWF MetaEdit and some other projects.
+The team
+Each member of the team is unique and commits code under their own name. Their work is visible via their respective accounts listed below.
+Maxime Gervais
+Release manager, scripting, bug fixes
+(Junior Developer)
+Our projects
+Different levels of involvement, from self-funding, self-management, and full development to external funding, external management, and partial development.
+These projects are open source, you can participate too; additionnally, if you don't like what we do of these projects, just fork and offer a better version.
+Convenient unified display of the most relevant technical and tag data for video and audio files.
+Designed, led and fully developed by MediaArea.
+Implementation checker, policy checker, & reporter.
+Funded by the PREFORMA project co-funded by the European Commission; designed, led and fully developed by MediaArea.
+Technical report that expresses the binary architecture of a file.
+Designed in collaboration by MediaArea and MoMA; led and developed by MediaArea.
+Supports embedding, validating, and exporting of metadata in AVI (Standard and OpenDML) files. This tool can also enforce file structure and metadata recommendations and specifications from U.S. National Archives, Microsoft, and IBM.
+Initially funded by NARA (National Archives and Records Administration) supported by the FADGI; designed and led by AVPreserve; developed by MediaArea.
+Supports the embedding and editing of metadata in MOV (Apple QuickTime) or MP4 (ISO/IEC 14496-14 a.k.a. MPEG-4 Part 14) files. It is currently focused on Universal Ad ID metadata but could be expanded on request.
+Sponsored by Ad-ID; designed, led and fully developed by MediaArea.
+Technical quality control and reporting tool that examines DV streams in order to report errors in the tape-to-file transfer process, such as video error concealment information, invalid audio samples, timecode inconsistency, inconsistent use of arbitrary bits in video DIF blocks, and DIF structural problems.
+Initially funded, designed and led by AVPreserve; developed by MediaArea.
+Other projects
+We are not directly involved in these projects but we use them for A/V analysis, and we sometimes send patches to these projects.
+Standardization of open source formats focused on lossless storage.
+Matroska / FFV1 / FLAC.
+Capture a video signal and turn it into a digital file.
+Web app to accompany QCTools.
+A lot used by ourselves for A/V analysis, used by QCTools.
+Help users through the command generation process so that more people can reap the benefits of FFmpeg.
+Events
+We also organize or participate to several A/V related events.

@@ -1,0 +1,19 @@
+In the recent past, the computer vision community has relied on several centralized benchmarks for performance evaluation of numerous
+tasks including object detection,
+pedestrian detection, 3D reconstruction, optical flow, single-object
+short-term tracking, and stereo estimation.
+Despite potential pitfalls
+of such benchmarks, they have proved to be extremely helpful to advance
+the state-of-the-art in the respective research fields. Interestingly,
+there has been rather limited work on the standardization of multiple
+target tracking evaluation. One of the few exceptions is the well-known
+PETS dataset, targeted primarily at surveillance applications. Even for
+this widely used benchmark, a common technique for presenting tracking
+results to date involves using different subsets of the available data,
+inconsistent model training and varying evaluation scripts.
+With this benchmark we would like to pave the way for a unified framework towards more meaningful quantification of multi-target tracking.
+We have created a framework for the fair evaluation of multiple people tracking algorithms. In this framework we provide:
+We rely on the spirit of crowdsourcing, and we encourage researchers to submit their sequences to our benchmark, so the quality of multiple object tracking systems can keep increasing and tackling more challenging scenarios.
+The datasets provided on this page are published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License. This means that you must attribute the work in the manner specified by the authors, you may not use this work for commercial purposes and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same license. If you are interested in commercial usage you can contact us for further options.
+Subscribe to our newsletter to receive updates and other important information about the benchmark.
+Your email will never be used for other purposes. You can unsubscribe at any time.

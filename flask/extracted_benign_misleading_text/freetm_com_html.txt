@@ -1,0 +1,18 @@
+en
+bg-BG
+cs-CZ
+es-ES
+fa-IR
+fr-FR
+he-IL
+nl-NL
+pl-PL
+pt-BR
+pt-PT
+ru-RU
+sk-SK
+uk-UA
+vi-VN
+zh-CN
+Forgot your password?
+Create a new account

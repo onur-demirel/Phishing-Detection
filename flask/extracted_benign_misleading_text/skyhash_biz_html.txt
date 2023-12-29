@@ -1,0 +1,141 @@
+Registration
+Sign in
+English
+About the company
+For beginners
+registration of a personal account
+replenishment of available funds
+buying power and mining
+PARTNERSHIP BONUS
+EXCHANGE OF CRYPTO CURRENCY ON USD
+F.A.Q
+News
+Help
+Online mining farm
+With the equipment for crypto currency mining on algorithms
+SCRYPT
+price for
+1 MH/s
+0.150
+USD
+Litecoin
+0.001550
+Dogecoin
+22.727280
+Syscoin
+1.103760
+Minimal hashrate:
+20
+MH/s
+SHA-256
+price for
+1 GH/s
+0.010
+USD
+Bitcoin
+0.000020
+Digibyte
+5.555570
+Bitcoin Cash
+0.000400
+Peercoin
+0.100010
+Minimal hashrate:
+500
+GH/s
+ETHASH
+price for
+1 MH/s
+0.830
+USD
+Ethereum Classic
+0.011290
+Ethereum
+0.000380
+Minimal hashrate:
+5
+MH/s
+Start mining
+The daily income from
+1%
+to
+3%
+Size of income depends on the miner's hashrate
+per day
+Sha-256
+ETHASH
+Scrypt
+3%
+3000000 GH/s
+36000 MH/s
+200000 MH/s
+2.8%
+2500000 GH/s
+30000 MH/s
+165000 MH/s
+2.6%
+2000000 GH/s
+24000 MH/s
+130000 MH/s
+2.4%
+1500000 GH/s
+18000 MH/s
+100000 MH/s
+2.2%
+1000000 GH/s
+12000 MH/s
+65000 MH/s
+2%
+500000 GH/s
+6000 MH/s
+33000 MH/s
+1.8%
+150000 GH/s
+1800 MH/s
+10000 MH/s
+1.6%
+50000 GH/s
+600 MH/s
+3300 MH/s
+1.4%
+10000 GH/s
+120 MH/s
+650 MH/s
+1.2%
+2500 GH/s
+30 MH/s
+200 MH/s
+1%
+500 GH/s
+5 MH/s
+20 MH/s
+Registration
+Enter your username:
+1
+Enter your e-mail:
+2
+Create a password:
+3
+Repeat the password:
+4
+Registration
+Sign in
+Enter your username:
+1
+Enter your password:
+2
+Enter
+Recover the password
+Back
+Password recovery
+Enter your username:
+1
+Enter your e-mail:
+2
+Recover the password
+X
+Special offer
+Complete the free and easy registration procedure right now
+and get an absolutely free
+$3 bonus
+Complete the registration and get a bonus

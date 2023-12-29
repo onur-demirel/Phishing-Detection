@@ -1,0 +1,63 @@
+CKEditor 4
+Proven, enterprise-grade WYSIWYG HTML editor with wide browser compatibility, including legacy browsers.
+- Paste from Word and Excel, spell check, accessibility checker, tables.
+- Autocomplete, @mentions, widgets, code snippets, emoji 😊 plugins.
+- Full control over content: HTML filtering, view source mode.
+- Great accessibility: WCAG 2.0 AA and Section 508 compliant.
+- Long-term support (LTS) until 2023.
+CKEditor 5
+Modern JavaScript rich text editor with a modular architecture. Its clean UI and features provide the perfect WYSIWYG UX ❤️ for creating semantic content.
+- Written in ES6 with MVC architecture, custom data model, virtual DOM.
+- Responsive images and media embeds (videos, tweets).
+- Custom output format: HTML and Markdown support.
+- Boost productivity with auto-formatting and collaboration.
+- Extensible and customizable by design.
+Collaboration
+With CKEditor 5, every application can become online collaboration software. Boost your productivity with faster review and instant delivery.
+- Real-time collaborative editing for documents.
+- Track changes.
+- Comments, discussions, users panel with avatars.
+- Comment-only mode for text suggestions.
+- Support for all rich-text features, including tables or media.
+Image upload
+Flexible image upload and file manager tools for adding responsive images, videos or PDF files to your content.
+- One-click hassle-free drag&drop file upload support.
+- Top-notch security with granular user permissions.
+- File and folder management: upload, delete, move, categorize.
+- Built-in image editor with image crop and resize or filters.
+- Multiple storage options: local file server, FTP and cloud support.
+Why CKEditor?
+24.000+ customers have already trusted us. This gives us a solid foundation on which we can develop the editor.
+21.000+ tests
+Automated, manual, unit and integration tests for CKEditor 4 and CKEditor 5. Software quality is in our DNA. We know that delivering rock-solid components to external applications and being a reliable partner is crucial. We spend over 50% of our time on writing tests and documentation.
+27M+ downloads
+The number of CKEditor downloads. The number of users exceeds hundreds of millions. With such a huge user base, we receive a lot of valuable feedback — issues, feature requests or requests for documentation clarification. A large number of users helps us evolve and improve every day.
+400+ articles
+Articles in the documentation (+6000 pages with API documentation). CKEditor is not just the interface that one can use to write. It is a component with a rich, well-documented API that allows developers to write custom features on top of it. The community created over 400 publicly available plugins for CKEditor 4 thanks to such an approach.
+23.000+ questions
+The number of StackOverflow questions related to CKEditor. You are in good company! If it happens that you cannot find an answer in the documentation, there is a huge chance that you will find it already on StackOverflow. Oh, and we are active there, too :)
+Love how the CKEditor team keeps innovating after all these years! Glad that we picked CKEditor for Drupal 8.
+Dries Buytaert
+Founder and Project Lead, Drupal
+This is such an incredible project. It’s WYSIWYG on the web, finally, done right. Don't consider using anything else.
+Alex Eckermann
+Tablo Publishing
+The last month I had a pleasure to work closely with CKEditor 5, integrating it into Neos CMS. I was never really a fan of CKEditor 4, but CKEditor 5 has become one of my favorite opensource projects.
+Dmitri Pisarev
+Neos CMS
+Back in 2012, I started to research tools to get a real-time collaborative editor working on Rails. I just achieved that tonight. The trick was to wait years for a team of super talented devs to solve this super hard problem. Thanks, CKEditor!
+Joshua Flark
+Collaborase
+Thank you for your help and thank you for creating both CKFinder and CKEditor, they are fantastic, between them and the Witcher the rest of the world has a lot to be thankful of Poland.
+Adrian Edwards
+CivicInfo BC Society
+Love how the CKEditor team keeps innovating after all these years! Glad that we picked CKEditor for Drupal 8.
+Dries Buytaert
+Founder and Project Lead, Drupal
+This is such an incredible project. It’s WYSIWYG on the web, finally, done right. Don't consider using anything else.
+Alex Eckermann
+Tablo Publishing
+Startup Program
+Want to have the best rich text editor in your startup project? We offer free development plans, flexible support models and licensing systems tailored to your business needs.Find out more
+Enterprise Offer
+Looking for an enterprise-grade rich text editor that can boost productivity? We offer rock-solid software with premium technical support and custom development services.Find out more

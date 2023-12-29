@@ -1,0 +1,35 @@
+Automatic audio post production web service for podcasts, broadcasters, radio shows, movies, screencasts and more
+We analyze your audio and do whatever is necessary to achieve a professional quality result
+-
+Intelligent Leveler
+balances levels between speakers, music and speech – no compressor knowledge required
+-
+Loudness Normalization
+to broadcast standards (EBU R128, ATSC A/85, Mobile), including a true peak limiter and more
+-
+Audio Restoration
+automatic noise and hum reduction, filtering of unwanted low frequencies
+-
+Multitrack Algorithms
+featuring automatic ducking, noise gate and cross talk (spill) removal
+-
+Speech Recognition and Transcript Editor
+Automatic speech recognition with editor in over 80 languages
+-
+Optimal Encoding, Metadata and Chapter Marks
+MP3, Opus, AAC/MP4, Ogg Vorbis, ALAC, FLAC, etc.
+Enhanced podcasts, chapters in MP4, ID3 (MP3) and Vorbis
+-
+Video Workflow and Audiograms
+video input/output support and audiogram waveform videos
+-
+Automatic Content Deployment
+Dropbox, (S)FTP, HTTP, Google Drive and Cloud Storage, WebDAV, (Amazon) S3, YouTube, Facebook, SoundCloud, Spreaker, Libsyn, Podlove, Podigee, Blubrry, Archive.org
+Complete API and Managed Archive Processing
+The Auphonic API allows you to integrate our services into your scripts, workflows and third-party applications. Need customization and dedicated hardware to process big datasets? We offer Managed Processing of Archives.
+The Auphonic API allows you to integrate our services into your scripts, workflows and third-party applications. Need customization and dedicated hardware to process big datasets? We offer Managed Processing of Archives.
+Desktop and Mobile Apps
+Use the Auphonic Leveler and Auphonic Multitrack to compute our algorithms offline on your desktop.
+Mobile apps: Android Audio Editor and iOS Recorder.
+Use the Auphonic Leveler and Auphonic Multitrack to compute our algorithms offline on your desktop.
+Mobile apps: Android Audio Editor and iOS Recorder.

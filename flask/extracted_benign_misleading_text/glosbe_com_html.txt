@@ -1,0 +1,41 @@
+The biggest dictionaries
+|Dictionary
+|size
+|French Dictionary
+|1,740,873
+|German Dictionary
+|759,629
+|Spanish Dictionary
+|603,638
+|Japanese Dictionary
+|433,579
+|Chinese Dictionary
+|363,274
+|Polish Dictionary
+|345,345
+|Italian Dictionary
+|337,035
+|Russian Dictionary
+|317,720
+|Portuguese Dictionary
+|308,702
+|Finnish Dictionary
+|295,398
+|Dutch Dictionary
+|293,864
+|Swedish Dictionary
+|217,762
+|Arabic Dictionary
+|215,436
+|Czech Dictionary
+|208,575
+|Hungarian Dictionary
+|160,348
+|Croatian Dictionary
+|148,672
+|Turkish Dictionary
+|136,472
+|Hindi Dictionary
+|120,726
+|Vietnamese Dictionary
+|108,050

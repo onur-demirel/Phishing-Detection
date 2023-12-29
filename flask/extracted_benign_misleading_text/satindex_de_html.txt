@@ -1,0 +1,45 @@
+Satindex.de - Satelliten, Sender und Frequenzen
+Willkommen auf Satindex.de, hier finden Sie alle digitalen Astra Sender und Hotbird Sender, und Sender von weiteren Satelliten. Es gibt mehrere Übersichtslisten wo die Sender nach bestimmten Kriterien zusammengefasst wurden. Außerdem finden Sie hier alle neuen Astra und Hotbird Sender, und alle Updates zu den Sendern. Diese Infos werden täglich aktualisiert, und Sie können auch Updates eintragen. In unserer Tools Rubrik können Sie sich automatisch eine Transponderliste erstellen lassen.
+Live Boxen An / Aus
+..:: Die neusten Sat Updates ::..
+Thor 0.8° West
+Daten: DVB-S2, 16APSK, Frequenz 10903 MHz, Polarisation V, Symbolrate 28400, FEC 28/45
+Astra 4.8° Ost
+Daten: Frequenz 11727 MHz, Polarisation H, Symbolrate 27500, FEC 5/6, Mod. 8PSK, Verschlüsselt: Ja
+Daten: Frequenz 11747 MHz, Polarisation V, Symbolrate 30000, FEC 3/4, Mod. 8PSK, Verschlüsselt: Nein
+Daten: Frequenz 11938 MHz, Polarisation V, Symbolrate 27500, FEC 5/6, Mod. 8PSK, Verschlüsselt: Ja
+Neben 11727 MHz H sendet der Sender nun noch parallel auf 11958 MHz H.
+Daten: Frequenz 11958 MHz, Polarisation H, Symbolrate 27500, FEC 5/6, Mod. 8PSK, Verschlüsselt: Ja
+Daten: Frequenz 11265 MHz, Polarisation H, Symbolrate 30000, FEC 3/4, Mod. 8PSK, Verschlüsselt: Ja
+Der Sender VH1 ist weiterhin auf der Frequenz 11958 MHz, Polarisation H, Symbolrate 27500, FEC 5/6 empfangbar.
+Daten: Frequenz 11727 MHz, Polarisation H, Symbolrate 27500, FEC 5/6, Mod. 8PSK, Verschlüsselt: Ja
+Daten: Frequenz 11958 MHz, Polarisation H, Symbolrate 27500, FEC 5/6, Mod. 8PSK, Verschlüsselt: Ja
+Neben 12284 MHz V sendet der Sender nun noch parallel auf 12073 MHz H.
+Daten: Frequenz 12073 MHz, Polarisation H, Symbolrate 27500, FEC 3/4, Mod. QPSK, Verschlüsselt: Nein
+Daten: Frequenz 11265 MHz, Polarisation H, Symbolrate 30000, FEC 3/4, Mod. 8PSK, Verschlüsselt: Ja
+Daten: Frequenz 12284 MHz, Polarisation V, Symbolrate 27500, FEC 3/4, Mod. QPSK, Verschlüsselt: Ja
+Daten: Frequenz 11747 MHz, Polarisation V, Symbolrate 30000, FEC 3/4, Mod. 8PSK, Verschlüsselt: Ja
+Hotbird 13.0° Ost
+Neben 11179 MHz H sendet der Sender nun noch parallel auf 12577 MHz H.
+Daten: Frequenz 12577 MHz, Polarisation H, Symbolrate 27500, FEC 3/4, Mod. 8PSK, Verschlüsselt: Nein
+Neben 11179 MHz H sendet der Sender nun noch parallel auf 12577 MHz H.
+Daten: Frequenz 12577 MHz, Polarisation H, Symbolrate 27500, FEC 3/4, Mod. 8PSK, Verschlüsselt: Nein
+Daten: Frequenz 12616 MHz, Polarisation H, Symbolrate 29900, FEC 5/6, Mod. QPSK, Verschlüsselt: Ja
+Der Sender DAZN1 ist weiterhin auf der Frequenz 12418 MHz, Polarisation V, Symbolrate 29900, FEC 3/4 empfangbar.
+Daten: Frequenz 12616 MHz, Polarisation H, Symbolrate 29900, FEC 5/6, Mod. QPSK, Verschlüsselt: Ja
+Astra 19.2° Ost
+Folgende Daten haben sich geändert: Video Pid, Audio Pid, PCR Pid, Verschlüsselung
+Der Sender Service 30604 sendet nun unverschlüsselt.
+Daten: Frequenz 10876 MHz, Polarisation V, Symbolrate 22000, FEC 5/6, Mod. QPSK, Verschlüsselt: Nein
+Folgende Daten haben sich geändert: Video Pid, Audio Pid, PCR Pid, Verschlüsselung
+Der Sender Service 30610 sendet nun unverschlüsselt.
+Daten: Frequenz 10876 MHz, Polarisation V, Symbolrate 22000, FEC 5/6, Mod. QPSK, Verschlüsselt: Nein
+Daten: Frequenz 11038 MHz, Polarisation V, Symbolrate 22000, FEC 5/6, Mod. QPSK, Verschlüsselt: Nein
+Daten: Frequenz 11038 MHz, Polarisation V, Symbolrate 22000, FEC 5/6, Mod. QPSK, Verschlüsselt: Nein
+(22.10, 15:11)
+(21.10, 22:09)
+(21.10, 22:08)
+(20.10, 15:44)
+Auf Satindex.de finden Sie Sender auf Astra und Hotbird, Frequenzlisten mit folgenden Daten:
+( Sid, Video Pid, Audio Pid, PCR Pid, Teletext Pid, Verschlüsselungsinfo, Programm Art ) usw.
+Außerdem alle neuen Astra und Hotbird Sender, sowie abgeschaltete Sender und Veränderungen.

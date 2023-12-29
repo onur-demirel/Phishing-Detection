@@ -1,0 +1,16 @@
+Crowdmark is a collaborative online grading and analytics platformLearn more
+Some of our customers include:
+What can Crowdmark do?
+Crowdmark takes care of all of the tedium and administrative work of grading so that educators can focus on providing richer feedback to students faster. Independent studies have shown that educators experience up to a 75% productivity gain using Crowdmark.
+See what Crowdmark can do for you:
+How it Works
+Crowdmark lets you use your existing paper assessments and assignments so you don’t need to re-create anything.
+1. Set Up Assessment
+Generate and print exam booklets with features like multiple choice or create assignment questions and distribute them to students.
+2. Upload Completed Work
+Instructors can scan and upload student work or students can upload assignments using mobile phones.
+3. Grade and Return
+Leave rich feedback with flexible grading tools and share frequently-used comments with your team. Grades can be returned to students online, instantly.
+4. Analyse Learning
+See detailed information about student performance on each question. You own your data. Extract deeper insights with Crowdmark’s API.
+Fully integrated with learning management systems including:

@@ -1,0 +1,47 @@
+"Sending money from card-to-card is the new innovative way of sharing value across borders"
+"Transfer funds to any card overseas at a fixed price, using real exchange rates without hidden fees"
+"Paysend Link service makes Swift, IBAN, sort codes and account numbers obsolete"
+"A new way to send money in multiple currencies using a mobile app"
+Global coverage
+We are delivering money into 70 countries and regularly opening new countries
+Fixed Fee + Best Exchange Rate
+We display the FX rate, the transfer fee and the amount they will receive, before you make a transfer
+Information Required - Minimal
+Only the card number and receiver’s name are required for the transfer
+Instant Delivery
+All transfers are processed by Paysend within seconds
+Bank Level Security
+All money transfers are certified by Visa, Mastercard, China Union Pay, FCA (Financial Conduct Authority UK) and are PCI DSS certified
+24/7 Customer Support
+We are always there for you, day or night
+• Select “Send”
+• Choose country you want to send money to. In some countries, you can select multiple receiving currencies, select the receiving currency
+• Enter the amount you wish to send or specific amount for the recipient to receive
+• Depending on the chosen sending and receiving country we may ask to fill in the additional fields. That is a requirement of local legislation and/or local provider.
+• Enter recipient’s card details and select ‘Next’
+Top Tip: Using the camera icon to take a picture of the front of the card auto uploads the cards details, time saver!
+• Enter your card details and select ‘Next’
+Top Tip: Use the camera icon!
+• Enter your cards CVV/CVC code and select ‘Next’
+• Registration procedure may vary depending on our country, it can be either:
+a) 5-digit security code sent through a test transaction which will appear in your pending transactions list on your card statement, or
+b) 5-digit security code sent via SMS
+Please, enter the code into the relevant field
+• Input transaction description
+• Add a personal message to the transfer if you want!
+• Select ‘Confirm’
+That’s it! You have successfully made your first money transfer with Paysend.
+For some destinations Transfers to a regular bank account are available. Click on a tab “Transfer to account” in Recipient details section. Depending on a chosen Destination country you will be asked to enter an additional information for the Recipient. That is required by local legislation and regulatory rules. The process of completing a transaction is similar to Transfer to card account procedure.
+Your recipient’s card will be credited in a local currency of the destination country. Paysend displays the applicable exchange rate before you make a transaction. We use a mid-market exchange rate cutting out all intermediaries and providing the best possible value for our customers. Rates are changing on a daily basis or a few times during a day depending on the volatility of the currency exchange markets. However, you will see the amount you are sending and the exact amount your recipient will receive before making a transaction. This rate stays fixed after you complete your transaction to guarantee that your recipient will receive the exact amount promised.
+Paysend is a new generation money transfer platform on a mission to change how money is moved around the world.
+We have designed a solution that sends money faster, safer and easier for only £1, €1.50 or $2.
+No more cash, no more complicated forms to complete, no more bank account numbers, no more queuing and long trips to pick up the transfer. Just the 16-digit VISA or Mastercard number. Once you try us, you will never go back to transferring money the old way.
+Today we send money to over 70 countries and this list just keeps growing. We provide easy, fast, low-cost and convenient service to our customers around the world. Register now and start sending either from a website or via our mobile app.
+Paysend is a trading name of Paysend plc, registered in Scotland, United Kingdom. Company number SC376020. Registered office: Cluny Court John Smith Business Park, Kirkcaldy, Fife, KY2 6QJ. Paysend plc is authorised and regulated in the United Kingdom by the Financial Conduct Authority, (FCA), Number 900004.
+Paysend is a registered ‘Visa Direct’ and ‘Mastercard MoneySend’ originating institution. All ‘transactions’ and ‘data’ are secured at the highest PCI DSS level 1 standards.
+We charge a flat fixed fee per transfer regardless of the amount sent. Only £1 from the United Kingdom, €1.50 from Eurozone, $2 from the USA, $3 from Canada, 9 AED from United Arab Emirates, 49 RUB from Russia. For the full list of countries and fees check the calculator at the top of the landing page.
+Transfers in Paysends system are processed immediately, while the delivery time depends on the recipient’s bank. In most cases money is delivered within minutes, rarely taking up to 3 business days depending on the recipient’s bank in the receiving country.
+We transfer funds directly to recipients cards in more than 70 countries. We are adding new destinations for sending and receiving money on a regular basis - for the up-to-date list please check How it Works section - About Paysend - Supported Countries or click here
+You need only your mobile phone number to register with Paysend. Please use mobile number of the country of your residence where you will be sending money from. You can register either through the website or our mobile app. See How it Works section - Getting Started - Sign Up and log in for more details.
+Currently you can send a transfer to Visa and Mastercard cards for the majority of countries. You can also send transfers to UnionPay cards in China. We are working hard to add other card types.
+Keeping your money safe is our top priority. Paysend is fully compliant with a local regulation and requirements of countries where both senders’ and recipients’ cards are issued. We are also compliant with standards and rules of the international payment schemes - Visa Inc. and Mastercard Worldwide.

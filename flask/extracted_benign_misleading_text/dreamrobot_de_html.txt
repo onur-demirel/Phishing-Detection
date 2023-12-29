@@ -1,0 +1,105 @@
+DreamRobot ist die cloudbasierte Warenwirtschaft für Ihren Onlinehandel
+DreamRobot verbindet alle Prozesse Ihres Onlinehandels zentral und cloudbasiert in einer Software. Angefangen vom Verkauf auf Vertriebskanälen wie Amazon, eBay, real.de und in Ihrem Onlineshop, über die vollständige Auftragsabwicklung, bis hin zum Versand inklusive digitaler Kundeninformation und das alles in Echtzeit. Durch die Pick & Pack-App sparen Sie zusätzlich Zeit und behalten den Überblick.
+Natürlich haben wir auch an Ihren Wareneinkauf und Ihren Lagerbestand gedacht. Verwalten Sie Ihre Nachbestellungen und Lieferanten direkt in DreamRobot. Durch die Lager-History wir dabei jede Warenbewegung festgehalten.
+Sie erhalten zusätzlich die perfekte Finanzübersicht für Ihr Business und bereiten dank integrierter Kontenpläne Ihre Buchhaltung auch schon vor. Zusätzlich stehen Ihnen vordefinierte Exporte und direkte Schnittstellen zur Verfügung.
+Verbinden Sie ab jetzt alle Funktionen einer WaWi mit Ihrem Multichannel-Vertrieb
+Ab jetzt heißt es:
+Automatisieren
+- Automatisierung vieler Geschäftsprozesse
+- Schneller Zugriff auf alle relevanten Daten dank cloudbasierter Software
+- Automatischer Abgleich von Zahlungseingängen
+- Automatischer Versand von konfigurierbaren E-Mails
+- Tagesablauf über nur 5 Buttons vom Auftragseingang bis zum Versand
+- Verwaltung von Lieferanten, Preisen und Herstellernummern
+Abwickeln
+- Perfekt vernetzt mit allen Vertriebskanälen, Shopsystemen und Fullfillmentanbietern
+- Übersichtliche Auswertungen und Statistiken
+- Stücklisten und reservierte Bestände
+- Schnell und fehlerlos picken und packen per App
+- Wareneinkauf und Lieferantenbestellung inklusive
+- Aufträge vollautomatisiert an diverse Versanddienstleister übergeben
+Profitieren
+- Multichannel ohne Überverkäufe
+- Anbindung an alle wichtigen Marktplätze, wie amazon, ebay, real, idealo, etsy, rakuten ...
+- Shop-Plugins für Shopware, PrestaShop, WooCommerce, Gambio etc.
+- Anbindung an gängige Versanddienstleister, wie DHL, DPD, Hermes, GLS, Deutsche Post ...
+- Für noch mehr Vorteile haben wir Schnittstellen zu SellerLogic, PayPal, diversen Geschäftskonten ...
+Alle wichtigen Tools in einer Software, von Multichannel bis zur Warenwirtschaft!
+Überzeugen Sie sich selbst vom Funktionsumfang unserer cloudbasierten Komplettlösung.
+Ab jetzt können Sie alle Aufgaben und Arbeitsschritte vereinfacht, bündelt, größtenteils automatisiert und dabei die volle Übersicht behalten.
+Connectoren
+Anbindung Ihres Shopsystem in Rekordzeit.
+- Zur Anbindung Ihres Shopsystems
+- Übertragung von Bestellungen
+- Aktualisieren des Versandstatus von Bestellungen
+- Aktualisieren von Lagerbeständen im Shop
+Auftragsverwaltung
+Automatische Prozesse, um Ihren Handel sofort zu optimieren.
+- Optionale Zusammenfassung
+- Statusmakierung
+- Landalarm
+- Übersichtliche Darstellung
+- Inkl. Aufgabennotizen für Mitarbeiter
+Pick & Pack
+Weniger Fehler beim Packen für höchste Kundenzufriedenheit.
+- Verwaltung diverser Packstationen in Ihrem Warenlager
+- Gleichzeitiges Arbeiten an verschiedenen Endgeräten
+- Aufteilung von Pick- und Pack-Vorgängen
+- Etikettendruck über eine externe Maske
+Versandabwicklung
+Vorfreude und klare Information für Ihre Kunden.
+- Versandetiketten für Bestellungen in Stapelbearbeitung drucken
+- Anbindindung an alle gängigen Versanddienstleister
+- „Ware ist unterwegs!“ Mail für perfekte Kundenkommunikation
+So einfach geht es mit DreamRobot
+Ab jetzt läuft der erfolgreiche Multi-Channel-Handel in nur 5 Schritten
+1. Verkauf
+Listen Sie Ihre Waren auf allen Verkaufsportalen und Marktplätzen.Mit DreamRobot ist das Anbieten von Waren auf Amazon, eBay, real.de, Rakuten, Allyouneed und vielen anderen Orten kinderleicht.
+2. Zahlung
+Bieten Sie Ihren Kunden vielfältige Zahlungsmöglichkeiten und behalten Sie stets den Überblick über Ihre Zahlungseingänge!
+3. Pick & Pack
+Ob allein oder im Team – mit DreamRobot wird jedes Paket korrekt gepackt!
+4. Versand
+DreamRobot bereitet direkt die Versandetiketten vor, die dann in nur einem Arbeitsschritt ausgedruckt werden können. Natürlich gehen alle Daten auch gleich zum gewünschten Versanddienstleister und …
+5. Fertig!
+Ihr Kunde wird automatisch über den Versand informiert und Sie können sich zurücklehnen.
+Diese jährlichen Zahlen sprechen für sich!
+über
+1 Mrd.
+Euro Transaktionsvolumen
+über
+25 Mio.
+abgewickelte Aufträge
+über
+10 Mio.
+verwaltete Lagerartikel
+über
+20 Mio.
+archivierte Rechnungen
+Flex-Tarif
+Wir haben für jeden Bedarf den passenden Tarif
+First Class-Features für Start-Ups.
+Der Flex-Tarif* ab 0,00 €!
+* Nur für Neukunden, die sich mit diesem Account registrieren. Ein späterer Wechsel ist nicht mehr möglich.
+Keine Katze im Sack! Unverbindlich, offen und kostenlos!
+Es ist keine Kündigung erforderlich, und eine unerwünschte Umwandlung in einen kostenpflichtigen Vertrag gibt es bei uns nicht!
+Am Ende der 14-tägigen Testzeit liegt die Entscheidung bei Ihnen. Nur wenn DreamRobot Sie überzeugen konnte und Sie es ausdrücklich wünschen, beginnt die dauerhafte Nutzung im Tarif Ihrer Wahl. Also: Testen Sie unsere Software in aller Ruhe, ohne Zeitdruck, kostenlos und ganz unverbindlich!
+ab 9,95€ mtl.
+bis zu 500 Aufträge mtl. inkl.
+bis zu 5.000 Lagerartikel inkl.
+- 2 Portal-Accounts
+- 2 Benutzer
+ab 49,95€ mtl.
+bis zu 5.000 Aufträge mtl. inkl.
+bis zu 50.000 Lagerartikel inkl.
+- 4 Portal-Accounts
+- 4 Benutzer
+ab 299,00€ mtl.
+bis zu 50.000 Aufträge mtl. inkl.
+unbegrenzt viele Lagerartikel inkl.
+- 8 Portal-Accounts
+- 8 Benutzer
+- Premium-Support
+- Bankmodul
+- 1x DR-Webshop (.de Domain)
+- Seriennummernverwaltung

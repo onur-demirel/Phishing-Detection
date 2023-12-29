@@ -1,0 +1,33 @@
+Welcome to Vector
+For 30 years, Vector has been your competent partner for the development of automotive electronics. Driven by our passion for technology, we develop solutions that help engineers to manage their demanding tasks. At 26 locations around the world, more than 2,500 Vectorians support manufacturers and suppliers of the automotive industry and related industries with professional solutions. Vector tools, software components and services help to develop the mobility of tomorrow: for example, in electromobility, safety and security, ADAS and autonomous driving, AUTOSAR Adaptive and many other topics.
+Application Areas
+Vector provides reliable products and solutions that simplify your complex tasks in different application areas:
+Tools and services for diagnostics
+Designing and developing networks and networked ECUs
+Tools and services for ECU calibration
+Embedded software and communicaton ECUs
+Measurement technology
+Tools and services for testing of ECUs and entire networks
+Trends
+Vector is your competence provider and know-how partner for the development of sophisticated automotive electronics around trends and topics of today, tomorrow and beyond:
+Advanced Driver Assistance Systems
+Connectivity and Car2x/V2X Systems
+AUTOSAR Adaptive
+Automotive Cyber Security
+Automotive Ethernet
+Functional Safety / ISO 26262
+News
+Events
+You want to gain an overall impression of the features and benefits of our solutions? Or personally discuss your individual requirements with our experts? Then visit us at a trade show, conference or special event.
+- 2019-10-31 Ethernet UserDay 2019
+- 2019-10-31 Vector TechDay São Paulo
+- 2019-11-04 Training: Software Product Management
+- 2019-11-05 Training: Agile Requirements Engineering, IREB RE@Agile
+- 2019-11-05 - 2019-11-06 Produktmanagement für erfolgreiche Software- und IT-Produkte
+- 2019-11-06 - 2019-11-07 Training: Automotive SPICE
+- 2019-11-06 - 2019-11-07 2. International VDI Conference - Charging Infrastructure for...
+- 2019-11-07 Safety meets Security
+- 2019-11-12 Training: Change Management
+- 2019-11-13 - 2019-11-15 Training: Funktionale Sicherheit mit ISO 26262
+Career
+Some of the most interesting jobs on this planet definitely belong to the automobile industry of the future. Vector continues to write its success story as it continues to grow and expand. That is why we need to further strengthen our team. Find out more about your prospects at one of the best employers in the world on our career website.

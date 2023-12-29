@@ -1,0 +1,70 @@
+👋 Welcome to App Center.
+Continuously build, test, release, and monitor apps for every platform.
+App Center is awesome for:
+iOS apps
+Swift and Objective-C
+Android apps
+Java and Kotlin
+Windows apps
+UWP, WPF and WinForms
+React Native apps
+iOS and Android
+Xamarin apps
+iOS and Android🎉
+Even more!
+macOS, tvOS and Cordova
+Connect your repo, build your app. It’s that simple.
+Connect to GitHub, Bitbucket, or Azure DevOps and build your app in the cloud on every commit.
+Automatically run unit tests, release to testers and stores, or test your UI on real devices.
+Easy setup
+Connect your repo and pick a branch. App Center analyzes your code to suggest a build configuration. iOS or Android? You bet! React Native? No sweat! Windows? Certainly.
+Commit → Build → Test → Release
+Commit to a feature branch to build and test. Commit to a beta branch to distribute to testers. Commit to master to submit to the App Store. Customize to fit your team’s workflow.
+Find bugs on any device before release.
+Does your app still work after your latest change? How does it perform on an LG G2? Find out by testing your app in a hosted device lab with 1000s of real iOS and Android devices. You’ll receive test results, full-resolution screenshots of every step, along with performance metrics.
+Test every step of every feature. On every device. On every commit.
+Welcome to the future of app testing.
+Ship fixes and enhancements as fast as you build them.
+Whether you prefer private distribution, public open betas, Microsoft Intune, TestFlight, Google Play, or the App Store, App Center makes releasing your app a delight.
+Automate your release process
+Specify a group of testers or create an open beta recruitment page. Connect that group to a branch to automatically send updates whenever code is merged.
+Promote validated builds to app stores
+Once you’ve beta tested a release candidate, promote the same build directly to Intune, Google Play, or App Store Connect. App Center tracks your builds through every release.
+Diagnostics: Crash reports so nice, you’ll
+almost want your app to crash.
+Integrate the App Center SDK for automatic crash reporting. Build your app in App Center, and get automatic symbol management for richer reports.
+Crash reports are grouped by common cause, highlighting the relevant stack frame so you can locate errors
+by file and
+line number. Search specific users' crashes and browse individual reports for event breadcrumbs and custom data attachments.
+App analytics, made for developers.
+Developer-friendly analytics make it easy to discover how to improve your apps.
+Live analytics for sessions, events, crashes, and more
+See streaming activity for sessions and events immediately, and collect metrics that become more useful over time.
+Who? What? Where? When? Why? How?
+Is your audience growing? What devices and operating systems are most common? What features are popular? Get straightforward answers to the questions you care about.
+Engage users tastefully with App Center Push.
+Optimize your app’s user experience with timely push notifications and data updates.
+Easily send push notifications
+Create a new push notification, give it a title, message, and target audience, and you’ll be engaging users in no time.
+You’re in good company.
+These companies already use App Center.
+You’ll go a long way, for free.
+-
+Build: 240 build minutes per month
+-
+Test: Free 30 day trial
+-
+Distribute: Unlimited distributions and users
+-
+Analytics: All features included
+-
+Crash Reporting: All features included
+-
+Push Notifications: Up to 5 audience segments
+Pay as your app grows.
+Add concurrent builds as your team grows
+Ship your app faster with multiple builds running in parallel.
+per build concurrency
+Test on more devices in parallel
+Run UI test on thousands of real devices and hundreds of configurations.
+per standard device concurrency

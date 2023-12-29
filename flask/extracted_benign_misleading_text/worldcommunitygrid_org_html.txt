@@ -1,0 +1,67 @@
+What if
+What if you could
+study bacteria
+while tweeting? What if you could help
+treat childhood cancer
+while watching video? What if you could help
+cure Zika
+while listening to music? What if you could help
+treat HIV/AIDS
+while posting a status update?
+Introduction
+Accelerate research with no investment of time or money.
+When you become a World Community Grid volunteer, you donate your device’s spare computing power to help scientists solve the world’s biggest problems in health and sustainability.
+World Community Grid is currently accepting donated power from Windows, Mac, Linux and Android devices.
+How it works
+-
+Challenge
+Scientists need help
+They’re searching the microscopic world for answers to our biggest problems, but it’s hard to know where to start. That’s why many use computer simulations to point them in the right direction, just as explorers rely on maps to find their way.
+Finding answers is tough, and without more computers, doing scientific research can be a bit like exploring with an incomplete map
+-
+Solution
+Your device makes a difference
+World Community Grid turns your device into an explorer. You choose a research area, download a toolkit called BOINC and join the thousands of volunteers helping to chart the microscopic jungle.
+-
+Impact
+Get results that matter
+Results that matter.
+As a World Community Grid volunteer, your device does research calculations when it’s idle, so just by using it as you do every day, you can help scientists get results in months instead of decades. With your help, they can identify the most important areas to study in the lab, bringing them one step closer to discoveries that save lives and address global problems.
+Impact
+Current Projects
+Your device could help...
+...understand how the bacteria in our bodies may help cause disease.
+Researchers are using World Community Grid for a comprehensive study of the human microbiome, the trillions of bacteria in and all over our bodies.
+Your device could help...
+...find better ways to detect and treat cancer.
+Two research groups are using World Community Grid to fight some of the most common and deadly types of cancer in adults and children.
+Your device could help...
+…fight the Zika virus.
+Through an international collaboration, researchers are looking for drugs to combat the Zika virus, which can cause severe neurological problems.
+Your device could help...
+…fight tuberculosis (TB).
+Researchers are building an understanding of the TB bacteria's defenses, to help overcome one of the world's deadliest diseases.
+Your device could help...
+…identify more effective HIV/AIDS treatments.
+Researchers are searching for new antiviral drugs to control the progression of HIV, prevent the onset of AIDS and prolong life.
+Performance
+Unobtrusive
+It won't slow you down.
+Our software monitors your device’s performance, so whatever you are doing on your device, it stays out of the way.
+Efficient and hassle free
+It won't drain your battery.
+By default, World Community Grid only runs when you’re connected to power.
+IBM secured, community trusted
+As a volunteer, you’re totally protected.
+Your personal information will never be shared.
+The software cannot access your personal files.
+Security experts constantly test the system for vulnerabilities to the latest threats.
+Intelligent and considerate
+It won't use up your mobile data plan.
+World Community Grid only downloads research tasks and uploads results when you’re connected to a wireless network.
+Testimonials
+Who’s talking about us:
+Comparisons
+While you were learning about World Community Grid…
+…your device could have analyzed
+6 potential cancer signatures

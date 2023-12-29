@@ -1,0 +1,2 @@
+Payment Gateway service is one of E-Commerce milestones in general and in State of Kuwait in particular. Knet introduced this solution in the year 2004 as a new payment method through payment gateway. The Payment Gateway allows (Private and Public) institutions to collect funds for their products and services over the Internet.
+Knet Payment Gateway accepts all debit cards issued by its member banks in the State of Kuwait in a bid to serve the customers and merchants of those banks. The payment service is provided through internet for all government and private entities.

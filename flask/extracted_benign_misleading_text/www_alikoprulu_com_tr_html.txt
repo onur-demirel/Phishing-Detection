@@ -1,0 +1,20 @@
+DotNetCore.1.0.0-VS2015Tools.Preview2 setup failed
+Microsoft'un heryerde olayım anlayışı ile çıkan .Net Core ön izleme [...]
+Use of undefined constant fs_chmod_file hatası
+Son tema güncellemesinden sonra küçük bir hata oluşmuş Google kayıt [...]
+WordPress PhpMyAdmin’den Site URL’si Değiştirme
+Yerel makinanızda yada sanal makinanızda hazırlamış olduğunuz Wordpress sitenizi sunucuya [...]
+Anakarta Gömülü Windows Şifresi Öğrenme – ShowKeyPlus
+Dizüstü bilgisayar, E-book, yada hazır masaüstü sistem de olabilir. Bilgisayara [...]
+More than one context type was found in the assembly ‘ProjectName’ Hatası
+MVC EF kullanırken kaçınılmaz kodumuz "enable-migrations" olacaktır Tabi daha [...]
+A network-related or instance-specific error occurred while establishing a connection to SQL Server hatası
+"A network-related or instance-specific error occurred while establishing a connection [...]
+Sandisk Extreme 32GB USB Bellek
+Firmanın verdiği kutu üstü teknik verilere göre 245Mb/s okuma ve 100Mb/s [...]
+Bilgisayarı/Windows’u otomatik kapatma
+Bilgisayarınızın bir süre açık kaldıktan sonra otomatik olarak kapanmasını istiyorsanız [...]
+Windows’un Makineye Kurulduğu Tarihi Öğrenme
+Windows'un kurulduğu tarihi öğrenmek isteyebilirsiniz, ben zaman zaman format(biçimlendirme) attığım [...]
+Kod Depolama ve Kod Paylaşım Sistemleri
+C# MVC kodlarını blog da paylaşmak için yaptığım araştırmalar da [...]

@@ -1,0 +1,35 @@
+解锁流媒体 以 Netflix 为例来简单介绍下 方案以 iptables dnsmasq ipset shadowsocks-libev 为主要工具
+首先我们需要一些必备条件：
+接下来我以解锁 Netflix 来示例，想解锁所需要的服务，只要有可以解锁的服务器就可以。
+- 若干台vps服务器 至少两台，一台可以看，这里设定为 vps a， 一台不能看 vps b；
+- 采取方案是 dnsmasq iptables ipset分流方案
+接下来说实现方法，我习惯用 debian，ubuntu，所以用它们做例子。
+安装 dnsmasq
+sudo apt install dnsmasq
+安装 ipset
+sudo apt install ipset
+配置 dnsmasq
+# /etc/dnsmasq.conf conf-dir=/etc/dnsmasq.d #配置文件夹 listen-address=127.0.0.1 #dns 服务监听地址 no-resolv #不再读取 /etc/reslov.conf server=1.1.1.1 #上游dns服务器 server=8.8.8.8 server=9.9.9.9 server=x.x.x.x #在可观看netflix的地址搭建dns转发服务，此为解锁vps dns服务地址 resolv-file=/etc/dnsmasq.resolv.conf #dns 上游服务器设置 cache-size=30000 #缓存大小 no-negcache log-queries #日志记录 log-facility=/var/log/dnsmasq.log server=/netflix.com/x.x.x.x #此处为解锁Netflix的服务器dns server=/netflix.net/x.x.x.x server=/nflxext.com/x.x.x.x server=/nflximg.com/x.x.x.x server=/nflximg.net/x.x.x.x server=/nflxso.net/x.x.x.x server=/nflxvideo.net/x.x.x.x
+ps: /etc/resolv.conf
+注意设定为：
+nameserver 127.0.0.1 把nameserver 交给本地 dnsmasq dns server
+配置 shadowsocks-libev-redir
+# /etc/shadowsocks-libev/ss-redir.json { "server":"10.0.8.3", "server_port":66666, "local_port":10808, "password":"password", "local_address":"127.0.0.1", "timeout":600, "method":"chacha20-ietf-poly1305", "mode":"tcp_and_udp", "fast_open":true, "plugin":"obfs-local", "plugin_opts":"obfs=tls;fast-open" }
+- 配置 iptables 转发，由于只需要代理网飞这类流媒体，所以只需要转发 tcp流量就行了。
+#!/bin/bash
+# 创建 Netflix ipset
+ipset -N netflix hash:net
+# iptables 转发规则
+iptables -t nat -A SHADOWSOCKS -d ‘解锁Netlfix vps地址’ -j RETURN
+iptables -t nat -N SHADOWSOCKS
+iptables -t nat -A SHADOWSOCKS -d 0.0.0.0/8 -j RETURN
+iptables -t nat -A SHADOWSOCKS -d 10.0.0.0/8 -j RETURN
+iptables -t nat -A SHADOWSOCKS -d 127.0.0.0/8 -j RETURN
+iptables -t nat -A SHADOWSOCKS -d 169.254.0.0/16 -j RETURN
+iptables -t nat -A SHADOWSOCKS -d 172.16.0.0/12 -j RETURN
+iptables -t nat -A SHADOWSOCKS -d 192.168.0.0/16 -j RETURN
+iptables -t nat -A SHADOWSOCKS -d 224.0.0.0/4 -j RETURN
+iptables -t nat -A SHADOWSOCKS -d 240.0.0.0/4 -j RETURN
+iptables -t nat -A SHADOWSOCKS -p tcp -m set --match-set netflix dst -j REDIRECT --to-port 10808
+iptables -t nat -A SHADOWSOCKS -p tcp -j RETURN
+iptables -t nat -A OUTPUT -p tcp -j SHADOWSOCKS

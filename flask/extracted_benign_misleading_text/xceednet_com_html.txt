@@ -1,0 +1,19 @@
+Internet Subscriber Management
+Manage your internet subscribers at homes, offices, hotels, educational institutes, restaurants, cafes.
+100% Cloud based solution
+No need of expensive servers and No need of installation. Just connect your router to our cloud based Radius service hosted on AWS (amazon.com) and you are ready to manage your internet subscribers!!
+Instant Setup
+Just call us at any number given below and we will setup your account in few minutes. We can also upload your customer data for you.
+Bandwidth Management Solutions
+for Internet Service Providers and WiFi HotSpot Operators
+Call us to find out how you can save at least 20% operational cost you are currently spending on customer management infrastructure by switching from an on-premise server based software to our 100% cloud based solution.
+Features
+Bandwidth Control
+Invoice & Payments
+Reports
+Hotspot Management
+Vouchers
+Create Customized Data Packages Customer Billing & Payment tracking Detail Reports WiFi Hotspot Management Generate PINs/Vouchers for new customers or renewals
+About Us
+Managing small to a large network of Internet Subscribers made easy. You can be a large internet service provider (ISP) or a restaurant owner providing free wifi access to your customers. All you need to install at your end is MikroTik router. Our cloud-based software will take care of the rest. Manage Bandwidth, Create data plans, generate invoices, track payments, track customer complaints with easy to use interface.
+For Internet Service Providers, retaining customers and growing business has become a challenge in today’s cut-throat competition. Customer’s expectations are skyrocketing and the package rates are dropping every day. Customers are not only demanding high speed but are also expecting maximum up time. Managing these expectations with available staff and resources is only possible with the help of a software designed specifically for ISP industry.

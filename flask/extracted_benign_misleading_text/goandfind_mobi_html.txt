@@ -1,0 +1,26 @@
+Locate a mobile phone
+Track a mobile phone regardless of the operator they choose by using our geolocation service and find out where the person you are targeting is located. The geolocation system requires prior consent of the user, in accordance with the AEPD regulation.
+In accordance with legislation
+This service is offered in compliance with the recommendations of the Information Commissioner’s Office. Geolocation will activate only with the consent of the person sought.
+Precise geolocation
+Once the person´s number is assigned to the interface, our technology is implemented with a minimum margin of error. Our strength lies in the precision of our system. Once the desired mobile phone is locate, you will receive its precise location in form of a mapping.
+Choice of confidentiality
+You are free to either request geolocation anonymously or to identify yourself. If you do an anonymous request, the person sought will not know the identity of the applicant. On the other hand, in case of an identified request, the person sought will be aware of the identity of who wishes to geolocate her. No online exchange will be made, all information is handled by our geolocation service.
+Price
+Our geolocation service is a payment service with a € 0.50 trial for one day. In case you do not cancel your subscription, it will be renewed automatically and you will be charged € 39.99 per month.
+Geolocation
+24h trial - Without Permanence
+- Precise geolocation
+- All Operators
+- All mobile phone brands
+- Worldwide Coverage
+Steps to carry out geolocation
+In order to accede geolocation on the number sought, an SMS with a URL will be sent.
+For the service to be supplied, the person to be geolocated must be connected to the internet and have enabled the location parameter on his mobile. We then retrieve the user´s consent and his exact geographical position. The result is directly sent via sms to the applicant. The feedback is done via a mapping system that will locate the mobile phone sought within a few meters radius. The map is suitable o allow you to zoom in or display the street names.
+- Enter the phone number of the person to be geolocated, your identity (optional) and your email.
+- Make your payment by credit card (secured payment).
+- Enter your phone number to receive the geolocation feedback.
+- Validate the information.
+- Receive the sms on your mobile phone showing feedback on geolocation.
+The service cannot operate if the cell phone is switched off, however as soon as the user turns his phone on, our location search will activate. The applicant will also be informed of geolocation and time at which the position was detected.
+Please note that according to the Information Commissioner’s Office and in conformity with the regulations applicable to the data collected, geotagging involves the collection and processing of personal data, therefore the service is subject to regulations on the protection of privacy. Thus, our service has the duty to respect the legal obligations that are required and in particular obtain the prior consent of the user.

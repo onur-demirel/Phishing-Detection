@@ -1,0 +1,27 @@
+How to add CSS to HTML
+A tutorial explaining the pros and cons of the four main methods of adding CSS to HTML
+Welcome to my website. This is where I bring together my biggest passions in life; art and design... I hope you enjoy my work. - Matt =)
+A tutorial explaining the pros and cons of the four main methods of adding CSS to HTML
+ALWAYS use top margin when spacing block-level elements in CSS layouts. Read more to find out why.
+A house plan that responds to the width of your browser window
+How synesthesia helps me find four and five leaf clovers
+Introducing an awesome fractal drawing tool by Toby Schachman: recursivedrawing.com
+Introducing flexible HTML5 banner ads for your responsive layouts
+A free iPad optimised website layout that changes design when the device is rotated
+How to make starbursts without images: a CSS3 tutorial
+A detailed article explaining how to add drop-down submenus to my centered menus
+A neat CSS trick that turns ordinary images into a fuzzy, pixelated CRT screen
+An experimental website layout using the CSS hover pseudo-class and plain XHTML
+An animated Reddit alien logo I created from pure CSS and text
+Commentary on the latest developments in Microformats and their adoption by Google
+If your launching a brand new website that no-one knows about yet then try these great indexing tips
+This is a great little SEO trick for your navigation bar that will work for almost every website and particularly larger websites
+A step by step tutorial explaining how to create multicolumn layouts with divs and CSS where every column is the same height
+A new version of my 3 column liquid layout that does not use quirks mode or IE conditional comments
+A simple cross-browser method of centering tabbed menus with pure CSS and no hacks.
+An unusual web page design that is the inverse of the Holy Grail liquid-layout.
+A simple CSS tutorial showing how to change between fixed-width and liquid-layouts with the use of a container div
+A new series of solid layouts that use pixel and em widths for columns. SEO friendly. No CSS hacks. Free for anyone to use.
+Can't afford a MacBook Air? Print out one for free!
+A simple way to use clean rewritten URLs directly from posted forms without JavaScript
+Environmentally friendly Christmas lights that are fun and interactive

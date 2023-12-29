@@ -1,0 +1,34 @@
+Where they can place orders, see orders history, add funds to balance, submit support tickets, etc.
+Seamlessly integrates with PayPal, Skrill, WebMoney, Perfect Money, Payza, Bitcoin, etc.
+Connect any APIs for automated orders processing or manage orders manually.
+Set any currency. Change site language. Chose theme. Edit content, menu, SEO attributes and other options.
+Easy-to-integrate API for your customers.
+Manage users, services, orders, tickets. Configure automation. Review stats. And many more.
+Lets you see what your staff are doing.
+Fully customisable themes.
+Add-on for auto likes, auto views, auto retweets, etc.
+Cheap panels for your customers.
+Based on fraud reports history.
+Edit DNS-records yourself.
+Notifies you by email, Skype, Telegram.
+|Plan A
+|up to 1000 monthly orders
+|$50 per month
+|Plan B
+|from 1000 to 5000 monthly orders
+|$75 per month
+|Plan C
+|from 5000 to 15000 monthly orders
+|$100 per month
+|Plan D
+|from 15000 to 50000 monthly orders
+|$150 per month
+|Plan E
+|from 50000 to 100000 monthly orders
+|$200 per month
+Username: demo
+Password: demo
+No. There is no setup fee.
+Yes. You should use an existing domain that you own.
+No. All plans include secure, unlimited hosting.
+No, we don't sell any SMM services.

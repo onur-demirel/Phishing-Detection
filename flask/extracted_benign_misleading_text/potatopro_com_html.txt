@@ -1,0 +1,106 @@
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|CookieConsent
+|potatopro.com
+|Stores the user's cookie consent state for the current domain
+|1 year
+|HTTP
+|device
+|potatopro.com
+|This cookie reports to the PotatoPro server if the user is viewing the content on a desktop, tablet or phone so the server can send the matching content
+|1 day
+|HTTP
+|device_type
+|potatopro.com
+|This cookie reports to the PotatoPro server details of the device the content is watched on (e.g. brand, model)
+|1 day
+|HTTP
+|has_js
+|potatopro.com
+|Registers whether or not the user has activated JavaScript in the browser.
+|Session
+|HTTP
+|SSESS#
+|potatopro.com
+|Pending
+|23 days
+|HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+|We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|__cfduid
+|onesignal.com
+|Used by the content network, Cloudflare, to identify trusted web traffic.
+|1 year
+|HTTP
+|_ga
+|potatopro.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|2 years
+|HTTP
+|_gat
+|potatopro.com
+|Used by Google Analytics to throttle request rate
+|1 day
+|HTTP
+|_gid
+|potatopro.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|1 day
+|HTTP
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|test_cookie
+|doubleclick.net
+|Used by Google DoubleClick to check if the user's browser supports cookies.
+|1 day
+|HTTP
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+|pcs/activeview
+|googlesyndication.com
+|This cookie reports back to DoubleClick for Publishers (DFP) that an ad was properly displayed in the browser
+|Session
+|Pixel
+|GoogleAdServingTest
+|potatopro.com
+|Used to register what ads have been displayed to the user.
+|Session
+|HTTP
+|__ab12#
+|potatopro.com
+|Pending
+|2 years
+|HTTP
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|multilink_pl
+|potatopro.com
+|Pending
+|1 day
+|HTTP

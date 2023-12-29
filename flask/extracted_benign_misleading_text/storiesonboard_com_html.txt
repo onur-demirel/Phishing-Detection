@@ -1,0 +1,34 @@
+Catch the right requirements
+Keep customers involved in the whole process
+Visualize user personas and their goals on a user story map
+Build a backlog that everybody understands
+Communicate the big picture intuitively
+Have a 360 degrees view of your features list
+Of all the products with some sort of features for creating story maps, StoriesOnBoard surely is the one that gives the user the best experience and feel for that important and strategic work.
+Raphael
+Product Owner
+I can easily view my short term and long term plans, and share them wit my distributed team. The connection to JIRA makes getting the next batch up requirements to the dev team quick and easy.
+Jessica
+Product Owner
+One of the best story mapping tool I came across. Very easy to navigate around, manage & categorize stories, releases/milestones planning, JIRA integration, export to excel.
+Daniel
+Business Analyst
+Prioritize user stories to make better decisions
+Focus your whole team effort on the things that matter
+Release your software as early and often as possible
+Keep ideas and request in the same place
+Manage expectations with ease
+Highlight product roadmap
+Check integrations
+All leaked best practices in one place
+50 HANDPICKED HINTS
+Discover project goals
+Mapping the user journey
+Coming up with solutions
+Prioritizing user stories
+Slicing out the releases
+BONUS MATERIALS
+100 user story examples
+Templates for specs
+User story map examples
+Related articles

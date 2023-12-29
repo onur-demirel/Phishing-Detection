@@ -1,0 +1,106 @@
+Tatkal Ticket Booking
+Book your tatkal tickets automatically for FREE
+Book Tatkal ticket in just 3 Steps:
+How Tatkal For Sure Works
+Railways reservation booking online could be quite a hassle sometimes, say during festivals. And booking a tatkal train ticket is a much bigger task. After careful deliberation, we have developed Tatkal For Sure
+Tatkal For Sure comes as an Android app and as a browser plugin which can help you with tatkal auto-booking feature and you can now book tatkal ticket within moments. So, the next time a train traveller wants to book a tatkal ticket for sure, you can just use Tatkal For Sure. It would autofill the details for you and book confirmed ticket.
+Check the video for more details:
+Features
+Frequently Asked Questions
+IRCTC tatkal tickets are meant for last minute or immediate plans. Tatkal ticket booking opens at 10 a.m. for AC class and at 11 a.m. for non-AC class one day in advance from the actual date of starting point of the train. For example, for a train leaving on 7th from Bangalore Railway Station, railway tatkal booking timing 10 a.m. for AC class and 11 a.m. for non-AC class on 6th.
+Follow the steps to book a tatkal ticket more efficiently:
+- Keep all your IDs such as PAN card or driving license and credit card/debit card details of one of the travellers ready. This saves you a lot of time at the time of booking.
+- Login to IRCTC website 5-10 minutes before the booking starts and check the train timetable.
+- Choose the origin and destination, choose the date enter the ticket type and then click on 'Find Trains'. Or better still, you can have all these details written down on a notepad and then copy-paste to save time.
+- Select quota as Tatkal and click on Book Now.
+- Enter passenger details and click 'Next'. This takes you to payment.
+- Use the relevant payment option (Netbanking or credit/debit card). Make sure you have your phone with you to receive OTP and enter it. This completes the process to book a tatkal ticket.
+Please note: A maximum of 1 ticket (maximum of 4 passengers per ticket) from one user account can be booked in tatkal.
+Alternatively just use this Tatkal auto book extension script which would automatically book it for you.
+Tatkal For Sure is a mobile app and chrome extension, which helps ease the process of tatkal ticket booking by autofilling the details and booking the tatkal ticket on the IRCTC website for you with respect to railway tatkal timing. This is a fast tatkal ticket booking software that would take input details from you like IRCTC username, password, journey details, passenger details and payment mechanism. It would then autofill these details during the Indian railways tatkal timings on IRCTC website which are 10:00 am for AC class and 11:00 am for NON-AC Class. The captcha even if you enter all small it would auto capitalise saving you precious time. This would only book confirmed tickets for you as it first checks for IRCTC tatkal seat availability and accordingly books the ticket. Tatkal For Sure supports all major payment options and very soon, it will add the new payment options, buy now- pay later, just like IRCTC. You can also check PNR status without any extra efforts at Tatkal For Sure.
+Tatkal For Sure is faster and more efficient. Your tatkal train tickets will be booked within seconds, most other apps and extensions like Tatkal Ticket Now and Book Tatkal. After all, timing of tatkal ticket is crucial and we understand this well.
+Tatkal For Sure is the highest rated extension for tatkal ticket booking. With over 100K active users and over 4.78 star rating, Tatkal For Sure lives up its reviews. Click on the following link to check out the reviews:
+Other extensions like Tatkal Ticket Now and Book Tatkal face problems frequently and tickets don't get confirmed all the time. Worse, customers' money gets deducted and their tickets remain in waiting list. On the contrary, Tatkal For Sure never lets you miss out on your trains. And bookings are not random. Tatkal For Sure first enquires for IRCTC railway tatkal seat availability before attempting to book. Once the train seat availability in tatkal is confirmed, your tickets always get confirmed and in seconds!
+TatkalNow or tatkal now is operated by a different company. We have no affiliation in any way to Tatkal now. We at Tatkal for sure have always believed that the best things in life are free. And we are on a mission to help users to ease their commerce problems one of them which is tatkal ticket booking.
+No. Tatkal For Sure first makes a check for tatkal train ticket availability before booking. Once tatkal reservation availability is confirmed, it proceeds with booking.
+Don't you worry about that. Booking never stops during the payment process on Tatkalforsure. You may face such problems on other extensions like Tatkal Ticket Now and Book Tatkal. Many users have suffered through it and missed their bookings. Check out their user reviews.
+Tatkalforsure, however, first checks the seat availability in tatkal before booking. Once that is done, your tatkal tickets are booked instantly.
+Install tatkalforsure and book tatkal now!
+Sorry to know about that. You will never experience such mishap on Tatkalforsure. All it takes is one attempt to book your tatkal tickets. Tatkal Ticket Now and Book Tatkal are quite slow compared to Tatkalforsure.
+Besides, Tatkal For Sure will only book confirmed tickets for you as it first checks for Indian railway tatkal seat availability and accordingly books the ticket. So your tickets won't go to the waiting list and gets booked on the first attempt.
+We have a mobile app that does Tatkal booking. It has a much better rating than Tatkal now and other apps in this space.
+Depending upon the train seat availability in tatkal, you are allowed to book a maximum of six tickets (a maximum of 4 passengers per ticket) per month.
+Tatkal For Sure Tatkal Software does not keep any relevant user data stored on the server. All your data is locally stored on your own computer. TatkalNow or Tatkal now Tatkal Software are no way related to Tatkal for sure extension and the data policies for them maybe different.
+Yes. The Tatkal Charges have been fixed as a percentage of fare at the rate of 10% of basic fare for second class and 30% of the basic fare for all other classes subject to minimum and maximum as given in the table below.
+Tatkal Charges applicable for journey starting from 24.12.2015 onwards:
+Class of Travel Minimum Tatkal Charges (in Rs.) Maximum Tatkal Charges (in Rs.) Minimum Distance for charge(in Km) Reserved Second sitting (2S) 10.00 15.00 100 Sleeper 100.00 200.00 500 AC Chair Car 125.00 225.00 250 AC 3 Tier 300.00 400.00 500 AC 2 Tier 400.00 500.00 500 Executive 400.00 500.00 250
+You won't get a refund on cancellation of confirmed tatkal tickets. However, there is a cancellation charge for waitlisted tatkal tickets. It will be deducted as per existing Railway rules.
+No. Ladies and general quota cannot be opted along with tatkal quota.
+No. Except for first class AC, all the rest of the classes are available under tatkal quota.
+IRCTC Tatkal Auto booking is a tool to automate IRCTC Tatkal Ticket Booking. Tatkal ticket booking is painstaking and most of us end up without any booking, the autofill form helps users lessen the hassle of booking tatkal tickets. The Tatkal Autofill tool helps users to fill the form before the tatkal booking opens at 10 a.m. for AC class and at 11 a.m. for non-AC class. This increases the chance of having a confirmed ticket.
+Tatkal ticket booking consists of the following steps:
+- Entering credential details
+- Filling journey planner form Selection of the train
+- Filling the passenger details form
+- Choosing payment options and filling the relevant details
+IRCTC Tatkal Auto-fill tool helps automate each field of tatkal ticket form. Users don't have to fill any data manually at the time of booking. It would fill automatically and also book the ticket.
+No. Cleartrip, MakeMyTrip, Yatra, Ixigo - all these are agents. These agents are blocked from 8 a.m. to noon. The only way to book tatkal tickets is through IRCTC.
+This isn't true. Indian Railways authorities have confirmed that there are no new changes in the existing rules and facilities. Whether it's the tatkal booking timings or the rules and regulations pertaining to cancellations and tatkal charges. Railway officials have also made it clear that there are no current plans to do away paper tickets. Further, for passengers booking tickets online (i.e. E-Tickets) the tickets received by SMS is a valid authority for travel along with permissible proof of identity.
+This is as notified by Indian Railways:
+At the time of Tatkal ticket booking, no need for all of them to produce identity proofs. Only one passenger needs to produce any one of the following proof of identity in the original during the journey:
+- Voter Photo identity card issued by Election Commision of India.
+- Passport
+- PAN Card issued by Income Tax Department.
+- Driving Licence issued by RTO.
+- Photo identity card having serial number issued by Central/State Government.
+- Student Identity Card with photograph issued by recognized School/College for their students.
+- Nationalized Bank Passbook with photograph.
+- Credit cards issued by banks with laminated photograph.
+- Unique Identification Card 'Aadhaar'.
+- Photo identity cards having serial number issued by Public Sector Undertaking of State/Central Government, District Administration, Municipal bodies and Penchant Administration.
+Tatkal ticket booking timings of online and offline are the same. Whether you want to book a tatkal ticket online through IRCTC website or in a nearby railway station, the timing is the same: 10 a.m. for AC class and 11 a.m. for non-AC class.
+Premium Tatkal ticket is mostly similar to regular tatkal scheme, except for the dynamic fare pricing. Simply put, higher the demand, higher the price. But if there is no demand, the prices will be quite similar to regular tatkal fares. Just like Airline industry, Railways has their own mechanism of pricing based on the demand.
+Then again, it is important to note that Premium Tatkal quota is not applicable to all trains. Only a select few trains (around 80) have the option of booking under Premium Tatkal quota.
+Here are some of the salient features of Premium Tatkal (PT) quota (as given by Indian Railways):
+- New quota as Premium Tatkal (PT) Quota is being introduced by Railway with dynamic fare pricing
+- Dynamic fare stands for the fare component which may be increased with the subsequent bookings
+- Opening days booking to be allowed on/after 10:00 hrs
+- Advance Reservation Period (ARP) of Premium Tatkal ticket booking is same as Tatkal ticket booking
+- Agents will not be allowed to book tickets in this quota
+- Dynamic fare shall be charged for confirmed passengers
+- RAC/ Waitlist Ticket Booking is not allowed
+- Only E-tickets will be permitted for booking
+- I-ticket booking is not allowed with this quota
+- No concession shall be applicable in this quota
+- Child passenger will be charged with full fare
+- Identity card number of the prescribed proof of identity is required at the time of booking
+- At least one passenger should travel with his/her ID card in original which was used at the time of booking
+- No refund is given to passengers in case of cancellation of confirmed PT quota ticket
+- All rules for tatkal quota booking over internet is applicable to Premium Tatkal quota also
+One of the major benefits of Premium Tatkal quota is that it eliminates black market sellers who sell tickets to customers at exorbitant prices. With Premium Tatkal quota, customers always have a higher probability of getting tickets through railways reservations system.
+The process of booking a Premium Tatkal ticket is same as that of booking a regular tatkal ticket. If the train has the option of Premium Tatkal quota, it will show at the time of booking.
+Note: Premium Tatkal quota is not applicable to all trains. Only a select few trains (around 80) have the option of booking under Premium Tatkal quota.
+ePaylater is a Mumbai-based fintech company, which has partnered with IRCTC to give ‘buy now, pay later' service to customers. Through this service you can purchase railway tickets on IRCTC without paying at the time of transaction. You are required to make the payment within the next 14 days of purchasing the ticket.
+If you fail to pay within 14 days of buying the ticket, a penal interest at the rate of 36% per annum will be levied. It can also lead to your account deactivation and cancellation of ticket.
+Yes. A service charge of 3.50% per transaction will be applied in addition to other applicable taxes
+You will receive the payment link through SMS on your registered mobile phone number and also through email.
+The eligibility of a customer will be checked through his transaction history, social media, and other parameters.
+Yes. Through Pay on Delivery option, you can get tatkal tickets delivered at your doorstep. You can pay via credit/debit cards or cash.
+Transaction charges for Pay on Delivery facility ranges from Rs. 90 to Rs. 120 in addition to applicable charges per transaction.
+You won't be able to use eWallet between 8 A.M. to 12 P.M. Also, you can't register eWallet during this time.
+Yes. You can now book tatkal tickets using the new IRCTC app, a facility which was not available earlier.
+There is no specific number. Currently, only a portion of regular tatkal tickets converted to Premium Tatkal tickets.
+Tatkal ticket booking opens at 10 A.M. for AC class and at 11 A.M. for non-AC class one day in advance from the actual date of starting point of the train. So in your case, tatkal ticket booking starts from 10 A.M. for AC class and 11 A.M. for non-AC class on 18th August.
+Yes. It is called TQWL (which used to be CKWL earlier). If the tatkal ticket goes up, it automatically gets confirmed and doesn't go through Reservation Against Cancellation (RAC) status. While the chart is getting prepared, General Waiting List (GNWL) is usually preferred over tatkal waiting list (TQWL). Hence tatkal waitlisted tickets rarely get confirmed.
+Yes. You will get the refund if your TQWL tatkal ticket doesn't get confirmed. Only a nominal transaction charge (about Rs.11) will be deducted. If you cancel your TQWL tatkal ticket, however, 25% of your ticket price will be deducted and the remaining will be refunded.
+It usually takes up to two hours after opening the reservation / booking office.
+Indian Railway Definitions
+IRCTC tatkal tickets are meant for last minute or immediate plans. Tatkal ticket booking opens at 10 a.m. for AC class and at 11 a.m. for non-AC class one day in advance from the actual date of starting point of the train. For example, for a train leaving on 7th from Bangalore Railway Station, tatkal booking will start at 10 a.m. for AC class and 11 a.m. for non-AC class on 6th.
+Premium Tatkal ticket is mostly similar to regular tatkal scheme, except for the dynamic fare pricing. In other words, higher the demand, higher the price. But if there is no demand, the prices will be quite similar to regular tatkal fares. Just like Airline industry, Railways has their own mechanism of pricing based on the demand.
+If your train is late by more than three hours or if it's cancelled, you can file Ticket Deposit Receipt (TDR) by giving proper reasons and claim a refund.
+ePaylater is a Mumbai-based fintech company, which has partnered with IRCTC to give ‘buy now, pay later' service to customers. Through this service you can purchase railway tickets on IRCTC without paying at the time of transaction. You are required to make the payment within the next 14 days of purchasing the ticket.
+Through Pay on Delivery option, you can get tatkal tickets delivered at your doorstep. You can pay via credit/debit cards or cash.
+You won't be able to use eWallet between 8 a.m. to 12 p.m. Also, you can't register eWallet during this time.
+You can now book tatkal tickets using the new IRCTC app, a facility which was not available earlier.
+If the tatkal ticket goes up, it automatically gets confirmed and doesn't go through Reservation Against Cancellation (RAC) status. While the chart is getting prepared, General Waiting List (GNWL) is usually preferred over tatkal waiting list (TQWL). Hence tatkal waitlisted tickets rarely get confirmed.
+If you have been issued a family e-ticket for more than one passenger and in case some of their reservations are confirmed and others are in RAC or waiting list, you are allowed to get a full refund. Tickets will be cancelled online for all of them up to thirty minutes prior to the scheduled departure of the train.

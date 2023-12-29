@@ -1,0 +1,126 @@
+|
+Old games :: Staré hry na stiahnutie, Abandonware, Retro, Časopisy
+OldGames.sk je komunitný web poskytujúci zázemie všetkým fanúšikom starých hier, retro-hráčom, pamätníkom a zberateľom originálok. Na našich stránkach nájdete množstvo starých dobrých hier na ktoré sa len tak ľahko nezabúda.
+Staré hry sa pokúšame znovuoživiť vytváraním inštalačných balíčkov pre moderné systémy (Windows XP/2000/Vista/7), s pribaleným a nakonfigurovaným emulátorom DOSBox, pre bezproblémovú funkčnosť. Staré hry pre platformy Apple II, Atari 2600, Commodore 64, Game Boy, NES, Sega Master System, ZX Spectrum alebo PC konverzie do Flash, je tiež možné hrať on-line priamo v prehliadači, pomocou Java appletu.
+V archíve časopisov si môžete s nostalgiou zaspomínať na atmosféru starých herných plátkov 90. rokov ( BiT, Excalibur, Score, Level, Riki, Joystick ) alebo diskmagov ( Pařeniště, Narsil, Slanina ), obsahujúcom skeny stránok, databázu článkov, redaktorov atď. Pre všetkých kartografov a hráčov obľubujúcich vytváranie máp predovšetkým pre klasické krokovacie dungeony, sme pripravili jednoduchý a funkčný program na ich kreslenie priamo v prehliadači - Dungeon Mapper.
+Zberateľská časť stránok obsahuje zoznam originálnych krabičiek s hrami, ktoré majú užívatelia doma v poličkách, ich detailný popis a fotografie.
+Súčasťou stránok je aj jednoduché diskusné fórum, do ktorého môžu zaregistrovaní užívatelia prispievať svojimi názormi. Nájdete tu množstvo tém venovaných starým hrám, vrátane špeciálnych, ako sú denníky hráčov (Let's play) prechádzajúcich svoju obľúbenú hru.
+autor: jofree 07.10.2019
+Hra Jagged Alliance z roku 1995 a jej pokračovanie s číslovkou 2 z roku 1999, 4X stratégie, nadobudli za tie dekády od svojho vzniku nepochybne kultový status a dodnes sú diskutované, či dokonca modifikované prostredníctvom ich fanúšikov. Ich licencované pokračovania, bohužiaľ nikdy nedosiahli ich kvalitu. Za originálnou sériou stojí legendárny kanadský herný dizajnér Ian Currie a jeho tím. Na hrách s ním mimo iných skvelých tvorcov spolupracovala aj istá Brenda Brathwaite (Wizardry 8), hráčom skôr známa ako súčasná žena Johna Romera (Doom)...
+autor: dj 03.09.2019
+Eye of the Beholder je naprosto zásadní hra a další dva jeho díly tvoří trilogii, která svým způsobem určila mé priority, co se týče herních žánrů. Ty první pocity, když jsem zapadl v kobce, z vlastního pohledu, s družinou vlastoručně vytvořených a pojmenovaných postav. Dal jsem jim do ikonek rukou meče, otevřel první dveře a porazil prvního Kobolda....to byly začátky 90. let. Neskutečná atmosféra, nádherná grafika, možnost vývoje postav, bludiště plné nástrah. Dovolil bych si nazvat Dungeon žánr jako vznešený a nejbohatší na možnosti, co šlo všechno ve hře dělat.
+autor: dj 25.06.2019
+Ishar 2 úspešne zmapovaný. Okrem dojmov z prejdenia hry (2019) tu nájdete veľa technických detailov o vytváraní mapy pre utilitku Grid Cartographer, online interaktívnu mapu pre web, zoznamoch a príručkách a napríklad aj to ako prejsť hru s čisto ženskou partiou bez druida...
+Najnovšie pridané hry:
+74% / 85% ( pridaná: 10.09.2019 )
+[ Download Monster Bash @ GOG.com (buy) ]
+1993, Apogee Software, Ltd. [ Action ]
+Monster Bash (počas vývoja známa ako Graveyard) je klasická plošinovková arkáda s postranným scrollingom v EGA grafike od Apogee Software, vydaná v roku 1993. Jej dizajnérom je Frank Maddin a hra je zasadená do hororovej tématiky. Hra je rozdelená na tri epizódy, prvá časť bola distribuovaná ako shareware. Celkom obsahovala 28 plošinovkových úrovní. Hlavným hrdinom je 10 ročný chlapec menom Johnny Dash ktorému hlavný záporák Count Chuck uniesol psa Texa. Ten má na svedomí aj únos ďalších domácich miláčikov. Úlohou Johnnyho bude vydať sa tajným šatníkovým portálom do podzemia, vybavený prakom s nekonečnou zásobou kamienkov bojovať s odpornými monštrami a zachránit všetky uväznené zvieratá...
+63% / 0% ( pridaná: 09.08.2019 )
+[ Download - Yendorian Tales: Book I (zip) ]
+1994, SmithWare [ RPG ]
+Yendorian Tales Book I je skupinové fantasy RPG spracované v izometrickom pohľade zhora, podobne ako v hrách Faery Tale Adventure alebo Ultima 6. Hráč si vytvára partiu až šiestich postáv pričom na výber má zhruba 15 povolaní. Súboje prebiehajú na ťahy na samostatnej obrazovke, interakcia s NPC postavami je riešená priamym písaním konverzačných tém ako v Ultimách. Príbej pojednáva o ochrane ťažby vzácnej magickej rudy v baniach krajiny Yendor, ktorú začínajú ohrozovať stále početnejšie nájazdy monštier. Preto sa vládcovia Yendoru rozhodnú vyhľadať pomoc zdatnej skupiny dobrodruhov, ktorých úlohou bude bojovať proti príšerám napádajúcich baníkov...
+50% / 70% ( pridaná: 10.05.2019 )
+[ Excalibur: Sword of Kings - ZX Spectrum (z80) ]
+1987, Ian Smith, Shaun G. McClure [ Adventure ]
+Excalibur: Sword of Kings je textová advetura doplněná o barevné obrázky. Parser rozpoznává dvouslovné příkazy. V Excaliburu je možné prozkoumat 29 obrazovek. Hra vyšla původně pro ZX Spectrum a v roce 2019 byla předělána pro HTML5 a doplněna o tutoriál. Zlá čarodějka Crania pátrala po Merlinovy, aby pohltila jeho moc. Při svém pátrání dorazila na Kamelot a setkala se s králem Artušem. Když nebyla spokojená s tím co se dozvěděla, tak Artuše kletbou uspala. Tvým úkolem, hrdino, je vstoupit do Kamelotu, získat Excalibur a porazit zlou čarodějku...
+60% / 46% ( pridaná: 05.02.2019 )
+[ Download Home Alone 2 for DOS (zip) ]
+1992, Manley and Associates, Inc. [ Action ]
+Kevin je opět sám, tentokrát se píše rok 1992 a ocitáme se v New Yorku. Hra bohužel oproti prvnímu dílu nepřináší žádné velké inovace. Stejně jako v prvním díle musíte utíkat před zloději Harrym a Marvem a přitom nastražit různé pasti, aby jste je zastavili. Hra obsahuje čtyři úrovně, z toho dvě jsou vnitřní (Hotel, dům strýčka) a dvě venkovní (Central Park, ulice New Yorku)...
+85% / 90% ( pridaná: 03.01.2019 )
+[ Download Icewind Dale 2 Complete @ GOG.com (Buy) ]
+2002, Black Isle Studios [ RPG ]
+Icewind Dale II je pokračovaním akčne ladeného fantasy RPG v izometrickom pohľade, vytvorenom v Infinity Engine od štúdia Black Isle. Podobne ako prvý diel, odohráva sa aj tento vo svete Forgotten Realms na kontinente Faerûn a využíva pravidlá tretej edície D&D. Hráč má pod kontrolou skupinku až šiestich nájomných žoldnierov z Luskanu, začínajúcich svoje dobrodružstvo v meste Targos. Hra sa opäť odohráva na 'Hřbetu světa', kde je 'Desetiměstí' ohrozované hordami nepriateľov a skupina navštívi známe miesta ako Kuldahar, Dračie oko, Useknutú ruku, Šengarnský brod, Kláštor Čierneho havrana...
+76% / 86% ( pridaná: 23.11.2018 )
+[ Download Magic Island - Amiga CD32 (iso) [cz] ]
+1995, ARDA Team [ RPG ]
+Magic Island je klasický dungeon-crawler s pohybom po štvorcoch, real-time súbojmi a ovládaním partie štyroch postáv od českého vývojárskeho tímu ARDA, vytvorený pre platformy Amiga 1200 a Amiga CD32 v roku 1995. Už od pohľadu sa vyznačuje peknou ručne kreslenou grafikou a príjemnou hudbou a v dobe vydania bol pasovaný za najlepšiu českú RPG hru. Hra obsahuje automaping, obchodovanie, jednoduchý crafting predmetov, mixovanie elixírov a klasické vylepšovanie skupiny dobrodruhov. Nakoľko sa jej väčšina odohráva vo vonkajších priestoroch, je často porovnávaná zo sériou Ishar. Hráč je v úlohe syna veľkého bojovníka, ktorý mu na smrteľnej posteli zadá zdanlivo jednoduchú úlohu, doručiť dopis pre svojho starého priateľa...
+75% / 80% ( pridaná: 31.08.2018 )
+[ Download Bard's Tale Trilogy @ GOG.com (buy) ]
+2018, Krome Studios [ RPG ]
+The Bard's Tale Trilogy vydala v roku 2018 spoločnosť Briana Farga inXile Entertainment ako remaster pôvodných verzií z roku 1985 (1986,1988). Jedná sa o remaster z kategórie vydarených, vytvorený vývojármi z Krome Studios s úctou k originálu v engine Unity. Za vzor si zobrali verziu pre Apple IIgs/Atari ST, grafika animovaných 2D obrázkov bola ručne prekreslená v rovnakom štýle do vyššieho rozlíšenia, zatiaľ čo grafika 3D výhľadu je kompletne trojrozmerná. Všetky textúry sú verné originálu a celok pôsobí štýlovo, pohyb ostal klasický po štvorcoch s možnosťou plynulého rozhliadania sa v 3D. Z herného hľadiska remaster umožňuje (v Legacy Options sa dajú vypnúť) niekoľko zjednodušení, pridal prehľadnú automapu, nové portréty a napríklad hráč má možnosť vytvoriť si už aj ženské postavy...
+Najnovšie prílohy: (20)
+Ishar 3, DOS, Introduction (HD) - floppy disk version | 17.10.2019Ishar 3: The Seven Gates of Infinity
+Video, PC DOS - Introduction (aspect ratio correction) | 17.10.2019Eye of the Beholder II: The Legend of Darkmoon
+The Cycles, DOS - Gameplay (aspect ratio correction) | 17.10.2019Cycles, The: International Grand Prix Racing
+Najnovšie originálky v zbierkach: (20)
+Swampy | 20.10.2019, 12:42Legend of Kyrandia, The
+Toto sa pise v Hint Booku, neviem ci bol pribalovany k hre, alebo sa musel dokupovat: "A flower and a gemstone of the same color will generally produce a potion of that color."
+lasice | 20.10.2019, 07:37Legend of Kyrandia, The
+Filip: nad tím jsem taky přemýšlel, no a usoudil jsem že to bude zřejmě metodou pokus omyl, ve hře je více takových míst, třeba i zvonkohra na hradě co otevírá tajnou schránku s klíčem
+Filip | 19.10.2019, 23:04Legend of Kyrandia, The
+Vím, že zapeklitost je typickou vlastností klasických adventur, ale stejně... Dá třeba hra někde alespoň trochu najevo, že se mají lektvary v Zanthiině laboratoři míchat na principu drahokam + květina, nebo se na to bez návodu dá přijít pouze metodou...
+code | 18.10.2019, 14:07Přítmí (Twilight)
+Nevíte co je tohle za zvláštní remake? https://youtu.be/oimCT65Jy_I
+jofre de orosz | 01.10.2019, 21:13Shadow of the Devil
+zišla by sa konečne tá package, za odmenu môžem sa pokúsiť vyspovedať grafika.
+jofre de orosz | 01.10.2019, 21:11Lula: The Sexy Empire
+prvá naozajstná menežmentovka, ktorú som kedy hral :D Ikeď gameplay je repetitívny a posledná úroveň temer nehrateľná. Autor grafických návrhov- Carsten Wieland má dodnes profil na FB, no ku komiksom ako takým sa veľmi nepriznáva, k Lule už vôbec.
+jofre de orosz | 01.10.2019, 21:08Oddworld: Abe's Oddysee
+dodnes tomu nerozumiem ako som mohol túzo hardocre záležitosť a jej pokračovanie vôbec prejsť- ajkeď, nikdy sa mi nepodarilo zachrániť všetkých 99 mudokožcov a objaviť ak secret levely a endingy. V sequeli bolo toho ešte viac. Remake jednotky (New n ...
+jofre de orosz | 01.10.2019, 21:03Home Alone 2: Lost in New York
+obskúrna blbosť :D celý čas len bežíte- utekáte do strany pred zlodejíčkami. "Dej" hry tvorí pár digitalizovaných fotiez z filmu. :D
+jofre de orosz | 01.10.2019, 20:58Monster Bash
+brutálna hororvá hra, ktorá sa ale nesie v humornom duchu klasických zombie komédií, tých rokov 80.-90ych
+Petr Levák | 28.09.2019, 22:48Realms of Arkania 3: Shadows over Riva
+2Ringo: obličeje jsem si opravil v hexaeditoru, je to celkem triviální úprava, ale to ostatní jsem musel nechat být. Čistě teoreticky, pokud zůstaneš u GOG verze, tak by ten import měl proběhnout v pohodě, ale u GOG verze jsem zase měl problém s češt...
+Richmond | 22.10.2019, 19:08Eye of the Beholder - Trilógia: Denník hráča
+Gratulace | Přidám gratulaci i tady :) Jsem rád, že deník končí i nějakým tím zadumáním o porovnáním s předchozím dílem, tyhle třešničky mám prostě rád :) Sám jsem v pozici, kdy nevím, jestli Eob1 je lepší/horší než druhý díl. To samé mám s UU1/2. Eob2 jsem kdys...
+Ringo | 22.10.2019, 17:07Eye of the Beholder - Trilógia: Denník hráča
+| Díky :-) Ono stojí dohrát i 1 a 3 díl EoB. Ten gameplay je podobný, jen každý díl přinesl nějaké nové prvky.
+Tomas Dzamko | 22.10.2019, 11:00Eye of the Beholder - Trilógia: Denník hráča
+| Gratulujem k dohraniu. EoB2 bol prvy dungeon ktory som dohral sam bez navodu (este mam doma niekde schovane mapy na papieri). Nebol internet, nemal som navod z casopisu, takze som musel hrat sam a o to to bolo krajsie. Navyse ma bavil cely cas na ro...
+Ringo | 20.10.2019, 12:00Eye of the Beholder - Trilógia: Denník hráča
+Mapy Crimson Tower | Skleróza, zapomněl jsem ještě přidat screeny z posledních levelů. Takže tady jsou mapy Crimson Tower 1. Level 1 - patra 1 - 5 2. Level 2a - patro 6 3. Level 2b - patro 7
+Ringo | 19.10.2019, 16:34Eye of the Beholder - Trilógia: Denník hráča
+Resumé, hodnocení a plán do budoucna | Pokud byste chtěli sáhnout po EoB 1 a 2 a nemáte rádi mapování, doporučuji sáhnout právě po Amiga AGA verzích s automapingem. Když naisntalujete z Hoborgových stránek HOBRing (http://hobring.esero.net/) jeho HWA balíček a hry, je to otázka pár kliků ...
+Ringo | 19.10.2019, 15:47Eye of the Beholder - Trilógia: Denník hráča
+Demolice Darkmoonu | Jsem čekal, že přijedou velké stroje s takovou tou koulí a ono to zvládlo pár chlápků v bílých pláštích (snad to nebyl nějaký klan :-) a zvládli to pár blesky. Sakra, ale takový to byla pěkná kulturní památka.
+Ringo | 19.10.2019, 15:46Eye of the Beholder - Trilógia: Denník hráča
+Khelben | Khelben dovypráví své geniální myšlenky a přesouvá mě pryč z tohoto zoufalého místa.
+Ringo | 19.10.2019, 15:44Eye of the Beholder - Trilógia: Denník hráča
+Dran jako drak | Morfóza v draka a jeho legendární konec.
+Ringo | 19.10.2019, 15:43Eye of the Beholder - Trilógia: Denník hráča
+Boj s Dranem | Legendární souboj srabů :-)
+Ringo | 19.10.2019, 15:42Eye of the Beholder - Trilógia: Denník hráča
+Crimson Tower level 2 - patro 7 | Opouštím mrtvého mága a vstupuji do patra 7. V tomto patře je pár prázdných místností kromě jedné. V té je oltář, nad kterým se sklání největší fešák na světě, Dran, miluji jeho grimasy, mohl by hrát nějaké divadlo. Rozpovídá se mi o tom, jak j...
+Najnovšie pridané časopisy a coverdisky: (10/321)
+[ zoznam časopisov ]
+Najnovšie pridané diskmagy: (10/80)
+[ zoznam časopisov ]
+Komentáre k obrázkom / stránkam časopisov: (10)
+Ringo | 30.06.2019, 14:24Kritická mapa (bug)
+Rytíři Grálu | Bug to není, dveře se mají vyrazit, což se dělá normálním krokem kupředu směrem do dveří....
+Sova | 05.02.2019, 12:57Shattered Steel
+Level 22 | Chyba mi tu ISO z tejto hry. Bolo by možné ho dodať? ...
+Score 12 | Podľa mňa to nie je nijaká, reálne existujúca hra...to je len vtip/parafráza na vtedajšiu hru čísla Under a Killing Moon...
+Richmond | 18.11.2018, 10:05Update 2.01 - Spell effect for Trap-Zap
+Bard's Tale 1 - Remaster (2018) | Aha z figuríny. Taky jsme nějaké našel a chvíli mi trvalo (přesněji než jsem se kouknul do manuálu), že je možné z nich ...
+DJ | 17.11.2018, 17:54Update 2.01 - Spell effect for Trap-Zap
+Bard's Tale 1 - Remaster (2018) | Ano, Hero je zakuzleny z predmetu, zo sosky. Myslim ze to je zrovna jeden z predmetov co do remasteru dodali z dalsich d...
+Richmond | 15.11.2018, 22:13Update 2.01 - Spell effect for Trap-Zap
+Bard's Tale 1 - Remaster (2018) | Pěkný seznam jmen :) Z čeho pak to je? :) Ten Hero je výsledkem kouzla (jakého)? Protože má hodně dobrou AC. Taky koukám...
+Score 12 | nevie niekto co je to za hra? Above a Lethal Sun, vyslo to niekedy? pamatam ze som sa na to tesil ked som to cital....
+BiT 06/92 | Citujem: "Hru Mercs naprogramovala v roku 1991 programatorska skupina Capcom...atd." Bit, co clanok to perla....
+Swampy | 22.11.2017, 22:43Chaos Strikes Back
+BiT 03/92 | Aj v tomto clanku sa vyskytuje najslavnejsia chyba v dejinach cesko-slovenskej hernej zurnalistiky....
+Richmond | 22.11.2017, 20:20Lands of Lore III
+GameStar 4/99 | Lands of Lore 3 jako hra měsíce?? Co to bylo za období!? :)...
+Najnovšie obrázky pridané užívateľmi: (11)
+Preview
+Story
+Difficulty
+Demo
+Gameplay
+Gameplay
+Apogee screen
+Installation in progress
+Install screen 1
+Splash screen
+dj | 10.09.2019, 11:17Monster Bash
+Credits
+|
+[ viac ]
+[ viac ]
+partneri

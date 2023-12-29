@@ -1,0 +1,214 @@
+Chatbox - 2645 Messages.
+Spammers:
+MCBots
+(841)
+.
+b&nder
+(459)
+.
+reacher
+(420)
+.
+Charger plus
+-
+Red-j 20 Oct 22:53@crash over ride vitefait peu de temps avec mini red
+-
+Red-j 20 Oct 22:53la je tente un truc sur vita
+-
+crash over ride 20 Oct 22:55@Red-j ah bas ouais je te comprends , moi aussi je repars à la case couche le 28 octobre hihihihi un 3 eme dans la famille
+-
+b&nder 20 Oct 22:56@Red-j oui peut etre
+-
+crash over ride 20 Oct 22:59@b&nder si j' arrive à trouver ta plante , je te l' envoie comment ???
+-
+Red-j 20 Oct 23:00@crash over ride avec un patator
+-
+Red-j 20 Oct 23:01@b&nder je cherche a lire un texte pour y insérez une ligne a un endroit précis
+-
+Red-j 20 Oct 23:01je sais que j'aurais besoin de fseek
+-
+Red-j 20 Oct 23:02mais je sais plus lire un caractere ...
+-
+b&nder 20 Oct 23:03@Red-j fseek et fwrite
+-
+Red-j 20 Oct 23:03enfin un mot pour etre précis
+-
+Red-j 20 Oct 23:03genre je lis le fichier source.txt je m'arrete au mot "caca" et j'écris juste après
+-
+b&nder 20 Oct 23:04@Red-j un truc dans ce genre
+-
+b&nder 20 Oct 23:05FILE* fptIn; char sLine[40]; if ((fptIn = fopen("input.txt", "rb")) == NULL) ....
+-
+Red-j 20 Oct 23:05tu ouvre un flux, un buffer et tu lis mais comment m'areter a un mot
+-
+Red-j 20 Oct 23:07me faut une boucle pour lire
+-
+b&nder 20 Oct 23:08@Red-j if char[xxx] == char[xxx] then...
+-
+b&nder 20 Oct 23:09@Red-j si dans ta lib t as string c ets encore plus simple
+-
+Red-j 20 Oct 23:10oui toujours string
+-
+Red-j 20 Oct 23:10je suis sur vita donc un peu galere j'ai pa coder depuis longtemps
+-
+Red-j 20 Oct 23:10je perds les bases
+-
+crash over ride 20 Oct 23:12euh sa me rassure pas de perdre les bases
+-
+Red-j 20 Oct 23:13nan mais j'ai la tete pleine
+-
+Red-j 20 Oct 23:13la c'est quand meme complexe
+-
+Red-j 20 Oct 23:13meme si sur le papier ca parait simple
+-
+crash over ride 20 Oct 23:13au faite , vous avez vus la mega news sur un nouveau krach boursier chez les ricains
+-
+Red-j 20 Oct 23:14je recupere le nom d'un fichier en lisant son répertoire, je lis un fichier texte et m'arrete a un endroit précis pour écrire le nom de ce fichier
+-
+b&nder 20 Oct 23:26void find(FILE *f, const char *s) { // searches stream f for string s, positions f after s int c; long offset; const char *cp; for (; ; ) for (offset = ftell(f), cp = s; ; ) // save starting point if (!*cp) return; // at end of search string - found else if ((c = fgetc(f)) == *cp) ++cp; // character match else if (c == EOF) printf("\"%s\" not found\n", s), exit(EXIT_FAILURE);
+-
+b&nder 20 Oct 23:26else if (cp > s) { fseek(f, offset, SEEK_SET), fgetc(f); break; } }
+-
+Red-j 20 Oct 23:36@b&nder atend bender
+-
+-
+Red-j 21 Oct 0:13bon c mort programmer avec un petit qui hurle
+-
+b&nder 21 Oct 0:21@Red-j reprogrammes le gamin
+-
+Red-j 21 Oct 0:44@b&nder encore plus dur xd
+-
+Red-j 21 Oct 1:20@b&nder ftell marche pas sur vita...
+-
+b&nder 21 Oct 1:48@Red-j stdlib
+-
+Red-j 21 Oct 1:54oui je sais mais marchepa
+-
+Red-j 21 Oct 1:54se compil mais erreur sur la console
+-
+b&nder 21 Oct 2:04quelle erreur?
+-
+Red-j 21 Oct 2:06@b&nder erreur vita de merde
+-
+Red-j 21 Oct 2:07@b&nder dit moi en dehors de i++ on peut incrementer avec i+=1 non?
+-
+b&nder 21 Oct 2:25oui mais il faut que tu fasses la diff
+-
+b&nder 21 Oct 2:26i=0;i<xx;i++ utile pour une boucle ou i commence a zero
+-
+b&nder 21 Oct 2:26i+=1 ajoutes 1 a i donc i=1 en debut de boucle
+-
+Red-j 21 Oct 2:28Oui en gros je veux switcher de plugin quand j'appuye sur une touche
+-
+Red-j 21 Oct 2:37Un switch est plus propre
+-
+b&nder 21 Oct 3:01@Red-j c est la que le c++ est plus efficace
+-
+Red-j 21 Oct 3:22@b&nder j'ai une boucle dans une boucle ca merde a fond
+-
+b&nder 21 Oct 3:44@Red-j verifie bien l entrée dans ta boucle et le nombre de fois que tu veux boucler
+-
+b&nder 21 Oct 3:44c'est souvent contre intuitif
+-
+reacher 21 Oct 3:45Tu a strchr
+-
+reacher 21 Oct 3:45Strcmp
+-
+b&nder 21 Oct 3:46@reacher vu que c est la vita je sais pas si ces methodes sont implementées
+-
+b&nder 21 Oct 3:46sinon c est clair c est le plus efficace
+-
+reacher 21 Oct 3:47Il n'a cas faire la fonction c'est facile a faire
+-
+b&nder 21 Oct 3:52@reacher oui la c ets le mieux
+-
+chronoss 21 Oct 4:06Publié un sujet dans Linkers, HomeBrews: Dossier spécial Linker : a quoi servent-ils ?
+-
+b&nder 21 Oct 4:07@chronoss reponse : à rien
+-
+Red-j 21 Oct 4:20@b&nder ya une bouche while(1) avec controle des touches donc ca boucle tout le temps donc refaire une boucle d'incrementation a l'interieur merde forcement
+-
+b&nder 21 Oct 4:45@Red-j non ca le fait avec while(1) { switch: case1...case2..default}
+-
+b&nder 21 Oct 5:27
+-
+reacher 21 Oct 5:45Un while et un break avec retour
+-
+reacher 21 Oct 5:47J'ai commencé a recoder la lecture de variables
+-
+reacher 21 Oct 5:48Je refais une fonction ipc avec une fonction de la libnx ipcParse
+-
+b&nder 21 Oct 6:10@reacher sur ca je peux t aider si tu as besoin
+-
+reacher 21 Oct 6:33Merci quand même 😉
+-
+b&nder 21 Oct 6:41@reacher moi je bataille avec ce pu**in d usb
+-
+reacher 21 Oct 7:20@b&nder quel usb ?
+-
+b&nder 21 Oct 7:22@reacher monter fs avec une cle usb
+-
+b&nder 21 Oct 7:22comme le sxos
+-
+Red-j 21 Oct 14:16@b&nder oui mais c'est pas parfait pour l'instanr
+-
+Red-j 21 Oct 14:18@b&nder ftell marche pas mais jai reussi a utiliser un derive de stat facon sony pour la taille du fichier
+-
+reacher 21 Oct 15:37@b&nder tinfoil le fait lui il installe même les xci
+-
+-
+reacher 21 Oct 21:09Et voilà je viens de rendre la Switch qui me servait pour les testes
+-
+reacher 21 Oct 21:09J'ai plus rien 😭
+-
+reacher 21 Oct 21:16J'avais presque fini le code de lecture des variables
+-
+reacher 21 Oct 21:17Ce qui maurais permis de trouver l'adresse mémoire ou ils étaient stocké
+-
+b&nder 21 Oct 21:55@reacher les xci pas de probleme ca passe avec tinfoil
+-
+b&nder 21 Oct 21:56@reacher mais moi je veux lire la partition usb de la clé comme si c etait las sd
+-
+b&nder 21 Oct 21:57@reacher j arrive a monter et detecter la clé
+-
+reacher 21 Oct 22:09Pour lire la clé USB il te faut une fonction table de partition pour FAT32
+-
+b&nder 21 Oct 22:22@reacher elles y sont deja dans fs
+-
+b&nder 21 Oct 22:23et manuellement j ai acces au interfaces et endpoint
+-
+b&nder 21 Oct 22:23il faut que je trouve le chemin au niveau device/Scsi pour la monter dans tinfoil ou goldleaf
+-
+reacher 22 Oct 0:270:/ pour la sd et 1:/ pour la sysnand
+-
+reacher 22 Oct 0:28Peut être 2:/ pour l'usb ???
+-
+b&nder 22 Oct 6:12@reacher non c'est un service different qui le monte
+-
+b&nder 22 Oct 6:13@reacher je viens de trouver 0: pathstr = HsDevice....
+-
+chronoss 22 Oct 15:28@reacher paie toi une switch perso
+-
+chronoss 22 Oct 15:28@b&nder lut le robot
+-
+-
+b&nder 22 Oct 22:05@chronoss hello
+-
+Red-j 23 Oct 1:08@b&nder ola
+-
+b&nder 23 Oct 2:17@Red-j hola chico
+-
+chronoss 23 Oct 5:10Publié un sujet dans Exploits, Loaders, HomeBrews: Installer un NSP/XCI/CXCI via USB depuis un PC
+-
+MCBots 23 Oct 10:19Welcome "eluzerkharix" to the community
+-
+-
+b&nder 23 Oct 23:19@reacher j ai reussi a copiler atmosphere avec support du module usb!
+-
+Red-j Today 1:53@b&nder psartek bogoss
+Vous n'êtes pas autorisé à Chatter. Vous devez participer au moins une fois sur le Forum pour y avoir accès
+-
+-
+-
+Mis en évidence
+Par BenMitnicK, dans PSVita/TV,

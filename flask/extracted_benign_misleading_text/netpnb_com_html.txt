@@ -1,0 +1,23 @@
+- Contact Us
+-
+UPI Fraudster Alert
+-
+Security Tips
+-
+Please be aware of the following
+- Phishing is a deception technique where fraudster uses fraudulent emails to capture your personal sensitive information like passwords, CVV, Date of Birth, Debit Card/ Credit Card Number, address, expiry date, PIN etc.
+- Vishing (also known as Voice Phishing) is a deception technique where the fraudster uses a phone call to lure you into giving your personal confidential banking information.
+- Smishing is a deception technique where the fraudster uses Short Message Service (SMS) to send false message to lure you to call a phone number or visit a website for giving your personal confidential banking information.
+- Please don’t give any of your personal confidential credentials like PAN, Date of Birth, Account Number, Debit or Credit Card Number & its Expiry Date, Father/Mother’s Name, User ID, Password, PIN, CVV, OTP etc.upon receiving the Phishing, Vishing or Smishing. Our Bank never asks such information from customers.
+- Read More
+-
+- Locate Us
+-
+PNB-Verify is a device binding solution for Retail Internet Banking users, by which user can authenticate transaction using Mobile Application through App notification instead of using the SMS based OTP, as second factor of authentication. To enroll for PNB Verify navigate as: Personal Settings -> Enroll for PNB Verify
+PIHU (PNB’s Instant Help for yoU) - responds to customer queries (FAQs) related to Retail Internet Banking, Mobile Banking and Debit Card.
+Now you may apply for Sovereign Gold Bond through Retail IBS by using the navigation: Other Services-> Sovereign Gold Bond -> Purchase SGB.
+Now you may link your GSTIN through IBS by using the navigation: Other Services-> Register for Govt. Initiatives-> GSTIN Registration.
+Get your PAN linked with your account through IBS by using the navigation: Other Services-> Register for Govt. Initiatives-> PAN Registration
+To Prevent Fraudulent Payment of Cheques in your Accounts, Please Avail PNB Suraksha Scheme
+Link Demat Account With Your IBS User ID and Get Details Of Holding in the Demat account in the Statement of Transaction
+Please Download latest version of PNB UPI from Play Store to Enjoy Enhanced Features.

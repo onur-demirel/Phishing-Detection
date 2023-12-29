@@ -1,0 +1,762 @@
+- Pepper Spray
+- Stun Guns & Personal Alarms
+- Bear & Dog Sprays
+- Home Security Systems & Products
+- Personal Safety Training
+- International Customers
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|GCLB [x2]
+|bl102.infusionsoft.app
+bl102.infusionsoft.com
+|This cookie is used in context with load balancing - This optimizes the response rate between the visitor and the site, by distributing the traffic load on multiple network links or servers.
+|1 day
+|HTTP
+|JSESSIONID [x3]
+|bl102.infusionsoft.app
+bl102.infusionsoft.com
+nr-data.net
+|Preserves users states across page requests.
+|Session
+|HTTP
+|__cfduid [x6]
+|embed.ly
+fiftyt.com
+infusionsoft.com
+sabrered.zendesk.com
+zdassets.com
+zeotap.com
+|Used by the content network, Cloudflare, to identify trusted web traffic.
+|1 year
+|HTTP
+|bcookie
+|slideshare.net
+|This cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their LinkedIn application for example.
+|2 years
+|HTTP
+|language
+|slideshare.net
+|Saves the user's preferred language on the website.
+|Session
+|HTTP
+|__zlcstore
+|sabrered.com
+|This cookie is necessary for the chat-box function on the website to function.
+|Persistent
+|HTML
+|cookiebot-consent--marketing
+|sabrered.com
+|Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.
+|Session
+|HTTP
+|cookiebot-consent--necessary
+|sabrered.com
+|Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.
+|Session
+|HTTP
+|cookiebot-consent--preferences
+|sabrered.com
+|Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.
+|Session
+|HTTP
+|cookiebot-consent--statistics
+|sabrered.com
+|Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.
+|Session
+|HTTP
+|CookieConsent
+|sabrered.com
+|Stores the user's cookie consent state for the current domain
+|1 year
+|HTTP
+|has_js
+|sabrered.com
+|Registers whether or not the user has activated JavaScript in the browser.
+|Session
+|HTTP
+|ZD-suid
+|sabrered.com
+|Unique id that identifies the user's session.
+|Persistent
+|HTML
+|__cfruid
+|sabrered.zendesk.com
+|This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
+|Session
+|HTTP
+|SERVERID
+|slideshare.net
+|This cookie is used to assign the visitor to a specific server - this function is necessary for the functionality of the website.
+|Session
+|HTTP
+|local_storage_support_test
+|twitter.com
+|The cookie is used in context with the local-storage function in the browser. This function allows the website to load faster by pre-loading certain procedures.
+|Persistent
+|HTML
+|ASPSESSIONID#
+|wpmedia.windsorstar.com
+|Preserves users states across page requests.
+|Session
+|HTTP
+|AWSALB
+|zopim.com
+|Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+|6 days
+|HTTP
+|SSESS#
+|sabrered.com
+|Pending
+|23 days
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|lang [x2]
+|slideshare.net
+cdn.syndication.twimg.com
+|Remembers the user's selected language version of a website
+|Session
+|HTTP
+|ZD-store
+|sabrered.com
+|Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user.
+|Persistent
+|HTML
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|ab
+|agkn.com
+|This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.
+|1 year
+|HTTP
+|__utm.gif
+|google-analytics.com
+|Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+|Session
+|Pixel
+|collect
+|google-analytics.com
+|Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+|Session
+|Pixel
+|_ga
+|sabrered.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|2 years
+|HTTP
+|_gat
+|sabrered.com
+|Used by Google Analytics to throttle request rate
+|1 day
+|HTTP
+|_gid
+|sabrered.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|1 day
+|HTTP
+|_hjid
+|sabrered.com
+|Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+|1 year
+|HTML
+|_vis_opt_s
+|sabrered.com
+|Used by Visual Website Optimizer to determine if the visitor is participating in a design experiment.
+|99 days
+|HTTP
+|_vis_opt_test_cookie
+|sabrered.com
+|Used to check if the user's browser supports cookies.
+|Session
+|HTTP
+|_vwo_ds
+|sabrered.com
+|Collects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.
+|29 days
+|HTTP
+|_vwo_sn
+|sabrered.com
+|Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+|1 day
+|HTTP
+|_vwo_uuid
+|sabrered.com
+|Used by Visual Website Optimizer to ensure that the same user interface variant is displayed for each visit, if the user is participating in a design experiment.
+|10 years
+|HTTP
+|_vwo_uuid_v2
+|sabrered.com
+|This cookie is set to make split-tests on the website, which optimizes the website's relevance towards the visitor – the cookie can also be set to improve the visitor's experience on a website.
+|1 year
+|HTTP
+|vwoSn
+|sabrered.com
+|This cookie is set to make split-tests on the website, which optimizes the website's relevance towards the visitor – the cookie can also be set to improve the visitor's experience on a website.
+|Persistent
+|HTML
+|ZD-buid
+|sabrered.com
+|Unique id that identifies the user on recurring visits.
+|Persistent
+|HTML
+|ZD-currentTime
+|sabrered.com
+|Registers the date and time for the user's latest visit to the website.
+|Session
+|HTML
+|__utma
+|slideshare.net
+|Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+|2 years
+|HTTP
+|__utmb
+|slideshare.net
+|Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+|1 day
+|HTTP
+|__utmc
+|slideshare.net
+|Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+|Session
+|HTTP
+|__utmt
+|slideshare.net
+|Used to throttle the speed of requests to the server.
+|1 day
+|HTTP
+|__utmv
+|slideshare.net
+|Saves user-defined tracking parameters for use in Google Analytics.
+|1 day
+|HTTP
+|__utmz
+|slideshare.net
+|Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+|6 months
+|HTTP
+|_uv_id
+|slideshare.net
+|Collects data on the user's visits to the website, such as which pages have been read.
+|2 years
+|HTTP
+|slideshare.experiments
+|slideshare.net
+|Used by SlideShare to determine if the visitor is participating in a design experiment.
+|Persistent
+|HTML
+|personalization_id
+|twitter.com
+|This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+|2 years
+|HTTP
+|v.gif
+|visualwebsiteoptimizer.com
+|This cookie is set to make split-tests on the website, which optimizes the website's relevance towards the visitor – the cookie can also be set to improve the visitor's experience on a website.
+|Session
+|Pixel
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|uuid2
+|adnxs.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|3 months
+|HTTP
+|TDCPM
+|adsrvr.org
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|1 year
+|HTTP
+|TDID
+|adsrvr.org
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|1 year
+|HTTP
+|adscores/r.pixel
+|agkn.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel
+|uuid [x2]
+|avocet.io
+mathtag.com
+|This cookie is used to optimize ad relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.
+|1 year
+|HTTP
+|InfusionsoftTrackingCookie
+|bl102.infusionsoft.app
+|Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+|1 year
+|HTTP
+|bkdc
+|bluekai.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|179 days
+|HTTP
+|bkpa
+|bluekai.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|179 days
+|HTTP
+|bku
+|bluekai.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|179 days
+|HTTP
+|atrk.gif
+|certify.alexametrics.com
+|This cookie is used to collect information on consumer behavior, which is sent to Alexa Analytics - Alexa Analytics is an Amazon company.
+|Session
+|Pixel
+|ca.png
+|cpx.to
+|Saves information of actions that have been carried out by the user during the current visit to the website, including searches with keywords included.
+|Session
+|Pixel
+|cpSess
+|cpx.to
+|Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.
+|1 year
+|HTTP
+|_cc_aud
+|crwdcntrl.net
+|Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+|269 days
+|HTTP
+|_cc_cc
+|crwdcntrl.net
+|Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+|Session
+|HTTP
+|_cc_dc
+|crwdcntrl.net
+|Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+|269 days
+|HTTP
+|_cc_id
+|crwdcntrl.net
+|Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+|269 days
+|HTTP
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|r/collect
+|doubleclick.net
+|This cookie is used to send data to Google Analytics about the visitor's device and behavior. It tracks the visitor across devices and marketing channels.
+|Session
+|Pixel
+|test_cookie
+|doubleclick.net
+|Used to check if the user's browser supports cookies.
+|1 day
+|HTTP
+|mako_uid
+|eyeota.net
+|Collects data on user visits to the website, such as what pages have been accessed. The registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing.
+|1 year
+|HTTP
+|ONPLFTRH
+|eyeota.net
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|Session
+|HTTP
+|sec
+|eyeota.net
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|1 year
+|HTTP
+|fr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|tr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|Session
+|Pixel
+|fifid
+|fiftyt.com
+|Registers the visitor's preferences and navigation across multiple social media platforms. This is used to present the visitor with relevant advertisement.
+|1 year
+|HTTP
+|fm
+|fiftyt.com
+|Registers the visitor's behavior on social media - can be used to optimize ad-relevance and general targeting.
+|6 days
+|HTTP
+|ck [x2]
+|go.affec.tv
+map.go.affec.tv
+|Collects data on user visits to the website, such as what pages have been accessed. The registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing.
+|1 year
+|HTTP
+|oo [x2]
+|go.affec.tv
+map.go.affec.tv
+|Collects data on user visits to the website, such as what pages have been accessed. The registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing.
+|1 year
+|HTTP
+|pt
+|go.affec.tv
+|Collects data on user visits to the website, such as what pages have been accessed. The registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing.
+|1 year
+|HTTP
+|rc::c
+|google.com
+|Used in context with video-advertisement. The cookie limits the number of times a visitor is shown the same advertisement-content. The cookie is also used to ensure relevance of the video-advertisement to the specific visitor.
+|Session
+|HTML
+|3pi
+|id5-sync.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|3 months
+|HTTP
+|callback
+|id5-sync.com
+|Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.
+|1 day
+|HTTP
+|car
+|id5-sync.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|1 day
+|HTTP
+|cf
+|id5-sync.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 day
+|HTTP
+|cip
+|id5-sync.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|1 day
+|HTTP
+|cnac
+|id5-sync.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|1 day
+|HTTP
+|gdpr
+|id5-sync.com
+|Determines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry.
+|1 day
+|HTTP
+|id5
+|id5-sync.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 day
+|HTTP
+|uuidc
+|mathtag.com
+|Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads.
+|1 year
+|HTTP
+|csync.ashx
+|ml314.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel
+|pi
+|ml314.com
+|Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.
+|1 year
+|HTTP
+|images/1x1.gif
+|public.slidesharecdn.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|Session
+|Pixel
+|cm
+|rfihub.com
+|Identifies if the cookie-data needs to be updated in the visitor's browser - This is determined through third-party ad-serving-companies.
+|Session
+|Pixel
+|eud
+|rfihub.com
+|Registers user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|1 year
+|HTTP
+|euds
+|rfihub.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|Session
+|HTTP
+|rud
+|rfihub.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|1 year
+|HTTP
+|ruds
+|rfihub.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|Session
+|HTTP
+|smd
+|rfihub.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|1 year
+|HTTP
+|pxrc
+|rlcdn.com
+|This cookie registers data on the visitor. The information is used to optimize advertisement relevance.
+|2 months
+|HTTP
+|rlas3
+|rlcdn.com
+|Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|1 year
+|HTTP
+|__asc
+|sabrered.com
+|This cookie is used to collect information on consumer behavior, which is sent to Alexa Analytics - Alexa Analytics is an Amazon company.
+|1 day
+|HTTP
+|__auc
+|sabrered.com
+|This cookie is used to collect information on consumer behavior, which is sent to Alexa Analytics - Alexa Analytics is an Amazon company.
+|1 year
+|HTTP
+|__zlcmid
+|sabrered.com
+|Preserves users states across page requests.
+|1 year
+|HTTP
+|_fbp
+|sabrered.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|_gcl_au
+|sabrered.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|3 months
+|HTTP
+|_hjIncludedInSample
+|sabrered.com
+|Determines if the user's navigation should be registered in a certain statistical place holder.
+|Session
+|HTTP
+|zte#
+|sabrered.com
+|Saves a Zopim Live Chat ID that recognises a device between visits during a chat session.
+|Session
+|HTTP
+|UID
+|scorecardresearch.com
+|Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.
+|2 years
+|HTTP
+|UIDR
+|scorecardresearch.com
+|Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.
+|2 years
+|HTTP
+|adnxs
+|sharethis.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel
+|eyeota
+|sharethis.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel
+|fifty
+|sharethis.com
+|Registers the visitor's preferences and navigation across multiple social media platforms. This is used to present the visitor with relevant advertisement.
+|Session
+|Pixel
+|int/lotame
+|sharethis.com
+|Facilitates the sharing function on the website - The cookie also allows websites to track and target the user with advertisement based on the user's likes and shares.
+|Session
+|Pixel
+|mediamath
+|sharethis.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel
+|pxcelBcnLcy
+|sharethis.com
+|Facilitates the sharing function on the website - The cookie also allows websites to track and target the user with advertisement based on the user's likes and shares.
+|Session
+|HTTP
+|pxcelPage_c010
+|sharethis.com
+|Facilitates the sharing function on the website - The cookie also allows websites to track and target the user with advertisement based on the user's likes and shares.
+|6 days
+|HTTP
+|ttd
+|sharethis.com
+|Facilitates the sharing function on the website - The cookie also allows websites to track and target the user with advertisement based on the user's likes and shares.
+|Session
+|Pixel
+|i/adsct
+|t.co
+|The cookie is used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content.
+|Session
+|Pixel
+|idsync/ex/receive/check
+|tapad.com
+|This cookie is set by the audience manager of the website to determine the time and frequencies of visitor data synchronization - cookie data synchronization is used to synchronize and gather visitor data from several websites.
+|Session
+|Pixel
+|TapAd_DID
+|tapad.com
+|Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.
+|2 months
+|HTTP
+|TapAd_TS
+|tapad.com
+|Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.
+|2 months
+|HTTP
+|i/jot
+|twitter.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|Session
+|Pixel
+|sharethis/1/info2
+|uipglob.semasio.net
+|Enables the visitor to share content from the website onto social media platforms or websites.
+|Session
+|Pixel
+|GPS
+|youtube.com
+|Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+|1 day
+|HTTP
+|PREF
+|youtube.com
+|Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+|8 months
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+|179 days
+|HTTP
+|YSC
+|youtube.com
+|Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+|Session
+|HTTP
+|yt-player-headers-readable
+|youtube.com
+|Collects data on visitor interaction with the website's video-content - This data is used to make the website's video-content more relevant towards the visitor.
+|Persistent
+|HTML
+|yt-remote-cast-installed
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|zc
+|zeotap.com
+|Registers data on visitors from multiple visits and on multiple websites. This information is used to measure the efficiency of advertisement on websites.
+|10 years
+|HTTP
+|pagead/1p-user-list/#
+|google.com
+|Pending
+|Session
+|Pixel
+|c/121/3/0/3.gif
+|id5-sync.com
+|Pending
+|Session
+|Pixel
+|__ab12# [x2]
+|sabrered.com
+sharethis.com
+|Pending
+|9 months
+|HTTP
+|__widgetsettings
+|twitter.com
+|Pending
+|Persistent
+|HTML
+|i/jot/syndication
+|twitter.com
+|Pending
+|Session
+|Pixel
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|mw
+|mwzeom.zeotap.com
+|Pending
+|Session
+|Pixel
+|_hjTLDTest
+|sabrered.com
+|Pending
+|Session
+|HTTP
+|STYXKEY_sr_back
+|sabrered.com
+|Pending
+|1 day
+|HTTP
+#1 pepper spray trusted by police and consumers worldwide
+...and by your favorite celebrities!
+When it comes to where to buy self-defense products for college students, trust SABRE. We deeply believe that you have a right to a safe collegiate experience, and our products reflect that. We have a variety of personal safety devices for college students including pepper sprays, personal alarms, and dorm room kits.
+Not only are these products attention grabbing, with a 120 dB alarm, they can stop an intruder in action. SABRE Home Security and Personal Safety Products install in minutes - with no wiring required, and are easy to use day in and day out.
+Shop SABRE Products for College Students
+This video shows how other pepper spray brands compare to SABRE when it comes to…
+Your pepper spray will feature maximum heat, every single time—that's SABRE's exclusive guarantee. Offering state-of-the-art protection in the times you need it most, SABRE is the only manufactuerer with an on-site facility eliminating the 30% heat failure rate experienced with other brands.
+Peace of mind comes from knowing that your pepper spray is double the average strength. To put it into perspective, that's 67x hotter than hot sauce, and just as potent as our industry-leading police sprays.
+Want confidence in your product? Choose the #1 brand trusted by police and consumers worldwide. Our global brand supplies agencies on six continents in more than 40 countries with the same pepper spray you'll soon have at your fingertips.
+Learn how to better use your new pepper spray with the free instructional video that comes with each product. Just find the URL on the back of your product packaging.
+We know how it feels to get sprayed, now you can too!
+Convinced? Shop SABRE Products ›
+*Some states require users to be 18 years of age or older. Check your local laws.
+SABRE's monthly newsletter is full of content to help you live a safe and healthy life. Enter your email to subscribe!
+Footer: Center Content Area
+More than $1.82 million donated.
+Since 2008, SABRE’s pink product line has funded the equivalent of 14,000 mammograms.
+Shop our NBCF products.

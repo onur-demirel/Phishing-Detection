@@ -1,0 +1,14 @@
+Help & Contact
+English(Us)
+Customer Login
+STRATO
+Webmail
+Login
+That account doesn't exist. Enter a different account
+Email Address
+Password
+Forgot your password?
+The user name and password incorrect.(LGl-0006)
+Error: don't forget to fill in your password.
+Stay Sign in
+Sign in

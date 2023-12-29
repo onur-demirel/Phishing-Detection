@@ -1,0 +1,157 @@
+Compact and repair Access 2007-2013 database via Vb.net code
+最近寫了一個小工具，資料庫使用 Access 2010 的檔案
+而 Access 資料庫檔案的特性是檔案大小會持續增大，即使有執行 DELETE 語法
+便決定寫一個 壓縮及修復資料庫 的功能，省去對 Office Access 的依賴
+上 Google 查了一下，多數都是使用 Microsoft Jet and Replication Objects 2.6 Library 達來成
+但是使用
+JRO.JetEngine 時，透過
+Jet OLEDB:Engine Type=? 指定目標檔案時
+最高只能支援到
+JET Version 4.x 也就是只能產出 Access 2003 版本檔案格式
+後來嘗試使用 Microsoft DAO 3.6 Object Library 來處理
+但是
+DAO.DatabaseTypeEnum 這個陳述式中只能支援到
+dbVersion40 也就是一樣只能到 Access 2003
+最後找到了 Microsoft 14.0 Office Access database engine Object Library (版本12)
+其中
+Dao.DatabaseTypeEnum 最高支援到
+dbVersion150 也就是 Access 2013
+- dbVersion120 : Access 2007
+- dbVersion140 : Access 2010
+- dbVersion150 : Access 2013
+我電腦中版本的只能支援 Access 2013
+有較新的版本應該就可以支援到
+dbVersion160，也就是 Access 2016 和之後的版本
+先上程式碼範例
+|
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+|
+' Microsoft Office 14.0 Access database engine Object Library
+Imports Microsoft.Office.Interop.Access
+Public Class AccessFileTools
+Public Shared Sub CompactDbFile()
+Dim sFilePath As String = "來源檔案完整路徑(source)"
+Dim dFilePath As String = "目的檔案完整路徑(destination)"
+Dim AceDao As New Dao.DBEngine
+AceDao.CompactDatabase(sFilePath, dFilePath, _
+Dao.LanguageConstants.dbLangChineseTraditional, _
+Dao.DatabaseTypeEnum.dbVersion140)
+End Sub
+End Class
+參數1 和 參數2 是必須參數
+參數3 選擇性：語系，大概是會影響到排序
+參數4 選擇性：版本，範例是對應 Access 2010
+參考：
+本篇文章僅限 BIND 的 DDNS (Dynamic DNS) 設定方式
+不另說明 DNS 及 BIND 的架構和觀念
+範例
+Domain: example.com
+master (Primary) server: dns.example.com (192.168.1.1)
+slave (Secondary) server: ns1.example.com (192.168.1.2)
+先用 dnssec-keygen 產生需要的 TSIG key，存放在 /var/named/keys
+|
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+|
+mkdir -p /var/named/keys
+chmod 0760 /var/named/keys
+chown root.named /var/named/keys
+cd /var/named/keys
+// dnssec-keygen -a (演算法) -b (金鑰大小) -n (金鑰類型) Name
+dnssec-keygen -a hmac-sha512 -b 128 -n HOST ddns
+Kddns.+165+12457
+// 會產生兩個 Kddns 開頭的檔案
+// 格式說明
+// K(Name).+(演算法)+(keyId).key
+// K(Name).+(演算法)+(keyId).private
+ll Kddns*
+Kddns.+165+12457.key
+Kddns.+165+12457.private
+cat Kddns.+165+12457.key
+ddns. IN KEY 512 3 165 waAzR8JieB2vcRX42R9dEg==
+其中
+waAzR8JieB2vcRX42R9dEg== 是我們需要的資訊
+閱讀全文〈設定 BIND 的 DDNS (Dynamic DNS) 環境〉
+PHP 5 在今年(2018)年底將完全終止安全更新，PHP 7.0 甚至早了一個月，在今年12月初就終止安全更新。將 PHP 升級到較新 7.1 或 7.2 甚至 7.3 會是比較好的選擇
+在 CentOS 7 中將 PHP 升級到 5.6 或 7.0 及以上版本，大多數是選擇以 yum 搭配 Remi Repository 或 Webtatic Repository 這兩個 repo 來做升級，這樣的作法簡單迅速、不太影響以往的操作模式又好維護。在升級過程中不論選擇哪一個 yum repo 都是必須要原本的 php 先移除後
+yum install 新的套件，這過程其實再自然不過了
+但前提是，必須非常肯定目前在線上的 php 原始碼在升級後都可以正確執行
+鸚鵡目前有上線在運作的程式，蠻大量都是自己寫的，真心沒這個把握！
+基於網站不能停或不想中斷服務的前提，上述的方案只能直接放棄
+過去鸚鵡都盡可能使用 yum 來管理維護相關套件，盡可能不要自己編譯。但之前有次遇到一個狀況，選用的 repo 終止維護計畫，甚至連網站和 mirror 站點都移除。而該 repo 會有覆蓋基本套件的情況，造成更新完全被卡住，花了一點時間才搞定
+所以本次的過程會需要自行編譯一些東西，當然在許可的情況盡量使用 CentOS 的基本套件，編譯及安裝時都選擇獨立的路徑來進行，盡量和既有的系統服務做出區隔
+閱讀全文〈CentOS 7 中 Apache 2.4.35 + PHP 7.2.11 + HTTP/2 升級安裝筆記 (零風險升級/平滑升級)〉
+近期開始嘗試透過 php-fpm 來執行 PHP
+上網找資料時，多數的內容都跟 php-fpm.conf 和 www.conf 的設定有關
+有部份的文章或討論也會提到使用 php-fpm 後無法使用
+$_SERVER['PHP_AUTH_USER']
+恩… 確實會有這樣的情況，但若是說 不能使用 也不是正確的說法
+會有這樣的情況發生，只是單純因為架構的關係造成 php-fpm 沒辦法直接取得 Web Server 端的
+Basic access authentication 相關資訊而已
+閱讀全文〈使用 PHP-FPM 正確取得 PHP_AUTH_USER 的方法〉
+鸚鵡在2014年寫了一個 官方ROM包探測器 用來偵測小米官方所釋出的最新版ROM包
+到2016年因為沒有什麼時間更新維護，一直沒有新增支援的機型
+最近花了兩個星期的時間，重寫所有的程式
+也弄成獨立的網站，有需要的、找刷機包ROM載點 的可以參考看看
+同時提供官方更新日誌(changelog)資訊
+運作基本上手機內的 系統更新 一樣，所有連結都是官方連結載點
+要手動下載放進手機的話，放到 儲存空間 內的
+download_rom 資料夾，即可使用內建的系統更新直接更新手機
+閱讀全文〈小米 MIUI ROM 官方刷機包(手機/路由 全機型)〉
+最近把手上的小米6更新到 MIUI 10 國際開發版
+刷入 Magisk 後卻無法完整通過 SafetyNet 檢測，導致無法使用 Google Pay
+Magisk 的檢測結果如下
+ctsProfile: false
+basicIntegrity: true
+上網爬了一下資料，造成 ctsProfile 沒有通過通常是原廠沒有將這個 ROM 提交給 Google 審核
+所以這邊提供解決方法
+如果您的手機尚未解鎖或是對刷機流程不熟悉，可以先參考文章底的連結
+官方解鎖是基本的，還沒解鎖就先解鎖吧
+另外，該文章內 『避免自動加密 userdata 分區』 的部份僅適用於 Android 7 的卡刷包
+閱讀全文〈小米6 使用 MIUI 10 國際開發版完全通過 SafetyNet 使用 Google Pay〉
+在手持行動裝置逐漸取代 PC 的現在
+響應式網頁 (RWD / Responsive Web Design) 的規劃也非常普遍
+使用 PC/NB 瀏覽網頁時，即使沒有 Go Top 按鈕也可以使用鍵盤的 Ctrl+Home 來達成目的
+但使用手持行動裝置就不是那麼一回事了，如果沒有這按鈕時就只能一直不停的往上滑動
+最近使用 Bootstrap 4 + jQuery 弄 RWD 頁面，就需要在網頁上加上 回到網頁最上方 的按鈕
+然而 Bootstrap 4 已經捨棄了 Glyphicons icon font，想達到目的的選擇大概就是
+- 使用圖片
+- 使用 SVG 繪製
+- 使用 Glyphicons、Octicons、Font Awesome 或其他第三方專案
+但是不想使用圖片，對 SVG 也不熟，也不想使用第三方專案的解決方案
+閱讀全文〈網頁Top按鈕 (網頁回到頂端)，純 CSS+jQuery 免圖片〉

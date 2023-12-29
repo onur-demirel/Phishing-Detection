@@ -1,0 +1,15 @@
+HexDocs is a place for Hex packages to host their documentation.
+To find documentation sets on HexDocs, you can go to the following URLs:
+http://hexdocs.pm/<package>/ - Latest documentation set for
+package
+Example:
+http://hexdocs.pm/ecto/
+http://hexdocs.pm/<package>/<version> - Documentation set for
+package at
+version
+Example:
+http://hexdocs.pm/ecto/1.1.9/
+You can also find documentation sets in the release section of package pages on Hex.pm
+Documentation is automatically published when you publish your package, you can find more information here.
+Learn how to write documentation here.
+Is something wrong? Let us know by opening an issue or emailing support.

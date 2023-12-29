@@ -1,0 +1,60 @@
+In welchen Bereich möchten Sie sich einloggen?
+STRATO Kunden-Login
+Webmail
+HiDrive
+Webshops
+Homepage-Baukasten
+Server-Login
+Kundenshop
+Info
+In Ihrem persönlichen STRATO Kunden-Login haben Sie Zugriff auf Ihre Kundendaten und verwalten Ihre Produkte:
+- Produkt-, Rechnungs- & Vertragsübersicht
+- E-Mail Postfächer einrichten
+- Domains und Zusatzartikel verwalten
+- Angebote des Monats zu attraktiven Preisen
+STRATO HiDrive
+Info
+Hier gelangen Sie direkt in Ihren Online-Speicher:
+- Dokumenten, Dateien und Fotos speichern
+- Einfacher Zugriff – immer und überall
+- Dateien mit Familie und Freunden austauschen
+- Individuelle Foto-Galerien erstellen
+Info
+Hier richten Sie Ihren Server ganz individuell ein und nutzen u.a. folgende Funktionen:
+- Betriebssystem installieren
+- Server-Ergänzungen bestellen und konfigurieren
+- Bei Bedarf den Server neu starten
+- Fehlerbehebung und Überwachung
+Info
+Hier gelangen Sie zur Administrator-Oberfläche Ihres Webshops und verwalten Ihren Online-Auftritt:
+- Shop einrichten
+- Produkte verwalten
+- Überblick aller Bestellungen
+- Zahlungs- und Versandmethoden einrichten
+STRATO Webmail
+Info
+Hier loggen Sie sich in Ihr E-Mail Postfach ein und nutzen zahlreiche Funktionen:
+- Termine einrichten
+- Kontakte anlegen und verwalten
+- E-Mails abrufen und versenden
+- Aufgaben erstellen
+Info
+Hier gelangen Sie in Ihren STRATO Kunden-Login. Dort loggen Sie sich direkt in den Editor ein, um Ihre Website zu verwalten:
+- Design und Layouts anpassen
+- Texte bearbeiten
+- Bilder verwalten
+- Inhalte veröffentlichen
+STRATO LivePages
+Info
+Hier gelangen Sie direkt in den Editor Ihrer Webseite und verwalten Ihre Homepage:
+- Design und Layouts anpassen
+- Texte bearbeiten
+- Bilder verwalten
+- Inhalte veröffentlichen
+Info
+Hier erhalten Sie eine Übersicht über aktuelle Angebote für STRATO Kunden. Zum Beispiel:
+- Die attraktivsten Angebote des Monats
+- Exklusive Preisangebote für Bestandskunden
+- Nützliche Zusatzfunktionen
+- Paketwechsel
+Info: 5394f01bf1571862024

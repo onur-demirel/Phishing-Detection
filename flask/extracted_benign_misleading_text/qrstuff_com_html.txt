@@ -1,0 +1,65 @@
+|
+|
+|
+|
+|
+QR CODES
+A QR Code (it stands for "Quick Response") is a mobile phone readable bar code that can store website URL's, plain text, phone numbers, email addresses and pretty much any other alphanumeric data.
+The QR Stuff QR Code Generator allows you to create either dynamic or static QR codes and download them for immediate use.
+Storing up to 4296 characters they are internationally standardised under ISO 18004, so a QR code is a QR code all over the world - they've been big in Japan forever, broke into Europe and the UK a few years back, and are now popular in North America.
+Think "print-based hypertext links" and you'll get the idea.
+Click here for more information about QR codes or vist the QRStuff QR Code Blog for QR code articles, tips and tricks.
+Scan QR Codes
+The QR Stuff QR Code Scanner allows users to scan QR codes simply and easily from within your browser with no need to download and install a QR code scanning app or QR code reader software.
+Simply go to Scan from the menu bar at the top of this page and after granting access to your device camera, you’re ready to scan a QR code using your laptop or mobile device.*
+CREATE FREE QR CODES
+|
+Our QR Code Generator is FREE for anyone to use with no sign-up or account required - fully functional, 100% ad-free, permanent QR codes that don't expire. Generate as many QR codes as you need for FREE with no restrictions on commercial use.
+No tricks, no gotchas, no expiries, no time limits, just free QR codes you can use with confidence straight away.
+... and when we say FREE, we don't mean free for 14 DAYS, we mean FREE FOREVER!
+|
+23 Free QR Code Data Types
+Free users can access 23 of our 25 QR code data types (PDF and Image File data types require a paid subscription). Websites, YouTube, Google Maps? Meh! Everyone gives you those, but our free users can create fully functional non-expiring QR codes for App Store Downloads, Dropbox file sharing, SMS and email messages, Bitcoin, Paypal and more. And you can create as many of them as you like.
+|
+|
+100% Ad Free QR Codes
+Our QR codes are guaranteed 100% ad-free, even for free users, so you can get on with promoting your product without someone else's brand getting in the way. By the way, if you do see an ad after scanning one of our QR codes, the scanning app that you're using put it there.
+|
+Download, Print Or Email Your QR Codes
+Once you've created your QR Codes you can download them as PNG image files, print them as sheets of stickers, or email them to yourself or someone else. Just choose the Output Type you need.
+|
+|
+Custom QR Code Printed Products
+Generate your own QR Code and then you and your code are sent to the Zazzle print-on-demand website to add your QR code to a t-shirt, a coffee cup, a hat, business cards, stickers, and more - all ready for immediate purchase, printing and delivery direct to your door.
+HOW TO CREATE A QR CODE
+-
+Step 1 Select the type of QR code you need. We have over 20 QR code data types to choose from including website URL, video, Facebook, map location, SMS or email message, contact details, etc.
+-
+Step 2 Add the QR code content. Depending on the data type you've chosen, enter the content for the QR code eg; the website URL, the Facebook page, the map location, the email message details, etc.
+-
+Step 3 Dynamic or Static QR code? You can choose whether to make your QR code dynamic or static. Dynamic QR codes are editable and has analytics available.
+-
+Step 4 Style your QR code. Change the colour of your QR code using our handy colour picker. If you are a paid subscriber, you can change the appearance of your QR code or add a logo.
+-
+Step 5 Download your QR code. Download your completed QR code image. A range of vector and raster file formats are available for paid subscribers.
+And don't forget to test your QR code!
+QR Code Books
+Find out how to incorporate QR codes into your business marketing for effective offline-to-online engagement of mobile users:
+QR Code Scanning Apps And Software
+Different countries, different phone networks and different phone manufacturers have embraced QR Codes to varying degrees and in different ways. Your phone may already have it pre-installed, but if not you'll need to install some QR Code Scanning Phone Apps & Software.
+Other Apps We Like
+Maintenance Notice:
+No routine server maintenance is scheduled at this time.
+|
+|
+QR Code Generator
+Subscribers Get More QR Code Stuff
+Open a QR Stuff QR Code Generator paid subscriber account for high resolution artwork files, analytics, history reporting, re-writable URL's and batch processing* for one low subscription fee.
+High resolution artwork quality QR Codes (up to 3000 pixels and 300dpi) image files generated in either raster (PNG, JPG or GIF) or vector (EPS, SVG, PDF or DXF) formats with the option to either directly download (save) them immediately, or have them delivered to an email address as file attachments. Subscribers also have the choice of 4 error correction levels (L, M, Q or H).
+Batch processing for full subscribers allows upload of a single TSV file to generate up to 500 QR Codes at a time for download as a single ZIP file.
+Just the thing for designers, printers and media companies who need high quality QR Code artwork files for print design work, or the ability to generate large quanities of QR codes.
+» Click here for a sample file...
+Subscriptions also include click-through analytics, account history reporting, editable destination URL's, and optional short URL or native URL.
+Full subscriptions start from just $11.95 per month (lower monthly rates for longer periods) or you can set up a 24 hour trial* subscription for $3.95. (*Service and functionality limits may apply for trial accounts)
+|
+|

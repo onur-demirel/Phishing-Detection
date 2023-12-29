@@ -1,0 +1,12 @@
+Build pixel-perfect apps faster
+A tool for iOS developers to compare the expected design and the real app right inside iOS Simulator.
+A tool for iOS developers to compare the expected design and the real app right inside iOS Simulator.
+To download the trial version of Flawless app, enter your email address. We’ll never send any spam to your email
+Flawless App is integrated right inside your iOS simulator as a plugin. It allows you to fix visual issues on the fly, before they cost you time and money.
+No need to distract your development workflow by adding any third-party library. Flawless App works out of the box, without any additional setup.
+Select any image or Sketch file and it gets overlayed inside iOS Simulator.
+Choose comparison mode to spot any visual differences between the expected design and real app.
+Generate a GIF of comparison. Share it with your team to save time on design review.
+Using Flawless App, I don't have to wait for designers to point out any mistakes I made while building a UI – I can find them and fix them myself, while I’m still working on it. I highly recommend trying Flawless App out, to see just how much quicker it can make your UI development.
+Available exclusively on the Mac for just $35.
+Flawless App is for macOS only!

@@ -1,0 +1,5 @@
+{"ariaCollectorUrl":"https://browser.pipe.aria.microsoft.com.office.office-365-dim.dimsystem.myshn.net/Collector/3.0/","ariaTenant":"ea6758984c4b43529f9929667d8d3198-c52d4a8b-47fe-4fdf-99b8-5f897ff4e33b-7365","buildDateUtc":"2020-08-26 16:52:24Z","buildId":"9090145b-5d25-286a-3aed-a7d7abb2bec6","corpNet":false,"correlationId":"9748f236-586d-4391-8665-8259c13cedec","deploymentEnvironment":"prod","devEnvironment":"ServiceFabric","flights":"csslicensing,gotoprovider,leftnavcontrol,powerpointdocaspx,powerbienabled,pwafreeconsumerfrecf","geoName":"weu","requestOrigin":"Direct","sessionId":"2d3afb27-16ac-421d-b60c-40b9a4cc0eeb","testTraffic":false,"cookieConsentRequired":false,"officeMarketLcid":1033,"useMruS2SFlow":false,"useFeedApi":true}
+blobs.officehome.msocdn.com
+{"diskPreloadEnabled":true,"enabled":true,"pilotFlights":[],"serviceWorkerAllowedFlights":["cacheshell","appshell"],"scriptUrl":"/sw","scope":"/"}
+True
+Your place to create, communicate, collaborate, and get great work done.

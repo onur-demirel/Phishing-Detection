@@ -1,0 +1,5 @@
+Opening Slide
+The National Ecological Observatory Network: Open data to understand how our aquatic and terrestrial ecosystems are changing.Explore our field sites
+With over 170 data products, NEON data can be overwhelming. Here are some tips on how to get started exploring and getting the data.Read More
+Interested in improving your R and Python skills or learning how to work with our remote sensing data? Explore our free, self-paced online tutorials.Read More
+Use NEON data and/or request assignable assets to support your research.Read More

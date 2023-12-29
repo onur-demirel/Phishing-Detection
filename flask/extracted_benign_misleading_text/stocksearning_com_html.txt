@@ -1,0 +1,38 @@
+Volatility Crush Strategy - Best for Options Traders
+The Volatility Crush strategy is used with stocks that typically experience relatively
+low-to-moderate price moves (≤4%) following their Earnings Announcements (EA). The
+basic trade idea is to sell put or call options right before the EA, collecting
+a credit when options premium is very high due to elevated implied volatility (IV).
+You then close the position right after the EA by buying the option back much cheaper
+due to the significant drop in IV that occurs after the mystery of the EA disappears.
+In assessing this trade, you need to do your homework to ensure you collect sufficient
+premium to make the trade worthwhile.
+This trade is practical due to the low-to-moderate price-move after the EA, which
+generally won’t significantly affect the options price, unlike an “action” stock,
+which experience great price moves post-EA. With these symbols, if you’re on the
+right side of the price move, that’s a great thing. But if you’re on the wrong side
+of the move, not so great. Consequently, by minimizing the effect of the post-EA
+price move, you have a much better chance to profit from the reduction in IV without
+it being ruined by a violent price move.
+For this trade, open the position either (1) the night before the EA when the company
+announces earnings or (2) during the EA day when it announces post-market, generally
+capturing IV at or close to its peak.
+For this trade, open the position either (1) the night before the EA when the company
+announces earnings or (2) during the EA day when it announces post-market, generally
+capturing IV at or close to its peak.
+This popular stockearnings screen will give you a list of stocks which do not react
+more than 4% fpost-EA. It includes only those stocks whose earnings are releasing
+next day.
+Screen criteria:
+- Earnings Date Start Date : Current Date + 1
+- Earnings Date End Date : Current Date + 1
+- Predicted Move (Next Day) Max : 4%
+- Options Type: Weekly
+Strategy Guideline:
+- Options Strategy: Sell Call and Put
+- Options Strike Price: Current Stock Price – (% Predicated Move x 2)
+- Expiration Date: It should generally be the closest expiry immediately after the
+EA.
+- Buy Insurance: Buying back Call and Put at Strike price which 10% lower than Sell
+Strike Price is optional but recommended.
+Watch Video for More Detail

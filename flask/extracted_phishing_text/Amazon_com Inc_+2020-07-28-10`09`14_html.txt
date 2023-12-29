@@ -1,0 +1,4 @@
+El envío se ha devuelto dos veces al centro más cercano debido a un error en los datos de envío.
+Esta es la última vez que le pedimos que proporcione una dirección de entrega adecuada; de lo contrario, se cancelará el envío.
+* Tiene solo 48 horas para responder a este mensaje.
+* La persona a cargo de su envío se pondrá en contacto con usted para más

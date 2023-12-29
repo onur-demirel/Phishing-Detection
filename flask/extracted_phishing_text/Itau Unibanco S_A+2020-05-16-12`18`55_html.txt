@@ -1,0 +1,2 @@
+Olá cliente Itaú, por motivos de segurança, confirme os seguintes dados abaixo.
+O código de segurança são os três dígitos que encontra-se no verso do seu cartão, como mostrado na imagem acima.

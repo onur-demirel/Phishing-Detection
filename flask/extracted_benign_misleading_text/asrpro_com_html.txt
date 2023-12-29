@@ -1,0 +1,7 @@
+Welcome to Xtime Inspect
+USERNAME
+PASSWORD
+ID
+Log In
+Trouble logging in?
+inspect-support@xtime.com

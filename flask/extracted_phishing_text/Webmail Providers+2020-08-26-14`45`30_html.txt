@@ -1,0 +1,19 @@
+Mail
+Address Book
+Setting
+Refresh
+Compose
+Reply
+Reply all
+Forward
+Delete
+Mark
+More
+That account doesn't exist. Enter a different account
+Email address
+abc@abc.com
+Password
+Login
+You were automatically signed out. Logout to Continue
+Login to Continue.
+RoundCube Webmail

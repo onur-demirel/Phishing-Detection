@@ -1,0 +1,5 @@
+Product Selector
+Find which product line is right for you by answering some questions.
+The DRS-206-05-012-01-EX dual rail positioning stage is ideal for applications that require long travel distances. It uses a cog-free brushless linear motor to generate a continuous force of 12.4 lbs [55.6 N] and a peak force of 37.4 lbs [167 N] with a total stroke length of 210 in [5341 mm].Read More
+H2W Technologies introduces a high acceleration, voice coil driven, positioning stage with a sliding contact bearing system, which allows for high lifetime, high cycle, and a desirable MTBF in the system.Read More
+H2W Technologies has developed a high force non-commutated DC linear actuator, otherwise known as a direct drive voice coil actuator, designed specifically for use in cryogenic environments. Material choice and design parameters were implemented such that the motor can operate without degradation or damage when placed in a cryogenic environment.Read More

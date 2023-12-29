@@ -1,0 +1,24 @@
+We don't recognize this user ID or password
+Be sure to type the password for your work or school account.
+This doesn't look like a valid user ID
+Try using your email address or phone number.
+{0} isn't in our system
+Make sure you typed your address or phone number correctly, or get a new Microsoft account.
+This doesn't look like a valid user ID
+Try using your email address or phone number.
+{0} isn't in our system
+Make sure you typed your email address correctly. It usually looks like someone@example.com or someone@example.onmicrosoft.com
+We couldn't find an account with that email address.
+Enter a different email address or get a new Microsoft account.
+Sorry, but we're having trouble signing you in
+Please try again in a few minutes. If this doesn't work, you might want to contact your admin and report the following error: 2147776681.
+Sorry, but we're having trouble signing you in
+Please try again in a few minutes. If this doesn't work, you might want to contact your admin and report the following error: 2147776682.
+Sorry, but we're having trouble signing you in
+Please try again in a few minutes. If this doesn't work, you might want to contact your admin and report the following error: 2147778860.
+Sorry, but we're having trouble signing you in
+Please try again in a few minutes. If this doesn't work, you might want to contact your admin and report the following error: 2147762276.
+-
+-
+-
+Tired of seeing this? Rename your personal Microsoft account.

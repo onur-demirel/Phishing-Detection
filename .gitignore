@@ -4,3 +4,4 @@ misleading/*
 phish_sample_30k/*
 flask/benign_mislead/*
 flask/phishing/*
+*.rar

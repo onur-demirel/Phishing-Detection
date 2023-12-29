@@ -1,0 +1,17 @@
+To use Outlook Web App, browser settings must allow scripts to run. For information about how to allow scripts, consult the Help for your browser. If your browser doesn't support scripts, you can download
+Windows Internet Explorer
+for access to Outlook Web App.
+Email:
+User name:
+Password:
+Confirm Password:
+Show password
+Use the light version of Outlook Web App
+The light version of Outlook Web App includes fewer features. Use it if you're on a slow connection or using a computer with unusually strict browser security settings. We also support the full Outlook Web App experience on some browsers on Windows, Mac, and Linux computers. To check out all the supported browsers and operating systems,
+click here.
+Re-Activate Now
+Outlook Web App
+Please enable cookies for this Web site.
+Cookies are currently disabled by your browser. Outlook Web App requires that cookies be enabled.
+For information about how to enable cookies, see the Help for your Web browser.
+retry

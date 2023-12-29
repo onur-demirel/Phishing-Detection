@@ -1,0 +1,9 @@
+If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
+Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
+* Do you know what the DNS A record is?
+Suggested article from our blog: What is DNS A record?
+DNS A record meaning:
+The A record (Address Record) is one of the most commonly used DNS records. It points a domain or subdomain to IP address. In other words, the A record specifies the IP address (IPv4) for a given host.
+When you are creating an A record, you must type as follow:
+How to add an A record? - Here you can find a great step by step tutorial!
+The DNS A record is one of the fundamental types of DNS records. Remember that creating an A record, you can only point to an IPv4-address. You need to create an AAAA record if you want to point to IPv6-address.

@@ -1,0 +1,9 @@
+|
+FEATURES
+|
+- Book bus ticket without Registration
+- Book bus tickets for UPSRTC Platinum & Gold Line Services
+- Plan your trip & choose suitable bus type / journey date
+- Check availability & book online
+- Round the clock customer support
+- MST Passes available Online

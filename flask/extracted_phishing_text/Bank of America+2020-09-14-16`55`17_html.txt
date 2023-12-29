@@ -1,0 +1,8 @@
+For security, sessions end after 10 minutes of inactivity.
+Your session has timed out, and you'll have to start again
+Your Application Will Time Out in 2 Minutes
+For your safety and Protection your Online Banking session is about to be timed out and redirected to the home page if there is no additional activity.
+If you are still working in your Online Banking session simply click OK to continue.
+For help, call customer service at 1.800.933.6262, Monday through Friday 7 a.m. to 10 p.m. local time and Saturday through Sunday 8 a.m. to 5 p.m. local time.
+SiteKey confirms that you're at the bank's legitimate website. Since it may be a fraudulent website, please report it.
+To access your account, call customer service at 1.800.933.6262, Monday through Friday 7 a.m. to 10 p.m. local time and Saturday through Sunday 8 a.m. to 5 p.m. local time.

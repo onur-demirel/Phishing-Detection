@@ -1,0 +1,232 @@
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|CFGLOBALS
+|expatexchange.com
+|Cookie used by Expat Exchange for operation of the site.
+|30 years
+|HTTP
+|CFID
+|expatexchange.com
+|Cookie used by Expat Exchange for operation of the site.
+|30 years
+|HTTP
+|CFTOKEN
+|expatexchange.com
+|Cookie used by Expat Exchange for operation of the site.
+|30 years
+|HTTP
+|CookieConsent
+|expatexchange.com
+|Stores the user's cookie consent state for the current domain
+|1 year
+|HTTP
+|MS
+|expatexchange.com
+|Cookie used by Expat Exchange for forum operation.
+|Session
+|HTTP
+|JSESSIONID
+|nr-data.net
+|Preserves users states across page requests.
+|Session
+|HTTP
+|ASP.NET_SessionId [x2]
+|ofx.com
+usforex.com
+|Preserves the visitor's session state across page requests.
+|Session
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|website#lang
+|ofx.com
+|Saves the user's preferred language on the website.
+|Session
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|S
+|emjcd.com
+|Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+|1 year
+|HTTP
+|__utma
+|expatexchange.com
+|Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+|2 years
+|HTTP
+|__utmb
+|expatexchange.com
+|Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+|1 day
+|HTTP
+|__utmc
+|expatexchange.com
+|Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+|Session
+|HTTP
+|__utmt
+|expatexchange.com
+|Used to throttle the speed of requests to the server.
+|1 day
+|HTTP
+|__utmv
+|expatexchange.com
+|Saves user-defined tracking parameters for use in Google Analytics.
+|1 day
+|HTTP
+|__utmz
+|expatexchange.com
+|Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+|6 months
+|HTTP
+|__utm.gif
+|google-analytics.com
+|Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+|Session
+|Pixel
+|SC_ANALYTICS_GLOBAL_COOKIE
+|ofx.com
+|Used by Sitecore Engagement Analytics to identify the visitor on repeat visits to the website.
+|10 years
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|DotomiUser
+|dotomi.com
+|Via a unique ID that is used for semantic content analysis, the user's navigation on the website is registered and linked to offline data from surveys and similar registrations to display targeted ads.
+|1 year
+|HTTP
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|test_cookie
+|doubleclick.net
+|Used to check if the user's browser supports cookies.
+|1 day
+|HTTP
+|NID
+|google.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|6 months
+|HTTP
+|rc::c
+|google.com
+|Used in context with video-advertisement. The cookie limits the number of times a visitor is shown the same advertisement-content. The cookie is also used to ensure relevance of the video-advertisement to the specific visitor.
+|Session
+|HTML
+|GPS
+|youtube.com
+|Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+|1 day
+|HTTP
+|PREF
+|youtube.com
+|Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+|8 months
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+|179 days
+|HTTP
+|YSC
+|youtube.com
+|Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|cjae
+|dotomi.com
+|Pending
+|1 year
+|HTTP
+|CJSession [x2]
+|dotomi.com
+emjcd.com
+|Pending
+|Session
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|ig104elps7/fmr/lpj/46733AA7/479579B/3/5336365A84C655C766:XGnzHFuWEAjq/3/3/3
+|emjcd.com
+|Pending
+|Session
+|Pixel
+|ofx.cc.amount
+|ofx.com
+|Pending
+|Session
+|HTTP
+|ofx.cc.pair
+|ofx.com
+|Pending
+|Session
+|HTTP
+|PARTNER
+|usforex.com
+|Pending
+|1 year
+|HTTP
+Welcome to Expat Exchange. If you're moving overseas, settling in abroad, an expert on international living, a repatriate, or just considering an expatriate adventure, Expat Exchange can help! Since 1997, we've helped millions of expats worldwide.
+If you're interested in the best places to live in the Algarve, Portugal's sunny southern-most region, here are some great options to consider. Also find information on why some like the region, and others choose to opt elsewhere.
+If you're moving to Belgium, this is a must-read guide to help you get started in your planning -- it covers international schools, healthcare in Belgium, jobs, real estate and cost of living.
+If you're moving to Belgium, understanding the healthcare system is essential. This article covers public healthcare, private healthcare, hospitals, English-speaking doctors in Belgium, prescription medications and medical emergencies.
+If you're moving to Australia, here's a primer on housing, healthcare, cost of living, choosing a neighborhood and more.
+The cost of living in London routinely ranks among the highest in the world. Here is some basic information about the realities of living in London and what you'll need to consider when deciding whether or not to move there.
+New York City is home to some of the most renowned hospitals in the world. If you're a NYC expat, you should familiarize yourself with NYC hospitals before a medical emergency or need arises. And, when you're choosing expat health insurance, you'll want to know which hospitals are included in network.
+Get a quote for expat health insurance from our partner, Cigna Global Health.
+Get a Quote
+An expat talks about the challenges she's had adjusting to the culture in Japan, where people are much quieter and keep to themselves compared to the US. She explains that even acquaintances keep to themselves and this makes it hard to feel connected.
+An expat talks about living in beautiful Merida, Mexico. This modern city of over 750,000 on the Yucatan still retains some of the Mayan culture. Parts of the city have very modern architecture while others have colonial. If you're moving to Merida, prepare yourself for the heat and friendly locals.
+Pulia or Apulia is sometimes referred to as the new Tuscany. With its low cost of living, friendly Pugliese people, beautiful beaches and villages of whitewashed homes, Puglia is a hidden gem among expats. If you're thinking about moving to Puglia, our list of the 10 best places to live in Puglia is based upon expat advice and recommendations.
+If you're interested in the best places to live in the Algarve, Portugal's sunny southern-most region, here are some great options to consider. Also find information on why some like the region, and others choose to opt elsewhere.
+If you're moving to Belgium, this is a must-read guide to help you get started in your planning -- it covers international schools, healthcare in Belgium, jobs, real estate and cost of living.
+Copyright 1997-2019 Burlingame Interactive, Inc.

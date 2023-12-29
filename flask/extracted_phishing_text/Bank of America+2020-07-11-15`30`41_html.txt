@@ -1,0 +1,6 @@
+How does "Save this Online ID" work?
+Saving your Online ID means you don't have to enter it every time you sign in.
+Don't save on a public computer
+Only save your Online ID on your personal computer or mobile device.
+How to clear a saved Online ID
+To clear a saved Online ID, sign in and select Saved Online IDs from Profile and Settings.

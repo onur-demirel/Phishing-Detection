@@ -1,0 +1,45 @@
+Upscope
+See what your customer sees. Instantly.
+See their screen in one click
+From live chat or while talking on the phone, see their screen instantly.
+Scroll and click together
+Remotely guide and talk with your customers as if you were sitting next to them.
+No downloads required
+Nothing to download or install for the customer or the agent.
+See what they see, instantly
+No need to download software, install extensions or go to a call url.
+Lookup the user you want to co-browse with, click, and see their screen.
+Draw to draw their attention
+Easily show how to navigate your site by drawing on their screen.
+Let the user learn by doing without struggling to explain where to click.
+Enterprise friendly
+Advanced user managment, SAML2.0 SSO, granular access control, advanced reporting and audit log.
+Security-first approach
+Access limited to your own website, mask sensitive fields or portions of the page and more.
+Customize everything
+Full access to Javascript SDK and REST API, Whitelabel support, customize all prompts.
+|Upscope
+|Others
+|No downloads required
+|Yes
+|No
+|Highlight the user's screen
+|Yes
+|No
+|Control the browser for the user
+|Yes
+|No
+|User never has to leave your site
+|Yes
+|No
+|See the entire screen
+|No
+|Yes
+|Securely limited to the browser
+|Yes
+|No
+Not your regular screen sharing software
+Upscope is different from screen sharing you are used to because it's built into your website and does not require any sort of installation for your users or your agents.
+Try Upscope free
+Upscope is used by hundreds of companies of all sizes to deliver an incredible standard of customer support.
+Find out why they love it during a 2 week free trial.

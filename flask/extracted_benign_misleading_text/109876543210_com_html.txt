@@ -1,0 +1,14 @@
+|File name
+|Operating
+|PDF password:
+|Set
+|Kernel version:
+|Text layout:
+|Color mode:
+|Direction correction:
+|Straight line:
+|Wrap:
+OCR in the end what is it?
+Optical character recognition, referred to as OCR, is a technology allows you to convert different documents, such as scanned images of paper documents, PDF files, or digital camera into editable documents.
+Suppose you got a paper document - for example, magazines, color pages or your partner sent you the PDF contract. Obviously, a scanner alone is not enough to make these documents into editable document, which is Microsoft Word. The scanner can do is create a black and white or color a picture or image documents. In order to extract data and text from scanned documents, PDF or digital pictures, you need information on the OCR software to recognize pictures, from the word to the sentence, and then a whole can edit the document.
+The software supports image-to-text (Text), the picture transfer form (Excel), PDF transfer presentations (PowerPoint), Image transfer documents (Word).

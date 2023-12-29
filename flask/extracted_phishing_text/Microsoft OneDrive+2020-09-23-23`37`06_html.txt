@@ -1,0 +1,10 @@
+Enter the email address of the account you want to sign in to.
+Please enter your email address in the format someone@example.com.
+We don't recognize that email address. Try again, or sign up for a new account.
+Always use this account
+It looks like is used with more than one account.
+What do you want to sign in to?
+Sign in with your Microsoft account
+Sign in with your work or school account
+If you use Outlook.com or Xbox Live, you already have a Microsoft account. Use it to sign in
+If your organization uses Office 365, use your work or school account to sign in

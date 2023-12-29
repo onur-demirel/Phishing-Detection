@@ -1,0 +1,62 @@
+Serverless-Static WordPress Hosting
+Shifter is the WordPress hosting solution that combines static site generation and serverless architecture with the world’s most popular CMS.
+WordPress-Hosting Reimagined
+Secure WordPress sites are just a few clicks away.
+Serverless ArchitectureHost your always-on static pages with unlimited scalability and run WordPress in a fully-managed container environment that’s only on when you need it.
+Built for WordPressUse the same WordPress themes, Plugins, and tools you know and love without the headaches of hosting or threats from bots and cyber villains.
+A Fully-Hosted SolutionCombines static site generation and serverless architecture to deliver WordPress sites with end-to-end data encryption and unlimited scalability, served anywhere in the world at lightning speed.
+1-Click to StartOur one-click setup of WordPress to ensure that your site can get up and running in absolutely no time! While we handle the security, maintenance, and scaling for you.
+Easy Setup
+Secure WordPress sites are just a few clicks away
+We designed Shifter with a no-fuss approach to hosting. Install WordPress with 1-Click, customize using Themes and Plugins, add a custom domain and deploy.
+Outgoing Webhooks
+Deploy to Netlify, send notifications to Slack, or build a custom integration all your own.
+Integrated CDN
+HTTP/2 Enabled
+IPv6 Ready
+Security Included
+HTTPS Included
+Pricing
+Plans & Pricing
+Free Tier
+- 1 Site
+- 1 GB Storage
+- 500 MB Bandwidth
+- Included HTTPS
+- Integrated CDN
+- Custom Domain
+- Webhooks
+Tier 1
+- 1 Site
+- 5 GB Storage
+- 50 GB Bandwidth
+- Included HTTPS
+- Integrated CDN
+- Custom Domain
+- Webhooks
+Tier 2
+- 1 Site
+- 10 GB Storage
+- 100 GB Bandwidth
+- Included HTTPS
+- Integrated CDN
+- Custom Domains
+- Webhooks
+How Shifter Works
+Static Site Generator + WordPress Hosting
+Create or migrate a WordPress site
+Customize with Themes and Plugins
+Generate a Static Version
+Deploy and Go Live
+What They’re Saying
+Customers & Testimonials
+My new hosting provider, getshifter.io, does exactly that! You can still work using WordPress, create amazing content, and Shifter will deliver it completely as static files.
+Karl Widmer, @widmerkarl
+ITC System Specialist
+driftar.ch
+Blog
+Learn about WordPress, case studies and features sites, upcoming WordCamp events, and the latest news from Shifter.
+Support
+Have a question? Check out our Shifter docs for guides, tips, and information for building your next WordPress site.
+Get Started Today
+Start your free trial today and transform WordPress to static.

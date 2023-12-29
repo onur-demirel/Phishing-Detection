@@ -1,0 +1,42 @@
+Using with Elixir
+Specify your Mix dependencies as two-item tuples like
+{:plug, "~> 1.1.0"}
+in your dependency list, Elixir will ask if you want to install Hex if you haven't already.
+Specify your Mix dependencies as two-item tuples like
+{:plug, "~> 1.1.0"}
+in your dependency list, Elixir will ask if you want to install Hex if you haven't already.
+Download rebar3, put it in your
+PATH and give it executable permissions.
+Now you can specify Hex dependencies in your rebar.config like
+{deps, [hackney]}.
+Fetch dependencies from Hex without creating an account. Hex is usable out of the box in Elixir with Mix and in Erlang with Rebar3. Check our FAQ for commonly asked questions.
+Create an account and follow the publishing guide. Your package will be immediately available to all Elixir and Erlang users and the documentation will be available on HexDocs.
+Publish private packages by creating an organization. Your private packages will get the same features as public packages such as fast dependency fetching, HexDocs, and run on the same reliable infrastructure that serves millions of packages daily. See our pricing page for more details.
+3 663 320 downloads A blazing fast JSON parser and generator in pure Elixir. published 670 days ago
+3 614 566 downloads SSL verification functions for Erlang published 1321 days ago
+3 584 450 downloads CA bundle adapted from Mozilla by https://certifi.io published 1504 days ago
+3 557 539 downloads Library to handle mimetypes published 1502 days ago
+3 552 121 downloads A pure Erlang IDNA implementation published 1896 days ago
+3 542 100 downloads A generic interface to different metrics systems in Erlang. published 1417 days ago
+3 540 943 downloads simple HTTP client published 1896 days ago
+3 505 419 downloads unicode_util compatibility library for Erlang < 20 published 884 days ago
+Provides a way to ensure that all queries made from your Elixir application, using Ecto, have ten... published 53 minutes ago
+A succinct and consistent interface for defining control-flow of functions via configuration. published 2 hours ago
+Data specification library inspired by clojure.spec published 5 hours ago
+A pre-configured pulsar docker-compose stack definition for integration testing with the divo... published 12 hours ago
+Material Design Bootstrap 4 Forms for Phoenix Applications published 18 hours ago
+OLED is a library to manage the monochrome OLED screen based on chip SSD1306. Implements a Scenic... published 1 day ago
+Library to supplement Matrex published 1 day ago
+Use :atomics as an M x N matrix. published 2 days ago
+[WIP] Unofficial Intercom API client written in Elixir published 2 days ago
+#Bitcoin #BIP39 #Mnemonic #Elixir published 2 days ago
+Compose, deliver and test your emails easily in Elixir. Supports SMTP, Sendgrid, Mandrill, Postma... 0.24.0 published 40 minutes ago
+Provides a way to ensure that all queries made from your Elixir application, using Ecto, have ten... 0.0.1 published 53 minutes ago
+A succinct and consistent interface for defining control-flow of functions via configuration. 0.0.3 published 2 hours ago
+A succinct and consistent interface for defining control-flow of functions via configuration. 0.0.2 published 2 hours ago
+A succinct and consistent interface for defining control-flow of functions via configuration. 0.0.1 published 2 hours ago
+Data specification library inspired by clojure.spec 0.0.2 published 4 hours ago
+Data specification library inspired by clojure.spec 0.0.1 published 5 hours ago
+Material Design Bootstrap 4 Forms for Phoenix Applications 0.0.5 published 5 hours ago
+BPE Business Process Engine 4.10.10 published 7 hours ago
+Bonny: Kubernetes Operator Development Framework. Extend Kubernetes with Elixir 0.4.0 published 7 hours ago

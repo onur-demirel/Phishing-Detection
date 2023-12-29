@@ -1,0 +1,1524 @@
+|Naam
+|Aanbieder
+|Doel
+|Verval termijn
+|Type
+|PHPSESSID [x5]
+|ad-skills.nl
+ds1.nl
+girlscene.nl
+ndt5.net
+secure.safelead.net
+|Houdt gebruikerssessiestatus voor alle pagina-aanvragen bij.
+|Session
+|HTTP
+|__cfduid [x19]
+|adux.com
+ah.nl
+crazyegg.com
+daisycon.io
+demandware.net
+ds1.nl
+dumpert.nl
+hema.nl
+lt45.net
+lucardi-cdn.nl
+manymorestores.com
+ndt5.net
+onesignal.com
+pingdom.net
+plurk.com
+safelead.net
+seedtag.com
+topvintage.net
+wehkamp.nl
+|Gebruikt door het inhoudsnetwerk, Cloudflare, om vertrouwd webverkeer te identificeren.
+|1 jaar
+|HTTP
+|checkForPermission
+|bidr.io
+|Bepaalt of de bezoeker de cookies heeft geaccepteerd.
+|1 dag
+|HTTP
+|gig3pctest
+|cdns.eu1.gigya.com
+|Deze cookie bepaalt of de browser cookies accepteert.
+|1 dag
+|HTTP
+|ak_bmsc
+|dailymail.co.uk
+|Deze cookie wordt gebruikt om onderscheid te maken tussen mensen en bots. Dit is gunstig voor de website om juiste rapporten over het gebruik van de website te maken.
+|1 dag
+|HTTP
+|AKA_A2
+|dailymail.co.uk
+|Deze cookie is nodig voor de cachefunctie. Een cache wordt gebruikt door de website om de reactietijd tussen de bezoeker en de website te optimaliseren. De cache wordt meestal opgeslagen in de browser van de bezoeker.
+|1 dag
+|HTTP
+|RT
+|dailymail.co.uk
+|Deze cookie wordt gebruikt om de bezoeker te identificeren via een app. Hierdoor kan de bezoeker bijvoorbeeld inloggen op een website via zijn LinkedIn-account.
+|6 dagen
+|HTTP
+|gmid
+|gigya.com
+|Identificeert de ingelogde gebruiker. Een unieke sessie-ID is gekoppeld aan de gebruiker, zodat hij/zij tijdens het navigeren op de website wordt geïdentificeerd. De gebruiker wordt afgemeld wanneer de cookie verloopt.
+|1 jaar
+|HTTP
+|CookieConsent
+|girlscene.nl
+|Slaat de cookiestatus van de gebruiker op voor het huidige domein
+|1 jaar
+|HTTP
+|freewheel-detected-bandwidth
+|girlscene.nl
+|Deze cookie wordt gebruikt in samenhang met traffic verdeling - Dit optimaliseert het responspercentage tussen de bezoeker en de site, door de traffic te verdelen over meerdere netwerkkoppelingen of servers.
+|1 dag
+|HTTP
+|wordfence_verifiedHuman
+|girlscene.nl
+|Deze cookie wordt gebruikt om de website te beveiligen tegen kwaadaardige software of andere typen cyberaanvallen.
+|1 dag
+|HTTP
+|incap_ses_#
+|myheritagefiles.com
+|Houdt gebruikersstatussen over paginabezoeken bij.
+|Session
+|HTTP
+|visid_incap_#
+|myheritagefiles.com
+|Houdt gebruikersstatussen over paginabezoeken bij.
+|1 jaar
+|HTTP
+|JSESSIONID
+|nr-data.net
+|Houdt gebruikersstatussen over paginabezoeken bij.
+|Session
+|HTTP
+|ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+|shape.com
+|Wordt gebruikt om bezoekersgegevens te coderen en bewaren - Dit is noodzakelijk voor de beveiliging van de gebruikersgegevens.
+|Session
+|HTTP
+|AMP_TOKEN
+|shape.com
+|Zorgt voor browsingveiligheid, door vervalsing van cross-site verzoeken te voorkomen. Deze cookie is essentieel voor de veiligheid van de website en bezoeker.
+|1 dag
+|HTTP
+|gdprConsent
+|stickyadstv.com
+|Gebruikt om te detecteren of de bezoeker de marketingcategorie in de cookie-banner heeft geaccepteerd. Deze cookie is nodig voor GDPR-naleving van de website.
+|Session
+|HTTP
+|SESS#
+|stickyadstv.com
+|Houdt gebruikersstatussen over paginabezoeken bij.
+|Session
+|HTTP
+|sid
+|timecommerce.net
+|Houdt gebruikersstatussen over paginabezoeken bij.
+|5 jaar
+|HTTP
+|local_storage_support_test
+|twitter.com
+|De cookie wordt gebruikt in samenhang met de lokale opslagfunctie in de browser. Met deze functie kan de website sneller laden door bepaalde procedures vooraf in te laden.
+|Persistent
+|HTML
+|pa_enabled
+|vijf.be
+|Bepaalt het apparaat dat wordt gebruikt om toegang te krijgen tot de website. Hierdoor kan de website overeenkomstig worden weergegeven.
+|Persistent
+|HTML
+|Naam
+|Aanbieder
+|Doel
+|Verval termijn
+|Type
+|lang
+|cdn.syndication.twimg.com
+|Onthoudt de door de gebruiker geselecteerde taalversie van een website
+|Session
+|HTTP
+|bm_sv
+|dailymail.co.uk
+|Wordt gebruikt in de context van Mastercard's Masterpass, hierdoor kan de bezoeker met een virtuele portemonnee betalen, wat een snellere uitcheckprocedure mogelijk maakt.
+|1 dag
+|HTTP
+|volume
+|dailymail.co.uk
+|Gebruikt door videospelers om het voorkeurvolume van de gebruiker te onthouden.
+|Persistent
+|HTML
+|jwplayer.bandwidthEstimate
+|embed.kijk.nl
+|Registreert de snelheid en prestaties van de website. Deze functie kan worden gebruikt ivoor statistieken en trafficverdeling.
+|Persistent
+|HTML
+|jwplayerLocalId
+|embed.kijk.nl
+|Gebruikt om de optimale videokwaliteit te bepalen op basis van het apparaat van de bezoeker en netwerkinstellingen.
+|Persistent
+|HTML
+|hasGmid
+|gigya.com
+|Deze cookie slaat de verificatiegegevens van de bezoeker op in een versleutelde cookie zodat de bezoeker aangemeld kan blijven tot het volgende bezoek, op voorwaarde dat de bezoeker deze optie via de knop 'aangemeld blijven' heeft geaccepteerd.
+|6 maanden
+|HTTP
+|wfvt_#
+|girlscene.nl
+|Onthoudt de ingeleverde gegevens van de gebruiker wanneer een opmerking in een blogbericht wordt ingediend. Het doel is om formuliervelden automatisch in te vullen voor daaropvolgende opmerkingen, om tijd te besparen voor de gebruiker.
+|1 dag
+|HTTP
+|UID [x2]
+|stickyadstv.com
+scorecardresearch.com
+|Uniek gebruikers-ID dat de gebruiker bij terugkerende bezoeken herkent
+|29 dagen
+|HTTP
+|locale
+|weheartit.com
+|De cookie bepaalt de voorkeurstaal en de landinstelling van de bezoeker - Hiermee kan de website inhoud weergeven die het meest relevant is voor die regio en taal.
+|20 jaar
+|HTTP
+|Naam
+|Aanbieder
+|Doel
+|Verval termijn
+|Type
+|ab
+|agkn.com
+|Deze cookie wordt gebruikt door de exploitant van de website in verband met het testen van meerdere variaties. Dit is een tool die wordt gebruikt om inhoud op de website te combineren of te wijzigen. Hierdoor kan de website de beste versie van de site vinden.
+|1 jaar
+|HTTP
+|loglevel
+|dailymail.co.uk
+|Verzamelt gegevens over bezoekersinteractie met de video's van de website - Deze gegevens worden gebruikt om de video's van de website relevanter te maken voor de bezoeker.
+|Persistent
+|HTML
+|DigiTrust.v1.identity
+|digitru.st
+|Registreert gegevens over het gedrag van bezoekers aan de website. Dit wordt gebruikt voor interne analyse en optimalisatie van de website.
+|2 jaar
+|HTTP
+|Gtest
+|gemius.pl
+|Deze cookie is ingesteld om informatie te verzamelen over gebruikersgedrag en navigatie die wordt gebruikt om de website te optimaliseren - De cookie maakt het ook mogelijk dat Google Ads en Google Analytics informatie verzamelen over bezoekers, voor marketingdoeleinden.
+|59 maanden
+|HTTP
+|__qca
+|giphy.com
+|Verzamelt gegevens over de bezoeken van de gebruiker aan de website, zoals het aantal bezoeken, de gemiddelde tijd die op de website is doorgebracht en welke pagina's zijn geladen met het doel rapporten te genereren voor het optimaliseren van de inhoud van de website.
+|1 jaar
+|HTTP
+|_ga [x7]
+|giphy.com
+girlscene.nl
+kijk.nl
+manymorestores.com
+shape.com
+vijf.be
+weheartit.com
+|Registreert een uniek ID die wordt gebruikt om statistische gegevens te genereren over hoe de bezoeker de website gebruikt.
+|2 jaar
+|HTTP
+|_gat [x6]
+|giphy.com
+girlscene.nl
+kijk.nl
+manymorestores.com
+shape.com
+weheartit.com
+|Gebruikt door Google Analytics om verzoeksnelheid te vertragen
+|1 dag
+|HTTP
+|_gid [x7]
+|giphy.com
+girlscene.nl
+kijk.nl
+manymorestores.com
+shape.com
+vijf.be
+weheartit.com
+|Registreert een uniek ID die wordt gebruikt om statistische gegevens te genereren over hoe de bezoeker de website gebruikt.
+|1 dag
+|HTTP
+|collect
+|google-analytics.com
+|Gebruikt om gegevens naar Google Analytics te verzenden over het apparaat en het gedrag van de bezoeker. Traceert de bezoeker op verschillende apparaten en marketingkanalen.
+|Session
+|Pixel
+|AMCV_#
+|kijk.nl
+|Uniek gebruikers-ID dat de gebruiker bij terugkerende bezoeken herkent
+|2 jaar
+|HTTP
+|gig_hasGmid
+|kijk.nl
+|Deze cookie slaat de verificatiegegevens van de bezoeker op in een versleutelde cookie zodat de bezoeker aangemeld kan blijven tot het volgende bezoek, op voorwaarde dat de bezoeker deze optie via de knop 'aangemeld blijven' heeft geaccepteerd.
+|1 jaar
+|HTTP
+|s_cc
+|kijk.nl
+|Gebruikt om te controleren of de browser van de gebruiker cookies ondersteunt.
+|Session
+|HTTP
+|d
+|quantserve.com
+|Verzamelt gegevens over de bezoeken van de gebruiker aan de website, zoals het aantal bezoeken, de gemiddelde tijd die op de website is doorgebracht en welke pagina's zijn geladen met het doel rapporten te genereren voor het optimaliseren van de inhoud van de website.
+|3 maanden
+|HTTP
+|_cb
+|shape.com
+|Verzamelt gegevens zoals het IP-adres van bezoekers, geografische locatie en websitenavigatie - Deze informatie wordt gebruikt voor interne optimalisatie en statistieken voor de exploitant van de website.
+|1 jaar
+|HTML
+|_cb_expires
+|shape.com
+|Deze cookie wordt gebruikt in de context van HTML Local Storage, de cookie stelt een vervaldatum/-tijd in voor de _cb cookie, waardoor deze als een cookie functioneert.
+|Persistent
+|HTML
+|_cb_ls
+|shape.com
+|Verzamelt gegevens over de bezoeken van de gebruiker aan de website, zoals welke pagina's zijn gelezen.
+|1 jaar
+|HTTP
+|_cb_svref
+|shape.com
+|Deze cookie wordt gebruikt om gegevens over een bezoeker te verzamelen. Deze informatie wordt omgezet in een ID-string met informatie over een specifieke bezoeker – ID-informatiestrings kunnen worden gebruikt om groepen met overeenkomstige voorkeuren te benaderen, of kan worden gebruikt door externe domeinen of advertentie-uitwisselingen.
+|1 dag
+|HTML
+|_cb_svref_expires
+|shape.com
+|Deze cookie wordt gebruikt in de context van HTML Local Storage, de cookie stelt een vervaldatum/-tijd in voor de _cb_sverf, waardoor deze als een cookie functioneert.
+|Persistent
+|HTML
+|ajs_anonymous_id
+|shape.com
+|Deze cookie wordt gebruikt om bij te houden hoe vaak een website door verschillende bezoekers wordt bezocht – dit wordt gedaan door de bezoeker een willekeurige ID toe te wijzen, zodat dezelfde bezoeker niet twee keer wordt geteld.
+|1 jaar
+|HTML
+|personalization_id
+|twitter.com
+|Deze cookie wordt ingesteld door Twitter - Met de cookie kan de bezoeker inhoud van de website delen op zijn Twitter-profiel.
+|2 jaar
+|HTTP
+|_hjid
+|vijf.be
+|Stelt een unieke ID in voor de sessie. Hierdoor kan de website voor statistische doeleinden gegevens over bezoekersgedrag verkrijgen.
+|1 jaar
+|HTML
+|ABdebug
+|vijf.be
+|Deze cookie wordt gebruikt door de exploitant van de website in verband met het testen van meerdere variaties. Dit is een tool die wordt gebruikt om inhoud op de website te combineren of te wijzigen. Hierdoor kan de website de beste versie van de site vinden.
+|Session
+|HTTP
+|ABTasty
+|vijf.be
+|Deze cookie wordt gebruikt door de exploitant van de website in verband met het testen van meerdere variaties. Dit is een tool die wordt gebruikt om inhoud op de website te combineren of te wijzigen. Hierdoor kan de website de beste versie van de site vinden.
+|1 jaar
+|HTTP
+|ABTastyData
+|vijf.be
+|Deze cookie wordt gebruikt door de exploitant van de website in verband met het testen van meerdere variaties. Dit is een tool die wordt gebruikt om inhoud op de website te combineren of te wijzigen. Hierdoor kan de website de beste versie van de site vinden.
+|Persistent
+|HTML
+|ABTastySession
+|vijf.be
+|Deze cookie wordt gebruikt door de exploitant van de website in verband met het testen van meerdere variaties. Dit is een tool die wordt gebruikt om inhoud op de website te combineren of te wijzigen. Hierdoor kan de website de beste versie van de site vinden.
+|1 dag
+|HTTP
+|DCInfos
+|vijf.be
+|Deze cookie wordt gebruikt door de exploitant van de website in verband met het testen van meerdere variaties. Dit is een tool die wordt gebruikt om inhoud op de website te combineren of te wijzigen. Hierdoor kan de website de beste versie van de site vinden.
+|Session
+|HTML
+|pa
+|vijf.be
+|Registreert de snelheid en prestaties van de website. Deze functie kan worden gebruikt ivoor statistieken en trafficverdeling.
+|Persistent
+|HTML
+|vuid
+|vimeo.com
+|Verzamelt gegevens over de bezoeken van de gebruiker aan de website, zoals welke pagina's zijn gelezen.
+|2 jaar
+|HTTP
+|ouuid
+|volvelle.tech
+|Bevat een bezoekers-ID - Dit wordt gebruikt om de bezoeker te identificeren bij het opnieuw bezoeken van de website.
+|1 jaar
+|HTTP
+|Gdyn
+|gemius.pl
+|In afwachting
+|59 maanden
+|HTTP
+|_vapi#
+|kijk.nl
+|In afwachting
+|Session
+|HTTP
+|AMCVS_#AdobeOrg
+|kijk.nl
+|In afwachting
+|Session
+|HTTP
+|Naam
+|Aanbieder
+|Doel
+|Verval termijn
+|Type
+|pi
+|ml314.com
+|Registreert een uniek ID die het apparaat van de gebruiker identificeert tijdens terugkerende bezoeken op websites die hetzelfde advertentienetwerk gebruiken. De ID wordt gebruikt om gerichte advertenties toe te staan.
+|1 jaar
+|HTTP
+|utsync.ashx
+|ml314.com
+|Deze cookie is ingesteld door de doelgroepmanager van de website om de tijd en de frequentie van de synchronisatie van bezoekersgegevens vast te stellen – synchronisatie van cookie-gegevens wordt gebruikt om bezoekersgegevens afkomstig van verschillende websites te synchroniseren en te verzamelen.
+|Session
+|Pixel
+|id
+|mookie1.com
+|Registreert een uniek ID die het apparaat van een terugkerende gebruiker identificeert. De ID wordt gebruikt voor gerichte advertenties.
+|1 jaar
+|HTTP
+|mdata
+|mookie1.com
+|Registreert een uniek ID die het apparaat van een terugkerende gebruiker identificeert. De ID wordt gebruikt voor gerichte advertenties.
+|1 jaar
+|HTTP
+|i
+|openx.net
+|Registreert gebruikersgegevens, zoals IP-adres, geografische locatie, bezochte websites en op welke advertenties de gebruiker heeft geklikt, met als doel het optimaliseren van de weergave van advertenties op basis van de verplaatsing van de gebruiker op websites die hetzelfde advertentienetwerk gebruiken.
+|1 jaar
+|HTTP
+|pb-tracking-id
+|playbuzz.com
+|Gebruikt om de bezoeker relevante inhoud en advertenties te presenteren - De service wordt geleverd door advertentieshubs van derden, waardoor realtime bieden voor adverteerders wordt vergemakkelijkt.
+|29 dagen
+|HTTP
+|c [x6]
+|programattik.com
+volvelle.tech
+360yield.com
+4finance.com
+bidswitch.net
+creative-serving.com
+|Gebruikt om spam te detecteren en de beveiliging van de website te verbeteren. Bewaart geen bezoekersspecifieke gegevens.
+|2 jaar
+|HTTP
+|tuuid [x6]
+|programattik.com
+sspqns.com
+360yield.com
+4finance.com
+bidswitch.net
+creative-serving.com
+|Verzamelt identificeerbare gegevens, die naar een niet-identificeerbare ontvanger worden gezonden. De identiteit van de ontvanger wordt door Perfect Privacy LLC geheim gehouden.
+|2 jaar
+|HTTP
+|tuuid_lu [x6]
+|programattik.com
+sspqns.com
+360yield.com
+4finance.com
+bidswitch.net
+creative-serving.com
+|Bevat een uniek bezoekers-ID, waarmee Bidswitch.com de bezoeker op meerdere websites kan volgen. Hierdoor kan Bidswitch de advertentierelevantie optimaliseren en ervoor zorgen dat de bezoeker niet meerdere keren dezelfde advertenties te zien krijgt.
+|2 jaar
+|HTTP
+|KADUSERCOOKIE
+|pubmatic.com
+|Registreert een uniek ID die het apparaat van de gebruiker identificeert tijdens terugkerende bezoeken op websites die hetzelfde advertentienetwerk gebruiken. De ID wordt gebruikt om gerichte advertenties toe te staan.
+|3 maanden
+|HTTP
+|KTPCACOOKIE
+|pubmatic.com
+|Registreert een uniek ID die het apparaat van de gebruiker identificeert tijdens terugkerende bezoeken op websites die hetzelfde advertentienetwerk gebruiken. De ID wordt gebruikt om gerichte advertenties toe te staan.
+|1 dag
+|HTTP
+|mc
+|quantserve.com
+|Verzamelt gegevens over de bezoeken van de gebruiker aan de website, zoals welke pagina's zijn geladen. De geregistreerde gegevens worden gebruikt voor gerichte advertenties.
+|13 maanden
+|HTTP
+|pxrc
+|rlcdn.com
+|Deze cookie registreert niet-persoonlijke gegevens van de bezoeker. De informatie wordt gebruikt om de advertentierelevantie te optimaliseren.
+|2 maanden
+|HTTP
+|rlas3
+|rlcdn.com
+|Verzamelt gegevens met betrekking tot de bezoeken van de gebruiker aan de website, zoals het aantal bezoeken, de gemiddelde tijd die op de website is doorgebracht en welke pagina's zijn geladen, met het doel om gerichte advertenties weer te geven.
+|1 jaar
+|HTTP
+|UIDR
+|scorecardresearch.com
+|Verzamelt informatie van de gebruiker en zijn/haar beweging, zoals tijdstempel voor bezoeken, meest recent geladen pagina's en IP-adres. De gegevens worden gebruikt door het marketingonderzoeksnetwerk, Scorecard Research, om verkeerspatronen te analyseren en enquêtes uit te voeren om hun klanten te helpen de voorkeuren van de klant beter te begrijpen.
+|2 jaar
+|HTTP
+|A6
+|serving-sys.com
+|Registreert gegevens over bezoekers die meerdere bezoeken brengen en op meerdere websites. Deze informatie wordt gebruikt om de efficiëntie van advertenties op websites te meten.
+|3 maanden
+|HTTP
+|u2
+|serving-sys.com
+|Verzamelt gegevens met betrekking tot de navigatiebezoeken van de gebruiker naar webpagina's om de doeltreffendheid te beoordelen van advertenties die op de website worden weergegeven.
+|3 maanden
+|HTTP
+|__tld__
+|shape.com
+|Gebruikt om bezoekers op meerdere websites te volgen, om relevante advertenties te presenteren op basis van de voorkeuren van de bezoeker.
+|Session
+|HTTP
+|_chartbeat2
+|shape.com
+|Gebruikt door het webanalysebedrijf Chartbeat om te registreren of de gebruiker de website eerder heeft bezocht.
+|1 jaar
+|HTML
+|_chartbeat2_expires
+|shape.com
+|Gebruikt door het webanalysebedrijf Chartbeat om te registreren of de gebruiker de website eerder heeft bezocht.
+|Persistent
+|HTML
+|ajs%3Acookies
+|shape.com
+|Verzamelt gegevens over bezoekers. Deze informatie wordt gebruikt om bezoekers in segmenten op te delen, waardoor website-advertenties efficiënter worden.
+|1 jaar
+|HTTP
+|ajs%3Atest
+|shape.com
+|Verzamelt gegevens over bezoekers. Deze informatie wordt gebruikt om bezoekers in segmenten op te delen, waardoor website-advertenties efficiënter worden.
+|1 jaar
+|HTTP
+|ajs_group_id
+|shape.com
+|Deze cookie wordt gebruikt om specifieke bezoekers aan segmenten toe te wijzen. Deze segmentatie is gebaseerd op het gedrag van de bezoeker op de website – de segmentatie kan worden gebruikt om grotere groepen te bereiken.
+|1 jaar
+|HTML
+|ajs_group_properties
+|shape.com
+|Verzamelt gegevens over bezoekers. Deze informatie wordt gebruikt om bezoekers in segmenten op te delen, waardoor website-advertenties efficiënter worden.
+|Persistent
+|HTML
+|ajs_user_id
+|shape.com
+|Deze cookie wordt gebruikt om gegevens over het gedrag van de bezoeker op de website te verzamelen – deze informatie kan worden gebruikt om de bezoeker aan een bepaald bezoekerssegment toe te wijzen op basis van gemeenschappelijke voorkeuren.
+|1 jaar
+|HTML
+|ajs_user_traits
+|shape.com
+|Verzamelt gegevens over bezoekers. Deze informatie wordt gebruikt om bezoekers in segmenten op te delen, waardoor website-advertenties efficiënter worden.
+|Persistent
+|HTML
+|uid [x4]
+|simpli.fi
+turn.com
+addthis.com
+adform.net
+|Registreert een uniek ID die het apparaat van een terugkerende gebruiker identificeert. De ID wordt gebruikt voor gerichte advertenties.
+|1 jaar
+|HTTP
+|skimCSP
+|skimresources.com
+|Deze cookie registreert gegevens van de bezoeker. De informatie wordt gebruikt om de advertentierelevantie te optimaliseren.
+|1 jaar
+|HTTP
+|skimGUID
+|skimresources.com
+|Wijst een specifieke ID toe aan de bezoeker - Hiermee kan de website het aantal specifieke gebruikersbezoeken voor analyse en statistieken bepalen.
+|1 jaar
+|HTTP
+|audience
+|spotxchange.com
+|Wordt gebruikt om te bepalen of de videoadvertenties correct zijn weergegeven op de website. Dit wordt gedaan om videoadvertenties effectiever te maken en ervoor te zorgen dat de bezoeker niet vaker dezelfde advertenties te zien krijgt dan de bedoeling was. De cookie detecteert ook of de bezoeker eventuele Do Not Track-voorkeuren heeft.
+|1 jaar
+|HTTP
+|gdprApplicability
+|stickyadstv.com
+|Bepaalt of de gebruiker zich in de EU bevindt en daarom onder de EU-regels inzake gegevensprivacy valt.
+|Session
+|HTTP
+|sh
+|videoamp.com
+|Verzamelt gegevens over gedrag en interactie van bezoekers - Dit wordt gebruikt om de website te optimaliseren en om advertenties op de website relevanter te maken.
+|29 dagen
+|HTTP
+|vampid
+|videoamp.com
+|Verzamelt gegevens over gedrag en interactie van bezoekers - Dit wordt gebruikt om de website te optimaliseren en om advertenties op de website relevanter te maken.
+|1 jaar
+|HTTP
+|__gfp_64b
+|vijf.be
+|Verzamelt gegevens over gebruikersbezoeken aan de website, zoals welke pagina's zijn geopend. De geregistreerde gegevens worden gebruikt om de interessegebieden en demografische profielen van de gebruiker te categoriseren in termen van doorverkoop voor gerichte marketing.
+|999 dagen
+|HTTP
+|_hjIncludedInSample
+|vijf.be
+|Bepaalt of de navigatie van de gebruiker moet worden geregistreerd in een bepaalde tijdelijke statistische aanduiding.
+|Session
+|HTTP
+|ABTastyGeoloc
+|vijf.be
+|Gebruikt om bezoekers op meerdere websites te volgen, om relevante advertenties te presenteren op basis van de voorkeuren van de bezoeker.
+|Session
+|HTML
+|ABTastyUA
+|vijf.be
+|Gebruikt om bezoekers op meerdere websites te volgen, om relevante advertenties te presenteren op basis van de voorkeuren van de bezoeker.
+|Session
+|HTML
+|GED_PLAYLIST_ACTIVITY [x2]
+|vijf.be
+girlscene.nl
+|Deze cookie is ingesteld om het aantal keren bij te houden dat een specifieke bezoeker een specifieke advertentie is getoond – met de cookie kunnen adverteerders de specifieke advertenties die worden getoond differentiëren en daarmee het adverteren efficiënter maken.
+|Session
+|HTTP
+|player
+|vimeo.com
+|Slaat de gebruikersvoorkeuren op bij het afspelen van ingesloten video's van Vimeo.
+|1 jaar
+|HTTP
+|sync_active
+|vimeo.com
+|Bevat gegevens over de voorkeuren van bezoekers voor video's - Hiermee kan de website parameters onthouden zoals het gewenste volume of de gewenste videokwaliteit. De service wordt geleverd door Vimeo.com.
+|Persistent
+|HTML
+|ouuid_lu
+|volvelle.tech
+|Gebruikt in combinatie met de "Ouuid" -cookie om de bezoeker opnieuw te targeten met relevante advertenties of productpromoties.
+|1 jaar
+|HTTP
+|matchfreewheel
+|w55c.net
+|Stelt een unieke ID in voor de bezoeker, waarmee externe adverteerders de bezoeker kunnen targeten met relevante advertenties. Deze koppelservice wordt geleverd door advertentieshubs van derden, waardoor het realtime bieden voor adverteerders wordt vergemakkelijkt.
+|29 dagen
+|HTTP
+|wfivefivec
+|w55c.net
+|Verzamelt gegevens over de bezoeken van de gebruiker aan de website, zoals welke pagina's zijn geladen. De geregistreerde gegevens worden gebruikt voor gerichte advertenties.
+|13 maanden
+|HTTP
+|gwsi
+|widespace.com
+|Registreert gegevens over bezoekers die meerdere bezoeken brengen en op meerdere websites. Deze informatie wordt gebruikt om de efficiëntie van advertenties op websites te meten.
+|1 jaar
+|HTTP
+|B
+|yahoo.com
+|Verzamelt gegevens met betrekking tot de websitebezoeken van de gebruiker, zoals het aantal bezoeken, de gemiddelde tijd die op de website is doorgebracht en welke pagina's zijn geladen. De geregistreerde gegevens worden gebruikt om de interesse- en demografische profielen van de gebruikers te categoriseren met het doel de inhoud van de website aan te passen afhankelijk van de bezoeker.
+|1 jaar
+|HTTP
+|GPS
+|youtube.com
+|Registreert een uniek ID op mobiele apparaten om tracking mogelijk te maken op basis van geografische GPS-locatie.
+|1 dag
+|HTTP
+|PREF
+|youtube.com
+|Registreert een unieke ID die door Google wordt gebruikt om statistieken bij te houden over hoe de bezoeker YouTube-video's op verschillende websites gebruikt.
+|8 maanden
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Probeert de bandbreedte van gebruikers te schatten op pagina's met geïntegreerde YouTube-video's.
+|179 dagen
+|HTTP
+|YSC
+|youtube.com
+|Registreert een unieke ID om statistieken bij te houden van welke video's van YouTube de gebruiker heeft gezien.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Bewaart de voorkeuren van de videospeler van de gebruiker met ingesloten YouTube-video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Bewaart de voorkeuren van de videospeler van de gebruiker met ingesloten YouTube-video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Bewaart de voorkeuren van de videospeler van de gebruiker met ingesloten YouTube-video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Bewaart de voorkeuren van de videospeler van de gebruiker met ingesloten YouTube-video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Bewaart de voorkeuren van de videospeler van de gebruiker met ingesloten YouTube-video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Bewaart de voorkeuren van de videospeler van de gebruiker met ingesloten YouTube-video
+|Session
+|HTML
+|_rxuuid
+|1rx.io
+|Stelt een unieke ID in voor de bezoeker, waarmee externe adverteerders de bezoeker kunnen targeten met relevante advertenties. Deze koppelservice wordt geleverd door advertentieshubs van derden, waardoor het realtime bieden voor adverteerders wordt vergemakkelijkt.
+|1 jaar
+|HTTP
+|AWSALB
+|360yield.com
+|Registreert welk servercluster de bezoeker bedient. Dit wordt gebruikt in samenhang met trafficverdeling, om de gebruikerservaring te optimaliseren.
+|6 dagen
+|HTTP
+|um
+|360yield.com
+|Registreert het gedrag van de bezoeker op sociale media, kan worden gebruikt om de advertenties zo relevant en doelgericht mogelijk te maken.
+|3 maanden
+|HTTP
+|umeh
+|360yield.com
+|Gebruikt om bezoekers op meerdere websites te volgen, om relevante advertenties te presenteren op basis van de voorkeuren van de bezoeker.
+|3 maanden
+|HTTP
+|bsw_uid
+|4finance.com
+|Wordt gebruikt om de bezoeker te identificeren tijdens bezoeken, en op verschillende apparaten. Hierdoor kan de website de bezoeker voorzien van relevante advertenties. De service wordt geleverd door advertentieshubs van derden, waardoor realtime bieden voor adverteerders wordt vergemakkelijkt.
+|1 jaar
+|HTTP
+|na_id
+|addthis.com
+|Gebruikt om de bezoeker bij een herbezoek te herkennen. Hierdoor kan de website het gedrag van de bezoeker registreren en de social media-deelfunctie te faciliteren die wordt aangeboden door Addthis.com.
+|13 maanden
+|HTTP
+|na_rn
+|addthis.com
+|Gebruikt om de bezoeker bij een herbezoek te herkennen. Hierdoor kan de website het gedrag van de bezoeker registreren en de social media-deelfunctie te faciliteren die wordt aangeboden door Addthis.com.
+|29 dagen
+|HTTP
+|na_sc_e
+|addthis.com
+|Gebruikt om de bezoeker bij een herbezoek te herkennen. Hierdoor kan de website het gedrag van de bezoeker registreren en de social media-deelfunctie te faciliteren die wordt aangeboden door Addthis.com.
+|29 dagen
+|HTTP
+|na_sr
+|addthis.com
+|Gebruikt om de bezoeker bij een herbezoek te herkennen. Hierdoor kan de website het gedrag van de bezoeker registreren en de social media-deelfunctie te faciliteren die wordt aangeboden door Addthis.com.
+|29 dagen
+|HTTP
+|na_srp
+|addthis.com
+|Gebruikt om de bezoeker bij een herbezoek te herkennen. Hierdoor kan de website het gedrag van de bezoeker registreren en de social media-deelfunctie te faciliteren die wordt aangeboden door Addthis.com.
+|1 dag
+|HTTP
+|na_tc
+|addthis.com
+|Gebruikt om de bezoeker bij een herbezoek te herkennen. Hierdoor kan de website het gedrag van de bezoeker registreren en de social media-deelfunctie te faciliteren die wordt aangeboden door Addthis.com.
+|13 maanden
+|HTTP
+|ouid
+|addthis.com
+|Stelt een ID-reeks in voor de specifieke bezoeker. Dit wordt gebruikt om de bezoeker bij terugkeer op de website te herkennen. Hierdoor kan de website het gedrag van de bezoeker registreren en de functie voor delen van sociale media faciliteren, wordt aangeboden door Addthis.com.
+|13 maanden
+|HTTP
+|bsw_sync
+|adhigh.net
+|Gebruikt om bezoekers op meerdere websites te volgen, om relevante advertenties te presenteren op basis van de voorkeuren van de bezoeker.
+|1 jaar
+|HTTP
+|gi_u
+|adhigh.net
+|Gebruikt voor gerichte advertenties en om de effectiviteit van elke afzonderlijke advertentie te documenteren.
+|1 jaar
+|HTTP
+|UserID1
+|adition.com
+|Deze cookie wordt gebruikt om gegevens over een bezoeker te verzamelen. Deze informatie wordt omgezet in een ID-string met informatie over een specifieke bezoeker – ID-informatiestrings kunnen worden gebruikt om groepen met overeenkomstige voorkeuren te benaderen, of kan worden gebruikt door externe domeinen of advertentie-uitwisselingen.
+|179 dagen
+|HTTP
+|am-uid
+|admixer.net
+|Deze cookie wordt gebruikt om de bezoeker te identificeren en de relevantie van advertenties te optimaliseren door het gedrag van de bezoeker op meerdere websites te verzamelen – deze uitwisseling van bezoekersgegevens wordt normaal gesproken verzorgd door een extern datacentrum of advertentie-uitwisseling.
+|2 jaar
+|HTTP
+|anj
+|adnxs.com
+|Registreert een unieke ID die het apparaat van een terugkerende gebruiker identificeert. De ID wordt gebruikt voor gerichte advertenties.
+|3 maanden
+|HTTP
+|icu
+|adnxs.com
+|Verzamelt gegevens over bezoekersgedrag van meerdere websites, om meer relevante advertenties weer te geven - Hierdoor kan de website ook het aantal keren dat de bezoeker dezelfde advertentie te zien krijgt beperken.
+|3 maanden
+|HTTP
+|uuid2
+|adnxs.com
+|Registreert een unieke ID die het apparaat van een terugkerende gebruiker identificeert. De ID wordt gebruikt voor gerichte advertenties.
+|3 maanden
+|HTTP
+|OAID
+|ads2.femmefab.nl
+|Registreert een uniek ID die het apparaat van een terugkerende gebruiker identificeert. De ID wordt gebruikt voor gerichte advertenties.
+|1 jaar
+|HTTP
+|TDCPM
+|adsrvr.org
+|Registreert een uniek ID die het apparaat van een terugkerende gebruiker identificeert. De ID wordt gebruikt voor gerichte advertenties.
+|1 jaar
+|HTTP
+|TDID
+|adsrvr.org
+|Registreert een uniek ID die het apparaat van een terugkerende gebruiker identificeert. De ID wordt gebruikt voor gerichte advertenties.
+|1 jaar
+|HTTP
+|u
+|agkn.com
+|Verzamelt gegevens over gebruikersbezoeken aan de website, zoals welke pagina's zijn geopend. De geregistreerde gegevens worden gebruikt om de interessegebieden en demografische profielen van de gebruiker te categoriseren in termen van doorverkoop voor gerichte marketing.
+|1 jaar
+|HTTP
+|bito
+|bidr.io
+|Stelt een unieke ID in voor de bezoeker, waarmee externe adverteerders de bezoeker kunnen targeten met relevante advertenties. Deze koppelservice wordt geleverd door advertentieshubs van derden, waardoor het realtime bieden voor adverteerders wordt vergemakkelijkt.
+|1 jaar
+|HTTP
+|CMID
+|casalemedia.com
+|Verzamelt gegevens met betrekking tot de bezoeken van de gebruiker aan de website, zoals het aantal bezoeken, de gemiddelde tijd die op de website is doorgebracht en welke pagina's zijn geladen, met het doel om gerichte advertenties weer te geven.
+|1 jaar
+|HTTP
+|CMPRO
+|casalemedia.com
+|Verzamelt gegevens over bezoekersgedrag van meerdere websites, om meer relevante advertenties weer te geven - Hierdoor kan de website ook het aantal keren dat de bezoeker dezelfde advertentie te zien krijgt beperken.
+|3 maanden
+|HTTP
+|CMPS
+|casalemedia.com
+|Verzamelt gegevens met betrekking tot de bezoeken van de gebruiker aan de website, zoals het aantal bezoeken, de gemiddelde tijd die op de website is doorgebracht en welke pagina's zijn geladen, met het doel om gerichte advertenties weer te geven.
+|3 maanden
+|HTTP
+|CMST
+|casalemedia.com
+|Verzamelt gegevens met betrekking tot de bezoeken van de gebruiker aan de website, zoals het aantal bezoeken, de gemiddelde tijd die op de website is doorgebracht en welke pagina's zijn geladen, met het doel om gerichte advertenties weer te geven.
+|1 dag
+|HTTP
+|_cc_aud
+|crwdcntrl.net
+|Verzamelt statistische gegevens met betrekking tot de websitebezoeken van de gebruiker, zoals het aantal bezoeken, de gemiddelde tijd die op de website is doorgebracht en welke pagina's zijn geladen. Het doel is om de gebruikers van de website te segmenteren op basis van factoren zoals demografie en geografische locatie, zodat media- en marketingbureaus hun doelgroepen kunnen structureren en begrijpen om aangepaste online advertenties mogelijk te maken.
+|269 dagen
+|HTTP
+|_cc_cc
+|crwdcntrl.net
+|Verzamelt statistische gegevens met betrekking tot de websitebezoeken van de gebruiker, zoals het aantal bezoeken, de gemiddelde tijd die op de website is doorgebracht en welke pagina's zijn geladen. Het doel is om de gebruikers van de website te segmenteren op basis van factoren zoals demografie en geografische locatie, zodat media- en marketingbureaus hun doelgroepen kunnen structureren en begrijpen om aangepaste online advertenties mogelijk te maken.
+|Session
+|HTTP
+|_cc_dc
+|crwdcntrl.net
+|Verzamelt statistische gegevens met betrekking tot de websitebezoeken van de gebruiker, zoals het aantal bezoeken, de gemiddelde tijd die op de website is doorgebracht en welke pagina's zijn geladen. Het doel is om de gebruikers van de website te segmenteren op basis van factoren zoals demografie en geografische locatie, zodat media- en marketingbureaus hun doelgroepen kunnen structureren en begrijpen om aangepaste online advertenties mogelijk te maken.
+|269 dagen
+|HTTP
+|_cc_id
+|crwdcntrl.net
+|Verzamelt statistische gegevens met betrekking tot de websitebezoeken van de gebruiker, zoals het aantal bezoeken, de gemiddelde tijd die op de website is doorgebracht en welke pagina's zijn geladen. Het doel is om de gebruikers van de website te segmenteren op basis van factoren zoals demografie en geografische locatie, zodat media- en marketingbureaus hun doelgroepen kunnen structureren en begrijpen om aangepaste online advertenties mogelijk te maken.
+|269 dagen
+|HTTP
+|demdex
+|demdex.net
+|Via een uniek ID, die wordt gebruikt voor semantische inhoudsanalyse, wordt de navigatie van de gebruiker op de website geregistreerd en gekoppeld aan offline gegevens uit enquêtes en soortgelijke registraties om gerichte advertenties weer te geven.
+|179 dagen
+|HTTP
+|dpm
+|demdex.net
+|Stelt een unieke niet-persoonlijke ID in voor de bezoeker, waarmee externe adverteerders de bezoeker kunnen targeten met relevante advertenties. Deze koppelservice wordt geleverd door advertentieshubs van derden, waardoor het realtime bieden voor adverteerders wordt vergemakkelijkt.
+|179 dagen
+|HTTP
+|DSID
+|doubleclick.net
+|Gebruikt door Google DoubleClick voor het opnieuw targeten, optimaliseren, rapporteren en toekennen van online advertenties.
+|1 dag
+|HTTP
+|IDE
+|doubleclick.net
+|Gebruikt door Google DoubleClick om de acties van de websitegebruiker te registreren en te rapporteren na het bekijken of klikken op een van de advertenties van de adverteerder met het doel de effectiviteit van een advertentie te meten en om gerichte advertenties aan de gebruiker te presenteren.
+|1 jaar
+|HTTP
+|r/collect
+|doubleclick.net
+|Deze cookie wordt gebruikt om gegevens over het apparaat en het gedrag van de gebruiker naar Google Analytics te zenden. De cookie volgt de gebruiker op verschillende apparaten en marketingkanalen.
+|Session
+|Pixel
+|test_cookie
+|doubleclick.net
+|Gebruikt om te controleren of de browser van de gebruiker cookies ondersteunt.
+|1 dag
+|HTTP
+|dyn_u
+|dyntrk.com
+|Verzamelt gegevens over gedrag en interactie van bezoekers - Dit wordt gebruikt om de website te optimaliseren en om advertenties op de website relevanter te maken.
+|1 jaar
+|HTTP
+|everest_g_v2
+|everesttech.net
+|Gebruikt voor gerichte advertenties en om de effectiviteit van elke afzonderlijke advertentie te documenteren.
+|1 jaar
+|HTTP
+|everest_session_v2
+|everesttech.net
+|Gebruikt voor gerichte advertenties en om de effectiviteit van elke afzonderlijke advertentie te documenteren.
+|Session
+|HTTP
+|gglck
+|everesttech.net
+|Gebruikt voor gerichte advertenties en om de effectiviteit van elke afzonderlijke advertentie te documenteren.
+|29 dagen
+|HTTP
+|__ev_uid
+|eyeviewads.com
+|Registreert een uniek ID die het apparaat van de gebruiker identificeert tijdens terugkerende bezoeken. Gebruikt voor het bijhouden van conversies en om de effectiviteit van online advertenties te meten.
+|6 jaar
+|HTTP
+|fr
+|facebook.com
+|Gebruikt door Facebook om een reeks advertentieproducten te leveren, zoals realtime bieden van externe adverteerders.
+|3 maanden
+|HTTP
+|tr
+|facebook.com
+|Gebruikt door Facebook om een reeks advertentieproducten te leveren, zoals realtime bieden van externe adverteerders.
+|Session
+|Pixel
+|__asc
+|giphy.com
+|Deze cookie wordt gebruikt om informatie te verzamelen over klantgedrag, welke wordt doorgezonden naar Alexa Analytics – Alexa Analytics is een bedrijf van Amazon.
+|1 dag
+|HTTP
+|__auc
+|giphy.com
+|Deze cookie wordt gebruikt om informatie te verzamelen over klantgedrag, welke wordt doorgezonden naar Alexa Analytics – Alexa Analytics is een bedrijf van Amazon.
+|1 jaar
+|HTTP
+|_pxhd
+|giphy.com
+|Verzamelt informatie over bezoekersgedrag op meerdere websites. Deze informatie wordt gebruikt om de relevantie van advertenties op de website te optimaliseren.
+|1 jaar
+|HTTP
+|_fbp
+|girlscene.nl
+|Gebruikt door Facebook om een reeks advertentieproducten te leveren, zoals realtime bieden van externe adverteerders.
+|3 maanden
+|HTTP
+|google_adsense_settings
+|girlscene.nl
+|Gebruikt door Google AdSense om te experimenteren met de efficiëntie van advertenties op websites die hun services gebruiken.
+|Persistent
+|HTML
+|google_experiment_mod
+|girlscene.nl
+|Gebruikt door Google AdSense om te experimenteren met de efficiëntie van advertenties op websites die hun services gebruiken.
+|Persistent
+|HTML
+|google_experiment_mod5
+|girlscene.nl
+|Gebruikt door Google AdSense om te experimenteren met de efficiëntie van advertenties op websites die hun services gebruiken.
+|Persistent
+|HTML
+|google_experiment_mod6
+|girlscene.nl
+|Gebruikt door Google AdSense om te experimenteren met de efficiëntie van advertenties op websites die hun services gebruiken.
+|Persistent
+|HTML
+|google_experiment_mod7
+|girlscene.nl
+|Gebruikt door Google AdSense om te experimenteren met de efficiëntie van advertenties op websites die hun services gebruiken.
+|Persistent
+|HTML
+|google_experiment_mod8
+|girlscene.nl
+|Gebruikt door Google AdSense om te experimenteren met de efficiëntie van advertenties op websites die hun services gebruiken.
+|Persistent
+|HTML
+|GoogleAdServingTest
+|girlscene.nl
+|Gebruikt om te registreren welke advertenties aan de gebruiker zijn getoond.
+|Session
+|HTTP
+|uuid [x3]
+|girlscene.nl
+innovid.com
+mathtag.com
+|Deze cookie wordt gebruikt om de relevantie van advertenties te optimaliseren door het gedrag van de bezoeker op meerdere websites te verzamelen – deze uitwisseling van bezoekersgegevens wordt normaal gesproken verzorgd door een extern datacentrum of advertentie-uitwisseling.
+|1 jaar
+|HTTP
+|1P_JAR
+|google.com
+|Verzamelt informatie over bezoekersgedrag op meerdere websites. Deze informatie wordt gebruikt om de relevantie van advertenties op de website te optimaliseren.
+|29 dagen
+|HTTP
+|NID
+|google.com
+|Registreert een uniek ID die het apparaat van een terugkerende gebruiker identificeert. Het ID wordt gebruikt voor gerichte advertenties.
+|6 maanden
+|HTTP
+|3pi
+|id5-sync.com
+|Stelt een unieke ID in voor de bezoeker, waarmee externe adverteerders de bezoeker kunnen targeten met relevante advertenties. Deze koppelservice wordt geleverd door advertentieshubs van derden, waardoor het realtime bieden voor adverteerders wordt vergemakkelijkt.
+|3 maanden
+|HTTP
+|callback
+|id5-sync.com
+|Verzamelt gegevens over bezoekersgedrag van meerdere websites, om meer relevante advertenties weer te geven - Hierdoor kan de website ook het aantal keren dat de bezoeker dezelfde advertentie te zien krijgt beperken.
+|1 dag
+|HTTP
+|car
+|id5-sync.com
+|Gebruikt om de bezoeker relevante inhoud en advertenties te presenteren - De service wordt geleverd door advertentieshubs van derden, waardoor realtime bieden voor adverteerders wordt vergemakkelijkt.
+|1 dag
+|HTTP
+|cf
+|id5-sync.com
+|Stelt een unieke ID in voor de bezoeker, waarmee externe adverteerders de bezoeker kunnen targeten met relevante advertenties. Deze koppelservice wordt geleverd door advertentieshubs van derden, waardoor het realtime bieden voor adverteerders wordt vergemakkelijkt.
+|1 dag
+|HTTP
+|cip
+|id5-sync.com
+|Gebruikt om de bezoeker relevante inhoud en advertenties te presenteren - De service wordt geleverd door advertentieshubs van derden, waardoor realtime bieden voor adverteerders wordt vergemakkelijkt.
+|1 dag
+|HTTP
+|cnac
+|id5-sync.com
+|Gebruikt om de bezoeker relevante inhoud en advertenties te presenteren - De service wordt geleverd door advertentieshubs van derden, waardoor realtime bieden voor adverteerders wordt vergemakkelijkt.
+|1 dag
+|HTTP
+|gdpr
+|id5-sync.com
+|Bepaalt of de bezoeker de cookies heeft geaccepteerd. Dit zorgt ervoor dat het cookie-toestemmingsvenster niet opnieuw wordt weergegeven bij een volgend bezoek aan de website.
+|1 dag
+|HTTP
+|id5
+|id5-sync.com
+|Stelt een unieke ID in voor de bezoeker, waarmee externe adverteerders de bezoeker kunnen targeten met relevante advertenties. Deze koppelservice wordt geleverd door advertentieshubs van derden, waardoor het realtime bieden voor adverteerders wordt vergemakkelijkt.
+|1 dag
+|HTTP
+|s_ecid
+|kijk.nl
+|Stelt een unieke ID in voor de bezoeker, waarmee externe adverteerders de bezoeker kunnen targeten met relevante advertenties. Deze koppelservice wordt geleverd door advertentieshubs van derden, waardoor het realtime bieden voor adverteerders wordt vergemakkelijkt.
+|2 jaar
+|HTTP
+|utag_main
+|kijk.nl
+|Gebruikt door Tealium Tag Manager voor het opslaan van een uniek bezoekers-ID, een sessie-ID en om gegevens op te slaan over de interactie van de bezoeker met de website, zoals bijvoorbeeld laatst pagina bekeken.
+|1 jaar
+|HTTP
+|mt_mop
+|mathtag.com
+|Verzamelt gegevens over de bezoeken van de gebruiker aan de website, zoals welke pagina's zijn geladen. De geregistreerde gegevens worden gebruikt voor gerichte advertenties.
+|29 dagen
+|HTTP
+|uuidc
+|mathtag.com
+|Verzamelt gegevens over de bezoeken van de gebruiker aan de website, zoals welke pagina's zijn geladen. De geregistreerde gegevens worden gebruikt voor gerichte advertenties.
+|1 jaar
+|HTTP
+|__ab12# [x2]
+|bidtheatre.com
+girlscene.nl
+|In afwachting
+|6 dagen
+|HTTP
+|site/#
+|bluekai.com
+|In afwachting
+|Session
+|Pixel
+|imp;v1;f;265324713;0-0;0;90993074;1%7C1;51549698%7C51515706%7C1;;cs
+|doubleclick.net
+|In afwachting
+|Session
+|Pixel
+|ucid
+|gigya.com
+|In afwachting
+|1 jaar
+|HTTP
+|_px2
+|giphy.com
+|In afwachting
+|1 dag
+|HTTP
+|_pxff_tm
+|giphy.com
+|In afwachting
+|1 dag
+|HTTP
+|_pxvid
+|giphy.com
+|In afwachting
+|539 dagen
+|HTTP
+|PXh52DW03a_px_c_p_PXh52DW03a
+|giphy.com
+|In afwachting
+|Session
+|HTML
+|PXh52DW03a_pxtiming
+|giphy.com
+|In afwachting
+|Session
+|HTML
+|pxsid
+|giphy.com
+|In afwachting
+|Session
+|HTML
+|pxvid
+|giphy.com
+|In afwachting
+|539 dagen
+|HTTP
+|CGIC
+|google.com
+|In afwachting
+|179 dagen
+|HTTP
+|www-claim-v2
+|instagram.com
+|In afwachting
+|Session
+|HTML
+|#.gif
+|rlcdn.com
+|In afwachting
+|Session
+|Pixel
+|S_#
+|serving-sys.com
+|In afwachting
+|1 dag
+|HTTP
+|segmentio.#GUID#.#
+|shape.com
+|In afwachting
+|Persistent
+|HTML
+|dp-#
+|stickyadstv.com
+|In afwachting
+|1 jaar
+|HTTP
+|OACBLOCK
+|stickyadstv.com
+|In afwachting
+|29 dagen
+|HTTP
+|OACCAP
+|stickyadstv.com
+|In afwachting
+|1 jaar
+|HTTP
+|pxId
+|stickyadstv.com
+|In afwachting
+|Session
+|HTTP
+|uid-bp-#
+|stickyadstv.com
+|In afwachting
+|2 maanden
+|HTTP
+|__widgetsettings
+|twitter.com
+|In afwachting
+|Persistent
+|HTML
+|Naam
+|Aanbieder
+|Doel
+|Verval termijn
+|Type
+|DID
+|ads.smartstream.tv
+|In afwachting
+|1 jaar
+|HTTP
+|idt
+|ads.smartstream.tv
+|In afwachting
+|1 jaar
+|HTTP
+|permanent
+|ads.smartstream.tv
+|In afwachting
+|1 jaar
+|HTTP
+|OAVARS[default]
+|ads2.femmefab.nl
+|In afwachting
+|Session
+|HTTP
+|www/delivery/avw.php
+|ads2.femmefab.nl
+|In afwachting
+|Session
+|Pixel
+|id_ts
+|adscience.nl
+|In afwachting
+|1 jaar
+|HTTP
+|viewer
+|adscience.nl
+|In afwachting
+|1 jaar
+|HTTP
+|mol-fe-cookie-reinforcer
+|dailymail.co.uk
+|In afwachting
+|Persistent
+|HTML
+|mol-fe-favicon-new-content-indicator/articleIds
+|dailymail.co.uk
+|In afwachting
+|Session
+|HTML
+|mol-fe-tracking-instartlogic
+|dailymail.co.uk
+|In afwachting
+|Persistent
+|HTML
+|mol-fe-tracking-local-uuid
+|dailymail.co.uk
+|In afwachting
+|Persistent
+|HTML
+|percent
+|dailymail.co.uk
+|In afwachting
+|1 jaar
+|HTTP
+|ci_164
+|ds1.nl
+|In afwachting
+|100 dagen
+|HTTP
+|dci [x2]
+|ds1.nl
+ndt5.net
+|In afwachting
+|1 jaar
+|HTTP
+|pdc [x2]
+|ds1.nl
+ndt5.net
+|In afwachting
+|1 jaar
+|HTTP
+|dumpert-version
+|dumpert.nl
+|In afwachting
+|Session
+|HTTP
+|sbs_ovp_use_video
+|embed.kijk.nl
+|In afwachting
+|1 dag
+|HTTP
+|ttdl-customData-1.2
+|embed.kijk.nl
+|In afwachting
+|Persistent
+|HTML
+|ttdl-dataLayer-1.2
+|embed.kijk.nl
+|In afwachting
+|Persistent
+|HTML
+|apiDomain_3_iR_SsBqoiJ5SC3flzxtOQq4sJhG-g-RB6SAg59fJKqZ4kLbiT7B3omTYToqOqr6Z
+|gigya.com
+|In afwachting
+|1 jaar
+|HTTP
+|google_experiment_mod10
+|girlscene.nl
+|In afwachting
+|Persistent
+|HTML
+|google_experiment_mod11
+|girlscene.nl
+|In afwachting
+|Persistent
+|HTML
+|google_experiment_mod12
+|girlscene.nl
+|In afwachting
+|Persistent
+|HTML
+|google_experiment_mod13
+|girlscene.nl
+|In afwachting
+|Persistent
+|HTML
+|google_experiment_mod14
+|girlscene.nl
+|In afwachting
+|Persistent
+|HTML
+|google_experiment_mod15
+|girlscene.nl
+|In afwachting
+|Persistent
+|HTML
+|google_experiment_mod16
+|girlscene.nl
+|In afwachting
+|Persistent
+|HTML
+|google_experiment_mod17
+|girlscene.nl
+|In afwachting
+|Persistent
+|HTML
+|google_experiment_mod18
+|girlscene.nl
+|In afwachting
+|Persistent
+|HTML
+|google_experiment_mod19
+|girlscene.nl
+|In afwachting
+|Persistent
+|HTML
+|google_experiment_mod4
+|girlscene.nl
+|In afwachting
+|Persistent
+|HTML
+|google_experiment_mod9
+|girlscene.nl
+|In afwachting
+|Persistent
+|HTML
+|google_pem_mod
+|girlscene.nl
+|In afwachting
+|Persistent
+|HTML
+|pbnxt_tos
+|girlscene.nl
+|In afwachting
+|Session
+|HTTP
+|shopsuiteShopperCookie
+|girlscene.nl
+|In afwachting
+|1 dag
+|HTTP
+|kola.78158
+|manymorestores.com
+|In afwachting
+|999 dagen
+|HTTP
+|kola.78158.session
+|manymorestores.com
+|In afwachting
+|Session
+|HTTP
+|___utmvbZEufoSw
+|myheritagefiles.com
+|In afwachting
+|1 dag
+|HTTP
+|___utmvmZEufoSw
+|myheritagefiles.com
+|In afwachting
+|1 dag
+|HTTP
+|st_data
+|girlscene.nl
+|In afwachting
+|Persistent
+|HTML
+|ci_14088
+|ndt5.net
+|In afwachting
+|100 dagen
+|HTTP
+|st_cnt
+|s.seedtag.com
+|In afwachting
+|29 dagen
+|HTTP
+|st_uid
+|seedtag.com
+|In afwachting
+|1 jaar
+|HTTP
+|globalTI_SID
+|shape.com
+|In afwachting
+|2 jaar
+|HTTP
+|muuid
+|shape.com
+|In afwachting
+|Persistent
+|HTML
+|muuid_channel
+|shape.com
+|In afwachting
+|Persistent
+|HTML
+|muuid_cnt
+|shape.com
+|In afwachting
+|2 jaar
+|HTTP
+|muuid_date
+|shape.com
+|In afwachting
+|2 jaar
+|HTML
+|muuid_link
+|shape.com
+|In afwachting
+|2 jaar
+|HTTP
+|pushly-session
+|shape.com
+|In afwachting
+|Session
+|HTML
+|sfdmpConsentLogged
+|shape.com
+|In afwachting
+|3 jaar
+|HTTP
+|shpcssFont0
+|shape.com
+|In afwachting
+|6 dagen
+|HTTP
+|v1/trk
+|trackquantx.adux.com
+|In afwachting
+|Session
+|Pixel
+|_sp_v1_csv
+|viervijf-be.vijf.be
+|In afwachting
+|29 dagen
+|HTTP
+|_sp_v1_data
+|viervijf-be.vijf.be
+|In afwachting
+|29 dagen
+|HTTP
+|_sp_v1_lt
+|viervijf-be.vijf.be
+|In afwachting
+|29 dagen
+|HTTP
+|_sp_v1_opt
+|viervijf-be.vijf.be
+|In afwachting
+|29 dagen
+|HTTP
+|_sp_v1_ss
+|viervijf-be.vijf.be
+|In afwachting
+|29 dagen
+|HTTP
+|_sp_v1_uid
+|viervijf-be.vijf.be
+|In afwachting
+|29 dagen
+|HTTP
+|__io
+|vijf.be
+|In afwachting
+|1 jaar
+|HTTP
+|__io_d
+|vijf.be
+|In afwachting
+|Session
+|HTML
+|__io_first_source
+|vijf.be
+|In afwachting
+|1 jaar
+|HTTP
+|__io_lv
+|vijf.be
+|In afwachting
+|1 jaar
+|HTTP
+|__io_r
+|vijf.be
+|In afwachting
+|1 jaar
+|HTTP
+|_hjTLDTest
+|vijf.be
+|In afwachting
+|Session
+|HTTP
+|_sp_dialogue_session_referrer
+|vijf.be
+|In afwachting
+|Session
+|HTML
+|CXENSE_SEGMENTS_KEY
+|vijf.be
+|In afwachting
+|Persistent
+|HTML
+|sbs_consent_string
+|vijf.be
+|In afwachting
+|Persistent
+|HTML
+|SBS_WEATHER
+|vijf.be
+|In afwachting
+|Persistent
+|HTML
+|theoplayer-stored-network-info
+|vijf.be
+|In afwachting
+|Persistent
+|HTML
+|viewedVideos
+|vijf.be
+|In afwachting
+|Persistent
+|HTML
+|ct
+|vindicosuite.com
+|In afwachting
+|2 jaar
+|HTTP
+|cug
+|vindicosuite.com
+|In afwachting
+|2 jaar
+|HTTP
+|cup
+|vindicosuite.com
+|In afwachting
+|2 jaar
+|HTTP
+|__whiAnonymousID
+|weheartit.com
+|In afwachting
+|20 jaar
+|HTTP
+|_whisession
+|weheartit.com
+|In afwachting
+|1 dag
+|HTTP
+|auth
+|weheartit.com
+|In afwachting
+|1 jaar
+|HTTP

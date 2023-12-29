@@ -1,0 +1,22 @@
+Don’t hesitate to contact us:
+Forum: discuss.graphhopper.com
+Email: support@graphhopper.com
+Don’t hesitate to contact us:
+Forum: discuss.graphhopper.com
+Email: support@graphhopper.com
+Use our web services to add route planning, navigation and traffic aware route optimization to your application in the food delivery industry or for traveling salesmen. We help you optimize the routes in your logistics, GIS, or real estate software.
+We offer fair, effort-based pricing with the use of a scalable architecture and resource-efficient routing software.
+Use the GraphHopper Directions API for any use case (including commercial usage, vehicle tracking and navigation applications) on any map you like.
+With our RESTful web service, you can integrate routing into your application without any knowledge about the complex algorithms behind it.
+There is no end user application–instead, we help you build the end user applications in the industries and countries that you know best.
+All our routing and geocoding services are powered by OpenStreetMap data, and therefore cover the entire world. To support this effort, we are a proud member of the OpenStreetMap Foundation.
+Our routing services come with elevation data which generates precise time and distance estimates. With many vehicle profiles– from mountain bikes to racing bikes–you’ll get a powerful tool for your outdoor application. You can even use these profiles to optimize routes for delivery bicycles. See our showcases.
+After over a year of usage, we are still extremely happy using the Route Optimization API. It has never failed our needs.
+Patrice Pennetier from Nomad Solution
+We completed nearly 1,200 orders that day. It was a great achievement for us and a huge success overall
+Daniel Conway (CEO) from Doughbies
+I really enjoy your service. You guys have done an amazing job as the service is very good, fairly priced and ease to use!
+Manuel Maestrini from Nordsense
+My trust in the GraphHopper Directions API is based on three facts I appreciate most: 1) my personal experience, 2) possibility to communicate with someone from your team in friendly mood and quite quickly and also 3) that no users complain on GraphHopper routing 🙂
+Jiří Mlavec (Menion) from Asamm Software creator of Locus Map
+Access and use our routing services in minutes, with no worries about uptime. Additionally, we support a wide variety of programming languages, minimizing the effort required for integration with your existing software stack.

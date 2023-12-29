@@ -1,0 +1,14 @@
+from $5 / month
+The standard cloud VM. True virtualization and completely isolated. Run any operating system and kernel on blazing fast NVMe SSD storage.
+from $3 / month
+Cost-effective container based virtualization. Awesome Solid-State performance for a low price thanks to the shared kernel. Linux only.
+from $5 / month
+Also the standard cloud VM, but with huge amount of HDD storage for a great price. Perfect for your backup data. Internal network available.
+Quick registration process and instant server setup. We will get you online in a minute!
+We offer unlimited DDoS protection up to 500Gbps via Voxility in Amsterdam for just $3/mo per IP-address.
+We are a 24/7/365 company with our own in-house staff. We'll always be here ready to help you.
+We only use top-notch Intel CPUs and combine them with blazing fast NVMe SSDs.
+User-friendly & all-in-one control panel with custom ISOs and much more.
+Nine locations in four continents, all with lightning-fast and super low latency network.
+Compare us to the competition with real-world benchmarks
+— our NVMe powered servers perform 5 times better.

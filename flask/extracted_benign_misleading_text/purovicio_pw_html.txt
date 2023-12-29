@@ -1,0 +1,9 @@
+Purovicio
+Iniciar sesión
+Regístrate
+Nombre de usuario
+Contraseña
+Recuérdame
+Iniciar sesión
+¿Olvidaste tu contraseña?
+¿Olvidó su nombre de usuario?

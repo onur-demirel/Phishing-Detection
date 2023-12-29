@@ -1,0 +1,11 @@
+alt="" style="width: 100%">
+Email Address:
+Password:
+Show password
+The user name or password you entered isn't correct.Try entering it again.
+Select this option if you're the only person who uses this computer.Your server will allow a longer period of inactivity before signing you out.
+Recover Messages
+Please enable cookies for this Web site.
+Cookies are currently disabled by your browser.Outlook Web App requires that cookies be enabled.
+For information about how to enable cookies,see the Help for your Web browser.
+retry

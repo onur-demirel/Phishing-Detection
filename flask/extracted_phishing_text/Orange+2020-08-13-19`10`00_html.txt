@@ -1,0 +1,14 @@
+menu
+close
+My Site
+close
+close
+Identifiez-vous
+Indiquez votre compte Orange
+*
+Mot De passe
+*
+S'identifier
+Powered by
+Create your own unique website with customizable templates.
+Get Started

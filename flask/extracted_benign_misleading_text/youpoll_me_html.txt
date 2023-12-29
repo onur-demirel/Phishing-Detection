@@ -1,0 +1,5 @@
+Basic (plurality) voting - Voters select 1 option to vote on.
+Approval voting - Voters can select multiple options to vote on.
+Range (score) voting - Voters give each option a score from 0 (worst) to 100 (best).
+Ranked voting - Voters arrange the options in order from best to worst.
+Probability (odds) voting - Voters allocate 100 points (%) based on the probability of each option. Options should be mutually exclusive (i.e. only 1 of the options will occur).

@@ -1,0 +1,431 @@
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|__zlcstore [x2]
+|developers.messagebird.com
+messagebird.com
+|This cookie is necessary for the chat-box function on the website to function.
+|Persistent
+|HTML
+|algoliasearch-client-js
+|developers.messagebird.com
+|Necessary in order to optimize the website's search-bar function. The cookie ensures accurate and fast search results.
+|Persistent
+|HTML
+|CookieConsent [x2]
+|developers.messagebird.com
+messagebird.com
+|Stores the user's cookie consent state for the current domain
+|1 year
+|HTTP
+|ZD-suid [x2]
+|developers.messagebird.com
+messagebird.com
+|Unique id that identifies the user's session.
+|Persistent
+|HTML
+|__cfduid [x2]
+|messagebird.zendesk.com
+zdassets.com
+|Used by the content network, Cloudflare, to identify trusted web traffic.
+|1 year
+|HTTP
+|__cfruid
+|messagebird.zendesk.com
+|This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
+|Session
+|HTTP
+|m-b
+|quora.com
+|Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor.
+|2 years
+|HTTP
+|PHPSESSID
+|dashboard.messagebird.com
+|Preserves user session state across page requests.
+|Session
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|lang [x3]
+|ads.linkedin.com
+linkedin.com
+messagebird.com
+|Remembers the user's selected language version of a website
+|Session
+|HTTP
+|CookieConsentBulkSetting-#
+|consentcdn.cookiebot.com
+|Enables cookie consent across multiple websites
+|Persistent
+|HTML
+|CookieConsentBulkTicket
+|cookiebot.com
+|Enables cookie consent across multiple websites
+|1 year
+|HTTP
+|ZD-store [x2]
+|developers.messagebird.com
+messagebird.com
+|Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user.
+|Persistent
+|HTML
+|@@scroll# [x2]
+|developers.messagebird.com
+messagebird.com
+|Pending
+|Session
+|HTML
+|currency
+|messagebird.com
+|Saves the visitor's currency preferences.
+|Session
+|HTTP
+|locale
+|messagebird.com
+|The cookie determines the preferred language and country-setting of the visitor - This allows the website to show content most relevant to that region and language.
+|Session
+|HTTP
+|selectedCountry
+|messagebird.com
+|Pending
+|Persistent
+|HTML
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|MUID
+|bing.com
+|Used widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains.
+|1 year
+|HTTP
+|MUIDB
+|bing.com
+|Registers data on visitors from multiple visits and on multiple websites. This information is used to measure the efficiency of advertisement on websites.
+|1 year
+|HTTP
+|_hjid [x2]
+|developers.messagebird.com
+messagebird.com
+|Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+|Persistent
+|HTML
+|_hjIncludedInSample [x2]
+|developers.messagebird.com
+messagebird.com
+|Determines if the user's navigation should be registered in a certain statistical place holder.
+|Session
+|HTTP
+|ajs_anonymous_id [x2]
+|developers.messagebird.com
+messagebird.com
+|This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.
+|Persistent
+|HTML
+|ajs_group_id [x2]
+|developers.messagebird.com
+messagebird.com
+|Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.
+|Persistent
+|HTML
+|ajs_group_properties [x2]
+|developers.messagebird.com
+messagebird.com
+|Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.
+|Persistent
+|HTML
+|ajs_user_id [x2]
+|developers.messagebird.com
+messagebird.com
+|Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.
+|Persistent
+|HTML
+|ajs_user_traits [x2]
+|developers.messagebird.com
+messagebird.com
+|Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.
+|Persistent
+|HTML
+|ZD-buid [x2]
+|developers.messagebird.com
+messagebird.com
+|Unique id that identifies the user on recurring visits.
+|Persistent
+|HTML
+|ZD-currentTime [x2]
+|developers.messagebird.com
+messagebird.com
+|Registers the date and time for the user's latest visit to the website.
+|Session
+|HTML
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|test_cookie
+|doubleclick.net
+|Used to check if the user's browser supports cookies.
+|1 day
+|HTTP
+|fr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|ajs%3Atest
+|messagebird.com
+|Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.
+|1 year
+|HTTP
+|tr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|Session
+|Pixel
+|bcookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|bscookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|lidc
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|1 day
+|HTTP
+|UserMatchHistory
+|linkedin.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|29 days
+|HTTP
+|__tld__
+|messagebird.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|Session
+|HTTP
+|_fbp
+|messagebird.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|ajs%3Acookies
+|messagebird.com
+|Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.
+|1 year
+|HTTP
+|i/adsct
+|t.co
+|The cookie is used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content.
+|Session
+|Pixel
+|personalization_id
+|twitter.com
+|This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+|2 years
+|HTTP
+|AWSALB
+|zopim.com
+|Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+|6 days
+|HTTP
+|segmentio.#GUID#.# [x2]
+|developers.messagebird.com
+messagebird.com
+|Pending
+|Persistent
+|HTML
+|pagead/1p-conversion/#
+|google.com
+|Pending
+|Session
+|Pixel
+|pagead/1p-user-list/#
+|google.com
+|Pending
+|Session
+|Pixel
+|_/ad/5452d904490c49039fd39b4ca2de47f3/pixel
+|q.quora.com
+|Pending
+|Session
+|Pixel
+|_ga
+|messagebird.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|2 years
+|HTTP
+|_gat
+|messagebird.com
+|Used by Google Analytics to throttle request rate
+|1 day
+|HTTP
+|_gid
+|messagebird.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|1 day
+|HTTP
+|hjViewportId
+|messagebird.com
+|Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+|Session
+|HTML
+|pardot
+|pardot.com
+|Used to identify the visitor across visits and devices. This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|HTTP
+|351aec7931114f91a83ecef745e11b5a194f87559c0f4b82a707fe2c68175eab [x2]
+|api.autopilothq.com
+fastemu.co
+|Pending
+|1 year
+|HTTP
+|cda_fastemu.co
+|api.autopilothq.com
+|Pending
+|1 year
+|HTTP
+|__ab12#
+|messagebird.com
+|Pending
+|4 years
+|HTTP
+|mbf_co
+|messagebird.com
+|Pending
+|Session
+|HTTP
+|mbl_co
+|messagebird.com
+|Pending
+|Session
+|HTTP
+|noSegment
+|messagebird.com
+|Pending
+|Session
+|HTTP
+|visitor_id# [x2]
+|messagebird.com
+pardot.com
+|Pending
+|10 years
+|HTTP
+|visitor_id#-hash [x2]
+|messagebird.com
+pardot.com
+|Pending
+|10 years
+|HTTP
+|lpv700363
+|pardot.com
+|Pending
+|1 day
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|zte#
+|messagebird.com
+|Saves a Zopim Live Chat ID that recognises a device between visits during a chat session.
+|Session
+|HTTP
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|_hjTLDTest
+|messagebird.com
+|Pending
+|Session
+|HTTP
+|images/129543.gif
+|hexagon-analytics.com
+|Pending
+|Session
+|Pixel
+|images/132395.gif
+|hexagon-analytics.com
+|Pending
+|Session
+|Pixel
+|images/229965.gif
+|hexagon-analytics.com
+|Pending
+|Session
+|Pixel
+|images/259543.gif
+|hexagon-analytics.com
+|Pending
+|Session
+|Pixel
+|images/317810.gif
+|hexagon-analytics.com
+|Pending
+|Session
+|Pixel
+|images/331326.gif
+|hexagon-analytics.com
+|Pending
+|Session
+|Pixel
+|images/356406.gif
+|hexagon-analytics.com
+|Pending
+|Session
+|Pixel
+|images/433144.gif
+|hexagon-analytics.com
+|Pending
+|Session
+|Pixel
+|images/5798.gif
+|hexagon-analytics.com
+|Pending
+|Session
+|Pixel
+|images/656035.gif
+|hexagon-analytics.com
+|Pending
+|Session
+|Pixel
+|images/672436.gif
+|hexagon-analytics.com
+|Pending
+|Session
+|Pixel
+|images/841201.gif
+|hexagon-analytics.com
+|Pending
+|Session
+|Pixel
+|images/927568.gif
+|hexagon-analytics.com
+|Pending
+|Session
+|Pixel
+|images/9609.gif
+|hexagon-analytics.com
+|Pending
+|Session
+|Pixel

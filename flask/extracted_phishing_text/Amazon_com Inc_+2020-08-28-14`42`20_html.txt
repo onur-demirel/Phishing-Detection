@@ -1,0 +1,7 @@
+Sign in
+If you are an AWS account owner (root user), you can use your account email to sign in to this page. If an administrator added you to an AWS account, then you are an IAM user. Your administrator should have given you a 12-digit account ID or an account alias to sign in below.
+Email address of your AWS account
+To sign in as an IAM user, enter your
+account ID A 12-digit account number provided by your administratoror
+account alias A friendly account identifier from your administrator that includes alphanumeric characters or dashesinstead.
+New to AWS?

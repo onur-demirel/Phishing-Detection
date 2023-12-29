@@ -1,0 +1,15 @@
+You must specify a valid password to log in.
+Email Address
+Password
+Log in
+العربية
+български
+čeština
+dansk
+Deutsch
+Ελληνικά
+English
+español
+…
+Copyright© 2020 cPanel, L.L.C.
+Privacy Policy

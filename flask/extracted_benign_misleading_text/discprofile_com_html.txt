@@ -1,0 +1,2 @@
+If you want a quick review of your own style, or if you’re looking for help working with a C-style person, we hope this short summary will help you out. How well or how strongly this matches your own C style will depend on how close your dot is to the edge. The less strongly inclined you are to this […]
+The post What is the DiSC C style? appeared first on DiSC Profiles.

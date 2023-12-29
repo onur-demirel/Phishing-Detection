@@ -1,0 +1,67 @@
+Array
+(
+[USER] => ly200
+[HOME] => /home/ly200
+[FCGI_ROLE] => RESPONDER
+[PHP_VALUE] => open_basedir=/data/web/showzstore.com:/tmp/
+[SCRIPT_FILENAME] => /data/web/showzstore.com/index.php
+[QUERY_STRING] => m=index
+[REQUEST_METHOD] => GET
+[CONTENT_TYPE] =>
+[CONTENT_LENGTH] =>
+[SCRIPT_NAME] => /index.php
+[REQUEST_URI] => /
+[DOCUMENT_URI] => /index.php
+[DOCUMENT_ROOT] => /data/web/showzstore.com
+[SERVER_PROTOCOL] => HTTP/1.1
+[REQUEST_SCHEME] => https
+[HTTPS] => on
+[GATEWAY_INTERFACE] => CGI/1.1
+[SERVER_SOFTWARE] => nginx/1.10.2
+[REMOTE_ADDR] => 185.217.117.52
+[REMOTE_PORT] => 14139
+[SERVER_ADDR] => 172.20.0.16
+[SERVER_PORT] => 443
+[SERVER_NAME] => showzstore.com
+[REDIRECT_STATUS] => 200
+[HTTP_HOST] => showzstore.com
+[HTTP_CONNECTION] => keep-alive
+[HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+[HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/77.0.3865.120 Safari/537.36
+[HTTP_SEC_FETCH_MODE] => navigate
+[HTTP_SEC_FETCH_USER] => ?1
+[HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+[HTTP_SEC_FETCH_SITE] => none
+[HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+[PHP_SELF] => /index.php
+[REQUEST_TIME_FLOAT] => 1571830270.7192
+[REQUEST_TIME] => 1571830270
+)
+SalePre Order
+Deposit $2.00
+Full Price $25.99
+SalePre Order
+Deposit $10.00
+Full Price Unknown
+Sale
+SalePre Order
+Deposit $80.00
+Full Price $313.99
+Sale
+Sale
+SalePre Order
+Deposit $2.00
+Full Price $52.99
+SalePre Order
+Deposit $3.00
+Full Price $129.99
+SalePre Order
+Deposit $2.00
+Full Price $51.99
+SalePre Order
+Deposit $2.00
+Full Price $54.99
+Sale
+SalePre Order
+Deposit $2.00
+Full Price $55.99

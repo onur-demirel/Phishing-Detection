@@ -1,0 +1,11 @@
+Polecamy
+Zestaw do samodzielnego montażu (wymaga lutowania). Zawiera wszystkie niezbędne części potrzebne do zbudowania i uruchomienia czujnika.
+Wersja NAM 0.3.2 - Najnowsza
+Micro:bitowy robot sterowany przez Bluetooth. Napędzany dwoma serwomechanizmami 360 stopni. Wbudowane adresowalne diody.
+Poręczna i lekka klawiatura bezprzewodowa wyposażona w touchpad. Zasilana akumulatorem Li-Ion. Komunikuje się z adapterem USB.
+Micro:bitowy robot sterowany przez Bluetooth. Napędzany dwoma serwomechanizmami 360 stopni. Wbudowane adresowalne diody.
+Zestaw startowy dedykowany dla BBC micro:bit.
+Nowa pudełkowa odsłona Starter Kitu. 186 elementów. W tym eleganckie pudełko, płytka prototypowa, 105 kabli, 64 podzespoły elektroniczne oraz 15 modułów. Edycja 2019.06
+Laserowy czujnik czystości powietrza PM2.5 / PM10 w zestawie z pasującym kablem i konwerterem USB.
+Dotykowy wyświetlacz z gniazdem na kartę SD obsługiwany przez SPI.
+Szybko zbuduj ramę do robota, maszyny CNC czy innej mechanicznej konstrukcji.

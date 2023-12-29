@@ -1,0 +1,43 @@
+Primero, actualiza la página y pulsa de nuevo en "Ubicación actual". Asegúrate de pulsar Permitir o Dar permiso cuando tu navegador solicite acceso a tu ubicación. Si tu navegador no solicita acceso a tu ubicación, prueba con estos pasos:
+- En la parte superior izquierda de tu ventana de Chrome, al lado de la dirección web, pulsa en el icono "Seguro".
+- En la ventana que aparece, asegúrate que la Ubicación está marcada como Preguntar o Permitir.
+- ¡Hecho! Carga otra vez esta página de Yelp y prueba a buscar de nuevo.
+Si aún así sigues teniendo problemas, visita la página de ayuda de Google.
+También puedes explorar cerca de una ciudad, de un lugar o de una dirección.
+- En la parte superior de tu ventana en Opera, cerca de la dirección web, pulsa en el marcador de color gris.
+- En la ventana que aparece, pulsa Eliminar esta configuración
+- ¡Hecho! Carga otra vez esta página de Yelp y prueba a buscar de nuevo.
+Si aún así sigues teniendo problemas, visita la página de ayuda de Opera.
+También puedes explorar cerca de una ciudad, de un lugar o de una dirección.
+- Pulsa Safari en la barra del menú de la parte superior de la pantalla y a continuación pulsa Preferencias.
+- Pulsa en la pestaña Privacidad.
+- En la sección Acceso a los servicios de ubicación de páginas web, pulsa Preguntar una vez al día para cada sitio web o Preguntar una sola vez para cada sitio web.
+- Puede que MacOS te solicite activar los servicios de ubicación. Si te lo pide, sigue las siguientes instrucciones para activar los servicios de ubicación en Safari.
+- Cierra el menú "Privacidad" y actualiza la página. Ahora intenta hacer una nueva búsqueda utilizando tu ubicación actual. Si funciona, ¡ya lo tienes! Si no funciona, sigue leyendo.
+- En el cajetín de Privacidad, pulsa Gestionar la información de la página web... y escribe yelp.es en la barra de búsqueda.
+- Pulsa en yelp.es y a continuación pulsa Eliminar.
+- ¡Hecho! Cierra la página de configuración, carga otra vez esta página de Yelp y prueba con una nueva búsqueda.
+Si aún así sigues teniendo problemas, visita la página de ayuda de Safari.
+También puedes explorar cerca de una ciudad, de un lugar o de una dirección.
+- En la parte superior izquierda de tu ventana en Firefox, al lado de la dirección web, pulsa en el candado verde.
+- En la ventana que aparece, deberías observar Blocqueado o Bloqueado temporalmente al lado de Acceso a tu ubicación. Pulsa la x al lado de esta línea.
+- ¡Hecho! Actualiza esta página de Yelp y prueba con una nueva búsqueda.
+Si aún así sigues teniendo problemas, visita la página de ayuda de Firefox.
+También puedes explorar cerca de una ciudad, de un lugar o de una dirección.
+- En la esquina superior de la derecha de la pantalla, pulsa el engranaje y a continuación Opciones de Internet.
+- Pulsa Privacidad en la nueva pestaña.
+- Desactiva la casilla No permitir nunca que los sitios web soliciten mi ubicación física si está activada.
+- Pulsa el botón Eliminar sitios.
+- ¡Hecho! Pulsa OK, actualiza esta página de Yelp y prueba con una nueva búsqueda.
+También puedes explorar cerca de una ciudad, de un lugar o de una dirección.
+- En la parte superior derecha de la pantalla, pulsa en los tres puntos y luego en configuración.
+- Pulsa en Borrar el historial de exploración y Selecciona los tipos de datos que quieres eliminar.
+- Pulsa Mostrar más, y asegúrate de marcar solo la casilla Permisos de ubicación.
+- Pulsa en Borrar.
+- ¡Hecho! Actualiza esta página de Yelp y prueba con una nueva búsqueda.
+También puedes explorar cerca de una ciudad, de un lugar o de una dirección.
+¡Vaya! No reconocemos el navegador que estás utilizando. Echa un vistazo al menú de ayuda para navegadores, o busca en Internet las instrucciones para activar la Geolocalización de HTML5 en tu navegador.
+También puedes explorar cerca de una ciudad, de un lugar o de una dirección.
+Hemos detectado un problema desconocido. Inténtalo de nuevo más tarde o busca cerca de una ciudad, un lugar o una dirección.
+¡No te encontramos! Inténtalo de nuevo más tarde o busca cerca de una ciudad, un lugar o una dirección.
+No conseguimos encontrar tu ubicación exacta. Si estás utilizando un ordenador portátil o una tablet, intenta moverte a otra ubicación e inténtalo de nuevo. O busca cerca de una ciudad, un lugar o una dirección.

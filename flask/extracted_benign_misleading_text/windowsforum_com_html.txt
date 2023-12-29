@@ -1,0 +1,4 @@
+Welcome to our Windows Forum community. This website is a free, open, and dedicated community of technology enthusiasts. In order to post messages, upload images, and participate, you must first register for a free account. You may click here to join us or sign in, or continue browsing the site as a guest.
+Microsoft Windows 10 has been released to manufacturers and has been available to the general public since the 29th of July, 2015. Get help and support, as well as additional information, in this forum.
+Security Forums. The security of your home computer, corporate network, or datacenter cannot afford to be taken down by viruses, malware, and trojans. Use this forum for discussion of IT security problems, solutions, and threats.
+Virtualization Forums. A forum for discussing virtualization technology and infrastructure. VMWare, Citrix, Microsoft Virtual PC, Hyper-V, VirtualBox, and others. Discussion for both workstations and servers.

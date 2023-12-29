@@ -1,0 +1,2 @@
+Looking to take advantage of the world’s smallest and lowest power FPGAs? Check out Lattice’s iCE40 UltraPlus breakout board
+. This easy-to-use, low cost board for evaluation and development enables you to reach a new level of capability. Available for only $49.

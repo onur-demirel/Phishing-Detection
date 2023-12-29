@@ -1,0 +1,8 @@
+Boot and run Linux from a USB flash memory stick
+Take your Favorite Portable Linux Desktop with you!
+Popular YUMI – Your Universal Multiboot Installer
+Popular UUI – Universal USB Installer
+Easily install your favorite Linux operating system on a bootable usb key or flash drive no larger than your thumb (aka thumb drive). Your Portable Linux operating system can then be taken with you and run from any computer that can boot from the usb flash device. Bring your operating system, applications, files, email, bookmarked favorites, games, diagnostic utilities, and more with you. It's your very own portable operating system you can carry in your pocket.
+Pendrivelinux provides simplified information to make it easy for anyone to install, boot, and run their favorite Linux Distro from a portable flash drive!
+- UPDATED (10/20/19) YUMI - Multiboot USB Creator
+- UPDATED (09/18/19) Universal USB Installer - Easy as 1 2 3

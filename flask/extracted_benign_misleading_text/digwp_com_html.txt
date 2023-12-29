@@ -1,0 +1,35 @@
+New Plugin: Override Comment Options
+WordPress provides an option called "Automatically close comments on articles older than x days". It really helps to stop spam on older blog posts. The problem is that, when the setting is enabled, there is no way to override for individual posts. So I wrote a simple lightweight plugin that enables you to override the auto-close setting and leave comments open on any posts that you want.
+Interview: Discussing WordPress, Gutenberg, Security, and More
+Thanks to WPKlik for the interview! Wherein I discuss my favorite projects, WordPress, Gutenberg and JavaScript development, building secure WordPress sites, and more fun web-dev topics :)
+How to Add Custom Content to WordPress Feeds
+There are numerous ways to add custom content to your WordPress feeds. If you're not using a plugin, it's possible to just add a code snippet to your theme's functions.php file. For most cases, I think probably going the plugin route is the easiest way to add custom content to your WordPress RSS/feeds. Just install, activate, add your content and done. But for WordPress developers and designers who want more fine-grained control, this article explains how to add custom feed content programmatically using the WP API. So whether you need to add copyright text, advertisements, hyperlinks, or virtually anything at all, this post explains how to make it happen.
+Video Course: WordPress on Shared Hosting
+This Summer I had the opportunity to record a new video course for LinkedIn/Lynda.com. The course walks through the process of installing and running WordPress on a shared hosting account. It's very straightforward and kept as simple as possible, recommended for anyone who wants to get a new WordPress site up and running as quickly and inexpensively as possible. You can find the course at both LinkedIn and Lynda.com.
+shapeSpace Starter Theme
+shapeSpace is my own WordPress starter theme. I've been developing and fine-tuning it over the years. I use it as the foundation to build high-quality themes for sites like DigWP.com, PerishablePress.com, and many others. It's 100% free and open source. Get it @ shapespace.io.
+Better Way to Add Inline Scripts
+If you are a WordPress developer, you may have used the WordPress hook
+wp_print_scripts to add any necessary inline JavaScript. Alternately, you may have used the function
+wp_localize_script() to add your inline scripts. But did you know that not too long ago, WordPress added a new function for adding inline JavaScript? Yep, as of WordPress version 4.5 and better, we can use the superior function wp_add_inline_script() to do the job.
+One of the nice things about this newer function is that you can associate it with any registered script AND include more than just JavaScript variables. This DigWP article explains how
+wp_add_inline_script() works, why it's better than either of the alternate inline methods, and how to support older (pre-4.5) versions of WordPress. Along the way, we'll look at some example code that you can customize and use in your own WordPress projects.
+Shortcode to Display Recent Posts on Any Post or Page
+WordPress provides a widget that can be used to display recent posts in any sidebar or widgetized location. Likewise many WordPress themes provide some sort of "recent post" functionality, so users can display their latest posts in specific locations around the theme. Such functionality is great and useful for displaying recent posts just about anywhere in your theme. Problem is, those methods don't work for displaying recent posts inside of posts, pages, and custom post types. Like inside of post content itself. For that, we can use a shortcode.
+MailOptin Review: WordPress Newsletter Signup Made Easy
+One of the few regrets anyone can have in an online business is the failure to collect email addresses of their visitors. Simply put, the failure to have a list.
+More often than not, you will hear people say, "the money is in the list" and that by itself is a statement of truth. Email list gets people coming back to your website, and by extension increases profit in business, because you are already dealing with a targeted audience.
+DigWP.com 10th Anniversary!
+Digging Into WordPress celebrates its 10th anniversary this month! Thank you to everyone who visits, shares, and contributes to DigWP.com — Cheers! :)
+List of WordPress Developers & Designers (2019)
+Previously we posted a list of available WordPress Developers & Designers. Lots of great people and companies shared their information, but a lot has changed since then. So rather than try to contact everyone on the list and ask them to update their infos, here is a new post of current WordPress developers & designers.
+How to Disable CSS and JavaScript Added by Plugins
+One of the most annoying things in the WordPress universe are plugins and themes that don't conditionally load their scripts and styles (i.e., JavaScript and CSS files). For example, you install a dashboard plugin and it loads its scripts in the entire Admin Area and the frontend. Instead, the developer should have used conditional logic to NOT load the script on the frontend (e.g., via
+!is_admin()), or anywhere in the Admin Area EXCEPT the dashboard (e.g., via
+get_current_screen()). It's just basic human decency.
+New Pro Version of GA Google Analytics
+After months of development, I am excited to announce my newest premium WordPress plugin: GA Pro! Quite simply it connects your WordPress site to your Google Analytics account just like the free version, but with awesome new features like visitor Opt Out, multiple trackers, code previews, and more.
+Display Your WordPress Site Statistics: Complete Guide
+Just to be crystal clear, this post is all about displaying basic statistics about your site, not about your visitors. So if you are thinking something like, "duh, just use Google Analytics or whatever," then imagine a giant buzzer sound telling you that you're incorrect. Sure, Google Analytics gives you information about your visitors, like how many, where from, how long, and so forth. But GA et al do NOT provide information about your site itself. Things like the number of registered users, number of posts and pages, number of comments, and all the other cool little details about your site. That is what we'll be covering in today's DigWP tutorial. So grab some popcorn and enjoy the show! ;)
+Official Resources for the Gutenberg Block Editor
+Just a quick post to share some recommended useful resources for anyone working with the new Gutenberg Block Editor. Our book Digging Into WordPress now links to this post, so readers can learn more and dive deep into Gutenberg. Or just bookmark for future reference. What does that mean? It means that this page will be updated with any new useful and official resources. And by "official" just means the information is sourced/hosted at WordPress.org.

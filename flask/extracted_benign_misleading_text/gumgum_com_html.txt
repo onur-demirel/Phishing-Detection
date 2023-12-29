@@ -1,0 +1,24 @@
+We are an appliedcomputer vision company
+We teach machines to see in order to solve hard problems across the media industry.
+OurAi technology
+Detection:
+- Lights
+- Bumper
+- Wheels
+- Vehicle Color
+- Brand
+- Lip Boldness
+- Hair Volume
+- Facial Features
+- Eye Color
+- Earrings
+- Jersey Patch
+- Team
+- Press Table
+- Basket Stanchion
+- League
+How we apply it
+Use our machine learning technology to add value to the images and videos that are most relevant to you
+Some ofour clients
+Ai Meets Marketing
+With all the advancements in artificial intelligence, it’s not just important to be knowledgeable about the many ways it can be utilized, it’s also crucial to be aware of the ways you might be using it already—without knowing it.Download

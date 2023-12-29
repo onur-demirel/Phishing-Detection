@@ -1,0 +1,63 @@
+-
+|
+|
+ThinkWiki News
+|31.03.2018:
+|Major security update on server software.
+|10.05.2017:
+|All insecure elements have been removed from ThinkWiki.
+|08.03.2017:
+|ThinkWiki now uses SSL/TLS by default.
+|01.01.2016:
+|ThinkWiki wishes all users a happy new year!
+|08.02.2015:
+|ThinkWiki got new awesome hardware!
+|31.01.2015:
+|ThinkWiki has been upgraded to MediaWiki 1.24.1.
+|06.08.2013:
+|Cleanup action: All users with no page edits older than 90 days will get purged.
+|01.05.2013:
+|ThinkWiki has been upgraded to MediaWiki 1.20.5.
+|01.05.2013:
+|Sorry for some downtime today (and yesterday)
+|13.08.2012:
+|ThinkWiki got new hardware!
+|13.08.2012:
+|ThinkWiki suffered a partial data loss
+|03.02.2012:
+|ThinkWiki has been upgraded to MediaWiki 1.18.1.
+|15.10.2011:
+|We are pleases to announce our new partnership with thinkpads.com
+|28.06.2011:
+|ThinkWiki has been upgraded to MediaWiki 1.17.0.
+|07.06.2011:
+|ibm.com MIGR Doc links are dead! Please convert any dead links to use the IBMDOCURL or LNVDOCURL template
+|20.03.2011:
+|User account creation temporarily disabled, until we have an effective way to reduce SPAM.
+|08.02.2011:
+|ThinkWiki has been upgraded to MediaWiki 1.16.2.
+|17.05.2010:
+|ThinkWiki got shiny new hardware!
+Industry Watch
+|18.12.2015:
+|New fglrx driver version 15.12 released
+|24.04.2012:
+|New fglrx driver version 12.4 released
+|28.09.2011:
+|New fglrx driver version 11.9 released
+|19.02.2009:
+|Ubuntu 10.04 will use nouveau drivers for nVidia GPUs. See this Phoronix article .
+|29.01.2009:
+|New fglrx driver version 9.1 released with support for OpenGL 3.0, Hybrid Crossfile and Multiview.
+|18.09.2008:
+|New fglrx driver version 8.9 (8.532) released.
+|10.06.2008:
+|Engadget got some leaked technical specs of the new ThinkPads.
+|16.04.2008:
+|New fglrx driver version 8.1 (8.476) released.
+|14.04.2008:
+|Lenovo's entire new ThinkPad line leaked, X300 gets siblings. See Gizmodo for details.
+|18.01.2008:
+|New fglrx driver version 8.1 (8.454) released.
+To experiment with this wiki please try ThinkWiki:Sandbox.
+See the User's Guide for usage and configuration help.

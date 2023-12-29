@@ -1,0 +1,128 @@
+Ejercicios resueltos de matemáticas
+Cálculo de potencias y propiedades
+Raíces enésimas, con propiedades
+Racionalizar
+Test: concepto de raíz cuadrada
+Test: propiedades de las raíces cuadradas
+Test: raíces enésimas
+Concepto
+Simplificar
+Equivalencia
+Fracción irreducible
+Suma y resta
+Producto y cociente
+Fracción generatriz
+Fracción mixta
+Porcentajes
+Calculadoras
+Ejercicios interactivos
+Clasificación de los números
+Intervalos I: concepto y test
+Intervalos II: unión e intersección
+Regla de los signos
+Notación científica
+Reglas de divisibilidad
+Proporcionalidad simple
+Proporcionalidad compuesta
+Descomposición como producto de primos
+Mínimo común múltiplo (m.c.m.)
+Máximo común divisor (M.C.D.)
+Problemas de m.c.m. y M.C.D.
+Raíz cuadrada
+Unidades de medida
+Operaciones con ángulos (grados, minutos y segundos sexagesimales)
+Sistema de numeración romano
+Sistema de numeración octal (base 8)
+Sistema de numeración hexadecimal (base 16)
+Cuadrado y cubo de un binomio
+Productos notables
+Sacar factor común
+Regla de Ruffini
+Resolución de ecuaciones
+Problemas de ecuaciones
+Problemas de edades
+Resolución de sistemas
+Método gráfico (sistemas de ecuaciones)
+Problemas de sistemas de ecuaciones
+Movimiento rectilíneo uniforme
+Movimiento rectilíneo uniformemente acelerado
+Teorema de Pitágoras
+Test sobre polígonos regulares e irregulares
+Elementos y clasificación de triángulos
+Áreas de figuras con formas circulares
+Áreas de triángulos
+Polígonos I
+Cuadrado (tetrágono regular)
+Pentágono regular
+Hexágono regular
+Sólidos platónicos
+Rectas y parábolas
+Problemas de trigonometría (seno y coseno)
+Rectas paralelas y perpendiculares
+Arcos de Circunferencia
+Coronas Circulares
+Sectores Circulares
+Moda, media y mediana
+Conceptos básicos de probabilidad
+Parámetros de centralización y de dispersión
+Test básico de progresiones
+Progresiones aritméticas
+Progresiones geométricas
+Problemas de progresiones
+Sucesión de Fibonacci
+Límites de sucesiones
+Subsucesiones
+Otros temas y calculadoras
+Valor absoluto e inecuaciones con valor absoluto
+Inecuaciones lineales, de segundo grado y racionales
+Rectas paralelas y perpendiculares
+Teorema del seno
+Teorema del coseno
+Identidades trigonométricas
+Demostraciones del seno, coseno y tangente de la suma
+Demostración de igualdades trigonométricas
+Vectores del plano
+Ecuaciones de la recta (geometría plana)
+Rectas y parábolas
+Funciones definidas a trozos
+Asíntotas de funciones
+Tipos de funciones (inyectiva y sobreyectiva)
+Función inversa
+Paridad de funciones (par e impar)
+Teorema del emparedado
+Dominio y recorrido
+Continuidad
+Continuidad (teoría)
+Producto y cociente en forma binómica
+Producto y cociente en forma polar
+Propiedades
+Raíces n-ésimas
+Concepto, propiedades, reglas, etc. (teoría)
+Tabla de derivadas (pdf)
+Cálculo de derivadas (regla de la cadena)
+Extremos relativos
+Criterio de la primera derivada (demostración)
+Criterio de la segunda derivada (demostración)
+Condición necesaria de extremo relativo (demostración)
+Monotonía (creciente y decreciente) y curvatura (convexidad y concavidad)
+Regla de L'Hôpital
+Optimización
+Euclides de Alejandría
+Herón de Alejandría
+Eugène Rouché
+Guillaume de l'Hôpital
+Gabriel Cramer
+Isaac Barrow
+Paolo Ruffini
+Michel Rolle
+Andrey Kolmogórov
+Georg Cantor
+Brook Taylor
+Maria Gaetana Agnesi
+Cauchy
+Karl Weierstrass
+|
+Matesfacil es una publicación seriada no periódica de didáctica de las matemáticas cuyo objetivo es proporcionar recursos relacionados con su enseñanza y aprendizaje, destinada, sobre todo, a los estudiantes de educación secundaria y universitaria.
+José Luis Llopis Fabra.
+Valencia - España.
+Matesfacil.com by J. Llopis is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.

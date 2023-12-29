@@ -1,0 +1,28 @@
+Oct 21, 2019
+This Interview with W.O.W Sound founders Sing Ern & Sing Huey will give you insight on two people (twins) from Singapore who took it from working in-house, composing music for video games and designing sound effects for them, all the way to making their own company and hiring others at W.O.W Sound.
+Read More
+Composers
+Oct 12, 2019
+If you find that your mixes always sound empty or aren't as full as they could be, I'll teach you how to make your song or sound effect, sound full in this mixing tutorial. The three main tips I'll talk about in this post are; How to use effect plugins like reverb and delay to fill empty space...
+Read More
+Mixing & Mastering
+Oct 02, 2019
+Learn how to add plugins to fl studio 20. You'll also learn how to add sample packs and sound libraries to fl studio too. This tutorial will walk you through what folders you need to put your VST plugins into (the .dll files) and how to get those into FL Studio.
+Read More
+DAWs & Middleware
+Aug 30, 2019
+If you're wondering how to get a wider mix, there's a technique called double tracking. This is where you take a sound, duplicate it, and route them to different mixer tracks. Then, you pan one to the far left, and the other to the far right. But, leaving it like this can lead you to an unwanted...
+Read More
+Mixing & Mastering
+Aug 24, 2019
+Learn how to sidechain in FL Studio 20 with this sidechaining tutorial. With sidechain compression, you can make your leading elements stand out while ducking the volume of other sounds that are played at the same time. If you're wondering what sidechaining is & how to use this mixing technique...
+Read More
+DAWs & Middleware
+Aug 01, 2019
+This is how to convert voice memos to mp3 in iTunes. Whether you recorded a melody, Foley, or anything from your iPhone, iPod, etc, you can transfer voice memos from your iPhone to your computer and turn them into a WAV file or even an MP3. These can be used in a DAW to make sound effects, etc.
+Read More
+DAWs & Middleware
+Jun 27, 2019
+Learn how to make drum loops and percussion sound better in this blog post. Drums can start to sound pretty stale after listing to a typical 1 or 2 bar loop for an entire song. So, In this music production tutorial, I'll teach you how to make percussion sound better.
+Read More
+Composition

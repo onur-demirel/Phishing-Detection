@@ -1,0 +1,4 @@
+Confirmation
+Aucun adminstrateur n'est déclaré sur ce compte.
+Si vous souhaitez activer un compte administrateur, cliquez sur "Créer un compte administrateur".
+En attendant, vous pouvez accéder directement à Chronotrace en cliquant sur "Ignorer cette étape et acceder à Chronotrace"

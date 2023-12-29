@@ -1,0 +1,937 @@
+To continue enjoying the free content made available to you on this website, you must indicate that you understand and accept Bonnier Corp.’s use of cookies by selecting the "Allow all cookies" button below.
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|_kxcache_a2635f949ec4ea4ee6e2254af1336d242116406b
+|fieldandstream.com
+|This cookie is necessary for the cache function. A cache is used by the website to optimize the response time between the visitor and the website. The cache is usually stored on the visitor’s browser.
+|Persistent
+|HTML
+|AKA_A2
+|fieldandstream.com
+|This cookie is necessary for the cache function. A cache is used by the website to optimize the response time between the visitor and the website. The cache is usually stored on the visitor’s browser.
+|1 day
+|HTTP
+|bonnier_consent
+|fieldandstream.com
+|Determines whether the visitor has accepted the cookie consent box.
+|1 year
+|HTTP
+|CookieConsent
+|fieldandstream.com
+|Stores the user's cookie consent state for the current domain
+|1 year
+|HTTP
+|kxcache_a2635f949ec4ea4ee6e2254af1336d242116406b
+|fieldandstream.com
+|This cookie is necessary for the cache function. A cache is used by the website to optimize the response time between the visitor and the website. The cache is usually stored on the visitor’s browser.
+|Persistent
+|HTML
+|ASP.NET_SessionId
+|l.mail.bonnier-subscriptions.com
+|Preserves the visitor's session state across page requests.
+|Session
+|HTTP
+|BIGipServer# [x2]
+|l.mail.bonnier-subscriptions.com
+x.mail.bonnier-subscriptions.com
+|Used to distribute traffic to the website on several servers in order to optimise response times.
+|Session
+|HTTP
+|gdprConsent
+|postrelease.com
+|Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.
+|Session
+|Pixel
+|opt_out
+|postrelease.com
+|Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.
+|1 year
+|HTTP
+|__cfduid [x2]
+|viglink.com
+truoptik.com
+|Used by the content network, Cloudflare, to identify trusted web traffic.
+|1 year
+|HTTP
+|We do not use cookies of this type
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|_ga
+|fieldandstream.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|2 years
+|HTTP
+|_gat
+|fieldandstream.com
+|Used by Google Analytics to throttle request rate
+|1 day
+|HTTP
+|_gid
+|fieldandstream.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|1 day
+|HTTP
+|gpv_pn
+|fieldandstream.com
+|Registers statistical data on visitors' behaviour on the website. Used for internal analytics by the website operator.
+|1 day
+|HTTP
+|s_cc
+|fieldandstream.com
+|Used to check if the user's browser supports cookies.
+|Session
+|HTTP
+|s_fid
+|fieldandstream.com
+|Saves the current Flash version that is available in the user's browser.
+|5 years
+|HTTP
+|s_nr
+|fieldandstream.com
+|Registers a unique ID that identifies the user's device for return visits.
+|29 days
+|HTTP
+|s_ppv
+|fieldandstream.com
+|Saves information on what vertical percentage of a page has been displayed to the user.
+|Session
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|icu
+|adnxs.com
+|Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.
+|3 months
+|HTTP
+|uuid2
+|adnxs.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|3 months
+|HTTP
+|uuid
+|avocet.io
+|This cookie is used to optimize ad relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.
+|1 year
+|HTTP
+|sync [x2]
+|bidswitch.net
+cpx.to
+|Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+|Session
+|Pixel
+|CMDD
+|casalemedia.com
+|Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|1 day
+|HTTP
+|CMID
+|casalemedia.com
+|Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|1 year
+|HTTP
+|CMPRO
+|casalemedia.com
+|Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.
+|3 months
+|HTTP
+|CMPS
+|casalemedia.com
+|Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|3 months
+|HTTP
+|CMST
+|casalemedia.com
+|Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|1 day
+|HTTP
+|an_fire
+|cpx.to
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel
+|ca.png
+|cpx.to
+|Saves information of actions that have been carried out by the user during the current visit to the website, including searches with keywords included.
+|Session
+|Pixel
+|cpSess
+|cpx.to
+|Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.
+|1 year
+|HTTP
+|dsp_app_nexus
+|cpx.to
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 year
+|HTTP
+|dsp_avocet
+|cpx.to
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 year
+|HTTP
+|dsp_dbm
+|cpx.to
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 year
+|HTTP
+|dsp_pubmatic
+|cpx.to
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 year
+|HTTP
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|test_cookie
+|doubleclick.net
+|Used to check if the user's browser supports cookies.
+|1 day
+|HTTP
+|brandlift.php
+|facebook.com
+|Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.
+|Session
+|Pixel
+|fr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|tr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|Session
+|Pixel
+|_fbp
+|fieldandstream.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|GoogleAdServingTest
+|fieldandstream.com
+|Used to register what ads have been displayed to the user.
+|Session
+|HTTP
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+|pcs/activeview
+|googlesyndication.com
+|Used by DoubleClick to determine whether website advertisement has been properly displayed - This is done to make their marketing efforts more efficient.
+|Session
+|Pixel
+|IMRID
+|imrworldwide.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|1 year
+|HTTP
+|_kuid_
+|krxd.net
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|179 days
+|HTTP
+|pixel.gif
+|moatads.com
+|Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.
+|Session
+|Pixel
+|trk.gif
+|postrelease.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel
+|KADUSERCOOKIE
+|pubmatic.com
+|Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.
+|3 months
+|HTTP
+|KTPCACOOKIE
+|pubmatic.com
+|Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.
+|3 months
+|HTTP
+|UID
+|scorecardresearch.com
+|Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.
+|2 years
+|HTTP
+|UIDR
+|scorecardresearch.com
+|Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.
+|2 years
+|HTTP
+|to_master
+|truoptik.com
+|Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.
+|1 year
+|HTTP
+|to_version
+|truoptik.com
+|Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.
+|1 year
+|HTTP
+|vglnk.Agent.p
+|viglink.com
+|Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.
+|29 days
+|HTTP
+|GPS
+|youtube.com
+|Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+|1 day
+|HTTP
+|PREF
+|youtube.com
+|Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+|8 months
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+|179 days
+|HTTP
+|YSC
+|youtube.com
+|Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|__ab12# [x2]
+|truoptik.com
+fieldandstream.com
+|Pending
+|1 day
+|HTTP
+|s_vi_#
+|2o7.net
+|Pending
+|2 years
+|HTTP
+|dsp_TRUOPTIK
+|cpx.to
+|Pending
+|1 year
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|kxvisits
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML
+|kxwhistle
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML
+|ntvSession
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML
+|s_tp
+|fieldandstream.com
+|Pending
+|Session
+|HTTP
+|images/pixel.gif
+|cdn.viglink.com
+|Pending
+|Session
+|Pixel
+|_kxfp
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML
+|_kxkuid
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML
+|_kxuser
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML
+|_kxvisits
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML
+|_kxwhistle
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML
+|_ntv_uid
+|fieldandstream.com
+|Pending
+|1 year
+|HTTP
+|kxfp
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML
+|kxkuid
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML
+|kxuser
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML
+Update to privacy policy and how we use cookies.
+Bonnier Corp. and its brands use cookies to identify your individual device so that we and our third-party partners can efficiently deliver content and advertisements that will be relevant to you, based on the pages you visit on our site(s) and other websites across the internet.
+At Bonnier Corporation, your privacy is important to us. This Privacy Policy applies to all of the products, services, and websites offered by Bonnier Corporation and its subsidiaries or affiliated companies (collectively, "Bonnier").
+To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the way your information is collected and used by Bonnier.
+Bonnier acts as a “data controller” for the purposes of the EU’s General Data Protection Regulation. Bonnier has appointed a Data Protection Officer for you to contact if you have any questions or concerns about Bonnier’s personal data policies or practices. The Data Protection Officer’s contact information is as follows:
+Jeremy Thompson, General Counsel
+Bonnier Corporation
+460 N. Orlando Ave., Ste. 200
+Winter Park, FL 32789
+dpo@bonniercorp.com
+If you have any questions about this Privacy Policy, or to check your information to verify, update or correct it, please write to us via e-mail at privacy@bonniercorp.com, or via postal mail at:
+Privacy Department
+Bonnier Corporation
+460 N. Orlando Avenue, Suite 200
+Winter Park, FL 32789
+You may also ask for a summary of the information that we have retained, how we have used it, and to whom it has been disclosed. For your protection, we may require that you authenticate your identity before we provide you with any information.
+Note: For questions related to your magazine subscription, please visit the respective magazine’s customer service website.
+You are able to take advantage of many Bonnier products, services, and websites without providing any information that personally identifies you by name, address, or other personally-identifying information. We only collect personally-identifying information when you voluntarily submit it to us.
+Sometimes, we need personally-identifying information in order to provide you with the products and services that you request. Depending upon the product or service, we may ask you for a variety of personally-identifying information. This might include, for example, your name, address, e-mail address, telephone number, gender, and birth date. We may also ask for other information about you, such as your credit card information (when you are making a purchase), interests, income, or education level. We consider certain identifying information "sensitive." This includes your credit card number, income level, or any other information that would normally be considered confidential. Some types of personal information will NEVER be requested or collected, such as information on your race or ethnic origin, political opinions, trade union memberships, religious beliefs, health, sex life, or sexual orientation.
+You may choose not to provide us with any personally-identifying information. In that case, you can still access and use many portions of our websites; however, you will not be able to access and use those portions of any Bonnier website that require your personal information.
+Many Bonnier websites include community features, such as online forums and message boards. Information that is posted in these areas becomes public information and the use that any third party makes of this information is beyond our ability to control. You should exercise caution before disclosing any personally-identifying information in these public venues. If you elect to submit content that includes information that can be used to identify you, you must assume that the content can and will be displayed on any website on the Internet.
+At some Bonnier sites and through certain promotions, you can submit personally-identifying information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card; or, if you order a gift online or offline and want it sent directly to the recipient, you might submit the recipient's name and address. Some Bonnier websites also provide referral services to help you inform a friend about our websites, products, or services. The types of personally-identifying information that we collect about other people at pages like these may include the person's name, address, e-mail address, or telephone number. We will only ask you for the information about your friend that we need in order to do what you request.
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at http://www.nielsen.com/digitalprivacy.
+We allow third-party companies to serve ads and/or collect certain information when you visit our web site and directly in emails/communications. These companies may use information you have shared (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, e-mail address) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes; any information collected is stored in hashed or non-human-readable form. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org or http://www.aboutads.info/choices.
+Bonnier websites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally-identifying information that visitors voluntarily submit to them in order to participate in the contest, sweepstakes, or promotion. Bonnier has no control over the third-party sponsors' use of this information. If a third-party sponsor beyond our control will obtain information that you supply us, we will notify you at the time we collect the information from you. For certain promotions, only those who provide us with the requested personally-identifying information will be able to order products, programs, and services, or otherwise participate in the promotion's activities and offerings.
+Some of our websites contain links to other sites. By clicking on these links, you will leave the website operated by Bonnier and this Privacy Policy will no longer apply. These other sites' information practices may be different than ours. You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
+We use the personally-identifying information that you provide us to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs, or services that we believe may be of interest to you. We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. We do not use your personal information to make automated decisions.
+We may syndicate the publicly available content of our community areas to unaffiliated third-party websites, using RSS or other technologies. The information you have shared in the community areas may be included in this syndication.
+We will use the personally-identifying information that you provide about others in order to provide the products or services that you have requested; for example, to enable us to send them your gifts or cards. If you provide us someone else's personally-identifying information for referral purposes, we may use that information to invite them to visit our websites or to provide them information about our products or services.
+If you provide us with your e-mail and/or postal address, we may include that address in e-mail and/or postal address lists that we sell, trade, or rent to third parties. These lists will never contain sensitive information. If you do not wish for your e-mail or postal address to be shared with companies not owned by Bonnier who want to market products or services to you, you have the opportunity to opt out, as described below. You may also opt out of the receipt of any marketing materials from Bonnier as described below.
+We may transfer your sensitive personally-identifying information to other Bonnier offices for internal management and administrative purposes. In addition, your personal data will be transferred to other Bonnier offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers of personally-identifying information may also be made where necessary for the establishment, exercise, or defense of legal claims. We do not transfer personal information internationally.
+Bonnier will only share your sensitive personal information with outside companies or individuals in any of the following limited circumstances:
+We may also use, transfer, sell, and share aggregated, anonymous data about our users for any legal purpose, such as analyzing usage trends and seeking compatible advertisers and partners. In no event will this aggregated data contain any information that could be used to identify individual users of our products or services.
+We take appropriate physical, electronic, and procedural measures to safeguard and protect your personal information. We use a variety of security measures, including encryption and authentication, to maintain the confidentiality of your personal information. We store your personal information on systems behind firewalls that are only accessible to a limited number of persons, each of whom is required to keep the information confidential. We also take appropriate measures to secure the transmission of sensitive personal information from your computer to the Company's computers. When you transmit sensitive personal information to us, like credit card information, we offer the use of a secure connection to our servers. To the extent you select the secure connection method or your browser supports such functionality, all credit card account information that you supply is transmitted via secure encryption technology. Regardless of these measures, no system connected to the Internet or data transmission sent over the Internet can be guaranteed to be 100% secure. We will provide notice if we become aware of any security breach that may affect any sensitive personal information pertaining to you that we have stored on our systems.
+Bonnier employees, agents, and contractors who have access to personally-identifying information are required to protect this information in a manner that is consistent with this Privacy Policy and may not use the information for any purpose other than to carry out the services they are performing for Bonnier. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+Bonnier only collects personal information that is relevant to the purposes for which it will be used. Though we do take appropriate steps to review and update the information that we store to ensure that it is accurate, complete, and current, we also depend on you to update or correct your personal information when necessary.
+You may correct or delete any or all of the personal information you have provided to us at any time. Many of our websites provide means to review and update the personal information that you have provided on that website. To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please send us an e-mail at privacy@bonniercorp.com. (Note: Do not use this email address to send questions about your subscription. Instead, please visit the respective magazine’s customer service website.) To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. We will decline to process requests where we cannot verify the identity of the requester. We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
+In some limited circumstances, such as to resolve disputes, troubleshoot problems, and enforce our policies, we may retain some of information that you have requested us to remove. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.
+We only use the information we collect for purposes consistent with this policy. If we propose to use your personal information for purposes beyond that explained in this policy, we will provide appropriate notice before doing so and we will provide you with the means to opt out of those uses. We will not use your sensitive personal information for any purposes other than those described in this Policy unless we have obtained your consent.
+If you prefer not to receive e-mail communications from other companies, you may choose to remove yourself from any e-mail lists that we provide to third parties for marketing purposes by sending us an e-mail at emailoptout@bonniercorp.com. You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+If you prefer not to receive postal communication from other companies, you may choose to remove yourself from any postal mailing lists that we provide to third parties for marketing purposes by sending us an e-mail at emailoptout@bonniercorp.com, or writing us at P.O. Box 6364, Harlan, IA 51593-1864. You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+We only want to communicate with you if you want to hear from us. If you prefer not to be contacted at all, you may opt out of receiving any communications from us at any time by notifying us at emailoptout@bonniercorp.com. You may also notify us by sending mail to the following address:
+Online Marketing Department
+Attn: Privacy Preferences
+Bonnier Corporation
+460 North Orlando Avenue, Suite 200
+Winter Park, FL 32789
+In all requests, please tell us what communications you would like to opt out of, what means we have been using to contact you (such as your e-mail or postal address), the date of your request, and a way to reach you in case we need to personally contact you in an effort to comply with your request. We reserve the right to send you certain communications, such as technical alerts, without offering you the opportunity to opt out of receiving them.
+We take our Privacy Policy seriously and we regularly review our own compliance with this Policy. If you have any questions or concerns about this Policy, or if you think that we have used your personal information in a manner inconsistent with this Policy, please contact us at:
+Privacy Department
+Bonnier Corporation
+460 North Orlando Ave., Suite 200
+Winter Park, FL 32789
+If we receive a complaint from you, we will contact you in an attempt to address your concerns. If we are not able to resolve a complaint, we will participate in appropriate independent recourse mechanisms as necessary.
+Bonnier Corp. and its brands use cookies to identify your individual device so that we and our third-party partners can efficiently target you with content and advertisements that will be relevant to you, based on the pages you visit on our site(s) and other websites across the internet.
+Bonnier may collect information such as the type of browser you use, your operating system, your IP address, the type of device you are using to access the site, and the domain name of your Internet Service Provider. This information, by itself, does not permit individual identification, meaning that you will remain anonymous. However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to your IP address, or to your email address where we may have that on file through other Bonnier Corp. products or services.
+When you visit our websites, we and our third-party partners send cookies — small, removable data files – to your computer. We use cookies to uniquely identify your browser, which allows us to enhance and personalize your online experience at Bonnier websites. For example, cookies allow us to recognize you when you return to a website and present relevant content to you when you visit. Most browsers are initially set up to accept cookies, but you can configure your browser to warn you when cookies are sent, or to refuse all cookies. Some of the features and services of Bonnier websites may not operate properly if your cookies are disabled. Cookies, by themselves, do not provide us with any personally-identifying information.
+On our websites, we may also use tiny graphic images called pixel tags, web beacons, or clear gifs. These tiny images help us to analyze our users' online behavior and collect other data, such as page views or advertising responses. Pixel tags also allow us to send you email in a format that you can read, and let us know when you have opened an email message from us. Pixel tags may also be used to deliver cookies. Some of our websites also use third-party advertising companies to serve ads when you visit. These companies may use non-personally-identifying information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+We work with reputable third parties that provide data tracking and collection technologies in order to:
+These companies may collect information about you on our behalf. We require that these parties agree to process any such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+We allow third-party companies to serve ads and/or collect certain information when you visit our website. These companies may use information you have shared (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, email address) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes; any information collected is stored in hashed or non-human-readable form. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org or www.aboutads.info/choices.
+You may correct or delete any or all of the personal information you have provided to us at any time. To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please send us an e-mail at privacy@bonniercorp.com.
+If you have previously accepted Bonnier Corp.’s use of cookies, but now wish to reject that instead, please visit our Site Opt Out page.
+For information on the data we store and how we use your data, please view our Privacy Policy.
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+Your consent applies to the following domains: www.fieldandstream.com
+Cookie declaration last updated on 24/09/2019 by Cookiebot:
+Necessary (12)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|__cfduid [x2]
+|viglink.com
+truoptik.com
+|Used by the content network, Cloudflare, to identify trusted web traffic.
+|1 year
+|HTTP Cookie
+|_kxcache_a2635f949ec4ea4ee6e2254af1336d242116406b
+|fieldandstream.com
+|This cookie is necessary for the cache function. A cache is used by the website to optimize the response time between the visitor and the website. The cache is usually stored on the visitor’s browser.
+|Persistent
+|HTML Local Storage
+|AKA_A2
+|fieldandstream.com
+|This cookie is necessary for the cache function. A cache is used by the website to optimize the response time between the visitor and the website. The cache is usually stored on the visitor’s browser.
+|1 day
+|HTTP Cookie
+|ASP.NET_SessionId
+|l.mail.bonnier-subscriptions.com
+|Preserves the visitor's session state across page requests.
+|Session
+|HTTP Cookie
+|BIGipServer# [x2]
+|l.mail.bonnier-subscriptions.com
+x.mail.bonnier-subscriptions.com
+|Used to distribute traffic to the website on several servers in order to optimise response times.
+|Session
+|HTTP Cookie
+|bonnier_consent
+|fieldandstream.com
+|Determines whether the visitor has accepted the cookie consent box.
+|1 year
+|HTTP Cookie
+|CookieConsent
+|fieldandstream.com
+|Stores the user's cookie consent state for the current domain
+|1 year
+|HTTP Cookie
+|gdprConsent
+|postrelease.com
+|Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.
+|Session
+|Pixel Tracker
+|kxcache_a2635f949ec4ea4ee6e2254af1336d242116406b
+|fieldandstream.com
+|This cookie is necessary for the cache function. A cache is used by the website to optimize the response time between the visitor and the website. The cache is usually stored on the visitor’s browser.
+|Persistent
+|HTML Local Storage
+|opt_out
+|postrelease.com
+|Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.
+|1 year
+|HTTP Cookie
+Statistics (8)
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|_ga
+|fieldandstream.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|2 years
+|HTTP Cookie
+|_gat
+|fieldandstream.com
+|Used by Google Analytics to throttle request rate
+|1 day
+|HTTP Cookie
+|_gid
+|fieldandstream.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|1 day
+|HTTP Cookie
+|gpv_pn
+|fieldandstream.com
+|Registers statistical data on visitors' behaviour on the website. Used for internal analytics by the website operator.
+|1 day
+|HTTP Cookie
+|s_cc
+|fieldandstream.com
+|Used to check if the user's browser supports cookies.
+|Session
+|HTTP Cookie
+|s_fid
+|fieldandstream.com
+|Saves the current Flash version that is available in the user's browser.
+|5 years
+|HTTP Cookie
+|s_nr
+|fieldandstream.com
+|Registers a unique ID that identifies the user's device for return visits.
+|29 days
+|HTTP Cookie
+|s_ppv
+|fieldandstream.com
+|Saves information on what vertical percentage of a page has been displayed to the user.
+|Session
+|HTTP Cookie
+Marketing (51)
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|__ab12# [x2]
+|truoptik.com
+fieldandstream.com
+|Pending
+|1 day
+|HTTP Cookie
+|_fbp
+|fieldandstream.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP Cookie
+|_kuid_
+|krxd.net
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|179 days
+|HTTP Cookie
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel Tracker
+|an_fire
+|cpx.to
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel Tracker
+|brandlift.php
+|facebook.com
+|Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.
+|Session
+|Pixel Tracker
+|ca.png
+|cpx.to
+|Saves information of actions that have been carried out by the user during the current visit to the website, including searches with keywords included.
+|Session
+|Pixel Tracker
+|CMDD
+|casalemedia.com
+|Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|1 day
+|HTTP Cookie
+|CMID
+|casalemedia.com
+|Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|1 year
+|HTTP Cookie
+|CMPRO
+|casalemedia.com
+|Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.
+|3 months
+|HTTP Cookie
+|CMPS
+|casalemedia.com
+|Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|3 months
+|HTTP Cookie
+|CMST
+|casalemedia.com
+|Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|1 day
+|HTTP Cookie
+|cpSess
+|cpx.to
+|Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.
+|1 year
+|HTTP Cookie
+|dsp_app_nexus
+|cpx.to
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 year
+|HTTP Cookie
+|dsp_avocet
+|cpx.to
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 year
+|HTTP Cookie
+|dsp_dbm
+|cpx.to
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 year
+|HTTP Cookie
+|dsp_pubmatic
+|cpx.to
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 year
+|HTTP Cookie
+|dsp_TRUOPTIK
+|cpx.to
+|Pending
+|1 year
+|HTTP Cookie
+|fr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP Cookie
+|GoogleAdServingTest
+|fieldandstream.com
+|Used to register what ads have been displayed to the user.
+|Session
+|HTTP Cookie
+|GPS
+|youtube.com
+|Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+|1 day
+|HTTP Cookie
+|icu
+|adnxs.com
+|Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.
+|3 months
+|HTTP Cookie
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP Cookie
+|IMRID
+|imrworldwide.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|1 year
+|HTTP Cookie
+|KADUSERCOOKIE
+|pubmatic.com
+|Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.
+|3 months
+|HTTP Cookie
+|KTPCACOOKIE
+|pubmatic.com
+|Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.
+|3 months
+|HTTP Cookie
+|pcs/activeview
+|googlesyndication.com
+|Used by DoubleClick to determine whether website advertisement has been properly displayed - This is done to make their marketing efforts more efficient.
+|Session
+|Pixel Tracker
+|pixel.gif
+|moatads.com
+|Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.
+|Session
+|Pixel Tracker
+|PREF
+|youtube.com
+|Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+|8 months
+|HTTP Cookie
+|s_vi_#
+|2o7.net
+|Pending
+|2 years
+|HTTP Cookie
+|sync [x2]
+|bidswitch.net
+cpx.to
+|Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+|Session
+|Pixel Tracker
+|test_cookie
+|doubleclick.net
+|Used to check if the user's browser supports cookies.
+|1 day
+|HTTP Cookie
+|to_master
+|truoptik.com
+|Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.
+|1 year
+|HTTP Cookie
+|to_version
+|truoptik.com
+|Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.
+|1 year
+|HTTP Cookie
+|tr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|Session
+|Pixel Tracker
+|trk.gif
+|postrelease.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel Tracker
+|UID
+|scorecardresearch.com
+|Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.
+|2 years
+|HTTP Cookie
+|UIDR
+|scorecardresearch.com
+|Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.
+|2 years
+|HTTP Cookie
+|uuid
+|avocet.io
+|This cookie is used to optimize ad relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.
+|1 year
+|HTTP Cookie
+|uuid2
+|adnxs.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|3 months
+|HTTP Cookie
+|vglnk.Agent.p
+|viglink.com
+|Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.
+|29 days
+|HTTP Cookie
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+|179 days
+|HTTP Cookie
+|YSC
+|youtube.com
+|Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+|Session
+|HTTP Cookie
+|yt-remote-cast-installed
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML Local Storage
+|yt-remote-connected-devices
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML Local Storage
+|yt-remote-device-id
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML Local Storage
+|yt-remote-fast-check-period
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML Local Storage
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML Local Storage
+|yt-remote-session-name
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML Local Storage
+Unclassified (14)
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|_kxfp
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML Local Storage
+|_kxkuid
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML Local Storage
+|_kxuser
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML Local Storage
+|_kxvisits
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML Local Storage
+|_kxwhistle
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML Local Storage
+|_ntv_uid
+|fieldandstream.com
+|Pending
+|1 year
+|HTTP Cookie
+|images/pixel.gif
+|cdn.viglink.com
+|Pending
+|Session
+|Pixel Tracker
+|kxfp
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML Local Storage
+|kxkuid
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML Local Storage
+|kxuser
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML Local Storage
+|kxvisits
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML Local Storage
+|kxwhistle
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML Local Storage
+|ntvSession
+|fieldandstream.com
+|Pending
+|Persistent
+|HTML Local Storage
+|s_tp
+|fieldandstream.com
+|Pending
+|Session
+|HTTP Cookie

@@ -1,0 +1,9 @@
+Email
+Required
+That email format isn't right
+Password
+Required
+Log In
+Having trouble logging in?
+or
+Sign Up

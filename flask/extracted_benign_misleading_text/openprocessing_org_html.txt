@@ -1,0 +1,71 @@
+Connect and Inspire
+Join 100,000 creative coders and follow their work. Add your ideas with forks, and find your inspiration for your next coding challenge.
+No Hassle Coding
+Code away your ideas in seconds with intuitive editor and p5js, enable common libraries with ease, and share your work with the community.
+Teach and Learn
+Teachers exclusive: Invite your students to study coding, give assignments and collect student work on your class page.
+Sketches that are
+'d this week
+Fish faceby Pierre MARZIN000Pinned
+snakesby skizzm000Pinned
+Constrain Emojiby Vamoss000Pinned
+Tiny Sketch Unknown Pleasuresby Craig S. Kaplan000Pinned
+particleFLowby yasai000Pinned
+190914by takawo000Pinned
+perlin noiseby yasai000Pinned
+Grow Instrumentby Vamoss000Pinned
+Hot Air Balloonby Benjamin Jones000Pinned
+Voronoi audio visualizerby Jason Labbe000Pinned
+Nodes that have their own behaviors. They may push or pull each other, connect, kill or give birth, based on position, color, and who knows.
+Define these set of rules and press Play to watch these particles live their fascinating yet random lives.
+Particle Systems
+Take a data point, assign it to a color or size of a shape. Position it on the canvas based on its relation to another data point.
+When all is said and done, let the visualizations reveal the hidden patterns and tell the story behind the data.
+Data Visualization
+Games
+Create characters, define game dynamics, and you got yourself a sketch with villain square taking revenge while shooting lasers with unlimited life.
+Creating games is one of the most fun ways to explore object oriented programming and multi-user interactions on the same canvas.
+Duel (a shooter game)by FAL000Pinned
+Far East (shooter game)by FAL000Pinned
+Stackby Santiago Fiorino000Pinned
+Fluid Simulationby mslijkhuis000Pinned
+OMG DABBING MINECRAFT STEVE GETS RUN OVER (not cllickbait)by mincecroft stove but I am Brennen000Pinned
+Multiplayer Games with Socket.ioby Sinan Ascioglu000Pinned
+Brushes
+What happens when mouse cursor moves, or you wave your hand to the camera?
+These sketches experiment with digital painting ideas that uses custom brushes instead of putting paint on canvas.
+Create. Full steam ahead.
+Join the community of 100,000 creative coders to create open source projects, inspire and collaborate.
+- Create unlimited open source sketches
+- Code away your ideas in seconds with p5js
+- No frameworks, localhost setups
+- Enable libraries with a single click
+- Undo mistakes with version history
+- Build a portfolio to showcase your work
+- Embed sketches in blogs, websites
+- Save animated GIFs
+- Connect with other creative coders to get inspired and learn
+Creative Coder Plus+
+Take your sketches to the next level with premium features and privacy.
+- Unlimited public or private sketches
+- Advanced embedding options
+- Upload more files with increased 250 MB limit (standard 20 MB).
+- Use any external javascript library in your sketch
+- Ad-free experience as you explore OpenProcessing
+- No ads displayed on your portfolio and sketches
+- Priority live support from Sinan
+Professor Plus+
+Use Classroom Platform to invite students and teach coding in class!
+- Organize sketches, create challenges and give assignments with collections
+- Keep sketches and class activity private/class only
+- Hide source code to create challenging assignments
+- Add javascript libraries to expand their knowledge
+- Free Creative Coder Plus+ Membership for all your students
+- Close your class easily for a new semester
+- Get priority live support from Sinan
+Article: Teaching Coding with OpenProcessing
+A quick walkthrough of the exciting world of code, creativity, education, bugs, and Kandinsky.
+Article: Creating Collaborative Sketches with Socket.io
+Learn how to use OpenProcessing socket server to create a live sketch that responds to visitors.
+Follow us on Twitter
+Our official communication channel: Any news on OpenProcessing is first on @openprocessing

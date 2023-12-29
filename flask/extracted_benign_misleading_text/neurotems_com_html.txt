@@ -1,0 +1,36 @@
+Friki
+$5mensuales
++ $5Suscripción
+- Programa MLM
+- Valor de Token: 0.25USD
+- Publicación Eshop
+- Máximo de anuncios
+- Comisión de Venta 0.9%
+- Tienda
+Nerd
+$5mensuales
++ $10Suscripción
+- Programa MLM
+- Valor de Token: 0.5 USD
+- Publicación Eshop
+- Máximo de anuncios
+- Comisión de Venta 0.7%
+- Tienda
+Geek
+$10mensuales
++ $25Suscripción
+- Programa MLM
+- Valor de Token: 0.75USD
+- Publicación Eshop
+- Máximo de anuncios
+- Comisión de Venta 0.6%
+- Tienda
+Genius
+$15mensuales
++ $50Suscripción
+- Programa MLM
+- Valor de Token: 1 USD
+- Publicación Eshop
+- Máximo de anuncios
+- Comisión de Venta 0.5%
+- Tienda

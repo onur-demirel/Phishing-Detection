@@ -1,0 +1,14 @@
+Sign In
+That Microsoft account doesn't exist. Enter a different account
+No account?
+Create one!
+Sign in with a security key
+sign in options
+Next
+abc@abc.com
+Password
+No account?
+Create one!
+Sign in with a security key
+sign in options
+Login

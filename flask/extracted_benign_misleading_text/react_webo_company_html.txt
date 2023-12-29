@@ -1,0 +1,197 @@
+Report Page
+Prepared by: Your Company Name
+123 455 234
+demo@gmail.com
+Speed
+Second
+1.89
+kilobytes
+1986
+Request
+89
+- This page loads fast enough
+- This page loads fast enough
+- The number of file reqest is acceptable
+Landing Page Auditwww.knowledge-vault.com/microsoft-office
+Keyword
+Office 365 auditing
+Put the important stuff above the fold
+HTTP Request & Content breakdown
+Image Request
+0%
+JavaScript Request
+10%
+HTML Request
+10%
+CSS Request
+10%
+Others Request
+10%
+URL
+http://www.knowledge-vault.com/microsoft-office-360-auditing
+- This page loads fast enough
+- This size of this page is ok
+- The number of file request is acceptable
+- The number of file request is acceptable
+- The number of file request is acceptable
+Title Tag
+Microsoft Office 365 Auditing
+- Keyword found in title
+- Title tag should begin with keyword
+- Title tag has 70 characters or less
+- Title tag should begin with keyword
+Descripting Tag
+Knowledge vault Automate your audit reviews, user andmailbox auditing htmlFor Microsoft office 365 to track…
+- Description tag needs exact keyword
+- Description tag has 160 characters or less
+- Description tag needs exact keyword
+Image Analysis
+18 image
+- All images have alt tags
+- Exact keyword found in an alt tag
+- Add exact keyword to an image file name
+- Remove any underscores in image file names
+Image Analysis
+NO.
+URL
+All Text
+Size
+01
+Logo-Perfect-1-1.jpg
+Beiter DC Power
+.5mb
+01
+Logo-Perfect-1-1.jpg
+Beiter DC Power
+.5mb
+Keywords (1Word):
+5 Most common 1 words keyword
+Keyword
+SHown
+Density
+Title
+DESC
+H
+Bold / Underline
+Seo Audit
+70
+1232.3%
+Your website
+70
+1232.3%
+the
+70
+1232.3%
+the
+70
+1232.3%
+the
+70
+1232.3%
+Keywords (2 Word):
+5 Most common 2 words keyword
+Keyword
+SHown
+Density
+Title
+DESC
+H
+Bold / Underline
+Seo Audit
+70
+1232.3%
+Your website
+70
+1232.3%
+the
+70
+1232.3%
+the
+70
+1232.3%
+the
+70
+1232.3%
+Keywords (3 Word):
+5 Most common 2 words keyword
+Keyword
+SHown
+Density
+Title
+DESC
+H
+Bold / Underline
+Seo Audit Agency
+70
+1232.3%
+Your website
+70
+1232.3%
+the
+70
+1232.3%
+the
+70
+1232.3%
+the
+70
+1232.3%
+Top 5 Words used
+Top 10 Words used
+Heading Tags
+H1 Tag: Office 365 Auditing
+H2 Tag: Auditing htmlFor Office 365 with Knowledge Vault
+H3 Tag: Get InhtmlFormed. Stay Protected.
+- All images have alt tags
+- Exact keyword found in an alt tag
+- Add exact keyword to an image file name
+- Add exact keyword to an image file name
+- Add exact keyword to an image file name
+Copy Analysis
+Microsoft Office 365 Auditing
+- You should have 2,000+ words on this page
+- Only use exact keyword 2-4 times
+- Bold, italicize, or underline exact keyword
+- Add your exact keyword to anchor text
+- Exact keyword found in the first 100 words
+- Link this page to a sitemap.html
+Code Analysis
+Microsoft Office 365 Auditing
+- HTML is not W3C validated
+- No flash found
+- Remove inline CSS
+- Text to HTML ratio is too low ( 25%)
+- Found schemaorg markup
+- Link to a sitemap.xml
+Mobile Analysis
+- Add a mobile sitemap
+- Server uses compression (e.g., gzip)
+- Add an Apple icon
+- We found a viewport metatag
+Root Domain link analysis
+- Found 144 links from other sites
+- Found 35 links from unique domains
+- MozTrust domain score: 4.14
+Mobile-friendly landing pages and blog articles rank higher in Google's mobile search results.
+Page Link Analysis
+- 0 links from other sites
+- 1 links from unique domains
+- This page has 5 outbound links
+- This page has 0 outbound follow links
+- MozTrust page score: 5.35
+- MozRank page score: 5.03
+- Moz Page Authority: 19.19
+Domain Analysis
+knowledge-vault.com
+- Domain is 15 characters inlength
+- Domainshouldcontain exact keywod
+- This domain is 4 years, 352 days old
+- This domain expires in 3 years, 14 days
+- Preferred domain set
+- Canonicalize your IP address
+- Site should be accessible via http (SSL)
+Tasks
+Summary
+Let us help you complete the tasks above and get your web pages and website ranked higher in major search engines like Google. We will help you dramatically increase targeted traffic, conversions, and sales from your website.
+Thank You,
+Your Business Name

@@ -1,0 +1,8 @@
+Built by developers, for developers
+Our robust, clean API lets you focus on building great products.
+Our data are served in transparent JSON format, with simple documentation and quick tech support.
+Open source integrations
+Our community has created over 200 open source libraries and plugins for most languages and frameworks.
+From a single request per month to a thousand per second, we've got you covered.
+Fully-featured
+Live and historical exchange rates for over 200 world currencies, plus time-series and conversion APIs.

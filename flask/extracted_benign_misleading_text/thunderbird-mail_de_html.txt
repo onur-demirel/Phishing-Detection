@@ -1,0 +1,15 @@
+Willkommen auf der Webseite der deutschen Thunderbird-Community!
+Was wir anbieten:
+Den Download des Programms
+Auf der Seite Herunterladen finden Sie die aktuelle offizielle Version des Mozilla Thunderbird.
+Eine Dokumentation des Programms
+Im Lexikon-System dieser Webseite finden Sie Hilfe-Artikel, Anleitungen, Fragen & Antworten (FAQ), etc.
+Ein Hilfe-Forum, um Probleme zu schildern und Fragen zu stellen
+Das Hilfe-Forum ist in eine ganze Reihe von Unter-Foren gegliedert, in denen Fragen und Probleme rund um das E-Mail-Programm und damit zusammenhängende Themen geklärt werden können. Um im Forum aktiv zu schreiben (nur dafür!) benötigen Sie zuerst ein Benutzerkonto. Lesen Sie in der Hilfe, wie man im Forum schreiben kann - bitte beachten Sie dabei die Nutzungsbedingungen.
+Was wir nicht sind:
+Wir sind nicht die Herausgeber des Programms
+Mozilla Thunderbird wird offiziell von der Mozilla Foundation herausgegeben.
+Wir sind nicht die Thunderbird-Programmierer
+Programmiert wird die Software von sehr wenigen hauptamtlichen Programmierern, die bei Mozilla oder anderen Firmen angestellt sind. Zusätzlich kann und wird von einer Vielzahl an freiwilligen Personen Programm-Code zu der Software beigetragen. Vieles wird auch vom Programm-Code des Web-Browsers Mozilla Firefox für Thunderbird übernommen.
+Wir sind kein Postfach-Anbieter
+Sie bekommen von uns kein E-Mail-Postfach und keine E-Mail-Adresse. Dafür müssen Sie sich bei einem der bekannten Postfach-Anbieter ein E-Mail-Konto (Englisch: Account) besorgen.

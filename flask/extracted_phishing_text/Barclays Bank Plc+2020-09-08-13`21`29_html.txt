@@ -1,0 +1,47 @@
+Step 1 - Who are you?
+Step 2 - Confirm your ID
+Help and support
+-
+-
+-
+How do I login with a PINsentry card reader?
+-
+How do I login with a PINsentry card reader?
+-
+- Enter the last 4 numbers of your debit, cash or authentication card into the log-in page
+-
+- Insert your card into the reader, face up, chip end first, then press IDENTIFY
+- Type your PIN and press ENTER
+-
+- An 8-digit code will appear on the card reader. Enter this code into the log-in page on your computer
+-
+-
+What does error code 6 mean?
+-
+If you're having problems logging in to Online Banking, you may need to clear your internet browser's cache or update the browser.
+Below is a guide to clearing the cache for the most common browsers. You can also find the information in your browser's 'help' section.
+PC users:
+Internet Explorer (IE) – press Ctrl, Shift and Delete together, then select 'temporary internet files' and click 'delete'
+Chrome – press Ctrl, Shift and Delete together. In the 'clear browsing data window', select 'cached images and files' only, then click 'clear browsing data'
+Firefox – press Ctrl, Shift and Delete together, then select 'clear recent history', select 'cache' only within 'details', then click 'clear now'
+Safari – press Ctrl, Alt and the letter E together, then select 'empty'
+Mac users:
+Chrome – Cmd, Shift and the letter R together
+Firefox – Cmd, Shift and the letter R together
+Safari – Cmd, Alt button and the letter E together
+To update your browser, please check your browser's help section.
+-
+-
+Is saving my details safe?
+If you tick the 'remember me' box, your details will only be retained on the device you're using at the time. That's why we don't recommend you do so on any public or shared devices. This means you don't need to worry about anyone else seeing the details. Even if they do, there isn't enough information there for anyone to access your accounts in Online Banking or any other way.
+If you want to save your details, you need to make sure you've switched cookies on for your browser – that's how the information is stored.
+-
+-
+Close
+-
+-
+What does error code 6 mean?
+-
+Is saving my details safe?
+-
+-

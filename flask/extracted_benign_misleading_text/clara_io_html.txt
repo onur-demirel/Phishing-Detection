@@ -1,0 +1,45 @@
+Start creating, rendering and sharing 3D with Clara.io right now, for free!
+Clara.io is a full-featured cloud-based 3D modeling, animation and rendering software tool that runs in your web browser.
+With Clara.io you can make complex 3D models, create beautiful photorealistic renderings, and share them without installing any software programs.
+This is the perfect Three.JS or Babylon.JS editor for creating and tweaking your Web game content.
+Sub-object editing. A ton of mesh tools. Subdivision surfaces. Modifiers/operators. UV editing. Optimized performance.
+Huge photorealistic material library. Easy advanced materials. Flexible lighting setups. Blazing speed.
+Over 30 common 3D files formats supported. FBX, Collada, STL, OBJ, Three.JS, Babylons.JS, STEP, IGES, 3DS, Blender and more.
+Chrome. Firefox. IE11. Edge. Windows. Apple OSX. Linux. Android. iOS.
+Familiar UI. Responsive workflows. Undo/redo. Drag/drop. Context menus everywhere.
+Customize. Extend. Mashup. White Label. And even create your own Custom 3D Viewers.
+User galleries. Lots of free 3D models. WebGL/Three.JS and VRay Cloud render embedding. Interactivity via jQuery.
+Simultaneous multi-user editing. Always on versioning. Per-user permissions. Review tools.
+Just found this browser-based 3D modeling app. Very powerful (like Maya, Max) and free. Exports to .FBX too: Clara.io #gamedev
+— NateSteger @NateSteger
+It is amazing what they have achieved. Essentially it is 3D Studio Max in a browser. Incredible :)
+— Chris Neale, UsableHQ
+Clara.io: a 3D Modeling web application based on WebGL & Three.js #the_power_of_javascript
+— Mostafa Samir @M0stafa_Sami
+Clara.io is amazing! Keep up the good work! Kudos also to the VRay App SDK team for making this possible :)
+— Vladimir Koylazov, V-Ray / ChaosGroup
+Guess what I've just discovered? Clara.io - WebGL development, rendering in the cloud with VRay. One word! - AWESOME!
+— Octavian Cioaca @cssensei
+Clara.io is so awesome :D #gamedev #indiedev #indiegame
+— Emmet Cooper @emmetc99
+Clara.io is a free online 3D editor. And it is frickin' awesome!
+— Luc Princen @LucP
+Just discovered Clara.io by @exocortexcom, a full 3D modeling suite in WebGL inside the browser, stunned that it works.
+— Pieter levels.io
+3D Cloud (SAAS) Now Available on Clara.io #amazing #saas #3d #cgi #vfx #rendering #graphic #cloud #SaaS
+— Nick @nfer81
+Clara.io is looking pretty good!
+— Mr Doob (Ricardo Cabello), ThreeJS
+The job done by the Clara.io team is awesome
+— David Rousset @davrous, BabylonJS
+Who would have expected something like this would be possible in a browser a few years ago?
+— Mickel Andersson, PixelTango
+Clara.io is really amazing. I am very confident such an approach is the future of the industry.
+— Douglas Lassance, Blur Studio
+This tool is one of the most interesting developments in tools enabled by WebGL, because it turns the web browser from surfing content in the cloud into a creation tool. Just think about how disruptive this could be.
+— Rémi Arnaud, Collada+AMD
+From watching the early stages of Clara.io, it is obvious how fast this tool is growing and will continue to grow. Their development decisions have been made with the future in mind.
+— Allen Pestaluky, Magmic
+Clara.io is the latest innovation from the trusted and experienced team at Exocortex.
+Exocortex's suite of products are trusted by hundreds of creative teams at studios around the world.
+Exocortex's tools have been used to create these recent Hollywood blockbuster films:

@@ -1,0 +1,21 @@
+Send a copy of your email to:
+Our test checks your reputation, authentication, and provides comprehensive feedback for common ISP and corporate filters. We'll explain you in real-time if there are any problems so you can fix them before sending a real email campaign.
+Being blocked by at least just one major ISP can impact the entire email marketing campaign.
+By tracking delivery to all major ISPs, we show in real-time where your marketing email ends up: Inbox, Spam, or Updates. And we save you time and money by helping you track and fix possible deliverability issues.
+You can compare several tests sent through different email providers to see which email provider gives the best deliverability and use that provider for your most important email campaigns.
+Are any of your IP addresses or domain names on any blacklists? If so, your email may not reach the inbox at all. We test your sending IP against 50+ of the most common industry blacklists and help you diagnose and solve deliverability issues for continuous deliverability. Our global blacklist coverage includes Spamhaus, SURBL, SORBS, Invaluement, and other blacklists.
+You can setup an automated process of checking your IPs against blacklists and be alerted via email when the IP got listed.
+Test your transactional or outreach emails automatically on a regular basis and be notified via email when your message starts getting to the Spam folder at any of the selected mailbox providers.
+You can create multiple email sending accounts using different SMTP settings and run automatic tests via different accounts to test each SMTP server and determine deliverability issues when they occur.
+Do you know who is sending on your behalf? By analyzing DMARC data, you’ll see which sources are sending on behalf of your domain, make sure that all your legitimate sending sources comply with SPF, DKIM and DMARC which has a positive impact on email deliverability.
+You can monitor the health of your email sending system over time and detect any email spoofing or phishing attacks.
+We have every tool you need to maximize Inbox deliverability all in ONE place.
+G-Lock Apps checks your email for risky content that can raise a red flag with an email provider and make the difference between the Inbox or spam/bulk folder delivery.
+You can get visibility into delivery performance at Gmail. G-Lock Apps tracks whether your email is delivered to the Gmail’s Primary, Social, or Promotions tabs.
+Delivery duration tracking helps you determine if there is an issue with an ISP throttling as this can be harmful for time sensitive promotions or important transaction emails.
+We run your email content through common spam filters such as Google Spam Filter, Barracuda, SpamAssassin, and Mimecast and return you an itemized feedback that often points to a specific content issue.
+G-Lock Apps tracks your Inbox, spam, and missed percentages giving you the most accurate and comprehensive information around your Inbox placement by campaign.
+G-Lock Apps checks your sender authentication each time you send an email to our seed list. You’ll see whether or not your message is passing DKIM and SPF authentication.
+Craig & Mandi / CEO AlamojoStudio
+Detect and fix issues that can ruin your reputation and response rates for weeks to come.
+Trusted by well known companies all over the world

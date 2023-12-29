@@ -1,0 +1,20 @@
+Facilities
+>> Assigning a URL (http://Yourname.weblogtop.com)
+>> Manage a blog with multiple users
+>> Ability to create an infinite blog for each user
+>> Ability to internalize your blog from other systems
+>> Ability to create an infinite tab for each blog
+>> Very advanced management system
+>> Reply to user comments
+>> Use Tag for Submissions
+>> Ability to send a summary of each article
+>> Ability to quote in
+>> Possibility to confirm comments before the
+>> Having a calendar and monthly and weekly archives
+>> Protecting Posts Using Password
+>> The use of professional and Persian templates
+>> Advanced Search System
+>> Ability to determine the type of display of blog links
+>> Free blogging on all of the world's search engines
+>> Ability to download backup of blog content
+And ....

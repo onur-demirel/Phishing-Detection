@@ -1,0 +1,29 @@
+The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom. We defend the rights of all software users. Read more.
+|
+Calling all activists, hackers, legal professionals, developers, policymakers, and more: it's time to submit your proposal for talks and workshops at the LibrePlanet 2020 conference! Submissions will be accepted through Nov. 20. Learn more!
+Free software developers guarantee everyone equal rights to their programs; any user can study the source code, modify it, and share the program. By contrast, most software carries fine print that denies users these basic rights, leaving them susceptible to the whims of its owners and vulnerable to surveillance.
+- The FSF provides critical infrastructure and funding for the GNU Project, the foundation of the popular GNU/Linux family of free operating systems and the keystone of the Internet.
+- Our Campaigns Team creates educational materials about free software, convenes the yearly LibrePlanet conference and goes toe to toe against powerful interests that threaten computer user rights.
+- Our Licensing & Compliance Lab defends freely licensed software from proprietary hoarding, advises on licensing issues, and certifies devices that Respect Your Freedom.
+With your support, we've done these things for more than 30 years. Help sustain us for many more; please become a member today.
+Subscribe to our monthly newsletter, the Free Software Supporter:
+Search the FSF's Web site:
+Looking for free software?
+"I’ve spent a third of my life building software based on Stallman’s four freedoms, and I’ve been astonished by the results. WordPress wouldn’t be here if it weren’t for those freedoms, and it couldn’t have evolved the way it has." - Matt Mullenweg, co-founder of WordPress
+News
+- FSF and GNU
+- Free Software Wireless-N Mini Router v2 from ThinkPenguin, Inc. now FSF-certified to Respect Your Freedom
+- Richard M. Stallman resigns
+- International Day Against DRM (IDAD): Defending the right to read on Oct. 12
+- » More news
+Blog Posts
+- November 2: Save the date! EmacsConf is coming to Boston
+- IDAD 2019: Join us on October 12th, and use this special dust jacket to uphold the right to read
+- Join us in Boston to fight DRM and get crafty! October 9 & 12
+- Submit a session proposal for LibrePlanet 2020 conference: Free the Future by Nov. 20
+- » More blog posts
+Take Action
+- Strengthen free software by telling Congress to reject the STRONGER Patents Act
+- Protect your freedom and privacy; join us in creating an Internet that's safer from surveillance
+- Make the switch to free software
+-

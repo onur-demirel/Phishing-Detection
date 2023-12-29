@@ -1,0 +1,17 @@
+Login using a CenturyLink provided Email address
+Examples:
+johnsmith@centurylink.net
+johnsmith@centurytel.net
+johnsmith@embarqmail.com
+johnsmith@q.com
+E-mail addresses are available for
+CenturyLink High-Speed Internet®
+customers only
+CenturyLink Email Address
+Password
+Log In
+Remember Me
+Forgot Password?
+Create Account
+Back to CenturyLink.net
+<img src="https://synacor.112.2o7.net/b/ss/synacortve-idmtools/1/H.24.4--NS/0" height="1" width="1" border="0" alt="" />

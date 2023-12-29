@@ -1,0 +1,23 @@
+App Analytics
+Mobile applications are a new important communication channel and marketing tool. This must be analyzed to get the best performance and to understand if your investment in App development is positive or not.
+ShinyStat™ App Analytics lets one understand data about how much App are used online and even offline. It offers standard libraries as well as centralized dashboard, in real time and customizable depending on needs.
+ShinyStat™ App Analytics lets one understand data about how much App are used online and even offline. It offers standard libraries as well as centralized dashboard, in real time and customizable depending on needs.
+Video analytics
+ShinyStat™ Video Analytics allows you to measure informations linked to the videos fruition and multimedia content published on you own web site or embedded on others ones thanks to the specific metric and tools for “viral marketing video success” such as users distribution, 2.0 actions and Video Geo audience.
+Moreover, with the innovative “Viewing Spectrum” you can focus on weaknesses and strengths of your video published.
+Moreover, with the innovative “Viewing Spectrum” you can focus on weaknesses and strengths of your video published.
+Mobile Analytics
+Netsurfing coming from mobile devices is growing and growing. This phenomena involves a massive diffusion of m.sites. ShinyStat™ Mobile Analytics is the platform that let you to analyze fruition, progresses and features of mobile channels.
+Moreover, through our mobile tools, you can isolate the mobile data in order to get data in real time. Among the metrics and infos: device brands, models, connectivity type, operators.
+Moreover, through our mobile tools, you can isolate the mobile data in order to get data in real time. Among the metrics and infos: device brands, models, connectivity type, operators.
+Web Analytics
+It's fundamental to analyze how your web site runs to get a successful business. Understanding into details how the user behaves is very important in order to give a right service and product which fits with user's needs.
+ShinyStat™ Web Analytics allows to get these informations in real time, to create automatic channels, to analyze detailed conversions and marketing campaign progress (CPC, display, video, mobile).
+ShinyStat™ Web Analytics allows to get these informations in real time, to create automatic channels, to analyze detailed conversions and marketing campaign progress (CPC, display, video, mobile).
+Blog
+- ShinyStat™ Adblock Analytics – How to measure the impact of adblocking on your site
+- Website with HTTPS? How to adapt the ShinyStat™ code
+- How to adapt the ShinyStat™ code for HTTPS in websites created with Jimdo
+- “Not Provided” Keywords: the new tool released by ShinyStat™ estimate the used keys
+- ShinyStat™ Mobile Analytics – Smartphone and tablet traffic analysis has never been so simple!
+Display reportSupport

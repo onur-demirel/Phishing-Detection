@@ -1,0 +1,76 @@
+buxta
+Buxta von Gradec
+Příspěvky sleduje: 5 turistů
+zobrazit profil
+přehled vámí navštívených míst
+možnost uložení zajímavého místa k návštěvě
+vše přehledně zobrazujeme na mapě
+Aktuálně deník používá 5 966 turistů
+pravidelné informace z vašeho oblíbeného regionu
+upozornění na nový článek oblíbeného autora
+|pořadí
+|příspěvek
+|počet návštěv
+|1.
+|Český Krumlov
+|288
+|2.
+|Lednice
+|266
+|3.
+|Sněžka
+|263
+|4.
+|Macocha
+|259
+|5.
+|Praha
+|258
+|6.
+|zřícenina hradu Trosky
+|243
+|7.
+|Pražský Hrad
+|214
+|8.
+|Lysá hora
+|212
+|9.
+|ZOO - Dvůr Králové
+|210
+|10.
+|Radhošť
+|208
+|pořadí
+|oblast
+|kolikrát v oblíbených
+|1.
+|Šumava
+|168
+|2.
+|Český ráj
+|152
+|3.
+|Hrubý Jeseník
+|135
+|4.
+|Krkonoše
+|134
+|5.
+|Moravskoslezské Beskydy
+|113
+|6.
+|Beskydy, Javorníky, Valašsko
+|112
+|7.
+|Jižní Čechy
+|109
+|8.
+|Kladské pomezí a Broumovsko
+|108
+|9.
+|Orlické hory a Podorlicko
+|90
+|10.
+|Jizerské hory
+|88

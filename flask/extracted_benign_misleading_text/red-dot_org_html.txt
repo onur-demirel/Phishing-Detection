@@ -1,0 +1,81 @@
+Notwendige Cookies helfen dabei, eine Webseite nutzbar zu machen, indem sie Grundfunktionen wie Seitennavigation und Zugriff auf sichere Bereiche der Webseite ermöglichen. Die Webseite kann ohne diese Cookies nicht richtig funktionieren.
+|Name
+|Anbieter
+|Zweck
+|Ablauf
+|Typ
+|CookieConsent
+|red-dot.org
+|Speichert den Zustimmungsstatus des Benutzers für Cookies auf der aktuellen Domäne.
+|1 Jahr
+|HTTP
+Präferenz-Cookies ermöglichen einer Webseite sich an Informationen zu erinnern, die die Art beeinflussen, wie sich eine Webseite verhält oder aussieht, wie z. B. Ihre bevorzugte Sprache oder die Region in der Sie sich befinden.
+|Wir nutzen diese Cookie-Typen nicht
+Statistik-Cookies helfen Webseiten-Besitzern zu verstehen, wie Besucher mit Webseiten interagieren, indem Informationen anonym gesammelt und gemeldet werden.
+|Name
+|Anbieter
+|Zweck
+|Ablauf
+|Typ
+|collect
+|google-analytics.com
+|Wird verwendet, um Daten zu Google Analytics über das Gerät und das Verhalten des Besuchers zu senden. Erfasst den Besucher über Geräte und Marketingkanäle hinweg.
+|Session
+|Pixel
+|_ga
+|red-dot.org
+|Registriert eine eindeutige ID, die verwendet wird, um statistische Daten dazu, wie der Besucher die Website nutzt, zu generieren.
+|2 Jahre
+|HTTP
+|_gat
+|red-dot.org
+|Wird von Google Analytics verwendet, um die Anforderungsrate einzuschränken
+|1 Tag
+|HTTP
+|_gid
+|red-dot.org
+|Registriert eine eindeutige ID, die verwendet wird, um statistische Daten dazu, wie der Besucher die Website nutzt, zu generieren.
+|1 Tag
+|HTTP
+Marketing-Cookies werden verwendet, um Besuchern auf Webseiten zu folgen. Die Absicht ist, Anzeigen zu zeigen, die relevant und ansprechend für den einzelnen Benutzer sind und daher wertvoller für Publisher und werbetreibende Drittparteien sind.
+|Name
+|Anbieter
+|Zweck
+|Ablauf
+|Typ
+|IDE
+|doubleclick.net
+|Verwendet von Google DoubleClick, um die Handlungen des Benutzers auf der Webseite nach der Anzeige oder dem Klicken auf eine der Anzeigen des Anbieters zu registrieren und zu melden, mit dem Zweck der Messung der Wirksamkeit einer Werbung und der Anzeige zielgerichteter Werbung für den Benutzer.
+|1 Jahr
+|HTTP
+|test_cookie
+|doubleclick.net
+|Verwendet, um zu überprüfen, ob der Browser des Benutzers Cookies unterstützt.
+|1 Tag
+|HTTP
+|fr
+|facebook.com
+|Wird von Facebook genutzt, um eine Reihe von Werbeprodukten anzuzeigen, zum Beispiel Echtzeitgebote dritter Werbetreibender.
+|3 Monate
+|HTTP
+|_fbp
+|red-dot.org
+|Wird von Facebook genutzt, um eine Reihe von Werbeprodukten anzuzeigen, zum Beispiel Echtzeitgebote dritter Werbetreibender.
+|3 Monate
+|HTTP
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+Nicht klassifizierte Cookies sind Cookies, die wir gerade versuchen zu klassifizieren, zusammen mit Anbietern von individuellen Cookies.
+|Name
+|Anbieter
+|Zweck
+|Ablauf
+|Typ
+|ipandlanguageredirect_disableredirect
+|red-dot.org
+|Anstehend
+|Session
+|HTTP

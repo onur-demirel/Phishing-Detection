@@ -1,0 +1,19 @@
+Welcome to the JARDesign Group official website!
+JARDesign Group – free community of people, the friends, united by the general task of development of a product for X-Plane simulator. This website tells you about the premium products, free and payware, that our team offers you.
+Introducing our products!
+JD320 (49,95$)
+3D: Perfect external 3D model with 2012 sharklet design and classic wingtips design, CFM56 engines, highly- detailed landing gear, advanced 3D-cockpit, 3D-cabin, 3D cockpit and external lights, ground vehicles with side menu managing – tow truck, catering truck, boarding ramp, GPU, FollowMe car, camera shake effect, Dynamic Rain effect.
+TugMaster Deluxe (9.95$)
+Tug Master by JARDesign Crew is Windows addon for X-Plane 10 flight simulator (Windows plugin for 32/64 bit X-Plane 10 or MAC OS plugin for 64 bit X-Plane 10. No Linux version now, sorry.) Can be used with many type of X-Plane 10 aircraft with the nosewheel.
+FollowMe Car (9.95$)
+Special addon worked with any X-Plane aircraft. You can use it only in the airports, what have standart taxiroute description in their apt.dat and located at Custom Scenery folder. It is KSEA, payware Aerosoft airports, etc. This car need to pilots, who get taxi route from ATC or prefer plan own route with charts.
+JD330 (60,95$)
+More advanced X-Plane add-on by JARDesign Crew. Premium 3D artwork and deep system emulation.
+X-LIFE TRAFFIC (FREEWARE)
+Traffic plugin for X-Plane 10 and 11. Add ATC control with X-Life "Deluxe" version.
+CoPilot (9,95$)
++ animated 3d CoPilot model + can recognize and execute command + can speak + can read checklists + can operate with Events (flight parameters detection) + can execute SOP (Normal Procedures, Limited) + scripts based (possible to edit/change Procedures/Text/etc)
+3D sound Engine for Aircrafts builders.
+64 bit MAC/WIN plugin for X-Plane 10 aircrafts what allow to build 3D sound for your payware/freeware aircraft. Based on OpenAL, support OpenAL sound features. Allow you to build 3D sound via config files.
+Technical Support Policy
+We care about our users. If you meet technical troubles with installing or using our products – please contact technical support. For the initial contact – click the SUPPORT link on the main page of the jardesign.org site. You will redirect to the technical support portal. Select the product, check is…

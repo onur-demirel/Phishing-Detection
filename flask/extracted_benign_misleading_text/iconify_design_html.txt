@@ -1,0 +1,194 @@
+Unified icons framework
+One library, over 40,000 vector icons.
+Modern replacement for icon fonts. Fast, easy to use.
+There are many excellent icon sets available. Each has its own custom syntax, some are available only as fonts and almost all of them load entire set even if you are displaying just few icons.
+Iconify tries to combine all those icon sets. Iconify is a unified open source icon framework that makes it possible to use many icons from different icon sets on same page or in same application using one syntax.
+Iconify combines pixel perfect rendering of SVG with ease of use of glyph fonts, while offering more choice than any glyph font or SVG framework.
+You can use Font Awesome, Material Design Icons, Unicons, Dashicons and many other icon sets on same page or application using one syntax.
+How to use Iconify
+Iconify is very easy to use: add one <script> tag in head section of your document or before </body> to include Iconify:
+Then add icons to your page with simple code like this:
+<span class="iconify" data-icon="noto:bird"></span>
+If you do not want to use script, Iconify is available as React and Angular components. Also there are tools available for developers to render SVG (for PHP, for Node) and to convert icons.
+Latest news
+Many icons, one framework
+Iconify icons collection includes over 40,000 icons from popular fonts and emoji sets: Font Awesome 4 and 5, Material Design Icons, IonIcons, Vaadin Icons, Entypo+ and many many more. You can use them all on same page without loading multiple glyph fonts. Only icons used on page will be loaded instead of entire fonts.
+Icon designers can publish their own icon sets too. Iconify offers open source tools to clean up and publish custom icon sets.
+-
+Load on demand
+Fonts and other SVG frameworks load entire collections. Even if you are using only 10-20 icons, your visitors are forced to load them all.
+Iconify works differently. Very differently! Iconify loads only icons used on page. Icons are loaded as external resources that are cached by browser, not embedded into each page. No other SVG framework can do that.
+What is advantage of this unique approach to handling icons? You are no longer limited to one collection. You can use them all on same page without having to load megabytes of data!
+See icon collections page for list of available icons.
+-
+Easy to use
+Syntax is similar to glyph fonts. Write a placeholder element, Iconify will replace it with SVG.
+Use span or i or any other HTML tag with class="iconify" for inline icons that should be aligned slightly below baseline (just like glyph fonts), use iconify-icon tag for block icons used for decorations.
+Icons are easy to style with CSS: size is set by font-size, color for monotone icons is set by text color. Just like glyph fonts.
+Do not forget to add Iconify script tag in head section of your document or before </body>!
+See how to use Iconify tutorial.
+-
+Lightning fast
+Icons are loaded from Iconify API in bulk, reducing number of queries. Script is small and fast. Placeholders are replaced with SVG images in fraction of second.
+Iconify API is hosted on network of servers spread across the globe. Visitors are always connected to closest server, reducing loading time to fraction of second.
+If you want to, you can create your own Iconify API server!
+How does it work?
+-
+Script looks for icon placeholders.
+See how to use Iconify tutorial.
+-
+Script retrieves icon names from placeholders.
+-
+Script connects to Iconify API and retrieves SVG data for all icons found on page.
+Iconify API is hosted on network of servers spread across the world, so data would load in fraction of a second from any location.
+-
+Script replaces placeholders with SVG.
+More detailed description is available in documentation.
+Browse all available collections
+-
+General
+-
+Author: Austin Andrews License: Open Font License Icons: 4648
+-
+Author: Austin Andrews License: Open Font License Icons: 267
+-
+Author: Material Design Authors License: Apache 2.0 Icons: 5680
+-
+Author: Iconscout License: Apache 2.0 Icons: 1114
+-
+Author: Michael Amprimo License: MIT Icons: 896
+-
+Author: Ben Sperry License: MIT Icons: 1226
+-
+Author: Dave Gandy License: CC BY 4.0 Icons: 960
+-
+Author: Dave Gandy License: CC BY 4.0 Icons: 151
+-
+-
+-
+-
+Author: Daniel Bruce License: CC BY-SA 4.0 Icons: 321
+-
+Author: Icons8 License: Good Boy License Icons: 329
+-
+Author: HeskeyBaozi License: MIT Icons: 729
+-
+Author: Cole Bemis License: MIT Icons: 282
+-
+Author: Megumi Hano License: MIT Icons: 255
+-
+Author: Automattic License: GPL 2.0 Icons: 197
+-
+Author: PrestaShop License: CC BY-NC 4.0 Icons: 479
+-
+Author: Team Redux License: Open Font License Icons: 304
+-
+Author: Zurb License: MIT Icons: 283
+-
+Author: Stephen Hutchings License: CC BY SA 4.0 Icons: 336
+-
+Author: Mariusz Ostrowski License: CC BY 4.0 Icons: 306
+-
+Author: Dmitry Baranovskiy License: MIT Icons: 266
+-
+Author: Icons8 License: Good Boy License Icons: 234
+-
+Author: Icons8 License: Good Boy License Icons: 200
+-
+Author: Innowatio License: Apache 2.0 Icons: 105
+-
+Author: TopCoat License: Apache 2.0 Icons: 89
+-
+Author: Alexander Madyankin and Roman Shamin License: MIT Icons: 70
+-
+Author: Dan Klammer License: MIT Icons: 101
+-
+-
+-
+Author: GitHub License: Open Font License Icons: 184
+-
+Author: Kenny Sing License: GPL 3.0 Icons: 100
+-
+Author: Dave Gandy License: Open Font License Icons: 678
+-
+Author: MDI Community License: Open Font License Icons: 777
+-
+Author: WebHostingHub License: Open Font License Icons: 2125
+-
+Author: SmartIcons License: CC BY SA 4.0 Icons: 800
+-
+Author: Kazuyuki Motoyama License: Open Font License Icons: 348
+-
+Author: Sabbir Ahmed License: MIT Icons: 189
+-
+Author: Designmodo, Inc. License: MIT Icons: 100
+-
+Author: TableCheck License: Open Font License Icons: 159
+-
+Author: Just Be Nice studio License: Open Font License Icons: 85
+-
+Author: Icalia Labs License: MIT Icons: 84
+-
+Author: BPMN License: Open Font License Icons: 112
+-
+-
+-
+Emoji
+-
+Author: Google Inc License: Apache 2.0 Icons: 2816
+-
+Author: Google Inc License: Apache 2.0 Icons: 2162
+-
+-
+Author: Emoji One License: CC BY-SA 4.0 Icons: 1832
+-
+Author: Emoji One License: CC BY-SA 4.0 Icons: 1403
+-
+Author: Emoji One License: CC BY-SA 4.0 Icons: 1262
+-
+Author: Mozilla License: Apache 2.0 Icons: 1034
+-
+-
+Brands / Social
+-
+Author: Gil Barbara License: CC0 Icons: 1135
+-
+Author: Simple Icons Collaborators License: CC0 1.0 Icons: 753
+-
+Author: Dave Gandy License: CC BY 4.0 Icons: 434
+-
+-
+Author: Daniel Bruce License: CC BY-SA 4.0 Icons: 76
+-
+Author: Christopher Downer License: CC0 1.0 Icons: 426
+-
+-
+Maps
+-
+Author: Scott de Jonge License: Open Font License Icons: 167
+-
+Author: Sam Matthews License: MIT Icons: 30
+-
+-
+Thematic
+-
+Author: Erik Flowers License: Open Font License Icons: 228
+-
+Author: Samuel Frémondière License: MIT Icons: 144
+-
+Browser compatibility
+Iconify supports all modern browsers.
+Older browsers that are supported:
+- Internet Explorer 9 and newer.
+- iOS Safari for iOS 8 and newer.
+- Opera Mini and UC Browser are not supported.
+IE 9, 10 and iOS 8 Safari do not support some modern functions that Iconify relies on. Iconify will automatically load polyfills for those browsers. All newer browsers do not require those polyfills.
+Goal of Iconify is to offer unified icon framework for multiple platforms. Currently Iconify is available only as JavaScript library for browsers, React and Angular components.
+If you use HTML or CSS syntax, Iconify loads icons from Iconify API. To use Iconify without relying on Iconify API there is possibility to host custom API and bundle icons with custom scripts or use Iconify for React or Angular.
+Additionally you can copy or download SVG code. You can use it in editors (if you are using Sketch, check out Iconify plug-in for Sketch) or embed SVG directly into pages instead of using Iconify JavaScript.
+See about page to learn more about Iconify and project goals.
+License
+Iconify is dual licensed under Apache 2.0 license and GPL 2.0 license. You may select, at your option, one of the above-listed licenses.
+Apache 2.0 license allows pretty much anything, including commercial use.
+GPL 2.0 license allows use with more restrictive popular open source projects.
+This license does not apply to icons. Icons are released under different licenses, see each collection for details. Icon collections available by default are all licensed under some kind of open source or free license, making it possible to use them in Iconify project.

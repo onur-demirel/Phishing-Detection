@@ -1,0 +1,6 @@
+Rave is simple to use, and even simpler to use our API. Developers are people too and we’ve written our documentation for the people that will integrate Rave.View Documentation
+At the flip of a switch, you can begin
+accepting payments globally from the first day.
+Rave gives you incredible insight into who your customers are so you can understand who they are and their transaction habits when using your product
+Our proprietary fraud system, checks every transaction to ensure you’re covered and protected. With over 200 fraud rules built over time, it does a good job of protecting you
+Rave offers you the opportunity to extend the same experience of Rave to your customers as a white labeled product using the Rave subdomains feature at absolutely no cost.

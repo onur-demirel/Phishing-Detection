@@ -1,0 +1,52 @@
+Digiex
+Digiex publishes easy to follow tutorials for Xbox, PlayStation and Nintendo games consoles. Computer help and downloads are provided on our forums.
+With the announcement of Niantic Wayfarer coming soon to Pokemon Go players, it is perceived eligible Pokemon Go players world wide will soon gain the ability to submit Pokestops, so this will finally not just be limited to certain countries.
+Having recently worked with an Ingress player to submit POI ideas in my local area, I learned quite a bit about the process from him. I also learned how you can analyse the S2 cells in your area with tools such as IITC Mobile. This allows you to figure out where you need to make a submission and how many submissions you need to create another gym in a certain area for example.
+At first glance apps like IITC Mobile might not appear to be the most user friendly, however once you have them setup correctly its very easy to use IITC Mobile to understand the area you wish to improve on Pokemon Go.
+Learn more: Plan Pokestop Submissions In S2 L17 Cells With IITC Mobile.
+Freespace 2 is currently free to claim on Good Old Games (GoG) for the next 42 hours from the time of posting.
+The game continues on the story from Descent: FreeSpace, once again thrusting the player into the role of a pilot fighting against the mysterious aliens, the Shivans. While defending the human race and its alien Vasudan allies, the player also gets involved in putting down a rebellion of those elements of Vasudan (Hammer of Light) and Human (Neo Terran Front) forces which don't want to cooperate with one another.
+Freespace 2 also includes the FRED2 editor available in the installation directory of the game.
+Link: Freespace 2 on GoG
+The Xbox One scene might finally be starting to get a little interesting. XVMM has released a privilege escalation exploit for Xbox One consoles running in dev mode.
+Essentially this allows you to breakout the user land sandbox and gain Administrator access. Currently this will allow you to dump the nand using the XRF tool, however it might allow for some other interesting things to happen.
+Either way its nice to see a little Xbox One activity after all these years. Microsoft will probably patch this exploit pretty soon however.
+Download: Xbox One Dev Mode Privilege Escalation Exploit
+A Prototype / Demo of Pokemon Silver localised for Germany has been preserved and released. This Pokemon Silver demo was purchased from a collector who was selling off various Pokemon prototype carts.
+The game was already out in Japan by that time, so don't expect anything major like the space world demos with that in mind, however their are a few minor differences which are explained in the Pokemon Silver German Prototype / Demo release thread.
+Regardless it is still indeed a very interesting and very rare release that is now preserved for historical Pokemon preservation.
+Thanks to @Deoxyz who made this release possible before he retired from Pokemon related projects.
+The Humble Store is back with another free game giveaway, this time you can claim Grid 2 by signing up to the Humble Store newsletter. In addition to Grid 2 you also get the Bathurst and Spa-Francorchamps track pack DLC.
+Grid 2 includes numerous real world locations and cities such as Paris, in addition vehicles spanning four decades. Grid 2 features a new handling system that developer Codemasters has dubbed 'TrueFeel', which aims to hit a sweet spot between realism and accessibility. Races do not include a first person cockpit view.
+You have until Sunday 17th March at 5pm UTC+0 to claim Grid 2 for free.
+Link: Grid 2 on the Humble Store
+Microsoft has released a video showing a demonstration of its upcoming xCloud game streaming service. This is a cloud gaming service that streams games to PCs, consoles, and mobile devices using Microsoft's Windows Azure cloud services.
+Microsoft demonstrated Forza Horizon 4 streaming to an Android phone. An Xbox One controller was connected via Bluetooth, showing how it will be easy to stream games to mobile devices.
+I can certainly see the appeal of xCloud game streaming service, it would be a great way to have some impromptu Xbox Lan's. Since split screen gaming is not really a thing this generation on most games, this could be an easy way for people to it in the same room and enjoy some Xbox gaming, perhaps even on your dinner break at work?
+What do you think? if I could potentially stream the Xbox games i own digitally at no extra cost i'd be very interested. However i don't think its something i'd subscribe to in addition to Xbox Live.
+xCloud Streaming Demonstration:
+Today Microsoft added Crackdown 2 as a backwards compatible game on the Xbox One, in addition Microsoft has also allowed Crackdown 2 to be downloaded for free. This means now both the original Crackdown and Crackdown 2 can be downloaded for free on both the Xbox 360 and Xbox One.
+I'm personally a big fan of both of these games, so for free both are well worth checking out. If you enjoy these games then Crackdown 3 is more of the same crazy, open world fun.
+Downloads:
+Crackdown on the Xbox Marketplace Download
+Crackdown 2 on the Xbox Marketplace Download
+We're not sure if both Crackdown games will both be free indefinitely, so its worth adding them to your library sooner, rather than later.
+Remember: Skills for Kills, Agent. Skills for Kills.
+It wouldn’t be Christmas for the Pokemon community without a Christmas day event release would it?!
+For the final release of 2018 were excited to bring you the Strongest Pokemon distribution. What’s special about the Strongest Pokemon distribution is it’s the first Japanese NDS Pokemon Distribution to make it out in to the wild. Compared to some of the European and American distributions for Gen 4 and 5 which can often be found on Ebay, this is the first time a Japanese distribution has been found on an auction site.
+This distribution was used in Pokémon Center stores in Japan for part of the Strongest Pokemon event, distributing the three Pokemon that were chosen via a poll. These Pokemon are Milotic, Dragonite and Salamence.
+We have @YoshiMoshi to thank for this extremely rare release, needless to say this cost a lot of money, however in true community spirit he was more than happy for this to be released so all the Pokemon Community can enjoy it. So thank you very much @YoshiMosh, its much appreciated!
+Link: Strongest Pokemon JPN Distribution
+As hinted yesterday we have more lined up for the Pokémon Community this Christmas.
+The Space World 97 Mew is currently the oldest event Pokemon we have the privilege of preserving and releasing to the Pokemon community.
+This Mew was distributed at Nintendo Space World '97, which was held at Makuhari Messe in Chiba, Japan between November 21st to 23rd 1997.
+The story of how this Space World 97 Mew was obtained all these years later involves a lot of luck, so be sure to read more in the Pokemon GEN1 JPN Space World 97 Mew .pk1 thread to learn more about the oldest preserved event Pokemon.
+Hopefully things will fall in to place during 2019, so more events from years gone by can be preserved for future generations of Pokemon players to enjoy.
+A big thank you goes to salinbreezy and @Deoxyz for preserving this extremely rare Gen 1 JPN Pokemon event.
+Today marks the start of Christmas for the Pokemon community, especially those in Europe. Thanks to a collector who wishes to remain anonymous we are pleased to be able to release the French, German, Italian and Spanish regional variants for both the Top 10 Distribution (10ANNIV) and the Aura Mew Distribution, meaning the complete sets of these Gen 3 European Pokemon distributions are finally available for all to enjoy.
+Exactly two years ago today the first ever Pokemon GBA distribution was released for all to enjoy, the English Pokemon 10ANNIV Distribution, then to follow up exactly a year after today the English Pokemon Aura Mew Distribution was released. It seems fitting for the third year the recently obtained regional language variants of both these distributions are released.
+You can head over to our existing posts for the Pokemon 10ANNIV Distribution Cartridge and the Pokemon Aura Mew Distribution Cartridge to find they have been updated with the regional variant distributions for you to enjoy.
+Reminder, we also have a save game created by the Digiex community for Pokemon GEN3 Legit Event Pokemon, so you can also trade yourself many Generation 3 event Pokemon which distributions are not about in the wild for.
+Christmas is only just getting started, so you might wish to check back tomorrow to see if Delibird has another present for us.
+Page 1 of 8
+XenPorta 2 PRO © Jason Axelrod from 8WAYRUN.COM

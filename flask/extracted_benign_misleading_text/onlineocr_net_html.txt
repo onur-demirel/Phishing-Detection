@@ -1,0 +1,6 @@
+|
+without installation on your computer. Recognize text and characters from PDF scanned documents (including multipage files), photographs and digital camera captured images.
+|
+Convert text and Images from your scanned PDF document into the editable DOC format. Converted documents look exactly like the original - tables, columns and graphics.
+|
+OnlineOCR.net is a free OCR service in a "Guest mode" (without registration) that allows you to convert 15 files per hour (and 15 pages into multipage files). Registration will give you ability to convert multipage PDF documents and other features.

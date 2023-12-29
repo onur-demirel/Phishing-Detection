@@ -1,0 +1,23 @@
+diaspora* is a decentralized social network, consisting of many individual servers, called "pods". joindiaspora.com is only one server out of many and neither affiliated with nor supported by the project team. Please check out
+the official project website on diasporafoundation.org
+for more information about the project itself, as well as a list of all public diaspora* pods and information on how you can contribute!
+Own your own data
+Many networks use your data to make money by analysing your interactions and using this information to advertise things to you. diaspora* doesn’t use your data for any purpose other than allowing you to connect and share with others.
+Choose your audience
+diaspora*’s aspects allow you to share with just those people you want to. You can be as public or as private as you like. Share a funny photo with the whole world, or a deep secret just with your closest friends. You’re in control.
+Be who you want to be
+A lot of networks insist that you use your real identity. Not diaspora*. Here you can choose who you want to be, and share as much or as little about yourself as you want. It really is up to you how you want to interact with other people.
+Decentralization
+Diaspora* is completely decentralized, and any person from any pod can communicate with one
+another! You can register at any of these
+other pods
+as well. You can also choose to
+set up your own pod
+if you'd like.
+Make a contribution!
+Make Diaspora even better! Fork the project on
+Github
+make some changes, and submit a pull request.
+Tor .onion Service
+Tor makes it possible for users to hide their locations while offering various kinds of services, such as web publishing or an instant messaging server:
+diasporaaqmjixh5.onion

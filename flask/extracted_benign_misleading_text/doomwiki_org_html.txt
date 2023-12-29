@@ -1,0 +1,58 @@
+- 35,474 pages
+- 9,046 articles
+- 16,155 files
+- 200,511 edits
+- 36 active users
+Entryway
+From DoomWiki.org
+About DoomWiki.org
+The Doom Wiki is an extensive community effort to document everything related to id Software's masterpiece games Doom and Doom II, other games based on the Doom engine, Doom 3, Doom (2016), Doom Eternal, and more. We have created 9,046 articles to date.
+This site is a wiki, so everyone is encouraged to create and edit articles. New contributors should read our FAQ first. If this is your first time using a wiki, be sure to check out the basic editing instructions as well. If you need additional help, or wish to discuss general aspects of this wiki, pay a visit to the Central Processing discussion board.
+See the news board to read and post news about ongoing or upcoming events in the Doom universe.
+Atlas
+|
+|
+Trivia
+Did you know that in Doom version 1.0 map E1M4: Command Control contained a swastika-shaped structure?
+(More trivia...)
+Featured Article - October 2019
+Doom II
+Doom II: Hell on Earth is the first sequel to Doom, released by id Software on September 30, 1994. Featuring 32 levels in a single linear episode, Doom II continues Doom's story, seeing the player returning to Earth to single-handedly fight off an invasion of the planet by demons.
+Doom II includes several gameplay enhancements over the original Doom. Most notable are the introduction of several new monster types, plus an additional weapon (the super shotgun).
+(read more) (feature nominations)
+Guides and Tutorials
+Find out how to get into the world of Doom quickly with these step-by-step guides:
+- Help and how-tos
+- How to download and run Doom
+- How to play Doom on Windows
+- Walkthroughs for each level
+- Comparison of source ports
+DoomWiki.org needs you!
+Looking for something to do? Here are some of the Doom Wiki's greatest needs:
+- Add citations to articles
+- Add information on Hacx levels, items and weapons
+- Add to article stubs
+- Clean up articles
+- Complete walkthroughs for all stock levels
+- Create wanted articles
+- Doom editing tutorials
+- Doom 3 material, especially Doom 3: BFG Edition content
+- Doom (2016) material
+- Investigate unclear image copyrights
+- Replace screenshots using an incorrect aspect ratio
+- Review articles with disputed content
+- Review pages marked for deletion or merging
+- Write about Doom II RPG topics
+- Write about PWADs, especially winners of major awards, or complete unfinished map articles
+Useful articles
+Find critical information for editing the wiki with these resources:
+- Administrators
+- General source material
+- New articles and files
+- Special pages
+- Upload images (see the Special:Upload page)
+- You can find a list of useful templates on Category:Templates
+|Affiliates
+| Other Doom-related Wikis
+| Chocolate Doom • Doomsday Engine • DRL • EDGE • The Eternity Engine • Odamex • SLADE • SRB2 • Zandronum • ZDoom
+|More: See our WikiNode

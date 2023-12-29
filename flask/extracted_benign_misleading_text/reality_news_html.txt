@@ -1,0 +1,82 @@
+Market Reality: Samsung Diversifies AR Hardware Bets, PTC Acquires Onshape, & Nvidia Takes AR Content to the Cloud
+News: Magic Leap Takes on Musical Theater with Augmented Reality Experience Starring Vanessa Williams
+News: Mitsubishi's New Electric Car Shows Off AR Dashboard in Concept Video
+Those going on crazy off-road adventures, taking their inspiration from various SUV commercials, are likely to encounter many unexpected, all-terrain dangers.
+News: Samsung Doubles Down on AR Hardware Plans with Smartglasses Patent & Facebook Partnership
+Just as Apple, Snapchat, and other tech giants are working on augmented reality wearables in the race to replace smartphones for the future of mobile computing, so is Samsung.
+News: LG Enhances South Korean TV Sets with Shoppable Augmented Reality Ads
+Best known for its mobile phones and television sets, South Korea's LG has had a quieter presence in the US compared to the country's homegrown efforts.
+Market Reality: Magic Leap vs. Nreal Lawsuit Update, Disney & Target Do AR Marketing, Sotheby's Comes to Magic Leap One
+Magic Leap's legal battle against Nreal has taken an intriguing turn this week, as Magic Leap set a date to discuss the matter with Nreal. But a new partnership struck by Nreal adds another wrinkle to the duel between the two AR wearable makers.
+News: Nreal Forms Alliance with Wireless Giant China Unicom to Demo Smartglasses in Retail Stores
+Suddenly, Magic Leap's lawsuit against Nreal, as well as its barrier to entry in the Chinese market, appears to be as insurmountable as The Great Wall itself.
+News: Zombie Math App for Magic Leap One Mixes Halloween Horror with AR Learning
+What if you could combine the fun of Halloween with the process of learning? Well, if you were wise enough to have already snagged a Magic Leap One device, we have good news: the app you're looking for is here, and it's called Zombie Math.
+News: Magic Leap Lawsuit vs. Nreal Takes Major Step Forward After Legal Team Scours the Planet in Search of Elusive Founder
+The legal drama surrounding Chinese startup Nreal and Magic Leap continues, and now we finally have an update.
+News: Mobile Developer Within Tells Interactive Halloween Tales via Wonderscope AR App
+The Halloween season is the perfect time for telling scary stories, but augmented reality is here to bring the tradition of frightening children to the modern age.
+Market Reality: Samsung Diversifies AR Hardware Bets, PTC Acquires Onshape, & Nvidia Takes AR Content to the Cloud
+It's no secret that Samsung is working on augmented reality hardware, as the company has been candid about its intentions. However, what we don't know is exactly how many AR projects the company is working on, as patent filings and reports revealed two more over the past week.
+News: Magic Leap Takes on Musical Theater with Augmented Reality Experience Starring Vanessa Williams
+Musical theater enthusiasts are about to enter a whole new world of melodic storytelling via augmented reality.
+News: Snapchat Spooky AR Experiences from Lens Studio Creators Get You Ready for Halloween
+Homemade Halloween costumes that exhibit the maker's creativity are always better than off-the-shelf versions. It turns out that the same is true with virtual costumers.
+News: Vuforia Parent PTC Goes All-In on 3D Content Creation with $470 Million Acquisition of Onshape CAD Platform
+There's a direct correlation between the proliferation of augmented reality apps and the demand for 3D content, and PTC just quantified that in dollars.
+News: Nvidia Helps Developers Tap into Streaming AR Content with New CloudXR Platform
+Higher-fidelity 3D content and next-generation AR experiences take more computing power than most modern AR headsets and mobile devices can handle. But Nvidia is introducing a new cloud-based solution to address that need that will stream AR content to modern devices.
+News: YouCam Unleashes Halloween Makeup Try-On Filters Sourced from Social Media Users
+It takes confidence and guts to pull off attractive and yet adequately frightening Halloween makeup as an adult.
+Hands-On: Sotheby's Curate App for Magic Leap Lets You Reimagine Your Home & Office in the Most Realistic Fashion via AR
+It might sound odd to call interior decorating exciting, especially if you're not a professional within that industry. But that's exactly what it is when combined with augmented reality.
+News: Target Treats Shoppers with Augmented Reality Tricks via Snapchat
+Big-box retailer Target has been on a bit of an augmented reality advertising shopping spree via Snapchat lately.
+News: Century-Old Opera in UK Gets Augmented Reality Revamp via iOS App & Snapchat
+A century-old opera is getting a revamp in the UK after swapping dusty wigs and curtains for augmented reality overlays and Snapchat filters.
+News: Disney's 'Maleficent' Brings Its Magic to YouTube with Augmented Reality Make-Up Experience
+Dark mode themes for mobile apps are all the rage these days, but YouTube is taking that a bit literally with its latest augmented reality experience.
+Market Reality: Apple Prepares AR Hardware for 2020, Sony Delivers AR Ghosts, & 8th Wall Expands Web Capabilities
+Smartglasses from Apple have become the holy grail of augmented reality, and 2020 has been the rumored time horizon for the product's arrival for the past two years. The latest analyst report sheds more light on its potential debut next year.
+News: This Facebook AR Filter Lets You Become the 'Joker' Just in Time for Halloween
+Whether you loved or hated the blockbuster hit Joker for its slapdash violence and unflattering portrayal of mental illness, if you have been online lately, you know you can't afford to miss it.
+News: Alcohol Delivery Startup Drizly Teams with Wine Brands to Deliver Intoxicating AR Experiences via DrinkAR App
+The landscape of augmented reality marketing is growing by leaps and bounds nearly every month, with Hollywood and the cosmetics industry leading the way.
+News: Startup GWD's HiiDii Blink-Activated Wearable Offers Alternative Way to Control Your Devices
+We have seen Kickstarter-launched wearables before, but this one is particularly unique and may even have you blinking a bit in wonder when you see how it functions.
+News: Spider-Man & Tony Stark's Smartglasses May Become Reality Thanks to DIY YouTuber
+Sure, Tony Stark was able to build the original Iron Man suit in a cave with a box of scraps, but can the average do-it-yourselfer replicate the EDITH smartglasses from Spider-Man: Far From Home in a similar fashion?
+News: Apple Augmented Reality Wearable & iPad Pro with Rear Depth Sensor Arriving First Half of 2020, Report Says
+Augmented reality enthusiasts who expected an AR hardware unveiling at Apple's annual iPhone launch event might not have to wait much longer.
+News: 8th Wall Escalates Race for Volumetric Video Content with Microsoft Mixed Reality Capture Support
+As demonstrated by holographic experiences for the Microsoft HoloLens and the Magic Leap One, volumetric video capture is a key component of enabling the more realistic augmented reality experiences of the future.
+News: Sony Is Launching a Location-Based Ghostbusters Training Experience in Augmented Reality
+We've got almost a full year until the next installment of Ghostbusters arrives, but in the meantime, it turns out that Sony is about to launch an augmented reality experience that will let fans use immersive computing to combat the franchise's whimsical apparitions.
+News: 'Stranger Things' Star Millie Bobby Brown Launches Makeup Brand Powered by Snapchat Augmented Reality
+The 15-year-old star of the 1980s-inspired hit series Stranger Things, Millie Bobby Brown, may have (spoiler alert) lost all her powers as the character "Eleven," but in the real world, she still has augmented reality in her arsenal.
+Market Reality: Verizon Buys Jaunt, Zuckerberg Faces Off with Musk for BCI Tech, & Magic Leap Assists with 5G Revolution
+Augmented reality plays a key role in the evolution of adjacent technologies, such as 5G connectivity and brain-control interfaces (BCI), and the business news of the week serves up proof points for both examples.
+News: Apple Acquires Motion Capture Firm iKinema, Adding Another Piece to Its Augmented Reality Toolbox
+Apple remains shrouded in mystery while continuing to sweep up small companies ahead of a rumored augmented reality headset launch.
+News: Harry Potter Fans Can Now Summon a Wizarding World Sorting Hat in Augmented Reality
+If you need to know whether you are really a Hufflepuff or a Gryffindor, then it's time to get yourself an augmented reality sorting hat.
+News: ThirdEye Gen X2 Smartglasses Take Aim at Military Applications with AR-Enhanced Weapons Sight
+Following on the heels of the announcement that ThirdEye's Gen X2 MR glasses began shipping in September, ThirdEye has revealed it has developed an app that helps soldiers aim their weapons during battle situations.
+News: Dimension NXG's New Headset Brings Rural Indian Schools into the Future of Augmented Reality
+Indian startup Dimension NXG is launching augmented reality headsets into India's consumer market with a bold idea: focusing on immersive computing in education on the high-end. The plan is to give a new kind of AR headset to schoolchildren in remote Indian villages, starting from class 5 (age 10) until graduation.
+News: Team Behind Popular Photo App FaceTune2 Jumps on the AR Bandwagon with Cosmetics Try-On Filters
+Following in the steps of Snapchat, Instagram, and YouCam, another popular photo app has gotten into the virtual try-on augmented reality game.
+News: Apple's ARKit 3 Casts Next-Level Illusions via Meisai AR App
+Now that iOS 13 is in the wild, developers are starting to show off the magical augmented reality powers ARKit 3 can deliver.
+News: Microsoft Unveils How-To Videos for Dynamics 365 Guides App Ahead of HoloLens 2 Arrival
+With the imminent arrival of the HoloLens 2 expected any day now, Microsoft is preparing new users to take advantage of its software from day one.
+News: Facebook Leak Reveals Zuckerberg's Plans for Brain-Controlled AR & VR in Wake of Elon Musk's Neuralink Development
+The recent Oculus conference in California revealed just a bit more about Facebook's secretive plans to compete in the augmented reality space with its own wearable devices.
+News: Sportscasters Can Bring the Game into the Studio with Vizrt's Viz Engine 4
+Norway-based production tools company Vizrt is putting the real into augmented reality with its broadcast AR solution that's designed to keep sports fans (and other audiences) watching.
+News: Verizon Acquires Jaunt After Startup Moves from VR Services to Augmented Reality Focus
+It looks like Jaunt's pivot from VR to volumetric captures services for augmented reality experiences has paid off.
+News: Magic Leap App SeeSignal Uses AR to Help You Find & Touch the Strongest Cellular, Wi-Fi, & Bluetooth Signals
+While Magic Leap World gets its share of fun apps for playing with Porgs, watching TV, and exploring the ocean's depths, developers are making a strong business case for the Magic Leap One as well.
+News: Snapchat Is Helping the Music Industry Reinvent Music Videos via Lens Studio
+There have been enough music artists releasing Snapchat AR experiences over the past week to fill a small festival. Count them with me: Bruno Mars. Gucci Mane. Kodak Black. Missy Elliot. Imagine Dragons. Panic! At the Disco.

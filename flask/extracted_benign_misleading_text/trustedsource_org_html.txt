@@ -1,0 +1,6 @@
+McAfee® provides an online tool that enables you to check if a site is categorized within various versions of the SmartFilter Internet Database or the Webwasher URL Filter Database. After you check a URL, this tool also allows you to suggest an alternative categorization for a site. These requests will be addressed within an average of 3-5 business days with some requests requiring additional review and taking longer.
+Note: this Web-based service is designed for occasional use by individuals. If you have hundreds or thousand of
+URLs you would like to test, please write to us about your needs. Most often, we can provide timely analysis of
+your request. If we see heavy use of this Web-based service by automated programs, we reserve the right to
+deny access.
+Please email us at sites@mcafee.com and we will gladly work with you.

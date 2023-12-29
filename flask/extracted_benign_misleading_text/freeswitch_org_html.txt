@@ -1,0 +1,28 @@
+What is FreeSWITCH?
+FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device. Combined with our hosted cloud platform, SignalWire, FreeSWITCH can interconnect with the outside world and scale to any size.
+Visit https://signalwire.com for more info.
+Professional FreeSWITCH Support, Products and Services
+The FreeSWITCH project is sponsored by
+SignalWire is a developer first company created and operated by the original engineers who developed FreeSWITCH. After 15 years of FreeSWITCH, SignalWire emerges to complete the gap between the raw power of FreeSWITCH and all the next-level applications you need to create advanced telecommunications services.
+We offer cloud hosted API’s, FreeSWITCH commercial support, custom development and more. If you need assistance with your FreeSWITCH deployment or would like to discuss cloud services through SignalWire, email sales@signalwire.com or call 650.382.0000.
+Sign Up
+Getting started with the FreeSWITCH Platform
+Join the Community
+As part of our commitment to open source, SignalWire is dedicated to hosting and maintaining the FreeSWITCH code, supporting tools and live chat via Slack. We are working hard to try to bring more resources online and expand our offering of tools and community resources for everyone to learn more about Software Defined Telecom.
+Step 1.
+The first thing you should do is Sign-up for a free SignalWire account which will become your gateway to open source and commercial services alike. Go do that now and we’ll wait here for you!
+Step 2.
+We always appreciate contributions to the code. FreeSWITCH is available on Github in source code format. You can checkout the development branch and build for many poplular platforms including Linux, Windows, MacOSX and BSD. There is an issue tracker and pull request system available as part of the repo online.
+Step 3.
+Sign up for our Mailing List where you can stay up to date with what’s new in FreeSWITCH and the community.
+Step 4.
+Slack is our chat system where the developers, the FreeSWITCH team, and the most active users are present. This is the place to get answers faster and chat with other users in real time. All you need to do is enter your email and verify it on the Slack signup page and you are ready to join in the discussion!
+You have to femara price walmart apply pressure which helps in creating a.. However this frightened many lithium cheap digital camera including Ding who also had just..
+Take 4080 mg of Zinc never more than lipitor buy cheap online no prescription One hundred.. A discount also rolls over buy paxil drug to your next order Bladder.. Severe allergic reactions rash hives chest tightness itching buy cialis online yahoo answers difficulty breathing..
+Easiest ways to get up and running
+FreeSWITCH Codebase now on GitHub!
+SignalWire, Inc., the original geeks of software-defined telecom and primary [...]
+OK Google, Stop Spying on me
+According to the American Institutional Confidence Poll, Americans trust Amazon [...]
+FreeSWITCH v1.10.1 Release
+FreeSWITCH 1.10.0 was released earlier this month (one year ahead [...]

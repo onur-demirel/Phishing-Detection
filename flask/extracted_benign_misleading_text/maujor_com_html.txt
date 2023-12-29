@@ -1,0 +1,10 @@
+Site sobre CSS e Padrões Web
+Bem-vindo ao site do Maujor®
+Meu nome é Maurício Samy Silva, ou simplesmente Maujor® e resido no Rio de Janeiro.
+Criei este site em 01 de agosto de 2003, com a finalidade inicial de ensinar CSS, em uma época que esta tecnologia era pouquíssimo conhecida e usada no Brasil. Mantenho o site sozinho, sem uso de CMS, motivado unicamente pelo amor ao ensino.
+Exerci o magistério paralelamente a minha carreira profissional de engenheiro. Nasci em 1944 e ao longo destes anos aprendi tanto quanto ensinei. O retorno que levo deste site é a satisfação de hoje saber que deixo um legado aos que se dispuseram e dispõem a seguir a carreira de desenvolvedor web.
+Tudo começou em 1999, quando eu me aposentei e resolvi correr atrás de novos desafios já com 56 anos e sem saber nada de desenvolvimento web.
+Meu mais profundo desejo é que você encontre neste site alguma informação que possa ser útil ao seu engrandecimento profissional.
+Muito obrigado por ter vindo!
+Conheça os livros do Maujor®
+Ir para a página de entrada nos sites dos livros.

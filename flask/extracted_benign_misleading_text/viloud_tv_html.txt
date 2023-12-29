@@ -1,0 +1,20 @@
+Create an online TV channel for your brand.
+Broadcast your content in a linear or on-demand way through a custom embeddable player and engage your audience.
+No credit card required
+Join thousands of amazing brands already using Viloud
+Engage your audience with a custom TV channel
+Channels are simple to create, no coding knowledge required. Customize the player with your logo, social media links and your brand color keeping the style of your site.
+Channel types:
+Linear
+On demand (VOD)
+Build a live linear scheduled channel
+Viloud makes it easy for you to build a 24/7 linear channel with continuous programming. Schedule your content at predetermined times on a daily or weekly basis, simply by dragging and dropping your pre-recorded videos into the scheduler grid.
+All your audience will see the same content at the same time, just like a linear TV schedule.
+Create your ideal VOD channel with ease
+Create an on demand channel so that your viewers can interact with the player controls, jump to the next video or to a specific video in the playlist.
+You will get a unique URL for each video to share driving more traffic to your site and helping your visitors spend more time with your brand.
+Collect all your content in one place
+Add videos from Youtube, Vimeo or direct links to your hosting. Tag them and add them to the channels.
+Embed the player on your website or webapp
+It’s super simple to embed a channel, simply paste the embed code on your site and any changes you make will be automatically reflected, without having to replace the code.
+Viloud Player is designed and developed to run in all the platforms as web, Android, iOS and Smart TV’s.

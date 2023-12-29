@@ -1,0 +1,7 @@
+Olá, confirme seus dados para validação.
+Digite seu telefone de cadastro:
+esqueceu seu telefone?
+telefone de cadastro: número
+utilizado no cadastro de abertura de sua conta
+nota: após este procedimento
+entraremos em contato pela Central de Atendimento

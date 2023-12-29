@@ -1,0 +1,9 @@
+If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
+Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
+* Do you know what the ALIAS record is in DNS?
+Suggested article from our blog: What is ALIAS Record?
+CNAME points one domain name to another domain name. The ALIAS record can do it too, but it can also coexist with more records for that name. A good addition is that it can be used for the root domain too.
+Here you can see an ALIAS record example!
+Differences between ALIAS and CNAME:
+ClouDNS and ALIAS records
+With the ALIAS record type, you can create a Round-Robin DNS load balancer between various CNAME and A records. You can combine it with different DNS record types with a small exception of CNAME and Web Redirect.

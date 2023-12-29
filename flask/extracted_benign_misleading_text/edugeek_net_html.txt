@@ -1,0 +1,14 @@
+The other week we had a chat with Tony Sheppard (@Grumbledook) who is currently talking to the DfE about data protection in schools.
+However he is hitting a little snag, since the demise of BECTA 10 years ago the DfE has little information on what goes on regarding technologies in schools.
+Because of this, he has asked both ourselves and ANME to seek out 4 volunteers each to help him get the information they need to enable the govt to get a better idea of the challenges faced by IT departments in schools.
+The volunteers we require must be from English schools only and initially you will be asked to give some feedback on the functions you provide within your schools i.e. backups, email administration, managing users etc.
+This will be run from within a forum we are to create here on EduGeek under the supervision of Tony and he will be able to let those selected what is required over each step.
+If you wish to put yourself forwards, please email apply@edugeek.net
+and we shall get back to you as soon as possible.
+This feedback is very important and will go a long way to getting information up to the UK Governmental levels as to the challenges faced by you all.
+...
+MDT and Task Sequence for Windows 10 1809 Depolyment
+Hi,lukeacourt2 Yesterday, 11:40 PM
+Quick question
+Is the image you trying to deploy is a 64bit which you are trying to deploy ??
+Is the software

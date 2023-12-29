@@ -1,0 +1,5 @@
+Free Carrier Lookup Service
+Enter a phone number and we'll return the carrier name and whether the number is wireless or landline.
+This carrier lookup service is number portability aware; it works with ported phone numbers from
+most countries. We also return the email-to-SMS and email-to-MMS gateway addresses for USA and Canadian* phone numbers.
+Enter Phone Number Below:

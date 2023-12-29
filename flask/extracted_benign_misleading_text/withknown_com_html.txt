@@ -1,0 +1,15 @@
+Known allows you to create and share photos, notes, stories, songs, and more. It's easy to use and its web interface works on any device.
+Easily post to your site, save links, and respond to comments from any page on the web
+Use hashtags with any content to categorize and organize what you publish
+View, edit, and post to your site from any device
+Sites can respond to each other, bookmark each others' content and leave comments on each others' posts
+Get updated whenever someone responds to a post
+Get your latest updates via RSS, XML, JSON, or KML
+Invite an unlimited number of collaborators and create a multi-user site
+Handcraft your posts in HTML or save time with the WYSIWYG
+Bring your own URL and really own your site with a custom domain
+Round out your site with static content like an about page or a contact page
+Keep your site private and create a space for your personal thoughts or a private group discussion
+Change your site's look and add your own analytics with JavaScript and CSS editors
+You already spend enough time in front of a computer, and inspiration can strike anywhere. Known is fully responsive and works on whatever device you’ve got in your hand. Whether you’re sharing a sunset picture from the beach or blogging from the road, Known is there for you.
+To find out when we release new features, sign up for our low-volume newsletter.

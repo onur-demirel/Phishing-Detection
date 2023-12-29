@@ -1,0 +1,223 @@
+Home - Latest Content
+Why my rankings are having sudden ups & drops?
+Forum in Search Engine Optimization | By Nicksonjohn
+Published 1 month agoMon, 09 Sep 2019 02:11:40 -0700
+Last Reply
+There may be many reasons for sudden dropping in site rankings:
+1. Algorithm Update
+2. Search Engine guideline violations
+3. Competitors outr...
+monicageller3691,
+There may be many reasons...
+[Solved] How to un-shorten/resolve Twitter's t.co links using Python
+Answers in Web Scraping, Data Analysis | By August R. Garcia
+Published 3 days agoFri, 18 Oct 2019 07:49:38 -0700
+TFWMoreSee code. Yeah, it seems like you do in fact have to make a bunch of additional HTTP requests. def resolve_t_co(t_co_url): if t_co_url !...
+Magento vs. Shopify vs. Woocommerce: Which One is the Best in CURRENT YEAR?
+Forum in Content-Management Systems | By Ethan "Cheap Whore" Lastname
+Published 7 months agoTue, 19 Mar 2019 13:21:58 -0700
+Last Reply
+Have you ever wondered which is the most secure platform? You can read this to find out https://www.wpoven.com/blog/wordpress-security-101-the-ul...
+aabhas,
+Have you ever wondered wh...
+Quality Content Dump: The Thread
+Forum in Offtopic | By August R. Garcia
+Published 9 months agoMon, 31 Dec 2018 00:41:13 -0800 | Last update 8 months agoTue, 19 Feb 2019 01:33:28 -0800
+Last Reply
+https://stackoverflow.com/questions/2068418/whats-the-difference-between-a-302-and-a-307-redirect
+https://en.wikipedia.org/wiki/List_of_HTTP_stat...
+August R. Garcia,
+Twitter video upload error "cannot read property 'code' of undefined"?
+Answers in Social Media Marketing | By Some Guy
+Published 10 months agoSun, 16 Dec 2018 09:31:28 -0800
+Last Reply
+It's either a failure with the Twitter utility recognizing the file type as what the extension declares, or the file itself is in an mp4 wrapper but...
+August R. Garcia,
+[Python] Fix for "TypeError: unsupported operand type(s) for - or / or + 'str'/'int'/'nonetype'/'list' and 'str'?"
+Answers in Scripting and Automation | By Some Guy
+Published 9 months agoSun, 13 Jan 2019 05:57:52 -0800
+Last Reply
+What the fuck is this question. This is like eight different errors. The answer is probably to cast something as something else. Look at this thread:...
+August R. Garcia,
+What the fuck is this que...
+[Python] Fix for "TypeError: can only concatenate str (not "int") to str?"
+Answers in Scripting and Automation | By Some Guy
+Published 9 months agoSun, 13 Jan 2019 05:45:01 -0800
+Last Reply
+Cast the integer to be a string.
+# Probably something like this is causing the error
+x = 3
+text = "whatever"
+# "TypeError: unsupported op...
+August R. Garcia,
+Cast the integer to be a...
+[Solved] Running Selenium with a Proxy (Python, FireFox)
+Answers in Web Scraping, Data Analysis | By August R. Garcia
+Published 4 days agoThu, 17 Oct 2019 07:37:05 -0700
+It's time to post code so that I can fin...MoreIt's time to post code so that I can find this the next eight times I need to do this: # ##### ##### ################# ##### ##### # # ##### ###...
+What are the benefits of social media marketing?
+Answers in Social Media Marketing | By RedPillMice
+Published 7 months agoTue, 19 Mar 2019 22:21:29 -0700
+Last Reply
+Benefits of using social media marketing:
+Brand Recognition.
+Right Audience
+Better Search Engine Rankings.
+monicageller3691,
+Benefits of using social...
+Which are the most important factors On-Page SEO?
+Forum in Search Engine Optimization | By Nicksonjohn
+Published 2 months agoWed, 07 Aug 2019 03:17:31 -0700
+Last Reply
+1. Meta Tags
+2. URL structure
+3. Header tags
+4. Alt Tags
+5. Keyword Research & Density
+6. Internal and External links
+7. XML Sit...
+monicageller3691,
+1. Meta Tags
+It's Sunday
+Forum in Offtopic | By August R. Garcia
+Published 1 month agoSun, 15 Sep 2019 02:50:42 -0700
+Last Reply
+https://www.youtube.com/watch?v=NrhJT98IoaQ
+Hash Brown,
+https://www.youtube.com/w...
+Get 100,000 Real Website Visitors In 7 Days
+Forum in Internet Marketing | By heather6213
+Published 1 week agoThu, 10 Oct 2019 21:17:53 -0700 | Last update 1 week agoFri, 11 Oct 2019 02:09:15 -0700
+Last Reply
+Protip: LIterally everyone who sells "legit real website visitors" is a blatant scammer.
+and increase your google rank
+For the love of God (...
+August R. Garcia,
+Protip: LIterally everyon...
+Get These Dependencies Off My Lawn: 5 Tasks You Didn't Know Could be Done with Pure HTML and CSS
+Articles in Style and Layout | By August R. Garcia
+Published 8 months agoMon, 11 Feb 2019 04:07:30 -0800 | Last update 5 months agoTue, 07 May 2019 03:37:01 -0700 📌
+Last Reply
+Thread bump with the <time> tag:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time
+https://css-tricks.com/time-element/...
+August R. Garcia,
+Thread bump with the <...
+Why is Website Traffic Important? Helping Your Website To Increase Visits
+Forum in Search Engine Optimization | By shawnseoblog
+Published 1 week agoWed, 09 Oct 2019 09:12:18 -0700
+Last Reply
+Thanks for sharing this informative post. Keep posting.
+monicageller3691,
+Thanks for sharing this i...
+What are some common Salesforce interview questions?
+Answers in Local and Offline Businesses | By diabIek
+Published 7 months agoTue, 19 Mar 2019 11:53:05 -0700
+Last Reply
+The other comment was useful. If you need more interview questions then you can visit https://intellipaat.com/blog/interview-question/salesforce-...
+anujjha,
+The other comment was use...
+How to get a back link from a website which has high domain authority?
+Forum in Search Engine Optimization | By Nicksonjohn
+Published 1 month agoFri, 13 Sep 2019 04:11:15 -0700
+Last Reply
+These are the sites that you will definitely get backlinks:
+homebusinessonline.com is a forum site.
+dotnetfunda.com is a social bookmarkin...
+monicageller3691,
+These are the sites that...
+[Solved] Automatically apply color scale to HTML table with JavaScript
+Answers in Client-Side | By August R. Garcia
+Published 1 week agoTue, 08 Oct 2019 18:56:14 -0700 | Last update 1 week agoTue, 08 Oct 2019 19:08:22 -0700
+*Basically solvedMoreHere's some code. However, this code is fairly slow on large tables (adds roughly 50-150 milliseconds for 190 rows of four columns). Probably usu...
+DELL S2716DG how to get 144Hz?
+Answers in Technology | By Some Guy
+Published 8 months agoWed, 06 Feb 2019 15:24:27 -0800
+Last Reply
+These are The Steps That You Need To Follow While Setting Your Monitor To 144 Hz. As Many Of People Forgot Many Steps and that create a lot of problem...
+smanvendra12345,
+These are The Steps That...
+The Ultimate Guide to Ranking for Shitty Keywords about Crack Cocaine
+Forum in Garbage Can | By Whisky Fren
+Published 1 week agoTue, 08 Oct 2019 11:24:39 -0700 | Last update 1 week agoTue, 08 Oct 2019 11:25:09 -0700
+I am literally the best SEO consultant i...More In conclusion, only inject prescription cough syrup. the effect caused by smoking crack cocaine in the 1980s that the media most emphasized w...
+[Solved] Scraping Number of Search Results from Bing with Google Sheets
+Answers in Web Scraping, Data Analysis | By August R. Garcia
+Published 1 month agoFri, 20 Sep 2019 10:59:05 -0700
+Last Reply
+Here's a better version that removes the " results" string and then casts the result to a number instead of a string:
+=VALUE(substitute(importXML...
+August R. Garcia,
+Here's a better version t...
+[PHP] How to Add rel="nofollow", rel="nofollow ugc", rel="nofollow sponsored" and/or Other rel Attributes to Links
+Articles in Server-Side | By August R. Garcia
+Published 1 month agoSun, 15 Sep 2019 23:37:47 -0700 | Last update 1 week agoTue, 08 Oct 2019 07:00:49 -0700
+Last Reply
+Ahrefs now shows/lists data related to the rel="ugc" and rel="sponosored" attribute values. See newly added cover image to this post.
+August R. Garcia,
+Ahrefs now shows/lists da...
+Test Post: Please Ignore, Unless You Don't Want To
+Forum in Garbage Can | By August R. Garcia
+Published 8 months agoFri, 08 Feb 2019 14:06:01 -0800
+Last Reply
+Edit: JK LOL
+August R. Garcia,
+Edit: JK LOL
+[Massive List] 2090 Products to Sell as an Amazon (or Other) Affiliate
+Forum in Affiliate Marketing | By August R. Garcia
+Published 2 weeks agoMon, 07 Oct 2019 03:55:48 -0700 | Last update 2 weeks agoMon, 07 Oct 2019 03:57:42 -0700 📌
+Last Reply
+That is some hell yeah analysis
+Hash Brown,
+That is some hell yeah an...
+Info-Graphics & Image sharing
+Forum in Internet Marketing | By Nicksonjohn
+Published 1 month agoWed, 28 Aug 2019 06:21:02 -0700
+Last Reply
+Use Original and High-quality Images.
+Make sure you use your business-related images.
+Submit in the sites which accept images and also having hi...
+monicageller3691,
+Use Original and High-qua...
+Question from Textbook or Whatever: When building a keyword list for a display network campaign, you should do which of the following:
+Answers in Search Engine Optimization | By Mark3t_Crash
+Published 7 months agoTue, 19 Mar 2019 03:35:25 -0700
+Last Reply
+It's not that complicated it is so easy for further detail you can go for this.
+https://ppcexpo.com
+PPCexpo,
+It's not that complicated...
+[PHP] How to generate random, readable background and text color pairs
+Articles in Web Development | By August R. Garcia
+Published 10 months agoMon, 03 Dec 2018 14:29:25 -0800 | Last update 10 months agoMon, 03 Dec 2018 16:22:02 -0800
+Last Reply
+Updated version of the function in the original post that supports setting an alpha/opacity value:
+// Generates two complimentary colors
+functi...
+August R. Garcia,
+Updated version of the fu...
+User Introductions Master Thread
+Forum in Offtopic | By August R. Garcia
+Published 3 months agoThu, 18 Jul 2019 21:38:47 -0700 📌
+Last Reply
+> I am clinically certified
+Hell yeah, more retireds the better!
+Hash Brown,
+> I am clinically cert...
+How can you download pornhub videos?
+Answers in Computer Software | By Chumbiif
+Published 7 months agoTue, 19 Mar 2019 10:35:16 -0700
+Last Reply
+https://www.youtube.com/watch?v=dME9qCD9Cs0
+August R. Garcia,
+[Solved] Python - Getting the remote/server IP address and port from an HTTP response using the requests library?
+Answers in Web Scraping, Data Analysis | By August R. Garcia
+Published 3 weeks agoWed, 25 Sep 2019 15:54:55 -0700 | Last update 3 weeks agoThu, 26 Sep 2019 13:25:27 -0700
+Some edge case what even is this.MoreThe solution here seems to generally work: https://stackoverflow.com/questions/22492484/how-do-i-get-the-ip-address-from-a-http-request-using-th...
+We are hiring Affiliates to monetize their website up to 57$ per Action!
+Forum in Affiliate Marketing | By Imelda Adc
+Published 3 weeks agoWed, 25 Sep 2019 01:48:19 -0700 | Last update 3 weeks agoWed, 25 Sep 2019 11:10:26 -0700
+Last Reply
+This sounds totally fucking legit, all the best affiliate programs use gmail.com
+Hash Brown,
+This sounds totally fucki...

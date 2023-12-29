@@ -1,0 +1,1 @@
+Hello guys, if you’re getting this error: “This domain is not allowed on our system”. Please delete your cache and try again, if you keep getting it, use the chat box to report it.

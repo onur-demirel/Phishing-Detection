@@ -1,0 +1,8 @@
+If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
+Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
+* Do you know what the SOA record is in DNS?
+Suggested article from our blog: What is SOA (Start of Authority) record?
+Start of Authority - SOA. It shows where the best source of information for the DNS zone is located. Shows who is the authoritative server. You can’t have more than 1 SOA Record for a zone.
+Typically, a SOA Record will contain the following data:
+The full list you can find in this article!
+Administrating your SOA records is simple with ClouDNS. Check this link:

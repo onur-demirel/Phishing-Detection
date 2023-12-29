@@ -1,0 +1,7 @@
+So können Sie sich anmelden:
+-
+E-Mail-Adresse:
+Ihre Telekom E-Mail-Adresse oder Ihre E-Mail-Adresse eines anderen Anbieters, mit der Sie sich registriert haben.
+-
+Mobilfunk-Nummer:
+Ihre Telekom Mobilfunk-Nummer, wenn Sie diese mit Ihrem Telekom Login verknüpft haben.

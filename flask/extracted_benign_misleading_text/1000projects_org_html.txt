@@ -1,0 +1,39 @@
+This software portion entitled “NGO Activity portal” is very useful for any non-government organization to develop its social services in a more effective manner. So that they can improve society without any poverty and illiteracy. The module is used to display the nongovernment organization information like their name, place, history of the NGO, when they established their organization, president of the organization, vice president, number of members of the NGO, etc. Past work module is used to display the NGO’s exiting service for society. It deals with the service of their poor people, illiterate people, and how they saved their society with several Natural disasters like flood and rains. On-going Programs is told about the currently running programs of this organization. It supports various programs like Violating child labor’s system, Anti-dowry system, self-help Groups, Rescue of poor peoples, Rescue people’s from various natural disasters like flood, Tsunami, etc. The photo gallery is used to display their collection of photos of their good work done for the society. It tells their organization services in a more accurate way. A student welfare module describes the scholarships for the well-studied students and the students to those who are in slum areas. It also provides school materials for disabled students once in months. It’s a very useful scheme for students to encourage their studies. Feedback is used to get the customers opinions. So that it can improve its functionality in a more accurate and easiest way. Based on the Customer feedback it can easily develop their services for society.
+EXISTING SYSTEM
+Generally, all the Nongovernmental activities details like past work and going work details are maintained manually by the organization. But it leads more time to maintain these records and very difficult to find the details for various particulars.
+Everything is done manually, so it is very difficult to maintain the records.
+It’s also very difficult to find the activities
+Long-time process
+It takes more time to prepare various events within a short time.
+PROPOSED SYSTEM:
+The proposed system is developed to overcome the disadvantages of the existing specified earlier. This system is being created using PHP and My SQL. Since PHP is our Front-End it looks more look and feels for the web application is very Effective & Security. This look and feel of it is more users friendly and easy to operate on. We can create dynamic and Interactive user application using PHP.
+All the Nongovernmental activities details like past work and going work details are maintained systematically by the organization through the website.
+This project is reliable, flexible. So it is easy to store and retrieve the huge amount of data.
+Takes less time to do the process.
+Speed and accuracy is increased
+Fully automated.
+SOFTWARE REQUIREMENTS:
+Operating System: Windows 7 professional
+Front end: PHP
+Server: Wamp Server
+Back End: MySQL
+Modules:
+Authentication
+Past work
+On-Going Programs
+Photo gallery
+Students Welfare
+Sponsors
+Module Description:
+Authentication Module
+This module contains all the information about the authenticated Administrator.
+Past work
+In this module, Administrator Add the past work Information using this module. It Contains Information about the Program id, Program Name, Description, Start Date, End Date. It makes easy to integrate Administrator authentication into your web application. Information is stored in your database.
+Ongoing Program
+This page is handled by the administrator. The administrator has full right to access the entire project. In this module, the admin adds the ongoing program information. This information included the details of the Program id, Program Name, Description, Start Date, End Date. This detail also includes the status details for complete or not. The details are stored in a database. It can view by Admin for reference.
+Photo Gallery
+This page is handled by the administrator. In this module, the admin adds the photo gallery of program information. This information included the details of the Program id, Program Name, Date, Photo. The details are stored in a database. It can view by User for reference.
+Student Welfare
+This page is handled by the administrator. In this Student Welfare module, the admin adds the welfare information. This information included the details of the Work id, work Name, Description, Sponsor Name, Announcement Date. The details are stored in a database. It can view by User for reference.
+Sponsors
+This page is handled by the Users. In this Sponsors module, the volunteer sponsors register his/her information to this web application. This information included the details of the Sponsors id, Sponsors Name, Mobile No, Mail ID, Address, Sponsor Amount. The details are stored in the database. It can view by Administrator for reference.

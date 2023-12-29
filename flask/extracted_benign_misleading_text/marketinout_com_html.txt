@@ -1,0 +1,82 @@
+|
+|
+Welcome to the most comprehensive and powerful
+Stock Screener tool available to traders and investors. You can select from many technical criteria to find financial instruments that fit your investments needs or trading strategy.
+Our backtesting tools will help you to test your ideas on historical data. No matter if you are novice in financial market or a professional trader the provided
+screens and reports will be extremely helpful in optimizing your trades!
+|
+|
+|
+Develop your own stock screening strategy and backtest it on historical data!
+Trade and see your capital grow!
+Unique Stock Screener
+Find outperforming stocks with the most powerful and comprehensive technical stock screener!
+What makes MarketInOut.com the best stock scanner available to traders and investors?
+Ability to screen by catchall set of technical and fundamental criteria, achieve maximum flexibility,
+make your investments safe by backtesting your stock screening
+strategy on historical periods.
+Stock Backtesting
+Backtest your strategy with us before going live! Have you already developed a stock fetching method?
+How much you would earn as a trader if you followed this method in your trading strategy in 2015 or 2016?
+Find it out with strategy backtester, most comprehensive backtesting tool on the web! Do not go live before
+you optimize your method on historical data.
+MarketInOut.com is the most powerful tool for screening of US stocks on NYSE, NASDAQ and AMEX exchanges.
+But you also can screen and analyze stocks
+from all largest stock exchanges worldwide.
+LSE stock traders will find UK Stock Screener very helpful.
+TSX traders can use Canadian Screener.
+International traders can also consider using ASX,
+BSE, NSE or
+SGX scanners.
+Over than 1000 currency pairs and crypto currencies are traded on world exchanges today.
+Which currency is the most active or relatively stronger than others? Find it out with
+Currency Screener, unique tool for screening of Forex and crypto currencies. It is possible
+to use the same huge set of technical criteria and indicators as for regular share screener.
+The MACD Histogram (Moving Average Convergence Divergence Histogram) provides
+far earlier and more responsive signals than the original MACD.
+The MACD Histogram Screener is useful for anticipating changes in trend.
+Using MACD divergence scanner
+you will be able to find strongest signal, the divergence between peaks of share price and the MACD Histogram.
+RSI (Relative Strength Index) is an extremely useful and popular
+momentum oscillator.
+The best analysis of the RSI was found out: it is better to
+find a divergence
+in which a new high is being made by the security, but the RSI is going down to surpass its previous peak.
+This divergence means that soon the reversal will come.
+Ichimoku indicator (Ichimoku Kinko Hyo) was developed by Goichi Hosoda (Ichimoku Sanjin) in 1930
+for working in conjunction with candlesticks analysis.
+Since main drawback of candlesticks
+is inability to qualitatively determine market in and out points, Ichimoku indicator enhances this
+analysis at this point.
+Warren Buffett method is one of the best long-term investment strategies.
+The idea behind the Warren Buffett's Stock Screen
+is to look for companies with more predictable earnings growth and buy them when they are relatively cheap.
+The ROIC (Return On Invested Capital) measure gives investor a sense of how well a company use its money to
+generate returns. The ROIC is a ratio estimated by dividing the operating income by the
+book value of invested capital.
+Bollinger Bands form an envelope that expands and contracts around a simple
+moving average. Having evolved from the concept of trading
+bands, Bollinger Bands can be used to measure the highness or lowness
+of the price relative to previous trades.
+What's New
+The Dobermans Of The Dow strategy has been added to the list of
+popular trading strategies.
+This strategy is a slightly modified version of the Dobermans of the Dow strategy introduced by Michael Cannivet in Forbes magazine in 2019.
+Unlike the original strategy, we do not rank the components of the DJIA index by ROE (Return On Equity) and FCF (Free Cash Flow),
+but set the filtering criteria so that the stocks have ROE and FCF above the threshold values. Next, we rank the selected stocks by FCF in descending order and take the top ten.
+To do this, we use the Prioritize Stocks by parameter and limit the portfolio size to 10 positions. Conditions for closing a position are not set,
+but the portfolio is rebalanced annually.
+The TRIX indicator (Triple Exponential Average) has been added to the product.
+TRIX is a momentum indicator that displays the percent rate-of-change of a triple exponentially smoothed moving average of the security`s closing price.
+It is designed to keep you in trends equal to or shorter than the number of periods you specify.
+The TRIX indicator oscillates around a zero line. Its triple exponential smoothing is designed to filter out `insignificant` cycles (i.e., those that are shorter than the number of periods you specify).
+Trades should be placed when the indicator changes direction (i.e., buy when it turns up and sell when it turns down). You may want to plot a 9-period moving average of the TRIX to create a signal
+line (similar to the MACD indicator, and then buy when the TRIX rises above its signal, and sell when it falls below its signal.
+Divergences between the security and the TRIX can also help identify turning points.
+The indicator has two parameters, the first is the period for calculating the TRIX line and the second is the smoothing period for calculating the signal line.
+In the Formula Screener you can use trix(14,9) for the TRIX indicator line and trixs(14,9) for the TRIX signal line.
+For example, a crossover condition might look like this: trix(14,9) ca trixs(14,9)
+The Strategy Backtest section now has a list of popular trading strategies. At the moment, it includes such strategies as: The Friday Gold Rush, Turnaround Tuesday, Larry Connors RSI-2, Ichimoku Kinko Hyo, and Dogs of the Dow. All strategies have shown good results over the last 20 years. Backtest results and statistics for each strategy are updated daily. You can copy any strategy by clicking Create a Copy on the backtest report page. In this case, a copy will be added to your strategies list.
+|
+|
+|

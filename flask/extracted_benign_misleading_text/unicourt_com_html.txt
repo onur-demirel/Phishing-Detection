@@ -1,0 +1,43 @@
+Features
+Pricing
+Login
+Home
+Features
+Pricing
+Blog
+Resources
+Court Data Coverage
+Court Data Status
+Developer Hub
+Login
+Easy Access to Court Records & Legal Analytics.
+All
+Party
+Attorney
+More Options
+More Options
+Case Name
+Case Number
+Judge Name
+Docket Entry
+Search
+Search
+60
+Million
++
+Federal & State Cases
+22
+Million
++
+Court Documents
+286
+Million
++
+Parties, Attorneys & Judges
+1.2
+Billion
++
+Docket Entries
+Case Research
+Legal Analytics
+Legal Data API

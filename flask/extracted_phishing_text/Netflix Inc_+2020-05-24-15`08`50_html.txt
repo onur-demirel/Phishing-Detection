@@ -1,0 +1,7 @@
+Validate Your Payment Information
+Confirm your payment method linked with your account. Your membership will not be billed on your next billing period without validation.
+Secure ServerTell me more
+We take your security seriously. We safeguard your payment information with SSL (Secure Sockets Layer) when sent over the internet. SSL encrypts personal information, including your name and payment information, so that it cannot be read in transit by a third party. We also store your payment information in an encrypted format.
+Confirm or update your current method of payment. The updated payment method will apply to your next billing cycle.
+-
+Credit Card

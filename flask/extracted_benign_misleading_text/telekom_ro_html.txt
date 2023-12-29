@@ -1,0 +1,154 @@
+|_mktz_enabled [x2]
+|burnout.telekom.ro
+telekom.ro
+|Verifica daca cookie-urile sunt oprite in browser, la fiecare pagina accesata.
+|1 an
+|HTTP
+|mktz_client [x2]
+|burnout.telekom.ro
+telekom.ro
+|Stocheaza informatii despre client: daca este utilizator nou/existent, ID de utilizator (generat), ID de sesiune (generat), nr total de pagini vizualizate in sesiunea curenta, nr total de sesiuni, URL-ul si tipul de URL de pe care a venit (referrer), data si ora primei / ultimei vizite, experimentele vizualizate in sesiunea curenta, parametrii UTM din URL-ul cu care a inceput sesiunea (daca exista), daca utilizatorul nu doreste sa participe in experimente.
+|1 an
+|HTTP
+|mktz_sess [x2]
+|burnout.telekom.ro
+telekom.ro
+|Stocheaza Id-ul de sesiune. Se va crea la fiecare pagina accesata, daca nu exista.
+|1 zi
+|HTTP
+|IDE
+|doubleclick.net
+|Utilizat de Google DoubleClick pentru a inregistra si raporta actiunile utilizatorului site-ului dupa ce a vizualizat sau a dat click pe unul dintre anunturile agentului de publicitate. Scopul este acela de a masura eficacitatea unui anunt si de a prezenta anunturi directionate utilizatorului.
+|1 an
+|HTTP
+|test_cookie
+|doubleclick.net
+|Folosit pentru a verifica daca browserul utilizatorului accepta cookie-uri.
+|1 zi
+|HTTP
+|fr
+|facebook.com
+|Utilizat de Facebook pentru a livra o serie de produse publicitare, cum ar fi licitarea in timp real de la agentii de publicitate terta parte.
+|3 luni
+|HTTP
+|tr
+|facebook.com
+|Utilizat de Facebook pentru a livra o serie de produse publicitare, cum ar fi licitarea in timp real de la agentii de publicitate terta parte.
+|Session
+|Pixel
+|ads/ga-audiences
+|google.com
+|Utilizat de Google Ads pentru a reangaja vizitatorii care sunt susceptibili sa se transforme in clienti, pe baza comportamentului online al vizitatorilor pe site-uri.
+|Session
+|Pixel
+|pagead/1p-user-list/#
+|google.com
+|Modul cookie folosit pentru a crea audiente de utilizatori, separate dupa caracteristicile fiecaruia. Audientele create sunt folosite pentru promovare online.
+|Session
+|Pixel
+|_fbp
+|telekom.ro
+|Regleaza sincronizarea identificarii utilizatorului si schimbul de date al utilizatorului intre diferite servicii de anunturi.
+|3 luni
+|HTTP
+|_gcl_au
+|telekom.ro
+|Utilizat de Google AdSense pentru a experimenta eficienta publicitatii pe site-uri, folosind serviciile lor.
+|3 luni
+|HTTP
+|ma_lr
+|telekom.ro
+|Modul cookie folosit pentru a inregistra actiunile vizitatorilor pe site si pentru a transmite informatiile catre platforme precum Google Ads si Facebook.
+|29 zile
+|HTTP
+|GAD [x2]
+|ado.icorp.ro
+adocean.pl
+|Folosit pentru a inregistra actiunile utilizatorului pe site si pentru a-i arata anunturi personalizate.
+|5 ani
+|HTTP
+|rc::c
+|google.com
+|Folosit in contextul publicitatii video. Cookie-ul limiteaza de cate ori unui vizitator i se afiseaza acelasi continut publicitar. De asemenea, este folosit pentru asigurarea relevantei anuntului video pentru un anumit vizitator.
+|Session
+|HTML
+|__utmoc
+|telekom.ro
+|Modul cookie folosit pentru urmarirea campaniilor de promovarea online.
+|Session
+|HTTP
+|mktz_ab
+|telekom.ro
+|Stocheaza variatia vazuta pentru fiecare experiment A/B vazut de utilizator, pentru a-i afisa aceeasi variatie de fiecare data. Acest cookie se va crea la fiecare pagina accesata, ori va fi creat un cookie gol, ori se va actualiza dupa necesitati.
+|1 an
+|HTTP
+|mktz_engagement
+|telekom.ro
+|Stocheaza informatii despre cand un utilizator ar trebui sa fie considerat engaged pe un experiment. Se declanseaza in urma afisarii unui experiment care foloseste obiectivul „Engagement”.
+|1 zi
+|HTTP
+|recentlyViewed
+|telekom.ro
+|Acest modul cookie este utilizat pentru a determina ce produse a vizitat utilizatorul. Aceste informatii sunt utilizate pentru a promova produsele asociate si pentru a optimiza eficienta anunturilor.
+|29 zile
+|HTTP
+|GPS
+|youtube.com
+|Inregistreaza un ID unic pe dispozitivele mobile pentru a permite urmarirea pe baza pozitiei geografice GPS.
+|1 zi
+|HTTP
+|PREF
+|youtube.com
+|Inregistreaza un cod unic utilizat de Google pentru a pastra statistici despre modul in care vizitatorul foloseste videoclipuri YouTube pe site-uri diferite.
+|8 luni
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Incearca sa estimeze latimea de banda a utilizatorilor pe paginile cu videoclipuri YouTube integrate.
+|179 zile
+|HTTP
+|YSC
+|youtube.com
+|Inregistreaza un ID unic pentru a pastra statisticile privind ce videoclipuri YouTube a vazut utilizatorul.
+|Session
+|HTTP
+|yt-player-headers-readable
+|youtube.com
+|Colecteaza date despre interactiunea dintre vizitatori si continutul video al site-ului. Aceste informatii sunt folosite pentru a face continutul video mai relevant pentru utilizator.
+|Persistent
+|HTML
+|yt-remote-cast-installed
+|youtube.com
+|Stocheaza preferintele utilizatorului legate de player-ul video, prin clipul YouTube incorporat.
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stocheaza preferintele utilizatorului legate de player-ul video, prin clipul YouTube incorporat.
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stocheaza preferintele utilizatorului legate de player-ul video, prin clipul YouTube incorporat.
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stocheaza preferintele utilizatorului legate de player-ul video, prin clipul YouTube incorporat.
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video.
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stocheaza preferintele utilizatorului legate de player-ul video, prin clipul YouTube incorporat.
+|Session
+|HTML
+|_hjIncludedInSample
+|telekom.ro
+|Determines if the user's navigation should be registered in a certain statistical place holder.
+|Session
+|HTTP

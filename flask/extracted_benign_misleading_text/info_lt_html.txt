@@ -1,0 +1,519 @@
+Baldai, interjeras
+Baldai, prekyba
+Apšvietimas, šviestuvai
+Audiniai, siūlai
+Baldų gamyba
+Baldų gamybos medžiagos, furnitūra
+Baldų taisymas, atnaujinimas
+Čiužiniai
+Grindų dangos, kilimai
+Interjeras, interjero elementai
+Namų tekstilė
+Rėmai, rėmeliai, rėminimas
+Spynos, rankenos
+Tapetai
+Užuolaidos, žaliuzės
+Židiniai, krosnelės
+Žvakėsdaugiau
+Statyba, medžiagos
+Statybos darbai
+Statybinės medžiagos
+Langai
+Durys
+Mediena, medienos gaminiai
+Architektai, projektavimas
+Atliekų tvarkymas
+Baseinai, baseinų įranga
+Betonas ir jo gaminiai
+Biurų, komercinių patalpų, sandėlių nuoma
+Dažai, lakas, klijai
+Elektros instaliavimo medžiagos, elektrotechnika
+Elektros montavimo, instaliavimo darbai
+Geologiniai tyrimai
+Grindų dangos, kilimai
+Hidraulika, hidraulikos komponentai
+Inžineriniai tinklai
+Izoliacinės medžiagos
+Kelių tiesimas, tiltų statyba, remontas
+Keramika
+Laiptai, turėklai
+Laistymo, drėkinimo sistemos
+Liftų montavimas, remontas
+Lubų dangos
+Metalo gaminiai, metalas
+Nekilnojamasis turtas, administravimas
+Pastoliai, klojiniai, jų nuoma
+Pertvaros
+Pirtys, pirčių įranga
+Pjovimo, gręžimo darbai
+Plytelės
+Santechnika, vonios kambario įranga
+Santechnikos darbai
+Saugos tarnybos
+Sienų dangos
+Spynos, rankenos
+Statybinė technika
+Statybinės technikos, įrankių nuoma
+Statybos techninė priežiūra
+Stiklas, stiklo gaminiai
+Stogų dangos
+Šiltinimo medžiagos, šiltinimas
+Šilumos sistemos, įrenginiai
+Tapetai
+Tvirtinimo elementai
+Vandens, geoterminiai gręžiniai
+Vandens filtrai
+Vandentiekio ir nuotekų įrenginiai
+Vartai, tvoros
+Vėdinimas, oro kondicionavimas
+Žemėtvarka, geodezija, kadastriniai matavimai
+Židiniai, krosnelėsdaugiau
+Automobiliai ir transportas
+Automobilių remontas (lengvieji)
+Automobilių dalys (lengvieji)
+Automobilių transporto paslaugos
+Automobilių nuoma
+Automobilių naudotos dalys, autolaužynai
+Antikorozinis padengimas
+Autobusų nuoma
+Autobusų stotys
+Automobilių dalys (krovininiai)
+Automobilių eksploatacinės medžiagos, autokosmetika
+Automobilių pardavimas: atstovybės
+Automobilių pardavimas: nenauji. Turgūs
+Automobilių remontas (krovininiai ir autobusai)
+Automobilių saugos ir komforto sistemos
+Automobilių stovėjimo, saugojimo aikštelės
+Automobilių techninė apžiūra, ekspertizė
+Automobilių techninė pagalba kelyje
+Automobilių valymas, plovimas
+Autoservisų ir degalinių įranga
+Degalinės
+Geležinkelių transportas, geležinkelių priežiūra
+Guoliai
+Jūrų ir upių transportas
+Keleivių pervežimas
+Kemperiai, nameliai ant ratų, priekabos
+Komercinis transportas
+Komunalinė technika
+Logistika
+Mikroautobusų nuoma
+Motociklai, dviračiai
+Muitinės
+Muitinės paslaugos
+Oro transportas
+Padangos, ratlankiai
+Tentai, tentų gamyba
+Transporto priemonių registravimas
+Vairavimo mokyklosdaugiau
+Apsipirkimas
+Buitinė technika
+Drabužiai
+Avalynė
+Vaikiškos prekės
+Sporto ir turizmo reikmenys
+Audiniai, siūlai
+Dovanos
+Galanterija
+Gėlės
+Higienos prekės
+Indai, stalo reikmenys
+Interjeras, interjero elementai
+Internetinės parduotuvės
+Juvelyriniai dirbiniai, bižuterija
+Kailiai, kailių dirbiniai
+Knygynai
+Kosmetika, kvepalai
+Laikrodžiai, laikrodžių taisymas
+Maisto prekių parduotuvės
+Naminiai gyvūnai, jų maistas, reikmenys
+Namų tekstilė
+Oda, odos gaminiai
+Prekybos centrai
+Trikotažas
+Turgūs
+Ūkinės prekės
+Vaizdo ir garso aparatūra, jos remontas
+Valymo, skalbimo priemonės
+Vestuviniai, proginiai rūbai
+Žuvininkystės ir žūklės reikmenysdaugiau
+Maitinimo įstaigos, maistas
+Kavinės
+Restoranai
+Picerijos
+Maisto prekių parduotuvės
+Konditerija
+Alkoholiniai gėrimai
+Duonos gaminiai
+Ekologiški produktai, prekės
+Gaivieji gėrimai
+Kava, arbata
+Maistas šventėms
+Maisto produktai (didmena)
+Maisto produktų gamyba
+Mėsa, mėsos gaminiai
+Naktiniai klubai
+Pienas, pieno produktai
+Prieskoniai ir maisto priedai
+Vanduo (geriamasis, mineralinis)
+Žuvis, žuvies produktaidaugiau
+Kelionės, viešbučiai, pramogos
+Turizmo paslaugos
+Viešbučiai, apgyvendinimas
+Kaimo turizmas
+Sporto centrai, salės
+Renginių, švenčių organizavimas
+Akvariumai
+Būrimo salonai, numerologija, astrologija
+Kemperiai, nameliai ant ratų, priekabos
+Kino teatrai, kino studijos
+Konferencijų, seminarų organizavimas
+Medžioklė, medžioklės reikmenys, ginklai
+Muziejai
+Muzikos instrumentai
+Naktiniai klubai
+Pramogų ir poilsio paslaugos
+Renginių, švenčių techninis aptarnavimas
+Sporto ir turizmo reikmenys
+Šokių studijos
+Teatrai
+Žaidimai, loterijos, kazino, lošimai
+Žirgininkystė, žirgynai
+Žuvininkystės ir žūklės reikmenysdaugiau
+Medicina, grožis
+Odontologai
+Medicinos įstaigos (privačios)
+Medicinos įstaigos (viešosios)
+Kirpyklos, grožio salonai
+Medicinos technika, įranga
+Dantų protezų gamyba
+Grožio salonų įranga ir prekės
+Higienos prekės
+Kosmetika, kvepalai
+Masažai
+Medicininės medžiagos, medikamentai
+Netradicinė medicina
+Optika
+Psichologinė pagalba
+SPA centrai, sanatorijos, gydyklos
+Vaistinėsdaugiau
+Paslaugos
+Veterinarija
+Vertimo biurai
+Patalpų valymas
+Perkraustymo paslaugos
+Antkapiai, paminklai
+Antikvariatai
+Antstoliai
+Atliekų tvarkymas
+Autobusų nuoma
+Autobusų stotys
+Automobilių nuoma
+Automobilių valymas, plovimas
+Avalynės, galanterijos taisymas
+Avarinės tarnybos
+Baldų taisymas, atnaujinimas
+Bankai
+Biurų, komercinių patalpų, sandėlių nuoma
+Buitinės technikos remontas
+Darbo sauga
+Dezinfekcija, kenkėjų naikinimas, kontrolė
+Drabužių taisymas
+Finansinės paslaugos
+Fotografija
+Informacijos paslaugos
+Interneto paslaugos
+Įdarbinimo paslaugos
+Keleivių pervežimas
+Kirpyklos, grožio salonai
+Komunalinės paslaugos
+Konferencijų, seminarų organizavimas
+Kopijavimas
+Laidojimo paslaugos
+Laikrodžiai, laikrodžių taisymas
+Laivų aprūpinimas
+Leidyklos, leidybos paslaugos
+Logistika
+Lombardai
+Masažai
+Mikroautobusų nuoma
+Muitinės paslaugos
+Paskolos, greitieji kreditai
+Pašto ir kurjerių paslaugos
+Patentinės paslaugos
+Pjovimo, gręžimo darbai
+Pramogų ir poilsio paslaugos
+Raktų gamyba, avarinis spynų atrakinimas
+Saugos tarnybos
+Skerdyklos
+Socialinės paslaugos, rūpyba
+Statybinės technikos, įrankių nuoma
+Šunų, kačių kirpyklos
+Taksi
+Teisinės paslaugos
+Turizmo paslaugos
+Turto vertinimas
+Vaizdo ir garso aparatūra, jos remontas
+Vaizdo ir garso įrašai, nuoma, CD, DVD ir Blu-ray gamyba
+Valymas, skalbimas
+Valymo, skalbimo priemonės
+Viešbučiai, apgyvendinimasdaugiau
+Teisė, draudimas, finansai
+Kompiuteriai, ryšiai, IT
+Biuro ir konferencijų įranga
+Buhalterinės apskaitos programos
+Interneto paslaugos
+IT paslaugos
+Kanceliarinės prekės
+Kasos aparatai
+Kompiuteriai, jų aptarnavimas
+Kompiuteriai, prekyba
+Kompiuteriniai žaidimai
+Kompiuterių programinė įranga
+Kopijavimas
+Mobilieji telefonai, jų remontas
+Palydovinės televizijos priėmimo sistemos
+Pašto ir kurjerių paslaugos
+Pinigų skaičiuoklės, detektoriai
+Ryšiai ir telekomunikacijos
+Pramonė, energetika
+Akmuo, akmens gaminiai
+Alternatyvi energija
+Antkapiai, paminklai
+Antrinės žaliavos
+Apsaugos sistemos, prietaisai (patalpoms ir teritorijoms)
+Audiniai, siūlai
+Autoservisų ir degalinių įranga
+Baldų gamybos medžiagos, furnitūra
+Baseinai, baseinų įranga
+Brūkšninių kodų įranga
+Chemijos pramonė
+Darbo drabužiai, avalynė
+Darbo sauga
+Dažai, lakas, klijai
+Dujos, dujotiekių įranga
+Durpės
+Ekspertizė. Sertifikavimas
+Elektroninė įranga, radijo dalys
+Elektros instaliavimo medžiagos, elektrotechnika
+Energetika
+Guma, gumos gaminiai
+Guoliai
+Hidraulika, hidraulikos komponentai
+Izoliacinės medžiagos
+Įrankiai
+Kalvystė
+Kompozicinių medžiagų pramonė
+Kompresoriai, siurbliai
+Komunalinės paslaugos
+Kuras ir naftos produktai
+Laivų statyba, remontas
+Maisto pramonės įrengimai
+Matavimo prietaisai, matavimai
+Mediena, medienos gaminiai
+Medžio apdorojimo įrengimai, medžiagos
+Metalo apdirbimas
+Metalo apdorojimo įrengimai
+Metalo gaminiai, metalas
+Metalo laužas
+Naudingosios iškasenos, gavyba
+Oda, odos gaminiai
+Pakuotė ir tara
+Pirtys, pirčių įranga
+Plastmasė ir jos gaminiai
+Pneumatika
+Popierius, kartonas
+Pramoniniai įrengimai, jų automatizavimas
+Prekybos įranga
+Priešgaisrinė apsauga, įranga
+Restoranų, barų įranga
+Sandėliavimas, įranga
+Seifai
+Siuvimas, siuvimo pramonė
+Siuvimo mašinos, įranga
+Spaustuvės, įranga, medžiagos
+Stiklas, stiklo gaminiai
+Suvirinimas, įranga
+Šaldymo įrenginiai
+Šilumos sistemos, įrenginiai
+Tabako gaminiai
+Tvirtinimo elementai
+Tyrimų įranga, laboratorijos
+Vamzdžiai ir vamzdynai
+Vandens filtrai
+Vandentiekio ir nuotekų įrenginiai
+Vartai, tvoros
+Vėdinimas, oro kondicionavimas
+Švietimas, kultūra, mokslas
+Aukštosios mokyklos
+Bibliotekos, archyvai
+Institutai, mokslinių tyrimų centrai
+Kalbų kursai
+Knygynai
+Kolegijos
+Kultūros namai, centrai
+Meno galerijos
+Meno mokyklos, klubai
+Mokyklos, gimnazijos
+Mokymo centrai, kursai
+Muziejai
+Profesinės mokyklos
+Sporto mokyklos, klubai ir organizacijos
+Vaikų darželiai, ikimokyklinio ugdymo įstaigos
+Vairavimo mokyklos
+Žemės ūkis, miškininkystė
+Augalininkystė
+Bitininkystė
+Gyvulininkystė
+Laistymo, drėkinimo sistemos
+Miškininkystė
+Pašarai
+Paukštininkystė
+Sėklos, sodinukai, medelynai
+Skerdyklos
+Sodo, miško, parko priežiūros technika
+Trąšos, augalų apsaugos priemonės
+Uogų, grybų, vaisių supirkimas ir perdirbimas
+Veterinarija
+Žemės ūkio technika
+Žemės ūkis, žemės ūkio produktai
+Žirgininkystė, žirgynai
+Žuvininkystė
+Žuvininkystės ir žūklės reikmenys
+Žvėrininkystė
+Straipsniai
+Įmonių atnaujinimai
+Nauja įmonės informacija
+Europos pr. 122, 46351 Kaunas
+Parašytas atsiliepimas
+Kristina
+2019.10.25
+Geriausias autoservisas, kuriame teko lankytis. Nepriekaištingas ir operatyvus darbas, išsami konsultacija bei optimalios kainos. Dėkoju profesionaliai komandai.
+Naudingas (0)Pranešti
+Parašytas atsiliepimas
+Vladislava
+2019.10.24
+Nuostabi gydytoja. Su skausmu galima bet kokiu laiku susisiekti ir gydyti. Negaili savo poilsio dienų.
+Naudingas (0)Pranešti
+Parašytas atsiliepimas
+Sergey
+2019.10.24
+Very nice Website, full description of products with links. Good luck, stable growth to your Company and good partners in the future!
+Naudingas (0)Pranešti
+2 naujos prekės
+Parašytas atsiliepimas
+Kristina
+2019.10.24
+Nerekomenduoju nei įstaigos, nei gydytojos Rūtos Ulickienės, jei yra kokių bėdų su akimis.
+Naudingas (0)Pranešti
+Nauja įmonės informacija
+Metalistų g. 8, 76233 Šiauliai
+Parašytas atsiliepimas
+Viktorija B
+2019.10.23
+Tikrai gera mokykla su labai patyrusiais mokytojais. Jie išmokė mane vairuoti labai gerai per trumpą laiką ir aš išlaikiau savo egzaminą iš pirmo karto! Man buvo labai malonu, kad radau šią mokyklą!
+Aš pasiūličiau šią mokyklą visiems, norintiems išmokti gerai vairuoti :) daugiau...
+Aš pasiūličiau šią mokyklą visiems, norintiems išmokti gerai vairuoti :) daugiau...
+Naudingas (0)Pranešti
+Parašytas atsiliepimas
+Sandra
+2019.10.23
+Tiesiog tragiškas aptarnavymas, apeikite šią vietą ir susitaupysite nervinių lastelių. Prieš p. Dainiu Palaimą nieko blogo negaliu pasakyti, savo srities profas, bet personalą keisti reikia visą ir kuo greičiau...
+Naudingas (0)Pranešti
+Akcija galioja iki 2019.11.12
+Nauja įmonės informacija
+Parašytas atsiliepimas
+Virgis
+2019.10.24
+Rašo kad siunta pasieke adresata. Bet as siuntinio negavau. Laiškanešys patikimas, pazystamas zmogus sake kad siuntos nebuvo. Nu kacia galima bepridet? Neregistruota siunta, negausi... Tik Lietuvoj taip gali dirbti paštas.
+Naudingas (0)Pranešti
+Parašytas atsiliepimas
+Janina
+2019.10.24
+Savo darbo profesionaliai, puikiai atlieka savo darba, užjaučiantys, dorūs, žmoniški. Gerbiantis ir savo ir kitų laiko. Tikrai DRASIAI rekomenduoju gyvenimiškiems sunkumams užklupus.
+Naudingas (0)Pranešti
+Parašytas atsiliepimas
+Rasa
+2019.10.24
+Nežinau ar gali būti labiau kompetetingas veterinaras? Tik geriausi atsiliepimai.
+Naudingas (0)Pranešti
+Parašytas atsiliepimas
+Simona
+2019.10.24
+Ačiū už "gydymą": kad privertėte laukti 2 valandas, kęsti didelį skausmą, verkti ir drebėti iš skausmo. Nėra šioje klinikoje žmogiškumo, tik pinigų troškimas, ir tai pamačiau, kai reikėjo susimokėti už procedūrą po 30min ašarų riedėjimo, (vizitas paskirtas buvo 18val., daktarui Škikui tai buvo pasakyta pirmo apsilankymo metu: dėl traumos galiu tik stovėti, be vaistų atsigulti ir atsisėsti neįmanoma. Tačiau registratūroje stovėjau kantriai 1,5 val., po to prasidėjo skausmai ir pradėjau verkti, o po procedūros, su dar didesniu skausmu grįžusi susimokėti, dar turėjau laukti administratorės, tad paklausiau garsiai, ar galima susimokėti, kad ši atkreiptų dėmesį, atėjo už kelių min), administratorė pasakė: "galit nemokėti, aš daktarui pasakysiu". Jūs rimtai? Kam čia kažką sakyti, kai aš žinojau, kad turiu susimokėti už procedūras privačioje klinikoje. Tik, nustebino pinigų suma, kurią teko susimokėti, nes per pirmą susitikimą buvo kalbėta truputį kitaip! Susimokėjau daugiau, tebūnie, parodėte, jog šioje klinikoje žmogiškumo, tvarkos ir sąžiningumo nėra. Nusivyliau baisiai, niekam neberekomenduoju čia lankytis, nebent jums nesvarbu, kaip su jumis elgiasi ir tai, kad mokate pinigus už procedūras, tad pirmadienį atlaisvinu savo vietą kažkam kitam. Ačiū, kad bandėte padėti, bet sutraumavot dar labiau. Sėkmės jums kuo didžiausios! daugiau...
+Naudingas (0)Pranešti
+Parašytas atsiliepimas
+Mačio
+2019.10.23
+Nuostabi kirpėja, be galo myli gyvūnus, švelni, kantri ir nuoširdi - kerpamės ir kirpsimės tik čia. Ačiū, kad esate! Kiekvieną kartą malonu grįžti. ;)
+Naudingas (0)Pranešti
+Parašytas atsiliepimas
+Vitalij
+2019.10.23
+Likau labai patenkintas šios įmonės darbu. Prekės kokybiškos. Prekių pristatymas greitas.
+Naudingas (0)Pranešti
+Akcija galioja iki 2020.05.01
+Parašytas atsiliepimas
+Olivija
+2019.10.23
+Aptarnavimas labai puikus. Didziausia padeka savininkei Eglei, ji tikrai nuostabi. Galiu pasakyti is 12 salonu, kuriuose lankiausi, sis Santa salonas man patiko labiausiai tiek aptarnavimu, tiek patarimais, tiek sukneliu pasirinkimu ir kokybe. Manau dar nekarta uzsuksime:) i si salona.
+Naudingas (0)Pranešti
+Akcija galioja iki 2019.11.30
+Nauja įmonės informacija
+Parašytas atsiliepimas
+Jonas
+2019.10.24
+Puikus aptarnavimas ir servisas, kokybiskai ir uz padoria kaina atlieka darbus, pakonsultuoja.
+Naudingas (0)Pranešti
+Parašytas atsiliepimas
+ELZE
+2019.10.24
+Aptarnavimas nemalonus. Nesinori eiti nes paaiskina piktai ir kaip siunta pasiimti.
+Naudingas (0)Pranešti
+Parašytas atsiliepimas
+Bartoš
+2019.10.24
+Skambinu per visus numerius po kelis kartus ne pietu pertraukos metu ir niekas nekelia ragelio. Tai ne pirmas kartas. Nejaugi tiek daug darbo turi.
+Naudingas (0)Pranešti
+Parašytas atsiliepimas
+Arnoldas
+2019.10.24
+Be šansų susisiekti po to kai buvo sutarti darbai...
+Iš pradžių tikrai buvo geras aptarnavimas, bet po to dingo ir viskas...
+Iš pradžių tikrai buvo geras aptarnavimas, bet po to dingo ir viskas...
+Naudingas (0)Pranešti
+Parašytas atsiliepimas
+Danutė
+2019.10.23
+Nuoširdus ačiū Sauliui ir jo komandai už nepriekaištingai sutvarkytą kapavietę. Tai žodžio besilaikantys žmonės. Rekomenduoju kreiptis tik į šį žmogų, kuris puikiai išmano savo darbą.
+Naudingas (0)Pranešti
+Nauja prekė
+Nauja prekė
+Parašytas atsiliepimas
+K
+2019.10.24
+Nepatikimi. Sneka viena, siulo kita, daro dar kita. Neturiu daugiau ka pasakyt...
+Naudingas (0)Pranešti
+Parašytas atsiliepimas
+Diana
+2019.10.24
+Nuostabūs renginiai, tautiškumo puoselėjimas, bendruomenės įtraukimas, jaunimo ir vaikų auklėjimas, bendradarbiavimas su kitomis bendruomenėmis, išvykos, ekskursijos, dalyvavimas gražinant aplinką, puikiai veikianti, miesteliui labai reikalinga biblioteka, tradicinės šventės, poetui P.Širviui atminti skirti renginiai, leidiniai, istorinės medžiagos rinkimas, ansambliai ir t.t. Tik tokių kultūros centrų dėka galima tikėtis, kad mūsų vaikai nepaliks Lietuvos. daugiau...
+Naudingas (0)Pranešti
+Parašytas atsiliepimas
+Rimas
+2019.10.24
+Gera sodyba, geri šeimininkai, malonūs. Man labai patiko. Rekomenduoju visiems, ačiū jums už svetingumą.
+Naudingas (0)Pranešti
+4 naujos prekės
+Žiūrėti daugiau prekių
+Kaina: 11000 €
+Kaina: 19000 €
+Kaina: 17500 €
+Kaina: 5600 €
+Parašytas atsiliepimas
+Viktoras
+2019.10.24
+Gydytoja TIESIOG puikiai išmano, bei myli savo darba! Visada su žmona tik pas ją einam. Dabar vedam ir vaikus. Labai faina ir draugiška. Kaina, kuri nesikandžioja, atitinka kokybę. Ačiū.
+Naudingas (1)Pranešti
+Parašytas atsiliepimas
+2 naujos prekės

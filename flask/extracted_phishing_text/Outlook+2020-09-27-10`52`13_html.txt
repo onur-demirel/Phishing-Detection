@@ -1,0 +1,2 @@
+Have your code ready?Use deployment center to get code published from your client or setup continuous deployment.Deployment Center
+Don't have your code yet?Follow our quickstart guide and you'll have a full app ready in 5 minutes or less.Quickstart

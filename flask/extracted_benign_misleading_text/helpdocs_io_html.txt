@@ -1,0 +1,28 @@
+HelpDocs makes it super simple to create a fantastic self-serve knowledge base experience for your customers and team.
+Powering knowledge bases for companies like
+Get a knowledge base up and running for your company without the hassle of pushing code, creating a template, or implementing search.
+Store Clips so you can insert the same content over and over without having to write it all out again.
+Import your content from other knowledge base services and easily export them from us too.
+Get fuzzy search that matches to article titles, tags, body and more without any set up from you.
+We build in-house templates that help you rank well in search results and make sure your customers get a great experience.
+With the Pro plan you can support customers all over the world from one help center.
+Make your articles readable with callouts and code blocks, or add your own custom HTML blocks.
+Solvo help over 5.5 million people in The Netherlands find, compare, and book medical specialists every month. With this in mind, they needed a solution that was quick to set up and manage.
+With HelpDocs they were able to reduce their support load and save their customers time.
+Sphero is one of the best known consumer robotics companies in the world. Learn about how important the future of education is to them and how they use HelpDocs to keep millions of consumers happy.
+ready2order is a point-of-sale system for small to medium sized companies. This makes it possible for smaller companies to take advantage of the same tools that their bigger competitors use. See how they reduced the strain of support by using HelpDocs.Read the customer story
+Referral Rock are creating a scalable referral mechanism that slots in with your existing marketing channels. We had a chat about the future of marketing, word-of-mouth, and customer experience.Read the customer story
+Keeping a knowledge base updated with the right information is difficult. We make it that little bit easier by providing seamless tools to keep everything in tip-top shape.
+Our drag-and-drop content list makes it super simple to customize the order of categories, subcategories, and articles on your help center.
+Information outdated? Mark it Stale so everyone knows it needs a fresh pair of eyes. You can even set it to go Stale in the future in preparation for product releases.
+Customize the colors, switch out the Open Graph image, add navigation items. We make it a breeze to make it feel right at home next to your site.
+Review how your knowledge base is performing with article views, search insights, and feedback tools. Filter and export to get the data you need.
+Sia leverages underutilized hard drive capacity around the world. They create a data storage marketplace that is more reliable at a lower cost than traditional cloud.
+With HelpDocs they empowered their users to find answers on their own without having to get in touch.
+Connect integrations and make HelpDocs part of your workflow.
+Our Growth plan makes it easier for you to scale your knowledge base. We'll grow with you, no matter how large your company gets.
+Make sure only certain users can see certain docs with advanced permissioning. Use JWT, OpenID Connect, SAML2, or Slack.
+Take the hard work out of translating your help docs with automatic article translations. Tick, click, done.
+Keep an eye on what's happening on your knowledge base with audit trail. Filter by actions taken and more.Learn more
+We understand what you need from a knowledge base, so every plan comes with these handy features (and more!) baked right in.
+There's nothing to configure, they just work outta the box. Hurrah.

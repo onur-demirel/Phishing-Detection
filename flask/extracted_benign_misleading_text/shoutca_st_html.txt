@@ -1,0 +1,89 @@
+FREE
+Free Plan
+- 50MB Auto DJ Storage
+- 2GB Monthly Bandwidth
+- 30 Listeners
+- Centova Cast v3
+- SHOUTcast v2 or Icecast
+- 96KB/s Quality (max.)
+- Ticket Support
+- HTTPS Streaming
+-
+Standard
+Monthly Plan
+- 2GB Auto DJ Storage
+- 10GB Monthly Bandwidth
+- 100 Listeners
+- Centova Cast v3
+- SHOUTcast v2 or Icecast
+- 128KB/s Quality (max.)
+- Ticket Support
+- HTTPS Streaming
+- Extras like #NowPlaying and TuneIn AIR
+Premium
+Monthly Plan
+- 5GB Auto DJ Storage
+- 20GB Monthly Bandwidth
+- 300 Listeners
+- Centova Cast v3
+- SHOUTcast v2 or Icecast
+- 320KB/s Quality (max.)
+- Ticket Support
+- HTTPS Streaming
+- Extras like #NowPlaying and TuneIn AIR
+Pro
+Monthly Plan
+- 20GB Auto DJ Storage
+- Unlimited Bandwidth
+- Unlimited Listeners
+- Centova Cast v3
+- SHOUTcast v2 or Icecast
+- 320KB/s Quality (max.)
+- Ticket Support
+- HTTPS Streaming
+- Extras like #NowPlaying and TuneIn AIR
+Because of changes to App Store policies, we are currently unable to offer iOS apps.
+Starter
+Monthly Plan
+- 5 Accounts
+- 10GB Disk Space
+- Unlimited Bandwidth
+- 1,000 Listeners
+- Centova Cast v3
+- SHOUTcast v2 or Icecast
+- 128KB/s Quality (max.)
+- Ticket Support
+Standard
+Monthly Plan
+- 10 Accounts
+- 30GB Disk Space
+- Unlimited Bandwidth
+- 2,000 Listeners
+- Centova Cast v3
+- SHOUTcast v2 or Icecast
+- 128KB/s Quality (max.)
+- Ticket Support
+Premium
+Monthly Plan
+- 30 Accounts
+- 200GB Disk Space
+- Unlimited Bandwidth
+- 6,000 Listeners
+- Centova Cast v3
+- SHOUTcast v2 or Icecast
+- 320KB/s Quality (max.)
+- Ticket Support
+Pro
+Monthly Plan
+- 50 Accounts
+- 750GB Disk Space
+- Unlimited Bandwidth
+- Unlimited Listeners
+- Centova Cast v3
+- SHOUTcast v2 or Icecast
+- 320KB/s Quality (max.)
+- Ticket Support
+Try the next generation of streaming
+At SHOUTca.st, we care about innovation. That's why we created our own server and control panel from the ground up while keeping the modern, open web in mind.
+Introducing Cast and Control. The base for the next generation of internet radio streaming. Designed to be user friendly without compromising features.
+For £4.50/month, you get a completely unlimited Cast server. Not quite sure yet? Try it free for 14 days.

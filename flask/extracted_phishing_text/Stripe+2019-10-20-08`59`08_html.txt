@@ -1,0 +1,6 @@
+Email
+Password
+Forgot your password?
+Remember me
+Sign in to your account
+Don't have an account? Sign up

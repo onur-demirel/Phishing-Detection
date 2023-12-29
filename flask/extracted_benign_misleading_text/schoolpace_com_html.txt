@@ -1,0 +1,5 @@
+SchoolPace, by American Reading Company
+, is a web-based student achievement dashboard that allows educators to monitor growth and performance in real-time. With SchoolPace, you'll have out-of-the-box access to reports including:
+SchoolPace gives you the flexibility to customize your data collection, performance targets, and demographics by district, school, grade, and time of year.
+For more information, visit the American Reading Company website at:
+www.americanreading.com/products/schoolpace/

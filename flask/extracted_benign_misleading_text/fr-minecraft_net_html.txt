@@ -1,0 +1,8 @@
+Minecraft earth n'est plus en beta fermée! Le jeu est disponible sur le play store et l'app store sans nécessiter d'accréditation. Quelques limitations subsistent encore, toutefois. Plus d'infos et test complet.
+Une nouvelle snpashot est sortie ce mercredi, la version Minecraft Snapshot 19w42a. Cette version corrige de très nombreux bugs, dont certains apportent des changements notable au gameplay. Découvrez tous les changements de cette version dans cette news.
+Une nouvelle snapshot est sortie ce mercredi, la snapshot 19w41a. Cette snapshot inclue de nombreuses nouveautés: la majorité des nouveautés annoncées durant la Minecon pour la version 1.15. Découvrez le test détaillé de toutes les nouveautés apportées par cette snapshot dans cette news.
+Une nouvelle snapshot est sortie ce mercredi, la version Minecraft Snapshot 19w40a. Cette version se concentre sur la correction de bugs, principalement des bugs introduit par le nouveau moteur Blaze 3D que nous avons découvert dans les précédentes snapshots.
+Une nouvelle snapshot de Minecraft Java est sorti vendredi, à la veille de la Minecon. Dans cette snapshot Mojang a intégré la seconde étape de migration vers le nouveau moteur de rendu Blaze 3D. Découvrez les nouveautés apportées par cette snapshot dans cette news.
+Pour Minecraft 1.13.2
+Reproduction fidèle (plus ou moins) d'une cathédrale pas si connue que ça mais tout de même importante.
+2 cœurs, 2 transepts, 3 nefs et bien d'autres vous attendent durant cette plongée dans la culture architecturale gothique !

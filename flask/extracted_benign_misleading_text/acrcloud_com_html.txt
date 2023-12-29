@@ -1,0 +1,27 @@
+Identify Songs Online with Music Recognition Services
+Over 68 million Music Fingerprint Database & 3rd Party IDs Supported
+Monitor Media in Realtime with Broadcast Monitoring Services
+Monitor Music, Ads and Custom Contents on Radio & TV
+TV Channel Detection Services for Interactive TV Apps
+High Concurrency & Low Latency
+Recognise Media Contents on TV for Second Screen Apps
+Enhance TV Loyalty Program via Recognition of TV Contents
+Improve User Experience with Offline Audio Recognition Services
+Recognise Movies, Ads and Other Contents without Network Connection
+Data De-duplication & Copyright Compliance Service
+Refine Media Database & Protect Copyright
+Who We Serve
+Entertainment
+Advertising
+Broadcasting
+Music
+Consumer Electronics
+Trusted by 20,000+ Clients
+What Our Clients Say
+- We found ACRCloud's Live Channel Detection and Music Recognition services to be cutting-edge and our viewers had an awesome experience. So thanks to ACRCloud!Maxel RapheaCEO of Woome
+- ACRCloud's SDK was integrated into BOOMKZ app for providing synchronization between the "BOOM!" TV show and the Second Screen app. Once the app is launched on the mobile device, it recognized the time offset and synced exactly with the show via ACRCloud. The BOOMKZ app then showed the same questions featured o the show to the app user, and gave them a chance to participate in real-time. So users could watch TV show “BOOM!” whenever they want and take part in the quiz using the BOOMKZ Second Screen app in real-time.Max KachinkinProject Manager of Run Mobile
+- ACRCloud has provided us with a robust song recognition service that is fast and accurate. The ability to share songs immediately, without needing to search, is a perfect fit for Peach.Dom HofmannFounder of Peach
+- ACRCloud technology works very well in a theater room, even with background noises. The Second Screen application that we have released is able to synchronize with the movie very quickly and the experience is seamless for the users.Normand ThauvettePresident of Singing Frog Studio
+- ACRCloud enables Omusic‘s members to assemble heart touching melodies and songs as the soundtrack to their lives with its music recognition service.Ivan ChenVP of Omusic
+- We have been using ACRCloud for a few months now and the results we have gotten so far are quite amazing - even being able to recognize some unknown artists in electronic sub-genres. Technically it seems way ahead of other services..quick responding API, well-structured SDKs and a hands-on service that's always open for questions and suggestions.Clemens LermenCEO of Beatmap
+- watiseropderadio.nl is the biggest Dutch company which displays playlist data for all the popular radio stations in the Netherlands. Our customers need to have very accurate data and we deliver this with help of ACRCloud. We use it to continuously recognise music for our radio stations. ACRCloud is a nice addition to recognise the tracks when the playlists of the radio stations are incomplete.Adriaan van RossumFounder of watiseropderadio.nl

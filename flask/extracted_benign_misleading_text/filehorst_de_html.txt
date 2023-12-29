@@ -1,0 +1,29 @@
+Erforderliche Cookies sind deshalb erforderlich, weil die mit ihnen verknüpfte Funktion der Website ohne diese Cookies nicht bereitgestellt werden könnte. Filehorst setzt nur ein einziges solches Cookie ein, welches personenbezogene Daten beinhaltet (in Form eines Zufallswertes, den nur Filehorst versteht). Alle anderen Cookies dieser Art enthalten keine personenbezogenen Daten und sind auch nicht durch ihre Kombination dazu geeignet, einen Besucher zu identifizieren. Dementsprechend sind sie hier nicht aufgeführt. Die Verantwortung für Cookies, die von Partnern
+gesetzt werden, liegt beim jeweiligen Partner
+.
+|Name
+|Anbieter
+|Zweck
+|Ablauf
+|Typ
+|ablgtan
+|filehorst.de
+|Funktionieren des Logins auf Filehorst
+|1 Jahr bei Login mit Angemeldet-Bleiben, sonst bei Schließen des Browsers
+|HTTP(S)
+Präferenz-Cookies ermöglichen es Systemen, sich zu merken, wie dem Besucher die Website angezeigt werden soll - zum Beispiel als Folge Ihrer Einstellungen wie einer präferierten Sprache.
+Alle Präferenz-Cookies, die Filehorst setzt, beinhalten keine personenbezogenen Daten und sind auch nicht durch ihre Kombination dazu geeignet, einen Besucher zu identifizieren. Dementsprechend sind sie hier nicht aufgeführt. Die Verantwortung für Cookies, die von Partnern
+gesetzt werden, liegt beim jeweiligen Partner
+.
+Statistik-Cookies helfen Webseiten-Betreibern, Besucher-Interaktionen nachzuvollziehen und zu verstehen.
+Alle Statistik-Cookies, die Filehorst setzt, beinhalten keine personenbezogenen Daten und sind auch nicht durch ihre Kombination dazu geeignet, einen Besucher zu identifizieren. Dementsprechend sind sie hier nicht aufgeführt. Die Verantwortung für Cookies, die von Partnern
+gesetzt werden, liegt beim jeweiligen Partner
+.
+Marketing-Cookies helfen Webseiten, die Interessen ihrer Besucher zu verstehen, um die Präsentation von Produkten besser, das heißt individualisiert gestalten zu können.
+Alle Marketing-Cookies, die Filehorst setzt, beinhalten keine personenbezogenen Daten und sind auch nicht durch ihre Kombination dazu geeignet, einen Besucher zu identifizieren. Dementsprechend sind sie hier nicht aufgeführt. Die Verantwortung für Cookies, die von Partnern
+gesetzt werden, liegt beim jeweiligen Partner
+.
+Alle sonstigen Cookies, die Filehorst setzt, beinhalten keine personenbezogenen Daten und sind auch nicht durch ihre Kombination dazu geeignet, einen Besucher zu identifizieren. Dementsprechend sind sie hier nicht aufgeführt. Die Verantwortung für Cookies, die von Partnern
+gesetzt werden, liegt beim jeweiligen Partner
+.
+Cookies sind Textinformationen, die von Webseiten benutzt werden, um Auswertungen zu machen, Funktionen bereitzustellen und generell die Benutzererfahrung zu verbessern. Das Gesetz erlaubt ein Speichern von Cookies auf deinem Gerät, wenn es für den Betrieb der Webseite erforderlich ist. Für nicht erforderliche Cookies bräuchten wir deine Einwilligung. Cookies werden von Browsern in der Regel standardmäßig zugelassen, was auch sinnvoll ist. Du kannst diese Einstellung aber in deinem Browser ändern und Cookies teilweise oder ganz blockieren. Informationen dazu findest du auf der Webseite deines Browser-Herstellers.

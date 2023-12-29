@@ -1,0 +1,14 @@
+Popular Use Cases
+What is a pattern?
+A pattern is a general reusable solution to a commonly occurring problem.
+In Microsoft Excel, you use patterns every day to build tables, charts, reports, dashboards, and more.
+DAX Patterns is a collection of ready-to-use data models and formulas in DAX, which is the programming language of Power Pivot. Create your Excel data model faster by using a DAX pattern!
+Are you looking for a way to calculate inventory stock based on the history of inventory movement?
+No problem, use our Cumulative Total pattern!
+Looking for something else?
+Designed for Microsoft Excel, Power Pivot, and Analysis Services
+We provide sample workbooks in Excel for all the patterns. Versions are available for Excel 2010 and Excel 2013, so no need to convert them.
+You also can use the DAX patterns in the Analysis Services Tabular model. Just create a new project by importing the Power Pivot data model included in the sample Excel files provided with the DAX pattern.
+We collected all the patterns in a book!
+We collected in a book all the patterns published on this web site. An easy reference also when you are offline. Available as Paperback and eBook (Kindle and iBooks).
+We love business intelligence and over the years have gained deep knowledge about Microsoft BI technologies that we want to share with you.

@@ -1,0 +1,290 @@
+Bacillus Thuringiensis in Horticulture
+One of the best natural pesticides a grower can use against pest insects is a naturally occurring bacteria called bacillus thuringiensis...
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|__cfduid [x2]
+|browser-update.org
+pthorticulture.com
+|Used by the content network, Cloudflare, to identify trusted web traffic.
+|1 year
+|HTTP
+|__RequestVerificationToken
+|maximumyield.com
+|Helps prevent Cross-Site Request Forgery (CSRF) attacks.
+|Session
+|HTTP
+|ageGate
+|maximumyield.com
+|Retains the user entered DOB for the Age Gate. The Age Gate is s check put in place to ensure user's under 19 years of age cannot access site content.
+|45 days
+|HTTP
+|ASP.NET_SessionId
+|maximumyield.com
+|Preserves the visitor's session state across page requests.
+|Session
+|HTTP
+|CookieConsent
+|maximumyield.com
+|Stores the user's cookie consent state for the current domain
+|1 year
+|HTTP
+|We do not use cookies of this type
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|collect
+|google-analytics.com
+|Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+|Session
+|Pixel
+|__qca
+|maximumyield.com
+|Collects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.
+|1 year
+|HTTP
+|_ga
+|maximumyield.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|2 years
+|HTTP
+|_gat
+|maximumyield.com
+|Used by Google Analytics to throttle request rate
+|1 day
+|HTTP
+|_gid
+|maximumyield.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|1 day
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|r/collect
+|doubleclick.net
+|This cookie is used to send data to Google Analytics about the visitor's device and behavior. It tracks the visitor across devices and marketing channels.
+|Session
+|Pixel
+|test_cookie
+|doubleclick.net
+|Used to check if the user's browser supports cookies.
+|1 day
+|HTTP
+|NID
+|google.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|6 months
+|HTTP
+|rc::c
+|google.com
+|This cookie is used to distinguish between humans and bots.
+|Session
+|HTML
+|pcs/activeview
+|googlesyndication.com
+|Used by DoubleClick to determine whether website advertisement has been properly displayed - This is done to make their marketing efforts more efficient.
+|Session
+|Pixel
+|google_experiment_mod
+|maximumyield.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|Persistent
+|HTML
+|google_experiment_mod5
+|maximumyield.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|Persistent
+|HTML
+|google_experiment_mod6
+|maximumyield.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|Persistent
+|HTML
+|google_experiment_mod7
+|maximumyield.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|Persistent
+|HTML
+|GoogleAdServingTest
+|maximumyield.com
+|Used to register what ads have been displayed to the user.
+|Session
+|HTTP
+|mc
+|quantserve.com
+|Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads.
+|13 months
+|HTTP
+|vuid
+|vimeo.com
+|Collects data on the user's visits to the website, such as which pages have been read.
+|2 years
+|HTTP
+|GPS
+|youtube.com
+|Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+|1 day
+|HTTP
+|PREF
+|youtube.com
+|Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+|8 months
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+|179 days
+|HTTP
+|YSC
+|youtube.com
+|Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|__ab12#
+|maximumyield.com
+|Pending
+|2 years
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|google_experiment_mod11
+|maximumyield.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod12
+|maximumyield.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod13
+|maximumyield.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod14
+|maximumyield.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod15
+|maximumyield.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod16
+|maximumyield.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod17
+|maximumyield.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod18
+|maximumyield.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod19
+|maximumyield.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod21
+|maximumyield.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod4
+|maximumyield.com
+|Pending
+|Persistent
+|HTML
+|google_pem_mod
+|maximumyield.com
+|Pending
+|Persistent
+|HTML
+|lscache-pagevisit
+|maximumyield.com
+|Pending
+|Persistent
+|HTML
+|lscache-pagevisit-cacheexpiration
+|maximumyield.com
+|Pending
+|Persistent
+|HTML
+|MAXYIELDASPXANONYMOUS
+|maximumyield.com
+|Pending
+|1 year
+|HTTP
+One of the best natural pesticides a grower can use against pest insects is a naturally occurring bacteria called bacillus thuringiensis...
+Air purification is one of the most overlooked variables of an indoor garden because most airborne pathogens are invisible, but ignoring this factor could invite all...
+New to extracts and concentrates? Don’t stress. Monica Mansfield explains the many ways to consume these products depending on the experience you’re looking for.
+Sometimes, plants just don’t thrive under artificial lights, even when every aspect of the indoor growing environment is perfect. It's important to go back to basics and...
+Despite gaining a lot of traction in recent years, most people still know very little about CBD. Many are ignorant to the fact that it comes from hemp and that it can be...
+By growing autoflowering marijuana plants, novice growers can enjoy yields faster. Decide whether autoflowering is right for you with these 3 pros and cons to...
+What should you do when fish hit their heads on the walls? When growing fish for food in aquaponics, it's important to consider 3 major stress factors.
+Sativa, indica, or ruderalis? With hundreds of different cannabis strain out there, it's important to pick the strain with the right personality for you.
+One of the most effective ways to boost microbial populations in your soil or hydroponic system is through the periodic application of compost teas.
+As cannabis consumption continues to grow in popularity, microdosing is emerging as another popular trend. But just what exactly is cannabis microdosing? Explore the 3...
+There several ways to extract compounds from the cannabis plant. Chris Bond reviews some of the key extraction methods plus the benefits and pitfalls that come with them.
+So, you’ve decided to give hydroponic gardening a try. Now what? First of all, you need to decide which hydroponic system to use.
+With plenty of LED grow lights to choose from, it’s hard to find the best value for the buck. Max Bjermo offers some insights in finding good lights on a tight budget.
+Whiteflies are one of the most persistent and damaging pests to infiltrate indoor gardens and greenhouses. Luckily, Dr. Lynette Morgan has some tips to help you win the...
+When plants become overheated, they begin to show signs of stress. Heat stress can result in spindly young plants and mature plants that fail to flower or fruit properly...
+Visiting your favorite grow store doesn't have to be expensive. Although gardening can end up costing a pretty penny, you can lower you bill by following these 10 tips...
+Thank you for your question. Maintaining the optimal nutrient concentration in a hydroponic system will allow your plants to continue to perform to their full potential....
+Good question.Lately there have been articles stating that cannabis use can cause psychosis and even schizophrenia. For example, the New York Times recently published an...
+You’ve already hit the nail on the head, because one of the biggest benefits of rosin extraction is how easy it is to do yourself, in fresh batches and in the...
+This is short question with a long answer.It may be true that a 10K finisher lamp adds “lots of UV,” but it is important to ask what this means. Several...
+This is a rather difficult question as the absorption of magnesium from different magnesium-containing compounds by humans is not only biochemically complex but still...

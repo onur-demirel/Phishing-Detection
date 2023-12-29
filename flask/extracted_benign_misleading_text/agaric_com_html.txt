@@ -1,0 +1,15 @@
+Building the open web
+We are Agaric, a worker-owned cooperative. We build websites and online tools that respect your freedom. We provide training and consultation to meet your goals.
+Find out how Agaric can help you gain power over your online technology.
+Work
+MASS Design Group
+Researching, building, and advocating for architecture that promotes justice and human dignity.
+Blog
+Introduction to Drupal 8 upgrades
+Although we covered a lot of ground, we only scratched the surface. To wrap up the series, we present an introduction to a very popular topic: Drupal upgrades. Note: In this article, when we talk about Drupal 7, the same applies for Drupal 6.
+List of migration related Drupal modules
+When one starts working with migrations, it is easy to be overwhelmed by so many modules providing migration functionality. Today’s article presents a list of migration related Drupal modules for quick reference.
+How to configure XDebug, PHPStorm, and DrupalVM to debug Drupal migrations via Drush commands and the browser
+In recent articles, we have presented some recommendations and tools to debug Drupal migrations. Using a proper debugger is definitely the best way to debug Drupal be it migrations or other substems.
+How to debug Drupal migrations - Part 2
+Today, we are going to show how to use the Migrate Devel module and the <code>debug</code> process plugin. Then we will give some guidelines on using a real debugger like XDebug. Next, we will share tips so you get used to migration errors.

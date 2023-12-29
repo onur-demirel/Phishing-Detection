@@ -1,0 +1,200 @@
+Continent
+- Africa
+- America
+- Asia
+- Europe
+- Oceania
+Country/Language
+Africa
+- Algeria
+- Angola
+- Benin
+- Botswana
+- Burkina Faso
+- Burundi
+- Cameroon
+- Cape Verde
+- Central African Republic
+- Chad
+- Comoros
+- Congo
+- Djibouti
+- Egypt
+- Eritrea
+- Ethiopia
+- Gabon
+- Gambia
+- Ghana
+- Guinea Ecuatorial
+- Guinea Republic
+- Guinea - Bissau
+- Ivory Coast
+- Kenya
+- Lesotho
+- Liberia
+- Libya
+- Madagascar
+- Malawi
+- Mali
+- Mauritania
+- Mauritius
+- Morocco
+- Mozambique
+- Namibia
+- Niger
+- Nigeria
+- Rwanda
+- Sao Tome and Principe
+- Senegal
+- Seychelles
+- Sierra Leone
+- Somalia
+- South Africa (English)
+- South Africa (Portuguese)
+- Sudan
+- Swaziland
+- Tanzania
+- Togo
+- Tunisia
+- Uganda
+- Zambia
+- Zimbabwe
+America
+- Argentina
+- Belize
+- Bolivia
+- Brazil
+- Canada
+- Chile
+- Colombia
+- Costa Rica
+- Cuba
+- Dominican Republic
+- Ecuador
+- El Salvador
+- Falkland Islands
+- French Guiana
+- Guadeloupe
+- Guatemala
+- Haiti
+- Honduras
+- Martinique
+- Mexico
+- Nicaragua
+- Panama
+- Paraguay
+- Peru
+- Saint Barthélemy
+- Saint Martin
+- Suriname
+- United States of America
+- Uruguay
+- Venezuela
+Asia
+- Afghanistan
+- Bahrain
+- Bangladesh
+- Bhutan
+- Brunei Darussalam
+- Cambodia
+- China (English)
+- China
+- Hong Kong (English)
+- Hong Kong
+- India
+- Indonesia
+- Iran
+- Iraq
+- Israel
+- Japan
+- Jordan
+- Kazakhstan
+- Kuwait
+- Kyrgyzstan
+- Laos
+- Lebanon
+- Macao (English)
+- Macao
+- Malaysia
+- Maldives
+- Mongolia (English)
+- Mongolia
+- Myanmar, Burma
+- Nepal
+- North-Korea
+- Oman
+- Pakistan
+- Philippines
+- Qatar
+- Saudi Arabia
+- Singapore
+- South-Korea
+- Sri Lanka
+- Syria
+- Taiwan (English)
+- Taiwan
+- Tajikistan
+- Thailand
+- Turkmenistan
+- United Arab Emirates
+- Uzbekistan
+- Vietnam
+- Yemen
+Europe
+- Albania
+- Andorra
+- Armenia
+- Austria
+- Azerbaijan
+- Belarus
+- Belgium (Deutsch)
+- Belgium (English)
+- Belgium (Français)
+- Belgium (Nederlands)
+- Bosnia and Herzegovina
+- Bulgaria
+- Canary Islands
+- Croatia
+- Cyprus
+- Czech Republic
+- Denmark
+- Estonia
+- Faroe Islands
+- Finland
+- France & Dom-Tom
+- Georgia
+- Germany
+- Gibraltar
+- Greece
+- Greenland
+- Guernsey
+- Hungary
+- Iceland
+- Ireland
+- Isle of Man
+- Italy
+- Jersey
+- Latvia
+- Lithuania
+- Luxembourg
+- Macedonia
+- Malta
+- Moldova
+- Monaco
+- Montenegro
+- Netherlands
+- Norway
+- Poland
+- Portugal
+- Romania
+- Russia
+- San Marino
+- Serbia
+- Slovakia
+- Slovenia
+- Spain
+- Sweden
+- Switzerland
+- Turkey
+- Ukraine
+- United Kingdom

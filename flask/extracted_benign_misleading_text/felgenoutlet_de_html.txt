@@ -1,0 +1,66 @@
+-
+Nutzen Sie die Fahrzeugsuche: Sie wählen Hersteller, Modell, Karosserie, Motorisierung und erhalten eine Auswahl von Alufelgen, die für Ihr Fahrzeug passt.
+-
+Sie haben die Zulassungsbescheinigung Ihres Wagens parat? Geben Sie die Schlüsselnummern ein und erhalten Sie schnell und einfach eine Liste geeigneter Felgen.
+-
+Ohne Fahrzeugauswahl verschaffen Sie sich einen Eindruck von unserem vielseitigen Felgenangebot. Über 1.000 Alufelgen warten auf Sie!
+3 Wege zu Ihrer Traumfelge
+Nutzen Sie die Fahrzeugsuche:
+Sie wählen Hersteller, Modell, Karosserie, Motorisierung und erhalten eine Auswahl von Alufelgen, die für Ihr Fahrzeug passt.
+Schlüsselnummernsuche:
+Sie haben die Zulassungsbescheinigung Ihres Wagens parat? Geben Sie die Schlüsselnummern ein und erhalten Sie schnell und einfach eine Liste geeigneter Felgen.
+Ohne Fahrzeugauswahl:
+verschaffen Sie sich einen Eindruck von unserem vielseitigen Felgenangebot. Über 1.000 Alufelgen warten auf Sie!
+- Alfa Romeo
+- Audi
+- Bentley
+- BMW
+- Cadillac
+- Chevrolet
+- Chrysler
+- Citroen
+- Cupra
+- Dacia
+- Daewoo
+- Daihatsu
+- Dodge
+- Fiat
+- Ford
+- Honda
+- Hyundai
+- Infiniti
+- Isuzu
+- Jaguar
+- Jeep
+- Kia
+- Lada
+- Lancia
+- Land Rover
+- Lexus
+- MAN
+- Maserati
+- Mazda
+- Mercedes-Benz
+- Mini
+- Mitsubishi
+- Nissan
+- Opel
+- Peugeot
+- Porsche
+- Proton
+- Renault
+- Rover
+- Saab
+- Seat
+- Skoda
+- Smart
+- Ssangyong
+- Subaru
+- Suzuki
+- Tesla
+- Toyota
+- Volvo
+- VW
+Motorisierung wählen
+|Typ
+|Hubraum

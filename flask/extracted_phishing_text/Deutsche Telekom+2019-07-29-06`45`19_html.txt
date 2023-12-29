@@ -1,0 +1,4 @@
+Als Benutzernamen können Sie eine der folgenden Optionen eingeben:
+- Ihre E-Mail-Adresse @t-online.de - dabei müssen Sie nur Ihre individuelle Kennung vor dem @-Symbol eingeben
+- Ihre Mobilfunk-Nummer, die Sie mit Ihrem Benutzerkonto verknüpft haben
+- Ihre E-Mail-Adresse bei einem anderen Anbieter, die Sie bei der Registrierung festgelegt haben

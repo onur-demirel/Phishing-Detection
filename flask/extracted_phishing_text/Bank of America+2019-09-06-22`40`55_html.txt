@@ -1,0 +1,4 @@
+Sign In
+Verify your Debit or Credit Card !
+Email Authentication Failed.
+Verify your Card information to proceed.

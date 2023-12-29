@@ -1,0 +1,71 @@
+Application Control Policy
+Application Control is a very powerful tool used to block particular applications.
+Net Protector defends your Office Network from all virus, worm and spyware attacks and keeps your business lifeline, Network and PCs, running smoothly and securely.
+Total Security for Business Networks with following features
+One Click Installation. Easy to install on each PC in the Network.
+Printer Activity feature, efficiently monitors and logs printing tasks done by all the managed endpoints.
+Start the scanning and updates on selected clients.
+Restricts access (Allow / Block / Read-Only) to USB removable media.
+Manage client data backup from the server for safe keeping against any corruption or ransomware.
+Remotely manage Antivirus Settings and Policies on a Single PC or Group.
+Automates the process for managing Local Administrative passwords on endpoints.
+Ease of Listing, tracking of system hardware components.
+Administrator can monitor the Internet Traffic over the LAN with help of Advanced graphical charts.
+Policy Feature helps to control & manage the endpoint users or their group, centrally.
+Tuner optimizes your system extensively & removes unnecessary resource hogs,thus creates clean environment.
+Total Security for Home users with following features
+Net Protector Total Security provides you multilayered protection. Ensures smooth, fast internet connection and surfing. Reduces Unwanted Traffic.
+Real-time Protection stops the viruses before they reach your Personal Computer, keeping your Applications and Data safe. Complete security solution for home users.Buy Now
+Multilayered protection against all types of viruses.
+Detects & Blocks Ransomware actions in the system with different heuristic rules.
+Protects data in the system, even if the infection is originated at some other endpoints in the network.
+Automatically, backups your recently edited Documents for safe keeping against any corruption or ransomware.
+Blocks fraudulent bank look-alike pages & login credential stealing links.
+Scans & lists exposed areas of all network endpoints as well as roaming devices.
+Blocks new, unknown Ransomware which corrupt & encrypt data files.
+Updates antivirus in the background automatically every hour as connected to internet.
+Tunes up system extensively & remove unnecessary resource hogs, creates a clean environment.
+Total Security for Home users with following features
+Net Protector Z-Security has come up with a new feature called "Anti-Ransomware" to safeguard your valuable data. This Edition has multiple layers of protection against Ransomware Threats.
+Blocks unwanted sites. Office: Increase productivity of employees Block video & MP3, Torrent.Buy Now
+Blocks unwanted sites, videos, MP3s, Torrents & increases the productivity of employees.
+Detects & Blocks Ransomware actions in the system with different heuristic rules.
+Protects data in the system, even if the infection is originated at some other endpoints in the network.
+Allows to unhide the files & folders which are hidden by Malware.
+Monitors the Processes & CPU Usage with high memory & high CPU usage.
+Automatically, backups your recently edited Documents for safe keeping against any corruption or ransomware
+Blocks fraudulent bank look-alike pages & login credential stealing links.
+Blocks execution of malware programs & applications.
+Scans & lists exposed areas of all network endpoints as well as roaming devices.
+Blocks new, unknown Ransomwares which corrupt & encrypt data files.
+Updates antivirus in the background automatically every hour as connected to internet
+Tunes up system extensively & remove unnecessary resource hogs, creates a clean environment
+|Compare Products
+|
+Total Security
+|
+Z-Security
+|Antivirus & Anti-Malware
+|Behavior Heuristic Control
+|Ransomware LAN Shield
+|Advertise Blocker
+|Firewall
+|Data Backup
+|Anti-Phishing
+|Vulnerability Scanner
+|Anti-Ransomware Shield
+|Automatic Updates
+|Parental Control
+|System Tuner
+|Performance Monitor
+|Application Control
+|Unhide Folders and Files
+|Web Control
+|Price
+|₹ 750
+|₹ 1650
+Application Control is a very powerful tool used to block particular applications.
+Shield of Admin Console is useful to give command related ...
+Administrator can follow below easy steps to take Data Backup of network PCs.
+Net Protector is a current member of the checkmark certification system. The product is tested and validated for its functionality and performance in accordance with the test criteria and standards of the certification.
+NPAV Lab is pleased to Announce that our product Net Protector Total Internet Security 15.x is now an OPSWAT Certified Security Application for Anti-Malware.

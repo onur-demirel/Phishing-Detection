@@ -1,0 +1,21 @@
+Uploadir
+Toggle navigation
+Home
+Sign Up
+Sign In
+Uploadir is a free service to share, store and manage your files in a web based interface.
+Click or drop files to upload
+All file extensions are supported with a maximum size of
+MB
+Uploads
+{{name}}
+Copy URL
+Delete
+Share
+Share
+Share
+No files to upload
+Copy All URLs
+Application
+Windows
+Download

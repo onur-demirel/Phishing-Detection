@@ -1,0 +1,55 @@
+Toggle navigation
+Login
+Register
+EMPLOYER
+Post Jobs
+($1/day)
+JOB SEEKER
+My Profile
+View Samples
+Job Search
+Create Resume
+JOBS
+COMPANIES
+PROFILE
+in
+Allow my location.
+Change browser setting
+Find Jobs
+Accounting
+Administrative Assistant
+Marketing
+Farm
+Architect
+Designer
+Auto Mechanic
+Banking
+Chemical Engineer
+Construction
+Customer Service
+Driver
+Teacher
+Massage Therapist
+Nurse
+Concierge
+Recruiter
+Insurance Agent
+Software Engineer
+Security Officer
+Legal Assistant
+Manufacturing
+Editor
+Leasing Consultant
+Server
+Retail Sales Associate
+Sales Associate
+Environmental Specialist
+Social Worker
+Personal Trainer
+Veterinary Technician
+Dispatcher
+Login
+Location_Text = United Kingdom
+BrowserLocation_Text =
+Share your location
+Get job listings that are relevant to you

@@ -1,0 +1,10 @@
+仮想通貨ビットコインで実現
+VALUは、ビットコイン・OpenAssetプロトコルを使うことで実現しました。
+これにより簡単・安全にVALUのやりとりをインターネット上で実現することができます。
+取引にはビットコイン(BTC)を用い、トークンの発行にはOpenAssetプロトコルを利用します。
+取引所の機能もあるので、難しいことを気にせず、シームレスに参加できます。
+Made with Crypto Currency Bitcoin
+VALU is created with Bitcoin and Open Assets Protocol,
+ensuring that online trading is safe and secure.
+Trading is made through Bitcoin (BTC), and tokens are issued via Open Assets Protocol.
+With the function of stock exchange.

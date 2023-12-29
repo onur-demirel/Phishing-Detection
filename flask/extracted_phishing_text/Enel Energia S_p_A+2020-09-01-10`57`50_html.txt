@@ -1,0 +1,20 @@
+Pago de cuenta al 50%
+1
+Pago en línea Información de la cuenta a pagar
+Número de cuenta
+Dirección
+Fecha de vencimiento
+Fecha último pago
+Fecha de corte
+Monto último pago
+Estado del suministro
+2
+Monto a pagar
+Tu cuenta se encuentra sin deuda
+3
+Selecciona el medio de pago
+Información Importante
+1. Antes de iniciar el proceso de pago, verifica que tu navegador permita mostrar ventanas emergentes
+2. Un vez finalizado el pago, podras descargar o enviar por mail el comprobante de transacción
+3. Recuerda conservar el comprobante de pago
+4. Ante cualquier duda, contáctanos a través de cualquiera de nuestros canales de atención.

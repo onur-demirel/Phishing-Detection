@@ -1,0 +1,99 @@
+Welcome to SysTutorials – posts on Linux, systems and more! Here you can find posts on Linux, Systems, Software and Programming topics.
+Tutorials: Latest | Latest updated | Most viewed | All
+QA: Ask a question
+Manuals: Linux Man Pages | Linux Kernels
+Tools: What is My IP?
+Latest SysTutorials tutorials ∞
+To get updated when new posts are published? Subscribe here.
+- How to Synchronize Thunderbird Calendar and Address Book with Office365 Exchange Online using ActiveSyncPosted on Saturday October 05, 2019Thunderbird is a nice email client available on Linux and Windows. With the Lightning plugin, Thunderbird can support calendar functions well. Exchange is a widely used email and calendar/address book service software. Office 365 provide the cloud version of Exchange named Office 365 Exchange Online. Although Exchange Online provide IMAP for synchronizing emails, it provides […] The post How to Synchronize Thunderbird Calendar and Address Book with Office365 Exchange Online using ActiveSync appeared first on SysTutorials. Continue Reading »
+- After the recent iOS upgrading to version 13, many older iPhones such as iPhone 8 turn to be running slower, although there are many new features. New features and functions use more CPU/GPU/memory and the iOS may run slower. But are there any methods to make it run faster? After quite some research and testing, […] The post How to Make iPhone with iOS 13 Faster appeared first on SysTutorials. Continue Reading »
+- Google has created an image that tells us its core values are centered around innovation. There are very few companies that can boast a similar level of influence as Google. Nevertheless, we should not only focus on Google’s achievements today but also learn from their journey to the top. We can break down Google’s core […] The post What Are the Secrets Behind Google’s Success Story? appeared first on SysTutorials. Continue Reading »
+- Cloud technology is one of the latest forms of technology. A cloud is a place where exactly the data is stored. Also, the cloud is the place where the data is managed and processed. Cloud ensures that the data managed on a cluster or the network of servers. All of these servers are available remotely […] The post The cultural impact of cloud technology appeared first on SysTutorials. Continue Reading »
+- Big Data has taken a lead in the IT industry and has played a significant role in the Business growth and decision-making processes that gives you an edge over the competitors. This is equally applicable to the organizations as well as professionals existing in the analytics domain. Big Data Analytics bring an ocean of opportunities […] The post What is the Future of Big Data Analytics and Hadoop? appeared first on SysTutorials. Continue Reading »
+- The Windows user name can be changed according to the user’s needs and requirement. The Windows 10 Windows Settings tool interface keeps changing after updates. It is a little hard to find out the tool to do the user name changing. One way to change Windows user name is to do it through the Computer […] The post How to Change Windows User Name on Windows 10 Using Computer Management appeared first on SysTutorials. Continue Reading »
+- Static linking is preferred for some cases although it has its own various problems. Static building/linking is not always possible for some languages on some platform. For OCaml, the answer to this question is yes. In this post, we will introduce 2 methods to statically linking OCaml: static linking with runtime glibc required and static […] The post How to Statically Link OCaml Programs appeared first on SysTutorials. Continue Reading »
+- The world of technology has evolved drastically over the last few decades. Almost every aspect of our lives is dominated by technology. At the heart of technology lies computer programming. Computer programming is what dictates the success of the technology. I mean think about it, your smartphone, PC, ETC they all rely on programming. This […] The post 5 necessary PC hardware that a programmer needs to upgrade appeared first on SysTutorials. Continue Reading »
+- Linux is the most used and well-known open-source operating system for computers, mobile devices, servers, and mainframes, etc. Linux has so many awesome features to serve its users like Live CD/USB. And it is fast, easy and free to use by computers around the world. The kernel is referred to as the essential component of […] The post New Linux Kernel 5.0: Features and Improvements appeared first on SysTutorials. Continue Reading »
+- If a team with many accounts share and manages the virtual machines under that same AWS accounts, it is a common practice to limit AWS EC2 accounts’ access to view or start all VMs yet stop only certain VMs. For example, one account has 50 VMs tagged "prod" while 25 VMs tagged "dev". The developers […] The post How to limit shared AWS EC2 accounts’ access to view and start all VMs yet stop only certain VMs appeared first on SysTutorials. Continue Reading »
+- Java is the most regularly used programming language for the creation of web applications. This high-level programming language develops by the Sun Micro-system. This language was designed for use in the world of internet and known for fastest, secure, and most reliable language of the computing platform. One interesting fact is that Java programmers are […] The post What can we expect in Java update 2019? appeared first on SysTutorials. Continue Reading »
+- How to enlarge root partition and filesystem size of cloud Linux VM at runtime without rebooting LinuxPosted on Saturday December 29, 2018It is common that the root disk space is not enough when running a Virtual Machine in the cloud such as Amazon Web Service (AWS). The cloud storage usually provides tools or facilities to enlarge a virtual disk size. However, to make the Linux recognize and and use the enlarged disks without rebooting the OS, […] The post How to enlarge root partition and filesystem size of cloud Linux VM at runtime without rebooting Linux appeared first on SysTutorials. Continue Reading »
+- Reading: Years in Big Data. Months with Apache Flink. 5 Early Observations With Stream Processing: https://data-artisans.com/blog/early-observations-apache-flink. The article suggest adopting the right solution, Flink, for big data processing. Flink is interesting and built for stream processing. The broader view and take away may be to solve problems using the right solution. We saw many painful […] The post Do big data stream processing in the stream way appeared first on SysTutorials. Continue Reading »
+- Google Drive is a nice cloud storage service. It provides a suite of nice online document spreadsheet and slide editors Google Docs, Google Sheets and Google Slides. The collaborative editing and full history tracking features of Google Docs are excellent. Google Drive gives 16GB free storage which is pretty much larger compared to other free […] The post How to set up Insync to synchronize Google Drive and Google Docs files in Ubuntu 18.04 Linux appeared first on SysTutorials. Continue Reading »
+- Thunderbird is powerful and feature rich. But different users have different needs and it is not feasible to include all features into the base software, where a plugin system shines. Thunderbird, similar to Firefox from Mozilla, supports addons/plugins and has a large ecosystems. Here, we will introduce several addons to Thunderbird that make Thunderbird easier […] The post Thunderbird Addons to Make Thunderbird Easier to Use appeared first on SysTutorials. Continue Reading »
+- Sparse files are common in Linux/Unix and are also supported by Windows (e.g. NTFS) and macOSes (e.g. HFS+). Sparse files uses storage efficiently when the files have a lot of holes (contiguous ranges of bytes having the value of zero) by storing only metadata for the holes instead of using real disk blocks. They are […] The post Handling Sparse Files on Linux appeared first on SysTutorials. Continue Reading »
+- We may want to add some swap space for a Linux box while only find that all disk space is partitioned and mounted. Some partition has large available free space. For such cases, we may not want to change the partition allocation. The solution may be to add a file based swap for Linux as […] The post How to Add a File Based Swap for Linux appeared first on SysTutorials. Continue Reading »
+- I test it for qcow2 format. Other formats are TBA. qemu-img resize kvm1.qcow2 +20G cp kvm1.qcow2 kvm1-orig.qcow2 virt-resize --expand /dev/sda1 kvm1-orig.qcow2 kvm1.qcow2 Reference: https://fatmin.com/2016/12/20/how-to-resize-a-qcow2-image-and-filesystem-with-virt-resize/ I test it for qcow2 format. Other formats are TBA. qemu-img resize kvm1.qcow2 +20G cp kvm1.qcow2 kvm1-orig.qcow2 virt-resize --expand /dev/sda1 kvm1-orig.qcow2 kvm1.qcow2 Reference: https://fatmin.com/2016/12/20/how-to-resize-a-qcow2-image-and-filesystem-with-virt-resize/ Answered by harryxiyou. The post How to resize a virtual disk of KVM appeared first on SysTutorials. Continue Reading »
+- C++11 requires that lambda function parameters be declared with concrete types. This is sometimes annoying. auto is really nice, especially when the type is complex like std::vector<std::string>::iterator is quite long to type. I know C++14 allows auto in lambda functions. But how to not use concrete types in lambda function parameters in C++11? In C++11, […] The post How to not use concrete types in lambda function parameters in C++11? appeared first on SysTutorials. Continue Reading »
+- Vim seems not indent C++11 lambas very well. How to make Vim indent C++11 lambdas correctly? For this following program, Vim indents it as #include <iostream> #include <string> #include <vector> #include <algorithm> int main () { std::vector<std::string> strs({"one", "two"}); std::vector<std::string> newstrs; std::transform(strs.begin(), strs.end(), std::back_inserter(newstrs), [](const std::string& s) -> std::string { if (s == "one") { […] The post How to make Vim indent C++11 lambdas correctly? appeared first on SysTutorials. Continue Reading »
+Most viewed tutorials ∞
+- Port Forwarding Using iptables
+- iPhone Connecting to Internet Using Windows PC’s Network through USB Cable
+- HP Compaq BIOS Crisis Recovery from a Failed BIOS Flashing Using a USB Flash Disk
+- Sending Email Using mailx in Linux Through Internal SMTP
+- How to Send Email from mailx Command in Linux Using Gmail’s SMTP
+- How to Change Linux User’s Password in One Command Line
+- Setting Up Gateway Using iptables and route on Linux
+- Proxy Using SSH Tunnel
+- Extending a Mounted Ext4 File System on LVM in Linux
+- How to Configure iOS to Use Socks Proxy over SSH with a Linux/Unix Host
+- Setting Up Git Commit Email Notifications
+- Hadoop Installation Tutorial (Hadoop 2.x)
+- Howto: Git Server over SSH
+- Setting Default Entry in Grub2 and Grub
+- Improving ssh/scp Performance by Choosing Suitable Ciphers
+- Shrinking an Ext4 File System on LVM in Linux
+- How to Make GPT Partition Table and Create Partitions with parted on Linux
+- How to Install, Run and Uninstall VMware Player and VirtualBox on Fedora Linux
+- How to Statically Link C and C++ Programs on Linux with gcc
+- Bypassing Bad fstab Failure When Booting Linux
+- Windows 7 MAK Activation
+- Colossus: Successor to the Google File System (GFS)
+- Starting KDE from Command Line by startx
+- Configuring Linux Kernel Video Mode for 32-bit and 16-bit Boot Protocols
+- Fixing Ports Used by NFSv3 Server
+- Setting MATE as Default Desktop Environment for startx on Fedora
+- How to Install MS Office 2007 on Linux using Wine
+- How to Get Available Filesystem Space on Linux: a C Function with a C++ Example
+- Generating Mixed Source and Assembly List using GCC
+- How to Add Google to Firefox in Linux Mint as Default Search Engine
+- A posix_spawn Example in C to Create Child Process on Linux
+- How to Run a cron Job Every Two Weeks / Months / Days
+- A Simple Makefile for Latex
+- Free VPNs for iPhone Users: OpenVPN + Ovpn Spider
+- Uploading Large Files to Amazon S3 with AWS CLI
+- How to Find Out the Firmware Version in Linux
+- Installing Specific Old Versions of Packages in Yum
+- How to Configure the Latest Version of Flash on Firefox for Linux: by the Fresh Player Plugin
+- Making dnf/yum Not Update Certain Packages
+- Managing Xen Dom0′s CPU and Memory
+- How to Install MPlayer and MEncoder on Fedora
+- Hadoop TeraSort Benchmark
+- Unified Linux Login and Home Directory Using OpenLDAP and NFS/automount
+- Linux: Format / Erase DVD+RW / DVD-RW Disks
+- ASCII Table and ASCII Code
+- Linux Setting Date, Time and Timezone
+- How to Revert Changes in Git
+- How to Set Up RAID0 in MegaRAID BIOS with New Disks
+Latest updated tutorials ∞
+- How to process a file line by line in C++? Oct 16, 2019
+- Any suggestion on the hosting service Oct 12, 2019
+- Pass-less ssh auto-login problem Oct 11, 2019
+- How to tune systems to achieve high performance in virtualization circumstances? Oct 9, 2019
+- Problems during Installing Xen Dom0 in Fedora Oct 7, 2019
+- The C Programming Style that I Follow Oct 7, 2019
+- WordPress Theme: ZM Theme Oct 7, 2019
+- Proxy Using SSH Tunnel Oct 7, 2019
+- Chrome’s KDE proxy integration broken on KDE / Fedora Oct 7, 2019
+- Automatically Backing Up Xen File-backed DomU Oct 7, 2019
+- Port Forwarding Using iptables Oct 7, 2019
+- How to Redirect a Page with HTTP 301 in PHP Oct 7, 2019
+- mrcc – A Distributed C Compiler System on MapReduce Oct 7, 2019
+- OCaml Learning Materials Oct 7, 2019
+- Chinese Charactor Configuration on Fedora 11 Oct 7, 2019
+- My Vim Emacs and Other Configuration Files Oct 7, 2019
+- lftp Disable SSL Oct 7, 2019
+- Vim + cgdb Oct 7, 2019
+- Fedora 中文字体设置 Oct 7, 2019
+- Installing and Configuring 32-bit Firefox on 64-bit Linux (Fedora) Oct 7, 2019
+Subscribe, contact, and license ∞
+Subscribe to SysTutorials: Subscribe. Contact us: Contact. General license and policy: License.

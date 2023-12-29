@@ -1,0 +1,7 @@
+.
+Email est obligatoire.
+Mot de passe est obligatoire.
+Connexion
+Vous n'arrivez pas a vous connecter?
+S'inscrire
+Vérification de vos informations

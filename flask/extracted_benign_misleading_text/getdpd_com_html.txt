@@ -1,0 +1,7 @@
+Sell your product anywhere. Our responsive shopping cart works on desktop and Android phones and tablets as well as iOS devices like iPads, iPods, and the iPhone.
+DPD hosts your products from our US based servers and Amazon S3. We handle backups and product delivery from our servers located in carrier class datacenters and we’re PCI compliant to protect your buyer’s sensitive information.
+No programming knowledge required! Set up your store profile, add your products, and DPD gives you simple HTML buttons or text links for you to paste in to your web page!
+All sales are paid directly to your merchant account or payment provider. We support the most popular processors including PayPal, Stripe, and Authorize.net.
+DPD doesn’t charge any per-sale fees, processing fees, or commissions.
+Sell how you want with multiple checkout methods. Choose from a single item checkout or a robust multi-item cart, these demos will show you how DPD integrates with any website.
+Create your membership area and sell access to your content. Publish content by date or drip it out, the choice is yours. DPD handles the hard stuff so you can focus on getting your content out on time.

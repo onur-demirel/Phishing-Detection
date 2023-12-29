@@ -1,0 +1,9 @@
+Lightning Server New Reset - Oct 14, 2019
+Lightning Server will restart at Mon Oct 14 08:00:00 2019.
+Armageddon is scheduled to begin at Tue Nov 12 22:00:00 2019.
+Changes from previous set
+Changes:
+Armageddon is scheduled to begin at Tue Nov 12 22:00:00 2019.
+Changes from previous set
+Changes:
+- AI mages will now be more creative when sending arrows.

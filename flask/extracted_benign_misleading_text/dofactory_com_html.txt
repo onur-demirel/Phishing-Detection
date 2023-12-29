@@ -1,0 +1,60 @@
+|Gang-of-Four Patterns
+|Enterprise Patterns
+|MVC, MVP, MVVM Patterns
+|100% Source Code: C#, VB
+|Architecture Patterns
+|CQRS, REST Patterns
+|Spark RAD Platform
+|Repository, Unit-of-Work, more...
+|For .NET developers and .NET architects
+|
+Learn More
+Only $79
+|PRO Spark Code Generator
+|Auto-generates Service Layer
+|Auto-generates Business Layer
+|Auto-generates Data Layer
+|Auto-generates REST Services
+|Automatic Domain Object Updates
+|Rapid App development
+|Validation, Extensions, more...
+|For professional .NET developers and .NET architects
+|
+Learn More
+Only $229
+|Modern JavaScript Patterns
+|Classic JavaScript Patterns
+|Model-View Patterns
+|jQuery Design Patterns
+|Architecture Patterns
+|Idioms and Best Practices
+|Sample Apps (MVC, SPA, etc.)
+|much more...
+|For front-end developers, web app developers, and architects
+|
+Learn More
+Only $79
+|SQL + Data Access Patterns
+|Data Model Patterns
+|Data Persistence Patterns
+|Data Experience Patterns
+|Data Caching Patterns
+|Auditing & Archiving Patterns
+|Reference Databases & Applications
+|much more...
+|For developers and database architects
+|
+Learn More
+Only $229
+|Same as Standard Edition +
+|Supertype-Subtype Patterns
+|Tree & Hierarchy Patterns
+|Reference Databases & Applications
+|Seed Model Patterns
+|'Mother of all Data Models'
+|Reference Databases & Applications
+|much more...
+|For professional developers and database architects
+|
+Learn More
+Only $279

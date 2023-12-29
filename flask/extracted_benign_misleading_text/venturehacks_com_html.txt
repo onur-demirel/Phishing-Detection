@@ -1,0 +1,72 @@
+Spearhead asked me to write a post on angel investing when they first launched. Here’s a slightly updated version—most of the wisdom is from Naval.
+Charlie Munger says investing requires a latticework of mental models. Here are 11 lessons for your angel investing lattice:
+- If you can’t decide, the answer is no.
+- Proprietary dealfow means ‘they want you’.
+- Investing takes years to learn, but improves for a lifetime.
+- Valuation matters: you will have to pass on future greats.
+- Back $0B companies.
+- Judgment is important but overrated.
+- Invest only in technology.
+- Some of the best investors have no opinions.
+- Incentives make for bad investing advice.
+- Play fantasy football.
+- Power beats contracts.
+1. If you can’t decide, the answer is no
+If you can’t decide on an investment, the answer is no. For all practical purposes, there are an infinite number of investments out there, so pass.
+That doesn’t mean you won’t regret it. But the next investment is just as good a priori.
+Your experience and judgement is only going to get better by the time you see the next deal.
+2. Proprietary dealflow means ‘they want you’
+Nobody thinks they have a shortage of dealflow. The hard problem is getting your money into the startups you want. The company has to want you over other investors.
+Without ‘they want you,’ you will get cut out of good investments and end up with adverse selection of weaker companies. It’s okay to pass on investments, but you don’t want them to pass on you.
+Missing out on a few investments can mean losing all your money because of the power law returns of investing: the top deal in a good portfolio returns as much as deals 2 through N combined. If you miss out on the top deal, you’re going to miss out on most of your returns.
+You never want to hear, “I will come to you if I don’t get money from Sequoia.”
+3. Investing takes years to learn, but improves for a lifetime
+Get started with angel investing now. It takes years to learn and longer to see returns.
+You want to invest in 30 companies at a minimum–that takes time. Start with small investments because your later ones will get better as you gain expertise and brand. So your returns will take even longer.
+Investing takes a long time to learn, but it is one of the few professions that you can improve until the day you die.
+4. Valuation matters: you will have to pass on future greats
+You can’t build a portfolio of pre-traction companies at $8-10M pre-money and expect to make a venture return. On occasion, you can make an exception, but you can’t do all of your investments at this price.
+You will have to pass on great teams because the valuation is too high. You will have to pass on future iconic technology companies because the price is too high. But passing at a $40M pre-money lets you take 10 shots on goal with unknown companies at $4M pre-money.
+You can’t negotiate valuation unless you’re investing 1/3 to 1/2 of the round. Or if you’re the first check in the company. Start the negotiation by saying, “I like you but I can’t make the valuation work, but I would invest if the valuation were X.”
+Despite high valuations, it’s still possible to make money in angel investing. If you can’t make money in tech, you can’t make money anywhere.
+Anecdotal valuation data
+Valuations for pre-traction companies between 2005-2010 were $1-5M pre-money for the first non-friends-and-family round. Funds that invested during this time period made 4x-100x returns.
+These valuations moved to $4-6M pre-money after 2010, with some demo days in the $8-10M range. This likely cut returns by 2/3 or more.
+Play with valuations tool on AngelList.
+5. Back $0B companies
+To quote Vinod Khosla, invest in “$0B companies” that could be worth $1B tomorrow.
+Focus your attention only on companies with the potential for a 100-1000x return. Otherwise, pass.
+Without these large exits, your portfolio will not achieve a venture return.
+6. Judgment about markets is important but overrated
+Some markets are obviously bad and should be avoided. But judgment about markets is less important than you think, because there is so much luck and randomness involved. Companies can do hard pivots into new markets (Twitter, Slack and Instagram).
+Judgment is not about doing a lot of research, digging and homework. By the time you figure it out, you will have missed the deal. Instead, learn a few markets really well.
+Of course, you will learn about new markets over time. But learn a few markets really well. Buy all the products and try them.
+Find the best scientists in the market and invest in them. They can help you with research on your next investment; this is an unfair advantage.
+Read research papers then call the grad students who wrote them. Waiting to learn about new markets on TechCrunch is too slow.
+7. Invest only in technology
+The best returns come from investing in technology companies. Avoid companies that don’t develop meaningful technology (either software or hardware).
+The 5 largest companies in the S&P 500 (Apple, Google, Microsoft, Amazon, and Facebook) are all technology companies. The largest private companies are also technology companies.
+There are exceptions like Dollar Shave Club. Their early investors had good returns. But, as a rule of thumb, you should only invest in technology.
+8. Some of the best investors have no opinions
+“I have no idea what’s hot. But I’m certainly always listening. Big Dumbo ears. Just listening.” – Doug Leone, Sequoia
+Some of the best investors on the planet have no strong opinions about a particular business. They try not to project into the future, so they can listen intently in the present.
+Almost any entrepreneur will be smarter than them in their market. The investor’s job is to listen and decide whether the founders are smart, honest, and hard-working.
+These investors don’t fall in love with a business. When it comes time to do a new round, they re-evaluate the business from scratch and ignore sunk costs.
+If you’re thinking about all the great things you could do if you were running the business, you’re going down the wrong path: you’re not running the business.
+If you are telling the entrepreneur what to do, don’t invest. Thinking like an investor is different than thinking like an entrepreneur who is determined to make a business work.
+9. Incentives make for bad investing advice
+Incentives influence the advice you get from VCs, lawyers, incubators, and everybody else. Everyone serves their own interests first. The best source for angel investing advice is other angels and founders.
+People are generally well-meaning but, in the words of Upton Sinclair, “It is difficult to get a man to understand something, when his salary depends upon his not understanding it!”
+10. Play fantasy football
+Build your instincts by looking at startups without investing. Your instincts are what you really use to make investment decisions.
+In the old days, you had to work at a VC firm to see dealflow. You had to make a few investments and lose money before getting good judgment. John Doerr called this “crashing a fighter jet.” First you lose $25M, then you have some judgment.
+Now you can get judgment without crashing the fighter jet. You can see dealflow from your friends, your incubator, demo days, and AngelList.
+You need a lot of data to build up your instincts. Track your fantasy portfolio and anti-portfolio. Write down what you like and dislike about each deal and see how your judgment develops over time.
+11. Power beats contracts
+Contracts can be renegotiated. You will be pressured to renegotiate your investment by founders and VCs. If you’re alone, you won’t have the power to fight back.
+Contracts are written for worst-case scenarios, so people can’t outright steal your money. Suing people is bad for your dealflow. So real-world decisions are usually based on power.
+If you’re the only seed investor in a round, you can get screwed. There aren’t enough co-investors to make a ruckus if the company wants to:
+- Recap and start over
+- Raise the cap on your convertible note
+- Give your pro rata to a new investor
+If you’re alone, you won’t have the power to fight back. The startup and their new investors can pressure you to renegotiate. So don’t be a herd animal when making an investment decision, but move with a pack when you do.

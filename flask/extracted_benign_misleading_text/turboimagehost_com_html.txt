@@ -1,0 +1,22 @@
+TimgH
+Upload
+Upload by URL
+Forum
+Log in
+Sign up
+Upload Your Images
+Max: 500 images, 20MB per image; Allowed: jpg, jpeg, png, gif animations
+Select files
+Processing dropped files...
+Close
+No
+Yes
+Cancel
+Ok
+Create gallery:
+Image(s) content:
+Select >
+FAMILY safe
+ADULT content
+Thumbnail size (150-600px):
+px

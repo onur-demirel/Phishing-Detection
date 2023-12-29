@@ -1,0 +1,5 @@
+Email Checker
+A simple tool to check whether an email address exists.
+Email Checker is a simple tool for verifying an email address. It's free and quite easy to use. Just enter the email address and hit check button. Then it tells you whether the email address is real or not. It extracts the MX records from the email address and connect to mail server (over SMTP and also simulates sending a message) to make sure the mailbox really exist for that user/address. Some mail servers do not co-operate in the process, in such cases, the result of this email verification tool may not be as accurate as expected.
+New! Also check out our premium plans for email list verification and API.
+Note : We do not store any email address you submit on this website.

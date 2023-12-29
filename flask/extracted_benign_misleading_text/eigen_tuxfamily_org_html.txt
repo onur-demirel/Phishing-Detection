@@ -1,0 +1,449 @@
+Main Page
+Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+|
+Announcements
+Eigen 3.3.7 released! (11.12.2018)
+Eigen 3.3.7 has been released on December 11, 2018.
+This is a maintenance release fixing a compilation issue introduced in the previous 3.3.6 release. The compilation issue only occurred for some versions of GCC with compiler optimization turned off.The source archive is at http://bitbucket.org/eigen/eigen/get/3.3.7.tar.bz2 .
+Eigen 3.3.6 released! (10.12.2018)
+Eigen 3.3.6 has been released on December 10, 2018.
+This is a maintenance release fixing several minor bugs and compilations issues. For more details, look at the Changelog.
+The source archive is at http://bitbucket.org/eigen/eigen/get/3.3.6.tar.bz2 .We plan a beta1 release of the next Eigen 3.4 within the next few days, stay tuned!
+Eigen 3.3.5 released! (23.07.2018)
+Eigen 3.3.5 has been released on July 23, 2018.
+This is a maintenance release fixing several minor bugs and compilations issues. For more details, look at the Changelog.The source archive is at http://bitbucket.org/eigen/eigen/get/3.3.5.tar.bz2 .
+Eigen now offers a git mirror on github! (29.12.2017)
+Git users can now clone Eigen through git or import it as submodule: https://github.com/eigenteam/eigen-git-mirror.
+Eigen 3.3.4 released! (15.06.2017)
+Eigen 3.3.4 has been released on June 15, 2017.
+This is a maintenance release fixing a few regressions and other issues. For more details, look at the Changelog.The source archive is at http://bitbucket.org/eigen/eigen/get/3.3.4.tar.bz2 .
+|
+Get it
+The latest stable release is Eigen 3.3.7. Get it here: tar.bz2, tar.gz, zip. Changelog.
+The latest 3.2.10 (previous series) release is Eigen 3.2.10. Get it here: tar.bz2, tar.gz, zip. Changelog.
+The unstable source code from the development branch is there: tar.bz2, tar.gz, zip.
+To check out the Eigen repository using Mercurial, also known as "hg", do:
+hg clone https://bitbucket.org/eigen/eigen/
+There is also an official git mirror on github: https://github.com/eigenteam/eigen-git-mirror.
+Overview
+- Eigen is versatile.
+- It supports all matrix sizes, from small fixed-size matrices to arbitrarily large dense matrices, and even sparse matrices.
+- It supports all standard numeric types, including std::complex, integers, and is easily extensible to custom numeric types.
+- It supports various matrix decompositions and geometry features.
+- Its ecosystem of unsupported modules provides many specialized features such as non-linear optimization, matrix functions, a polynomial solver, FFT, and much more.
+- Eigen is fast.
+- Expression templates allow to intelligently remove temporaries and enable lazy evaluation, when that is appropriate.
+- Explicit vectorization is performed for SSE 2/3/4, AVX, AVX2, FMA, AVX512, ARM NEON (32-bit and 64-bit), PowerPC AltiVec/VSX (32-bit and 64-bit), ZVector (s390x/zEC13) SIMD instruction sets, and since 3.4 MIPS MSA with graceful fallback to non-vectorized code.
+- Fixed-size matrices are fully optimized: dynamic memory allocation is avoided, and the loops are unrolled when that makes sense.
+- For large matrices, special attention is paid to cache-friendliness.
+- Eigen is reliable.
+- Algorithms are carefully selected for reliability. Reliability trade-offs are clearly documented and extremely safe decompositions are available.
+- Eigen is thoroughly tested through its own test suite (over 500 executables), the standard BLAS test suite, and parts of the LAPACK test suite.
+- Eigen is elegant.
+- The API is extremely clean and expressive while feeling natural to C++ programmers, thanks to expression templates.
+- Implementing an algorithm on top of Eigen feels like just copying pseudocode.
+- Eigen has good compiler support as we run our test suite against many compilers to guarantee reliability and work around any compiler bugs. Eigen also is standard C++98 and maintains very reasonable compilation times.
+Documentation
+- Eigen 3 documentation: this includes a getting started guide, a long tutorial, a quick reference, and page about porting from Eigen 2 to Eigen 3.
+- Eigen 2 documentation (old): this includes the Eigen 2 Tutorial.
+Requirements
+Eigen doesn't have any dependencies other than the C++ standard library.
+We use the CMake build system, but only to build the documentation and unit-tests, and to automate installation. If you just want to use Eigen, you can use the header files right away. There is no binary library to link to, and no configured header file. Eigen is a pure template library defined in the headers.
+License
+Eigen is Free Software. Starting from the 3.1.1 version, it is licensed under the MPL2, which is a simple weak copyleft license. Common questions about the MPL2 are answered in the official MPL2 FAQ.
+Earlier versions were licensed under the LGPL3+.
+Note that currently, a few features rely on third-party code licensed under the LGPL: SimplicialCholesky, AMD ordering, and constrained_cg. Such features can be explicitly disabled by compiling with the EIGEN_MPL2_ONLY preprocessor symbol defined. Furthermore, Eigen provides interface classes for various third-party libraries (usually recognizable by the <Eigen/*Support> header name). Of course you have to mind the license of the so-included library when using them.
+Virtually any software may use Eigen. For example, closed-source software may use Eigen without having to disclose its own source code. Many proprietary and closed-source software projects are using Eigen right now, as well as many BSD-licensed projects.
+See the MPL2 FAQ for more information, and do not hesitate to contact us if you have any questions.
+Compiler support
+Eigen is standard C++98 and so should theoretically be compatible with any compliant compiler. Whenever we use some non-standard feature, that is optional and can be disabled.
+Eigen is being successfully used with the following compilers:
+- GCC, version 4.8 and newer. Older versions of gcc might work as well but they are not tested anymore.
+- MSVC (Visual Studio), 2012 and newer. Be aware that enabling IntelliSense (/FR flag) is known to trigger some internal compilation errors. The old 3.2 version of Eigen supports MSVC 2010, and the 3.1 version supports MSVC 2008.
+- Intel C++ compiler. Enabling the -inline-forceinline option is highly recommended.
+- LLVM/CLang++, version 3.4 and newer. (The 2.8 version used to work fine, but it is not tested with up-to-date versions of Eigen)
+- XCode 7 and newer. Based on LLVM/CLang.
+- MinGW, recent versions. Based on GCC.
+- QNX's QCC compiler.
+Regarding performance, Eigen performs best with compilers based on GCC or LLVM/Clang. See this page for some known compilation issues.
+Get support
+Need help using Eigen? Try this:
+- To get help, stackoverflow is your best resource. You can also search within the forum archives.
+- You can always try our IRC channel.
+- Want to discuss something with the developers? Use our mailing list.
+Bug reports
+For bug reports and feature requests, please use the issue tracker. To file a new bug, go there. See this page for some instructions.
+Mailing list
+Address: eigen@lists.tuxfamily.org
+- To subscribe, send a mail with subject subscribe to eigen-request@lists.tuxfamily.org
+- To unsubscribe, send a mail with subject unsubscribe to eigen-request@lists.tuxfamily.org
+The Eigen mailing list can be used for discussing general Eigen development topics. End-user questions are often better asked on the Users Forum. Development of specific features is best tracked and discussed on our Bugzilla. See this page.
+This mailing list is public and has public archives.
+The archives are mirrored by gmane.org.
+Important: You must subscribe before you may post. Sorry, this is our only way to prevent spam.
+Important: After you sent your subscription request, you will receive a confirmation e-mail. Check your spam folder, as these confirmation e-mails are often filtered as spam!
+There is also a private mailing list which should only be used if you want to write privately to a few core developers (it is read by Gaël, Jitse and Christoph). The address is eigen-core-team at the same lists server as for the Eigen mailing list. You do not need to subscribe (actually, subscription is closed). For all Eigen development discussion, use the public mailing list or Bugzilla instead.
+IRC Channel
+Our IRC channel is #eigen on irc.freenode.net.
+Everybody's welcome to discuss Eigen-related topics or just chat. Some quick Eigen development chat happens over IRC, but the main place for Eigen development discussion remains the Eigen mailing list. Some user support also happens over IRC, but the main place for Eigen user support is the Users Forum.
+Contributing to Eigen
+Eigen is written and maintained by volunteers. You can contribute in many ways to help: give support to new users, write and improve documentation, helping with bugs and other issues in bugzilla, discussing the design and the API, running tests and writing code. See our page on Contributing to Eigen for pointers to get you started.
+Projects using Eigen
+Feel free to add yourself! If you don't have access to the wiki or if you are not sure about the relevance of your project, ask at the #Mailing list.
+Extensions, numerical computation
+- Google's TensorFlow is an Open Source Software Library for Machine Intelligence
+- Google's Ceres solver is a portable C++ library that allows for modeling and solving large complicated nonlinear least squares problems.
+- The Manifold ToolKit MTK provides easy mechanisms to enable arbitrary algorithms to operate on manifolds. It also provides a Sparse Least Squares Solver (SLoM) and an Unscented Kalman Filter (UKFoM).
+- IFOPT is a modern, light-weight, Eigen-based C++ interface to Nonlinear Programming solvers, such as Ipopt and Snopt.
+- CppNumericalSolvers is a lightweight header-only library for non-linear optimization including various solvers: CG, L-BGFS-B, CMAes, Nelder-Mead.
+- GTSAM is a library implementing smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks.
+- g2o is an open-source C++ framework for optimizing graph-based nonlinear least-square problems.
+- redsvd is a RandomizED Singular Value Decomposition library for sparse or very large dense matrices.
+- trustOptim is a trust-region based non linear solver supporting sparse Hessians (C++ implementation with R binding).
+- Shogun: a large scale machine learning toolbox.
+- Stan: a statistical package based on Eigen that includes a reverse-mode automatic differentiation implementation.
+- StOpt, the STochastic OPTimization library aims at providing tools in C++ for solving some stochastic optimization problems encountered in finance or in the industry.
+- Ceemple is a scientific programming environment allowing to rapidly prototype applications C++ as in MatLab or Python.
+- Nelson an open computing environment for engineering and scientific applications using modern C/C++ libraries (Boost, Eigen, FFTW, …) and others state of art numerical libraries. (GPL2)
+- EigenLab is a header only library to parse and evaluate expressions working on Eigen matrices.
+- SpaFEDte a C++ library for discontinuous Galerkin discretizations on general meshes.
+- biicode a C and C++ dependency manager that #includes the most popular and useful C/C++ libs and frameworks.
+- CERTH's AKSDA: a GPU-accelerated dimensionality reduction and classification method for high-dimensional data.
+- Spectra stands for Sparse Eigenvalue Computation Toolkit as a Redesigned ARPACK. It is a header-only C++ library for large scale eigenvalue problems, built on top of Eigen.
+- preCICE is a coupling library for partitioned multi-physics simulations, including, but not restricted to fluid-structure interaction and conjugate heat transfer simulations. It supports OpenFOAM, CalculiX, SU2, and several other well-known, as well as in-house solvers. It is free/open-source software and its code is available on GitHub under the LGPL3 license. Link to source code and documentation
+Bindings
+- The RcppEigen package provides bindings and more for R.
+- minieigen is small boost::python wrapper for Eigen's core classes (dense fixed and dynamic-sized vectors, matrices, aligned boxes, quaternions; with integer, floating and complex scalars) including operators and subset of Eigen's API methods.
+- Eigency is a Cython interface between the numpy arrays and the Matrix/Array classes of the Eigen C++ library.
+- sparray: a python binding of the Sparse module - alpha stage.
+- OCamlEigen, a thin OCaml interface to the Eigen 3 C++ library.
+- haskell-eigen offers bindings for the Haskell language.
+- jeigen, a Java wrapper for Eigen.
+- Eigen4AutoIt, a wrapper for the AutoIt scripting language.
+- eigen-lua, a Lua wrapper around parts of the Eigen numerical library.
+- Eigenpy: Efficient bindings between Numpy and Eigen using Boost.Python with support of the Geometry module
+Science
+- GINESTRA, a semiconductor device simulator with a focus on advanced dielectric materials and interfaces.
+- G+Smo, an open-source library for geometric design and numerical simulation with isogeometric analyis.
+- FlexibleSUSY, a spectrum generator which calculates the masses of elementary particles.
+- The ATLAS experiment at the LHC (Large Hadron Collider) at CERN is using Eigen, as reported in this article, noting "Eigen was chosen since it offered the largest performance improvements for ATLAS use cases of the options investigated."
+- The Large Survey Synoptic Telescope (website; trac) is a project to build a 3.2Mpixel camera on an 8.4m telescope and survey the entire visible sky every three days.
+- Gnu Data Language, a GPL interpretor of IDL syntax codes.
+- The Space Trajectory Analysis project at the European Space Agency. They even have an announcement on using Eigen.
+- Avogadro, an opensource advanced molecular editor.
+- The 3D astronomical visualization application Celestia is now using Eigen for all orbital and geometric calculation.
+- Yade, platform for dynamic particle models, uses Eigen for geometric computations (switched from the WildMagic package)
+- SLangTNG, an application suite for numerical analysis, linear algebra, advanced statistics, FEM, structural dynamics, data visualization, etc.
+- Clip, an opensource program for the orientation of Laue exposures.
+- Multiprecision Computing Toolbox for MATLAB uses Eigen as core library for matrix computations.
+- Pteros, a C++ library for molecular modeling.
+- Cufflinks, a tool for transcript assembly, differential expression, and differential regulation for RNA-Sequences.
+- Vortexje: a GPL library for simulation implementing the source-doublet panel method.
+- Woo(dem), particle dynamics software (DEM, FEM); Eigen wrapped using minieigen in Python.
+- NIMBLE, a system for programming statistical algorithms such as Markov chain Monte Carlo from R. NIMBLE includes a compiler for a subset of R to C++ that uses Eigen.
+- ENigMA is a multiphysics numerical library which uses Eigen.
+- iMSTK is an open source software toolkit written in C++ that aids rapid prototyping of interactive multi-modal surgical simulations.
+- mbsolve is an open-source solver tool for the Maxwell-Bloch equations, which are used to model light-matter interaction in nonlinear optics.
+- Spin-Scenario, a flexible scripting environment for realistic magnetic resonance (NMR/MRI) simulations.
+- Quantum++ is a modern C++11 general purpose quantum computing library, composed solely of template header files.
+Robotics and engineering
+- The Yujin Robot company uses Eigen for the navigation and arm control of their next gen robots. (switched from blitz, ublas and tvmet)
+- The Robotic Operating System (ROS) developed by Willow Garage.
+- openAHRS Open Source IMU / AHRS
+- The Darmstadt Dribblers autonomous Humanoid Robot Soccer Team and Darmstadt Rescue Robot Team use Eigen for navigation and world modeling.
+- The Mobile Robot Programming Toolkit (MRPT), a set of libraries for SLAM, localization and computer vision, moved to Eigen (switched from home made math classes).
+- RBDL: a C++ library for rigid body dynamics.
+- RL a self-contained C++ library for robot kinematics, motion planning and control.
+- BTK is a Biomechanical ToolKit, licensed under BSD whose primary goal is to propose a set of tools for the analysis of the human body motion which is independent of any acquisition system. It proposes bindings for Matlab/Octave and Python, and a GUI software called Mokka to visualize/analyze 3D/2D motion capture data.
+- libpointmatcher is a "Iterative Closest Point" library for 3D mapping in robotics.
+- RobOptim is a modern, Open-Source, C++ library for numerical optimization applied to robotics.
+- towr is a light-weight and extensible C++ library for trajectory optimization for legged robots.
+- Pinocchio: a fast and efficient Rigid Body Dynamics library
+- The Humanoid Path Planner: a software for Motion and Manipulation Planning
+- MIRA is a cross-platform framework written in C++ that provides a middleware for the development of complex robotic applications, which consists of distributed software modules.
+Computer Graphics, Geometry, Visualization
+- Computational Geometry Algorithms Library (CGAL), a collaborative effort to develop a robust, easy to use, and efficient C++ software library of geometric data structures and algorithms.
+- Point Cloud Library (PCL), a large scale, BSD licensed, open project for point cloud processing. Uses Eigen as their math backend.
+- VcgLib, an opensource C++ template library for the manipulation and processing of triangle and tetrahedral meshes. (switched from home made math classes)
+- MeshLab, an opensource software for the processing and editing of unstructured 3D triangular meshes and point cloud. (switched from vcglib's math classes)
+- eos, an opensource and lightweight 3D Morphable Face Model fitting library in modern C++11/14.
+- The Topology ToolKit (TTK), an open-source library and software collection for topological data analysis in scientific visualization.
+- Theia, an opensource C++ structure from motion library tailored for researchers, BSD licensed.
+- libmv, an opensource structure from motion library. (switched from FLENS)
+- openMVG, a simple library for multiple view geometry.
+- metronome , a simple metric storage/graphing engine using Eigen for SVD least squares interpolation & data consolidation
+- piccante, a C++ imaging library designed for High Dynamic Range (HDR) processing.
+- libigl is a simple C++ geometry processing library with wide functionality.
+- ApproxMVBB is a small library to compute fast approximate oriented bounding boxes of 3D point clouds.
+- Madplotlib makes it easier to plot 2D charts on Qt from data created by Eigen::ArrayXf.
+- 3DF Zephyr is a commercial photogrammetry and 3D modeling software, developed by 3Dflow srl
+Mobile apps
+- Layar, an augmented reality application for IPhone and Android.
+- Red Sword Studios, maker of the iPhone games Gradient, Fortress Luna, Stimulus, and Lustre, uses Eigen extensively. Why roll your own matrix/vector/transformation code when there's Eigen?
+- iPerfectPutt, an iPhone game, uses Eigen for 3D geometry calculations.
+- WhirlyGlobe-Maply an open source geospatial display toolkit for iOS and Android. It implements both a 3D interactive globe and a 2D (slippy) map
+KDE (our origins!)
+- Step, an educational physics simulator.
+- Koffice2 (KDE's office suite), in particular Krita, the painting and image editing module. Eigen is also used a bit by KSpread, the spreadsheet module, for matrix functions such as MINVERSE, MMULT, MDETERM.
+- Kalzium uses Eigen indirectly through the aforementioned Avogadro library.
+- the Mandelbrot wallpaper plugin, some screensavers, kgllib, solidkreator, etc.
+If you are aware of some interesting projects using Eigen, please send us a message (including a link and short description) or directly edit this wiki page!
+Credits
+The Eigen project was started by Benoît Jacob (founder) and Gaël Guennebaud (guru). Many other people have since contributed their talents to help make Eigen successful. Here's an alphabetical list: (note to contributors: do add yourself!)
+|Philip Avery
+|Fix bug and add functionality to AutoDiff module
+|Abraham Bachrach
+|Added functions for cwise min/max with a scalar
+|Sebastien Barthelemy
+|Fix EIGEN_INITIALIZE_MATRICES_BY_NAN
+|Carlos Becker
+|Wrote some of the pages of the tutorial
+|David Benjamin
+|Artwork: the owls
+|Cyrille Berger
+|Fix error in logic of installation script
+|Armin Berres
+|Lots of fixes (compilation warnings and errors)
+|Jose Luis Blanco
+|Build fixes for MSVC and AMD64, correction in docs
+|Mark Borgerding
+|FFT module
+|Romain Bossart
+|Updates to Sparse solvers
+|Kolja Brix
+|Added docs to Householder module, fixes for ARPACK wrapper, KroneckerProduct and GMRES
+|Gauthier Brun
+|Making a start with a divide-and-conquer SVD implementation
+|Philipp Büttgenbach
+|Bug fix when differentiating a one-dimensional spline
+|Thomas Capricelli
+|Migration to mercurial, Non-linear optimization and numerical differentiation, cron-job to update the online dox
+|Nicolas Carre
+|Making a start with a divide-and-conquer SVD implementation
+|Jean Ceccato
+|Making a start with a divide-and-conquer SVD implementation
+|Vladimir Chalupecky
+|CMake fix
+|Benjamin Chrétien
+|Bug fix for PolynomialSolver (linear polynomials), various typos
+|Andrew Coles
+|Fixes (including a compilation error)
+|Jeff "complexzeros"
+|Spline interpolation with derivatives
+|Marton Danoczy
+|MSVC compilation fix, support for ARM NEON with Clang 3.0 and LLVM-GCC
+|Jeff Dean
+|Fix in vectorized square root for small arguments
+|Georg Drenkhahn
+|CMake and STL fixes
+|Christian Ehrlicher
+|MSVC compilation fix
+|Martinho Fernandes
+|Make our aligned allocator support C++11
+|Daniel Gomez Ferro
+|Improvements in Sparse and in matrix product
+|Rohit Garg
+|Vectorized quaternion and cross products, improved integer product
+|Mathieu Gautier
+|QuaternionMap and related improvements
+|Anton Gladky
+|Visual Studio 2008 and GCC 4.6 compilation fixes
+|Stuart Glaser
+|Prevent allocations in LU decomposition
+|Marc Glisse
+|C++11 compilation issues (suffices for literals)
+|Frederic Gosselin
+|Improve filter for hidden files in CMake
+|Christoph Grüninger
+|Add SuperLU 5 support
+|Gaël Guennebaud
+|Core developer
+|Philippe Hamelin
+|Allow CMake project to be included in another project
+|Marcus D. Hanwell
+|CMake improvements. Marcus is a developer at Kitware!
+|David Harmon
+|Arpack support module
+|Chen-Pang He
+|Many improvements to MatrixFunctions and KroneckerProduct modules
+|Hauke Heibel
+|Extended matrix functions, STL compatibility, Splines, CMake improvements, and more ...
+|Christoph Hertzberg
+|Quaternions, shifts for Cholmod, bug fixes, lots of user support on forums and IRC
+|Pavel Holoborodko
+|Multi-precision support with MPFR C++, bug fixes for non-standard scalar types
+|Tim Holy
+|Improvements to tutorial, LDLT update and downdate
+|Intel
+|Back-end to Intel Math Kernel Library (MKL)
+|Trevor Irons
+|Square root for complex numbers, fix compile errors and mistake in docs
+|Benoît Jacob
+|Core developer
+|Bram de Jong
+|Improvement to benchmark suite
+|Kibeom Kim
+|Implement *= /= * / operations for VectorwiseOp
+|Moritz Klammler
+|Avoid memory leak when constructor of user-defined type throws exception
+|Claas Köhler
+|Improvements to Fortran and FFTW in CMake
+|Alexey Korepanov
+|Add RealQZ class
+|Igor Krivenko
+|Properly cast constants when using non-standard scalars
+|Marijn Kruisselbrink
+|CMake fixes
+|Abhijit Kundu
+|Fix compilation errors in OpenGL demos
+|Moritz Lenz
+|Allow solving transposed problem with SuperLU
+|Bo Li
+|Fix bugs in Spline constructor
+|Sebastian Lipponer
+|MSVC compilation support
+|Daniel Lowenberg
+|Add SparseView class
+|David J. Luitz
+|Bug fix for sparse * dense matrix product
+|Naumov Maks
+|Bug fix in polynomial solver test
+|Angelos Mantzaflaris
+|Fix to allow IncompleteLUT to be used with MPFR
+|D J Marcin
+|Fix operator& precedence bug
+|Konstantinos A. Margaritis
+|AltiVec/VSX, ARM NEON (32-bit/64-bit) and S390x SIMD (ZVector) vectorization
+|Roger Martin
+|Component-wise arc tangent function
+|Ricard Marxer
+|Reverse, redux improvements, the count() method, some dox
+|Vincenzo Di Massa
+|CMake fix
+|Christian Mayer
+|Early code review and input in technical/design discussions
+|Frank Meier-Dörnberg
+|MSVC compatibility fixes
+|Keir Mierle
+|LDLT decomposition and other improvements, help with MPL relicensing
+|Laurent Montel
+|CMake improvements. Laurent is (with Alexander) one of the CMake gurus at KDE!
+|Eamon Nerbonne
+|Compilation fixes for win32
+|Alexander Neundorf
+|CMake improvements. Alexander is (with Laurent) one of the CMake gurus at KDE!
+|Jason Newton
+|Componentwise tangent functions
+|Jitse Niesen
+|Matrix functions, large improvements in the Eigenvalues module and in the docs, and more ...
+|Desire Nuentsa
+|Many improvements to Sparse module: SparseLU, SparseQR, ILUT, PaStiXSupport, …
+|Jan Oberländer
+|Compatibility with termios.h
+|Jos van den Oever
+|Compilation fix
+|Michael Olbrich
+|Early patches, including the initial loop meta-unroller
+|Simon Pilgrim
+|Optimizations for NEON
+|Bjorn Piltz
+|Visual C compilation fix
+|Benjamin Piwowarski
+|Add conservativeResize() for sparse matrices
+|Zach Ploskey
+|Copy-editing of tutorial
+|Giacomo Po
+|MINRES iterative solver
+|Sergey Popov
+|Fix bug in SelfAdjointEigenSolver
+|Manoj Rajagopalan
+|Introduce middleRows() / middleCols(), bug fix for nonstandard numeric types
+|Stjepan Rajko
+|MSVC compatibility fix
+|Jure Repinc
+|CMake fixes
+|Kenneth Frank Riddile
+|Lots of Windows/MSVC compatibility fixes, handling of alignment issues
+|Richard Roberts
+|Bug fix in selection of MKL Householder QR
+|Adolfo Rodriguez
+|Prevent allocations in matrix decompositions
+|Peter Román
+|Support for SuperLU's ILU factorization
+|Oliver Ruepp
+|Bug fix in sparse matrix product with row-major matrices
+|Radu Bogdan Rusu
+|Fix compilation warning
+|Guillaume Saupin
+|Skyline matrices
+|Olivier Saut
+|Typo in documentation
+|Benjamin Schindler
+|gdb pretty printers
+|Michael Schmidt
+|Fix in assembly when identifying CPU, Compilation fix connected to min/max
+|Dennis Schridde
+|New typedefs like AlignedBox3f
+|Jakob Schwendner
+|Test for unaligned quaternions, Benchmark for Geometry module
+|Christian Seiler
+|The Tensor module
+|Martin Senst
+|Bug fix for empty matrices
+|Sameer Sheorey
+|Fix gdb pretty printer for variable-size matrices
+|Andy Somerville
+|Functions to get intersection between two ParametrizedLines
+|Alex Stapleton
+|Help with tough C++ questions
+|Benoit Steiner
+|Faster matrix multiplication, Tensor module, CUDA
+|Sven Strothoff
+|Add intersects() method to AlignedBox
+|Leszek Swirski
+|Fix oversight in installation scripts
+|Adam Szalkowski
+|Bug fix in MatrixBase::makeHouseholder()
+|Silvio Traversaro
+|Fix for FindEigen3.cmake
+|Piotr Trojanek
+|QCC compilation fixes
+|Anthony Truchet
+|Bugfix in QTransform and QMatrix support
+|Adolfo Rodriguez Tsourouksdissian
+|Version of JacobiSVD that pre-allocates its resources
+|James Richard Tyrer
+|CMake fix
+|Rhys Ulerich
+|Pkg-config support, improved GDB pretty-printer
+|Henry de Valence
+|Typo in documentation
+|Ingmar Vanhassel
+|CMake fix
+|Michiel Van Dyck
+|Multi-threading documentation bug fix
+|Scott Wheeler
+|Documentation improvements
+|Freddie Witherden
+|CMake fixes, allow LevenbergMarquardt to work with non-standard types
+|Urs Wolfer
+|Fixed a serious warning
+|Manuel Yguel
+|Bug fixes, work on inverse-with-check, the Polynomial module
+|Pierre Zoppitelli
+|Making a start with a divide-and-conquer SVD implementation
+|Jonas Adler
+|Bugfixes for CUDA support
+Eigen is also using code that we copied from other sources. They are acknowledged in our sources and in the Mercurial history, but let's also mention them here:
+|Intel Corporation
+|SSE code for 4x4 matrix inversion taken from here.
+|Tim Davis
+|AMD reordering simplicial sparse Cholesky factorization adapted from SuiteSparse
+|Julien Pommier
+|SSE implementation of exp,log,cos,sin math functions from GMM++
+|Yousef Saad
+|IncompleteLUT preconditioner coming from ITSOL
+|Minpack authors
+|Algorithms for non linear optimization.
+Special thanks to Tuxfamily for the wonderful quality of their services, and the GCC Compile Farm Project that gives us access to many various systems including ARM NEON.
+If you are looking for a BibTeX entry to use to cite Eigen in academic papers, see the BibTeX page.

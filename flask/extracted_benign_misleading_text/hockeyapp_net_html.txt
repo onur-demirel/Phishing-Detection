@@ -1,0 +1,4 @@
+Introducing App Center, the future of HockeyApp.
+On November 16, 2019, HockeyApp will transition fully to App Center. We've made it easy to start your transition today.Get started for free
+App Center: A new but familiar upgrade.
+The next generation of distribution, crash reporting and analytics join App Center’s Build, Test, and Push services - all in one place.See the future for yourself

@@ -1,0 +1,45 @@
+Question
+TUT Company recently installed a new router in their office. Complete the network installation by performing the initial router configurations and configuring RIPv2 routing using the router command line interface (CLI) on the R2-TUT.
+Name of the router is R2-TUT
+Enable-secret password is Sec@ret
+The password to access user EXEC mode using the console is Sec@ret2
+The password to allow telnet access to the router is Sec@ret3
+IPV4 addresses must be configured as follows:
+Ethernet network 213.123.20.128/27 – router has last assignable host address in subnet
+Serial network is 200.0.1.16/28 – router has last assignable host address in the subnet. Interfaces should be enabled.
+Router protocol is RIPv2
+Answer and Explanation
+READ MORE…
+The topology below is running OSPF. You are required to troubleshoot and resolve the OSPF issues between the various routers. Use the appropriate show commands to troubleshoot the issues.
+Topology:
+READ MORE…
+Refer to the topology below and answer the questions.
+READ MORE…
+Question
+A network associate is configuring a router for the TUT company to provide internet access. The ISP has provided the company six public IP addresses of 198.18.184.105 198.18.184.110. The company has 14 hosts that need to access the internet simultaneously. The hosts in the company LAN have been assigned private space addresses in the range of 192.168.100.17 – 192.168.100.30.
+|
+The following have already been configured on the router：
+– The basic router configuration
+– The appropriate interfaces have been configured for NAT inside and NAT outside
+– The appropriate static routes have also been configured (since the company will be a stub network, no routing protocol will be required.)
+– All passwords have been temporarily set to “cisco”
+Tasks:
++ Use NAT to provide Internet access to all hosts in the company LAN.
++ Name the router TUT
++ Inside global addresses: 198.18.184.105 198.18.184.110/29
++ Inside local addresses: 192.168.100.17 – 192.168.100.30/28
++ Numer of inside hosts: 14
+Solution:
+READ MORE…
+Question
+9tut.net company has decided to network three locations to improve efficiency in inventory control. The routers have been named to reflect the location: Boston, Frankfurt, Lancaster.
+The necessary networking has been completed at each location, and the routers have been configured with single area OSPF as the routing protocol. The Boston router was recently installed but connectivity is not complete because of incomplete routing tables. Identify and correct any problem you see in the configuration.
+Note: The OSPF process must be configured to allow interfaces in specific subnets to participate in the routing process.
+You can download this lab and open with Packet Tracer here: https://www.9tut.net/download/OSPF_Sim_with_Solution.zip. Please say thanks to Renan who shared the files with us!
+Answer and Explanation:
+READ MORE…
+This task requires the use of various show commands from the CLI of Router1 to answer 5 multiple-choice questions. This does not require any configuration.
+NOTE: The show running-configuration and the show startup-configuration commands have been disabled in this simulation.
+To access the multiple-choice questions, click on the numbered boxes on the right of the top panel.
+There are 5 multiple-choice questions with this task. Be sure to answer all 5 questions before leaving this item.
+READ MORE…

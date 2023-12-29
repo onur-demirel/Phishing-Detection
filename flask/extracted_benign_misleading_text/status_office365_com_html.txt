@@ -1,0 +1,3 @@
+Microsoft 365 Service health status
+This site is updated when service issues are preventing tenant administrators from accessing Service health in the Microsoft 365 admin center. Alternatively, customers can reference https://www.twitter.com/MSFT365Status for additional insights into widespread, active incidents.
+View your Microsoft 365 Service health.

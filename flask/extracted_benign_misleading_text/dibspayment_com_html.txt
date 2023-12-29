@@ -1,0 +1,41 @@
+How do we create value?
+Payments with apps and wallets
+We support more than 84 different payment methods, including wallet-/ app payment via MobilePay, Apple Pay, Vipps and Swish.
+Invoice payment
+Offer your customers to wait with paying until they receive the goods. If you plan on selling to the Nordic market, we especially recommend that you also offer the possibility of making invoice payments in your webshop.
+Card payments
+92% of Danes pay by card when shopping online. Therefore, we offer consumers to pay with Visa, Dankort, Mastercard, Diners, Maestro and American Express.
+Save card
+With Easy you get a smart checkout in your webshop that remembers more than other payment solutions on the market: both invoice information, several payment cards and up to five different addresses.
+Subscription Payments
+With Easy you can easily create subscribers, it makes it easy to bill your customers at fixed intervals - and ensures you an ongoing income.
+Tank up payments
+With Easy, your customers can use tank up service so they always have money in their account. This allows you to offer a quick refill for the purchase of services or products.
+Systems for webshops
+We have integrations to the most popular webshop systems, which makes it easy for you to integrate your payment solution.
+APIs
+Our APIs make it easy to integrate our payment solution with your other systems so you automate work processes and save time on administrative work.
+In app payment
+With our SDK package, we have made it easy for developers to integrate apps.
+SCA / 3DS2
+You get extra security in your webshop with 3DS2 and thereby minimize card abuse. In practice, the customer receives a confirmation code on their mobile to be used when making a payment.
+Safety package
+Be informed about suspicious behavior and prevent fraud. We offer a number of parameters that you can set up to monitor suspicious behavior, including when notified cards are used.
+PCI certification
+We follow the card industry's common security standard PCI DSS, which places extensive requirements for the data security of payments and the handling of transactions.
+Plug & play or tailored
+Choose the package that best matches your business
+Easy
+Easy is for you who want an easy start with one single agreement for both your payment solution and acquisition
+- All in one deal
+- One-click payment
+- Dashboard in real time
+Custom
+For you who want to choose specific payment methods and have a tailor-made solution.
+- Select your own payment methods
+- Extended security
+- Omni channel (offline and online shopping)
+The Finance department loves EASY ❤
+The simple dashboard gives a quick overview for the relevant employees and decision makers
+Mostly for developers
+We have gathered our documentation and described best practices of typical development tasks

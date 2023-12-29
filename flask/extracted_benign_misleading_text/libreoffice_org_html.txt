@@ -1,0 +1,11 @@
+LibreOffice is a powerful office suite – its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
+LibreOffice includes several applications that make it the most powerful Free and Open Source office suite on the market.
+LibreOffice 6: "The best office suite gets even better" – ZDNet
+LibreOffice is one of the friendliest and fastest-growing projects in the free and open source software world.
+LibreOffice is about more than software. It’s about people, culture, creation, sharing and collaboration.
+Apple has released macOS 10.15 Catalina on October 7, 2019. Mac apps, installer packages and kernel extensions that are signed with a Developer ID must be notarized by Apple to run on macOS Catalina. Although we have duly followed the instructions, when users launch LibreOffice 6.3.x – which has been notarized by Apple – the […]
+Yes, here’s anther bunch of videos from our recent LibreOffice Conference 2019 in Almeria, Spain. Let’s get started with Tor Lillqvist’s talk, “LibreOffice as an iOS app on the iPad”: Please confirm that you want to play a YouTube video. By accepting, you will be accessing content from YouTube, a service provided by an external third […]
+Apple has released macOS 10.15 Catalina on October 7, 2019. Mac apps, installer packages and kernel extensions that are signed with a Developer ID must be notarized by Apple to run on macOS Catalina. Although we have duly followed the instructions, when users launch LibreOffice 6.3.x – which has been notarized by Apple – the […]
+The LibreOffice Quality Assurance ( QA ) Team is happy to announce LibreOffice 6.4 Alpha1 is ready for testing!
+LibreOffice 6.4 will be released as final at the beginning of February, 2020 ( Check the Release Plan ) being LibreOffice 6.4 Alpha1 the first pre-release since the development of version 6.4 started in the beginning of June, 2019. Since then, 4600 commits have been submitted to the code repository and more tha[…]
+Follow Us

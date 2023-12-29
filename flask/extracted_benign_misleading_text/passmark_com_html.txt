@@ -1,0 +1,23 @@
+|
+News @ PassMark
+|New PC Test Kit now available!
+|10/Oct/2019
+|OSForensics V7.0 released!
+|31/July/2019
+|MemTest86 V8.2 released
+|4/June/2019
+|Zoom 8 has been released!
+|28/Feb/2019
+|Market share charts: O/S, RAM, CPU Cores
+|07/Dec/2018
+|BurnInTest V9.0 now available
+|08/Mar/2018
+Stress test your computer. PC reliability and load testing.
+Compare the performance of your PC to similar computers around the world
+The original industry standard for memory diagnostics.
+USB3 loopback plugs. Load testing, benchmarking, automated testing.
+USB PD (Power Delivery) tester. Up to 100W of power. Type-C. Automated USB port testing.
+PCIe slot testing. Load testing, diagnostics and benchmark testing of your PCIe slots.
+We offer independent evaluations of software products for performance and system impact. Our consultancy services help you to stay ahead of your competitors at any point within your product's lifespan.
+We specialize in the development of tools for the evaluation of computer hardware and software. This particular area of expertise means that we focus on solutions which monitor and compare hardware and software.
+Our advisory services can help software developers, promoters, decision makers and investors keep on top of software and hardware markets with aggregated data on past and current market trends.

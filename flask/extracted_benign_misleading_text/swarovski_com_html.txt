@@ -1,0 +1,110 @@
+$(this).siblings('.js-gb-shortNewsletterFormConfig')
+.formValidation({
+autoFocus: false,
+framework: 'bootstrap',
+icon: {
+valid: null,
+invalid: null,
+validating: null
+},
+fields: {
+'values[shortNewsletterFormDefinition_email]': {
+trigger: 'blur',
+validators: {
+regexp: {
+regexp: /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)+$/,
+message: 'Please enter your email address.',
+message_en: 'Please enter your email address.'
+},
+notEmpty: {
+message: 'Please enter your email address.',
+message_en: 'Please enter your email address.'
+},
+stringLength: {
+message: 'The number of characters for this field must be between 0 and 70',
+message_en: 'The number of characters for this field must be between 0 and 70',
+min: 0
+,
+max: 70
+},
+}
+}
+}
+})
+.on('success.field.fv', function() {
+/* note: we need to check if there is an error in the form, as the plugin does a validation on field level.
+Validating the whole form on blur of a field is no option, as the customer does not want to see error messages on all fields
+when entering one field. In case of an error on at least one field we disable the submit button manually */
+var $form = $(this).closest('form');
+if ($form.find('.form-group.has-error').length > 0) {
+var $button = $form.find('.js-button');
+if (!$button.hasClass('disabled')) {
+$button.addClass('disabled');
+}
+}
+})
+.on('err.field.fv', function(e, data) {
+if(data.element.closest('.form-combo-molecule').length){
+/* Get the messages of field */
+var messages = data.fv.getMessages(data.element);
+/* Get the error message content of the field */
+var errorContent = data.element.closest('.form-combo-molecule').find('.errors');
+/* Get the hidden error message of the field */
+var errorField = errorContent.find('small[data-field="' + data.field + '"][style="display: none;"]');
+/* Loop over the messages */
+for (var i in messages) {
+if (errorField[1] == undefined) {
+var newErrorContainer = document.createElement("small");
+$(newErrorContainer).attr("class", "help-block");
+$(newErrorContainer).attr("data-field", data.field);
+$(newErrorContainer).attr("data-fv-validator", "callback");
+$(newErrorContainer).attr("data-fv-for", $(data.element[0]).attr("name") );
+$(newErrorContainer).attr("data-fv-result", "INVALID");
+$(newErrorContainer).attr("data-tracked", "true");
+$(newErrorContainer).html(messages[i]);
+if (errorContent.text().includes(messages[i])) {
+$(newErrorContainer).hide();
+}
+errorContent.append(newErrorContainer);
+}
+}
+}
+})
+.on('success.field.fv', function(e, data) {
+/* Remove the field messages */
+$errorContent = data.element.closest('.form-combo-molecule').find('.errors');
+$errorContent.find('small[data-field="' + data.field + '"]').remove();
+$errorContent.find('small[data-fv-result="INVALID"]').removeAttr("style");
+})
+.on('success.form.fv', function() {
+var formId = 'shortNewsletter';
+if (!formId || formId === 'cfRequest' || formId === 'cfResponse') {
+formId = 'shortNewsletterFormDefinition';
+}
+ACC.tracking.pushFormSubmit(formId);
+});
+var replaceDatePatternWithValue = function(mandatory, fieldConfigCode, fieldConfigPattern) {
+var date = fieldConfigPattern.toUpperCase();
+var year = $("#" + fieldConfigCode + "_year").val();
+var month = $("#" + fieldConfigCode + "_month").val();
+var day = $("#" + fieldConfigCode + "_day").val();
+date = date.replace(/[Y]+/, year);
+date = date.replace(/[M]+/, month);
+date = date.replace(/[D]+/, day);
+var hiddenDateField = $('.js-' + fieldConfigCode + '_hidden');
+if (mandatory) {
+hiddenDateField.val(date);
+} else {
+hiddenDateField.val(date == "" ? "" : date);
+}
+};
+var triggerFormValidation = function(fieldId, mandatory, fieldCode, dateFormat) {
+replaceDatePatternWithValue(mandatory, fieldCode, dateFormat);
+$('.js-fieldCode').formValidation('revalidateField', 'values[fieldCode_'+ fieldId + ']');
+};
+var removeDateMoleculeError = function(molecule) {
+if(molecule.hasClass('has-error')){
+molecule.removeClass('has-error');
+molecule.find('.help-block').find('span').remove();
+}
+};

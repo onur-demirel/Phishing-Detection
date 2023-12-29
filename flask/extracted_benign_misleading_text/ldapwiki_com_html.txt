@@ -1,0 +1,25 @@
+LDAP Wiki#You have successfully Reached the LDAP Wiki. An Information site Provided by Services.willeke.biz, LLP.
+For what subjects we concentrate on you may want to know more About Ldapwiki.
+Services.willeke.biz nor anyone else is responsible if you use a tool or any information on this site and causes damages to anyone or anything! You are required to read Our Standard Disclaimer
+Authorization is Required to Edit Pages#Anyone can read any of the WIKI pages (most anyhow). However to edit WIKI Pages requires an account.
+You will be prompted and need to provide:
+- A email address to which you have access
+- First name
+- Last Name
+- Preferred UserID
+- password
+Should you encounter any problems, please Contact us and provide your name a real email address and we will email Address your desired initial credentials.
+More information on customization for this Wiki.
+Our servers are on Coordinated Universal Time and the time here is: 03:04 on 23-Oct-2019
+Privacy Policy.#We respect everyone's Privacy.
+Disclaimer#This site is used due to the ever increasingly complex world we operate in. Or some people suggested it was due to our ever increasingly failing memories.
+Regardless, this is a collection of our notes and experiences that we have found that may not be readily available elsewhere or at least too difficult for us to remember where we found it.
+Although we do believe the information is accurate within the proper context, we can not guarantee that the context is properly explained or the accuracy of the content. Before you use this information be sure you know what you are doing. Or engage our services and we can provide the proper context and the accurate information. See our Standard Disclaimer.
+We do sincerely hope we do not trample on anyone's Intellectual Property as it is certainly not our intent. If there is any information that is inappropriate, please see our Copyright and Intellectual Property Page
+Quick Help (How To Wiki)#Here are some quick links to frequent information pages:
+Quick start on HowTo Use of this site.#
+Documentation#
+- For all of the Wiki markup features, see TextFormattingRules.
+- Entry point for full JSPWikiDocumentation
+- There are several ways you can get in touch with JSPWiki Community. Check them out!
+- To see what this particular wiki is about, click on the Wiki name on the top left corner of the browser window, or click here.

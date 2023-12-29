@@ -1,0 +1,68 @@
+Football Results & Fixtures
+- Sat 19 Oct | Premier League
+- Crystal Palace 0-2 Man City
+- Sun 20 Oct | Premier League
+- Man United 1-1 Liverpool
+- Mon 21 Oct | Premier League
+- Sheffield United 1-0 Arsenal
+- Fri 25 Oct | Premier League
+- Southampton 20:00 Leicester City
+- Sat 26 Oct | Premier League
+- Man City 12:30 Aston Villa
+- Brighton 15:00 Everton
+Premier League Table
+|#
+|Team
+|PL
+|GD
+|PT
+|1st
+|Liverpool
+|9
+|14
+|25
+|2nd
+|Man City
+|9
+|20
+|19
+|3rd
+|Leicester City
+|9
+|8
+|17
+|4th
+|Chelsea
+|9
+|5
+|17
+|5th
+|Arsenal
+|9
+|1
+|15
+|6th
+|Crystal Palace
+|9
+|-2
+|14
+|7th
+|Tottenham Hotspur
+|9
+|2
+|12
+|8th
+|Burnley
+|9
+|1
+|12
+|9th
+|Sheffield United
+|9
+|1
+|12
+|10th
+|Bournemouth
+|9
+|0
+|12

@@ -1,0 +1,5 @@
+Hints:
+Your password is cAse sEnsiTive - Check your Caps Lock.
+Your userid must be longer than eight characters.
+Your userid must be unique.
+Your userid can be alphanumeric.

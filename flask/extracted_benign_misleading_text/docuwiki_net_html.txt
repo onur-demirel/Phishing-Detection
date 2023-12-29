@@ -1,0 +1,15 @@
+Main Page
+From DocuWiki
+DocuWiki.net serves as an index of documentary films on the Edonkey Network.
+(If you came here looking for the Documentation Wiki Software instead head for DokuWiki.org)
+DocuWiki started as an offspring of the MVGroup documentary forum in order to make the contents easier to find and index as well as browsing documentaries by subject or finding related entries.
+If a documentary you have is missing on this site, please do a favour to everyone and add it to this wiki.
+A list of documentaries known to be missing in this wiki is listed here.
+Refer to Contribute for more information and/or contact JumpinS.
+To stay updated on new additions you can subscribe to the newsfeed: RSS - Atom
+[edit] Under Construction
+As this page will undergo permanent change and additions, you can keep track of what has to be done and will be done using the following links:
+- A list of known documentaries missing on this site
+- WikiCrawler Results latest results by the WikiCrawler in order to keep track of inconsistent and insufficient contents
+- Special:Lonelypages list of pages without entries being related to them
+- Category:Others list of entries that do not have a publisher specified. Please check your file collection for the publisher's name in the credits and add it to the wiki.

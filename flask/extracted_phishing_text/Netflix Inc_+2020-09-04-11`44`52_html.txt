@@ -1,0 +1,8 @@
+Answer a few questions to see if you are qualified!
+(1/2) Do you have a Netflix account?
+(2/2) What's your favorite movie genre?
+Checking your answers...
+✓ No double registrations found
+✓ There are four (4) cards left
+✓ You are qualified!
+Congratulations! You are selected!

@@ -1,0 +1,8 @@
+Integrate surveys and forms into your application
+SurveyJS is a complete, fully customizable and extendable survey and survey creator / form builder solution.
+Unlike other survey and form builders, you can use our JavaScript libraries
+to integrate survey creator / form builder into your web apps, with functionalities you require.
+and educational organizations which use our open-source software to create digital surveys and forms.
+Like them, you can customize and extend our libraries to suit your needs.
+You can register to use our free Survey Creator / Form Builder to create and run surveys and then analyze the data.
+You can use our Survey Creator / Form Builder to create a survey definition and integrate our survey runner (SurveyJS Library, free under MIT license) for angular2+, jQuery, knockout, react or vue into your web page. You can then save the results to your database or using our service.

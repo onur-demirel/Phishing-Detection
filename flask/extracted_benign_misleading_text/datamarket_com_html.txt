@@ -1,0 +1,14 @@
+Always Active
+Make smarter business decisions. The Qlik DataMarket helps you find, connect and manage data from external sources
+Augment and cross-reference your internal data with external sources to add greater context. Look at data from a variety of sources to get a full understanding of your business.
+Fully integrated external data access that merges seamlessly with internal data. Connect multiple data sets with your existing data from one place, in one format.
+Learn how Qlik DataMarket can benefit your analysis in this short video.
+Read about how Qlik DataMarket can help you see the whole story in your data and beyond.
+See what data is available in our various packages.
+Qlik DataMarket Free and Essentials Packages
+Qlik DataMarket Topical Packages
+Qlik DataMarket Financial Data Packages
+Ready-built apps, connectors and extensions.
+Build your own custom apps with beautifully visualized, dynamic data sets.
+All the help you need to do more with Qlik.
+Find out what makes Qlik products different.

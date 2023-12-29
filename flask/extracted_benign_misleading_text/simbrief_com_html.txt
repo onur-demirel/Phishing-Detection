@@ -1,0 +1,25 @@
+News Releases
+March 1st, 2019 at 04:44ZIFPS Compliant Routes: SimBrief's database now includes thousands of valid European routes. Combined with data extracted directly from the Route Availability Document (RAD), SimBrief can now suggest an IFPS compliant route for many European flights.
+March 1st, 2019 at 04:15ZDefault AIRAC Cycle Updated: The default AIRAC cycle has been updated to AIRAC 1803! All users should now have access to this cycle on their accounts. As always, thanks to Navigraph for making these default AIRAC cycles available to the community.
+Page: 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18 - 19 - 20
+Statistics
+General
+- Briefings (Since Launch):
+- 16063860
+- Briefings (Past 24 Hours):
+- 16382
+- Registered Users:
+- 256620
+- Users Currently Online:
+- 215
+Latest Flight Plan
+- Flight Number:
+- GLO1020
+- Departure Airport:
+- SBMO
+- Arrival Airport:
+- SBGR
+- Aircraft:
+- B737-800
+- Time Generated:
+- Oct 23rd, 12:06Z

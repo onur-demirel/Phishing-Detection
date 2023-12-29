@@ -1,0 +1,11 @@
+You Have Exceeded the daily free SMS Limit. you can now send unlimited messages through our Services with only 20 Paise per messages , start using by topping up your wallet with min of "500/-" Only
+Your wallet amount is not sufficient to send the message. please recharge
+Your wallet amount is not sufficient to send the message. Message will be sent to out of
+Languages messages will not be sent in this category, please goto
+Only languages messages will be sent through this category
+You Have Exceeded the daily free SMS Limit from now on 20 paise will be charged for every message.
+Please check your network connection
+Some mandatory fields are missing in Target page
+Some mandatory fields are missing in Body page
+Change your keyboard settings for language.
+Are you sure you want to stop the recording?

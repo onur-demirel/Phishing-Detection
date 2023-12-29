@@ -1,0 +1,17 @@
+<p class="nonjsAlert" role="alert">NOTE: Many features on the PayPal Web site require Javascript and cookies.</p>
+PayPal
+Log in to your PayPal account
+Email
+Required
+That email format isn’t right
+Password
+Required
+Log In
+Having trouble logging in?
+Sign Up
+Checking your info…
+Just a second…
+<img src="//paypal.112.2O7.net/b/ss/paypalglobal/1/H.6--NS/0?pageName=NonJavaScript" alt="" height="1" width="1" border="0">
+<img src="https://t.paypal.com/ts?nojs=1&pgrp=main%3Aunifiedloginnodeweb%3A%3A%3Alogin-captcha&page=main%3Aunifiedloginnodeweb%3A%3A%3Alogin-captcha%3A%3A%3A&qual=&tmpl=unifiedloginnodeweb%2Fpublic%2Ftemplates%2Flogin.dust&pgst=1467592127381&lgin=%3A%3A&vers=unifiedloginnodeweb&calc=b7274a1059ef6&rsta=en_US&pgtf=Nodejs&s=ci&ccpg=&csci=4f4ae34601ef4e57b72d4bf29990f9a5&comp=unifiedloginnodeweb&tsrce=mppnodeweb&pxpguid=&goal=&fltp=&flnm=&erpg=&erfd=&eccd=&cust=&acnt=&aver=&rstr=&pfid=&bztp=&mbtp=" alt="" height="1" width="1" border="0">
+<img src="https://c.paypal.com/v1/r/d/b/ns?f=4f4ae34601ef4e57b72d4bf29990f9a5&s=UNIFIED_LOGIN&js=0&r=1" alt="" height="1" width="1" border="0">
+close

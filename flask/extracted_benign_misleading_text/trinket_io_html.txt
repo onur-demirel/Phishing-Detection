@@ -1,0 +1,19 @@
+Code is Your CanvasSign Up for your Free Account
+Share Code from any Device
+Trinket lets you run and write code in any browser, on any device.
+Trinkets work instantly, with no need to log in, download plugins, or install software.
+Easily share or embed the code with your changes when you're done.
+Create Your Free Account
+Let's get started! Your free account will let you create trinkets, see interaction statistics for each trinket you create, and more.
+Free Interactive Resources
+Trinket is proud to present the following free resources in collaboration with open source authors and our non-profit partners.
+From Blocks to Code
+Starting with Blocks, we look at the code underneath and learn some basics of Python!
+Python with Turtles
+A visual introduction to code using the Python programming language and Turtles.
+Trinket Premium Plans
+Designed with individual learners and educators in mind, premium plans offer more power and convenience.
+Trinket for Schools
+View Trinket's solutions to get your classroom or entire school ready to code.
+Free Support for Educators
+Educators are a key part of our mission. We offer free support to all verified educators and code club volunteers.

@@ -1,0 +1,4 @@
+ログインID、会員サポートパスワードを入力して【ログイン】ボタンを押してください。
+「会員サポートパスワード」をお忘れのお客様
+お客様情報保護のため、SSLを利用して通信を暗号化しています。
+Copyright © NTT-ME CORPORATION All rights reserved.

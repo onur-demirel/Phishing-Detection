@@ -1,0 +1,60 @@
+Acer ET322QKC: 4K-Monitor mit DisplayHDR 600 und 10 Bit
+Das taiwanische Unternehmen Acer hat den neuen 31,5-Zoll-Monitor ET322QKC veröffentlicht. Das Modell löst mit 3840 x 2160 Bildpunkten (4K) auf, setzt auf ein VA-Panel mit 178-Grad-Blickwinkeln und verspricht eine Grau-zu-Grau-Reaktionszeit von...
+ViewSonic IFP70: 4K-Touch-Monitore bald im Handel
+Im Rahmen der vergangenen Juni abgehaltenen InfoComm 2019 stellte ViewSonic neben anderen Neuheiten die 4K-Touchscreen-Serie IFP70 vor (wir berichteten). Nun stehen genauere Informationen fest. Die Modelle verfügen demnach über PCAP-Technologie mit...
+BenQ EW2480/EW2780: Zwei neue Full-HD-Monitore mit IPS-Panel
+Der taiwanische Hersteller BenQ erweitert seine Video-Enjoyment-Serie mit den Bildschirmen EW2480 (24 Zoll) und EW2780 (27 Zoll). Beide Modelle bieten ein blickwinkelstarkes IPS-Panel mit Full-HD-Auflösung (1920 x 1080 Pixel), 250 cd/m²...
+Razer Raptor 27: WQHD-Monitor mit IPS, 144 Hz und USB-C
+Das kalifornische Unternehmen Razer ist vor allem für seine Gaming-Laptops und -Eingabegeräte bekannt. Nun wagt es den Schritt in den Display-Markt und bringt mit dem Raptor 27 in Kürze einen 27...
+AOC AG273QX: VA-Monitor mit FreeSync 2 HDR und 165 Hz
+AOC veröffentlicht bald den 27 Zoll großen Gaming-Bildschirm AG273QX, bei dem es sich um ein Schwestermodell des dieses Jahr von PRAD getesteten AG273QCX (Kaufmöglichkeit unten) handelt. Bei dem neuen Gerät wird...
+Test iiyama XUB3493WQSU-B1 – 4K-Monitor mit FreeSync
+Nach etwa dreieinhalb Jahren übergibt der iiyama ProLite XUB3490WQSU-B1 das Zepter an seinen Nachfolger, den ProLite XUB3493WQSU-B1. Liest man sich allerdings die Beschreibung der Geräte auf der Produkt-Website des Herstellers durch, scheint ...
+Test AOC U2790PQU – Preiswerter 4K-Allround-Monitor
+AOC betitelt den neuen U2790PQU als "professionellen 27 Zoll 4K Monitor mit ergonomischem Ständer und USB-Hub". Des Weiteren werden die hervorragende Farbtreue und das breite Farbspektrum hervorgehoben. Dank IPS-Technologie und erweitertem Farbraum ...
+Test Philips 328E1CA – Günstiger 32 Zoll 4K-Monitor
+Der Philips 328E1CA ist ein 32-Zoll-Monitor mit einer 4K-Auflösung, der für unter 400 Euro im Handel angeboten wird und damit zur Einstiegsklasse zählt. Versprochen werden aber beste Bildqualitäten, die sogar mit einem beigelegten Messprotokoll untermauert werden.
+Test NEC PA271Q – Grafik-Monitor mit Vollausstattung
+Mit dem MultiSync PA271Q verspricht NEC herausragende Büroproduktivität und Kreativleistungen mit einer verlässlichen Farbwiedergabe. Als Mitglied der erst vor einem Jahr neu vorgestellten „Generation 27“ soll das Gerät die oft noch von 24-Zoll-Displays ...
+Test BenQ SW270C – Grafik-Monitor mit 16-Bit-3D-LUT
+Grafikmonitore kommen bis heute vornehmlich aus dem Land der aufgehenden Sonne. Seit einigen Jahren drängen weitere ostasiatische Hersteller in diesen Bereich – mit Achtungserfolgen, allerdings ohne qualitativ zu EIZO oder NEC wirklich völlig aufschließen zu können.
+Test LG 27GL850-B – Schnellster IPS-Gaming-Monitor
+Bislang galten IPS-Displays als zu träge, um im Konzert der pfeilschnellen Gaming-Bildschirme mit TN- oder VA-Technologie mitspielen zu können. LG räumt mit diesem Urteil nun auf und bringt mit den Monitoren 38LG950G und 27GL850-B gleich zwei IPS-Monitore ...
+BUSINESS AREA
+EIZO Monitore: Einfach kompromisslose Qualität
+Qualität kann man sehen – zumindest, wenn man vor einem EIZO High-End-Monitor sitzt, denn zur Herstellung der werden nur beste Komponenten verwendet. Durch die hohe Material- und Fertigungsqualität und lange Garantiezeit von bis zu fünf Jahren profitiert jeder Anwender. (Werbung)
+LG Business Monitore – Exzellente Displays für professionelle Arbeitsplätze
+Für Ihren Arbeits-PC sind LG Business Monitore die perfekte Wahl. Mit innovativen Features sorgen sie für optimale Arbeitsbedingungen. Ganz gleich ob im Großraumbüro oder im Home-Office und egal ob im 21:9 UltraWide Format, mit 4K-Auflösung oder als Zero Client Lösung. (Werbung)
+Praxis & Wissen
+Schlierentest für einen Flachbildschirm
+Je nachdem welche Bildwiederholfrequenz oder welche Reaktionsgeschwindigkeit ein TFT-Monitor besitzt, können bei schnellen Auf- und Abwärtsbewegungen Schlieren entstehen. Als Schlieren versteht man das Nachziehen oder Verwischen zum Beispiel bei Konturen ...
+PixPerAn (Pixel Persistence Analyzer) als Download
+TFT-Monitore sind in vielen Belangen Röhrenmonitoren überlegen. Eine herausstechende Eigenschaft gibt es jedoch, bei der TFT-Modelle bisher deutlich schlechter als Röhrengeräte abschneiden, und zwar...
+Bildqualität in Perfektion kommt nicht von ungefähr
+Die perfekte Bilddarstellung ist bei einem Monitor sicherlich die wichtigste Produkteigenschaft. Ergonomie- und Energiesparfunktionen oder das Design können noch so exzellent sein. Wenn die...
+Lösung für Probleme mit DisplayPort-1.4-Monitoren
+In unseren Tests sind wir in letzter Zeit bei NVIDIA-Grafikkarten regelmäßig auf ein Problem am DisplayPort 1.4 gestoßen. Es äußerst sich darin, dass der...
+Kaufberatung
+LESERTEST
+Lesertest X-Rite i1Display Pro: Für Fotografen ein Muss
+Egal ob Profifotograf oder ambitionierter Hobbyfotograf, die Qualität eines Fotos wird in digitalen Workflows immer häufiger auf Monitoren beurteilt. Hierfür sollte natürlich ein qualitativ hochwertiger Bildschirm, möglichst mit IPS-Panel, zum Einsatz kommen, der neben ...
+Lesertest EIZO EV3285 – 4K Allround-Monitor in Perfektion
+Keine Frage, der Markt an Office-Monitoren ist riesig. Doch will man ein Premium-Gerät mit erstklassiger Leistung, lichten sich die Angebote drastisch. Ein Hersteller, der im Bereich Monitore ganz vorn zu finden ist: EIZO. Egal ob bei Displays für die ...
+Lesertest LG 38WK95C-W – unglaublich groß, unglaublich gut
+Der optimale Allround-Monitor sollte in erster Linie eine beeindruckende Bildqualität in fast allen Nutzerszenarien ermöglichen, egal ob beim Betrachten von Videos, beim Spielen oder bei Office-Arbeiten. Und idealerweise sollte auch das Platzangebot auf der Bildfläche ...
+LG 27UK850-W mit 4K-Auflösung und HDR10 überzeugt im Lesertest
+Einleitung – Das Zeitalter von „UHD 4K HDR“ bricht an Ein ausgezeichneter Allround-Monitor muss in erster Linie eine beeindruckende Bildqualität in fast allen Nutzerszenarien ermöglichen, egal ob beim Betrachten von Videos, beim Spielen oder bei...
+Produktsuche
+Monitor Suche
+Sie suchen einen Monitor mit einer bestimmten Ausstattung? Mit Hilfe unserer Datenbank selektieren Sie genau die Modelle, die Ihrer Vorstellung entsprechen.
+Fernseher Suche
+Sie suchen ein TV-Gerät mit einer bestimmten Ausstattung? Mit Hilfe unserer Datenbank selektieren Sie genau die Modelle, die Ihrer Vorstellung entsprechen.
+Beamer & Projektor Suche
+Sie suchen einen Beamer mit einer bestimmten Ausstattung? Mit Hilfe unserer Datenbank selektieren Sie genau die Modelle, die Ihrer Vorstellung entsprechen.
+Produktvergleich
+Monitorvergleich
+Wenn Sie bereits verschiedene Monitore in die engere Wahl einbezogen haben, können Sie in unserem Vergleich 4 Geräte miteinander vergleichen.
+Fernseher Vergleich
+Wenn Sie bereits verschiedene Fernseher in die engere Wahl einbezogen haben, können Sie in unserem Vergleich 4 Geräte miteinander vergleichen.
+Projektor & Beamer Vergleich
+Wenn Sie bereits verschiedene Projektoren in die engere Wahl einbezogen haben, können Sie in unserem Vergleich 4 Geräte miteinander vergleichen.

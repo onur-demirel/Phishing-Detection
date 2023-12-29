@@ -1,0 +1,37 @@
+|Companie
+|Domeniu
+|Politica de confidenţialitate
+|RCS&RDS S.A.
+|digionline.ro
+|Vezi politica de confidenţialitate
+|prv_level
+|Companie
+|Domeniu
+|Politica de confidenţialitate
+|Google Analytics
+|google.com
+|Vezi politica de confidenţialitate
+|_ga, _gid, _gat, AMP_TOKEN, _gac_<property-id>, __utma, __utmt, __utmb, __utmc, __utmz
+|Companie
+|Domeniu
+|Politica de confidenţialitate
+|facebook.com
+|Vezi politica de confidenţialitate
+|a11y, act, csm, P, presence, s, x-referer, xs, dpr, datr, fr, c_user
+|Youtube
+|youtube.com
+|Vezi politica de confidenţialitate
+|GED_PLAYLIST_ACTIVITY, APISID, GEUP, HSID, LOGIN_INFO, NID, PREF, SAPISID, SID, SSID, SIDCC, T9S2P.resume, VISITOR_INFO1_LIVE, YSC, dkv, s_gl, wide
+|twitter.com
+|Vezi politica de confidenţialitate
+|auth_token, twll, secure_session, guest_id, __utma, remember_checked, remember_checked_on
+|pinterest.com
+|Vezi politica de confidenţialitate
+|_utma, _utmz, _b, _pinterest_cm, _pinterest_pfob, csrftoken
+|Companie
+|Domeniu
+|Politica de confidenţialitate
+|Google DFP
+|google.com
+|Vezi politica de confidenţialitate
+|__gads, id, NID, SID, ANID, IDE, DSID, FLC, AID, TAID, exchange_uid, uid, _ssum, test_cookie, 1P_JAR, APISID, evid_0046, evid_0046-synced

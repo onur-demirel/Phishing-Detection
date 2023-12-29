@@ -1,0 +1,10 @@
+dspGuru provides a wide variety of DSP information to help you master the complex domain of Digital Signal Processing, including:
+- FAQs: At last, Frequently Asked Questions about DSP meet up with Rarely Given Answers, in a friendly, tutorial format.
+- Tutorials: Primary DSP subjects made simple.
+- HowTos: Here we divulge the secret “Tribal Knowledge” of DSP – stuff that experienced DSP’ers know, but isn’t in the textbooks. (Don’t tell anybody!)
+- Tricks: Algorithmic and design tricks that make your life in DSP a little easier.
+- Books: Which of a zillion DSP books should you add to your personal DSP library? To help you choose, we provide listings of DSP books organized in a wide variety of ways.
+- Links: There’s gotta be something we haven’t covered, so we provide a comprehensive set of links to other DSP resources on the Internet.
+- Reference: Handy information to refer to.
+- comp.dsp: Got questions? Usenet’s DSP newsgroup has answers.
+For over ten years, dspGuru has been a free service of Iowegian International Corporation, makers of ScopeFIR, ScopeIIR, and ScopeDSP. It is supported by a minimal amount of advertising and by book sales on Amazon – at no additional cost to you!

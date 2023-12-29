@@ -1,0 +1,2 @@
+What is GetAdmission.in ?
+GetAdmission is complimentary feature provided with Mock Test which will help students to know the eligibility criteria for admission in Engineering and Pharmacy. GetAdmission will assist students to know everything about eligibility criteria of their desired College, branch and University i.e. Ranking and score for the college, branch and University they are interested in.

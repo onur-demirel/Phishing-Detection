@@ -1,0 +1,20 @@
+Como ver fotos privadas ou bloqueadas de alguém no facebook
+Quando entramos no facebook de alguém e vemos poucas fotos ou até nenhuma, podemos usar um recurso do próprio facebook para buscar fotos que estejam públicas “por aí” de acordo com algumas ações que o perfil procurado possa ter feito, quase sempre esse método vai retornar fotos que não estão disponíveis para você apenas visitando a página de fotos do perfil desejado.
+1) Nas configurações do facebook, coloque o idioma para English (US).
+2) Precisamos pegar o número do ID do perfil que queremos ver as fotos, para isso copie o link completo do perfil desejado e cole no site findmyfbid.com e clique em Find numeric ID e depois copie os números. Se não conseguir, há um outro método descrito no link do passo 3.
+3) Agora com os números (ID) que você pegou, clique no nosso link abaixo, lá você informará esse ID:
+www.pontodefusao.com/fotos-facebook
+No link acima você pode acessar:
+- Fotos
+- Fotos em que ela foi marcada
+- Fotos que ela curtiu
+- Fotos em que ela comentou
+- Postagens
+- Postagens em que ela foi marcada
+- Postagens que ela curtiu
+- Postagens em que ela comentou
+- Vídeos
+- Vídeos em que ela foi marcada
+- Vídeos que ela curtiu
+- Vídeos em que ela comentou
+- Grupos

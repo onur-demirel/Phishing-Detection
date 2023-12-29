@@ -1,0 +1,594 @@
+Vi bruger cookies til at huske indstillinger og indsamle statistik, så vi kan forbedre din oplevelse af siden. Brugen af cookies sker i samarbejde med vores partnere inden for sociale medier og analyse.
+Ved at klikke OK accepterer du vores brug af cookies.
+|Navn
+|Udbyder
+|Formål
+|Udløb
+|Type
+|__utma [x3]
+|cdn.knightlab.com
+cdnapi.kaltura.com
+cdnapisec.kaltura.com
+|Indsamler data om antallet af gange en bruger har besøgt hjemmesiden samt datoer for første og seneste besøg. Anvendes af Google Analytics.
+|2 år
+|HTTP
+|__utmb [x3]
+|cdn.knightlab.com
+cdnapi.kaltura.com
+cdnapisec.kaltura.com
+|Registrerer et tidsstempel med det præcise tidspunkt, hvor brugeren kommer ind på hjemmesiden. Anvendes af Google Analytics til at beregne hvor lang tid et besøg på hjemmesiden varer.
+|1 dag
+|HTTP
+|__utmc [x3]
+|cdn.knightlab.com
+cdnapi.kaltura.com
+cdnapisec.kaltura.com
+|Registrerer et tidsstempel med det præcise tidspunkt, hvor brugeren forlader hjemmesiden. Anvendes af Google Analytics til at beregne hvor lang tid et besøg på hjemmesiden varer.
+|Session
+|HTTP
+|__utmt [x3]
+|cdn.knightlab.com
+cdnapi.kaltura.com
+cdnapisec.kaltura.com
+|Anvendes til at drosle hastigheden på antallet af forespørgsler til serveren.
+|1 dag
+|HTTP
+|__utmz [x3]
+|cdn.knightlab.com
+cdnapi.kaltura.com
+cdnapisec.kaltura.com
+|Indsamler data om hvor brugeren kom fra, hvilken søgemaskine der blev brugt, hvilket link der blev klikket på og hvilke søgeord, der blev brugt. Anvendes af Google Analytics.
+|6 mdr.
+|HTTP
+|_ga [x7]
+|docdroid.net
+giphy.com
+ritzau.dk
+tv2ostjylland.dk
+visme.co
+infogram.com
+knightlab.com
+|Registrerer et unikt ID, der anvendes til at føre statistik over hvordan den besøgende bruger hjemmesiden.
+|2 år
+|HTTP
+|_gat [x7]
+|docdroid.net
+giphy.com
+infogram.com
+knightlab.com
+ritzau.dk
+tv2ostjylland.dk
+visme.co
+|Anvendes af Google Analytics til at drosle hastigheden på antallet af forespørgsler til serveren
+|1 dag
+|HTTP
+|_gid [x6]
+|docdroid.net
+giphy.com
+ritzau.dk
+tv2ostjylland.dk
+visme.co
+knightlab.com
+|Registrerer et unikt ID, der anvendes til at føre statistik over hvordan den besøgende bruger hjemmesiden.
+|1 dag
+|HTTP
+|laravel_session
+|docdroid.net
+|Denne cookie muliggør opdateringer og indlejring af indhold på hjemmesiden for hjemmesidens administrator.
+|1 dag
+|HTTP
+|uc_session
+|dropboxusercontent.com
+|Registrerer om den besøgende har accepteret cookie-banneret.
+|Session
+|HTTP
+|collect
+|google-analytics.com
+|Bruges til at sende data til Google Analytics om den besøgendes enhed og adfærd. Sporer den besøgende på tværs af enheder og marketingkanaler.
+|Session
+|Pixel
+|__cfduid [x3]
+|jifo.co
+knightlab.com
+visme.co
+|Anvendes af indholds-netværket Cloudflare til at identificere betroet webtrafik.
+|1 år
+|HTTP
+|nocache
+|quizeditor.com
+|Registrerer om brugeren er logget ind. Dette giver hjemmesiden mulighed for at gøre afgrænse dele af hjemmesiden utilgængelig, alt efter brugerens log-in status.
+|1 år
+|HTTP
+|ARRAffinity
+|ritzau.dk
+|Anvendes til at fordele trafikken på hjemmesiden over flere servere for at optimere svartider.
+|Session
+|HTTP
+|AWSELB
+|thinglink.com
+|Anvendes til at fordele trafikken på hjemmesiden over flere servere for at optimere svartider.
+|Session
+|HTTP
+|id
+|thinglink.com
+|Bevarer brugertilstand på tværs af sideforespørgsler.
+|29 dage
+|HTTP
+|JSESSIONID
+|thinglink.com
+|Bevarer brugertilstand på tværs af sideforespørgsler.
+|Session
+|HTTP
+|_dc_gtm_UA-#
+|tv2ostjylland.dk
+|Anvendes af Google Tag Manager til at styre indlæsningen af Google Analytics script.
+|1 dag
+|HTTP
+|CookieConsent
+|tv2ostjylland.dk
+|Gemmer brugerens cookie-samtykke-tilstand for det aktuelle domæne.
+|1 år
+|HTTP
+|has_js
+|tv2ostjylland.dk
+|Registrerer om brugeren har Javascript aktiveret i sin browser.
+|Session
+|HTTP
+|local_storage_support_test
+|twitter.com
+|Denne cookie benyttes i kontekst med local-storage‐funktionen på hjemmesiden. Dette tillader hjemmesiden at pre-loade bestemte procedurer, hvilket optimerer hjemmesidens hastighed og ydelse.
+|Persistent
+|HTML
+|PHPSESSID [x2]
+|visme.co
+visual-toolbox.peytz.dk
+|Bevarer brugertilstand på tværs af sideforespørgsler.
+|Session
+|HTTP
+|Navn
+|Udbyder
+|Formål
+|Udløb
+|Type
+|lang [x2]
+|cdn.syndication.twimg.com
+quizeditor.com
+|Gemmer det sprog brugeren har valgt på en hjemmeside
+|Session
+|HTTP
+|locale
+|dropbox.com
+|Indeholder den besøgendes sprog- og landeindstilling. Dette giver hjemmesiden mulighed for at formatere hjemmesiden efter disse indstillinger.
+|5 år
+|HTTP
+|Navn
+|Udbyder
+|Formål
+|Udløb
+|Type
+|__qca
+|giphy.com
+|Indsamler anonym statistik om brugerens besøg på hjemmesiden såsom antallet af besøg, den gennemsnitlige tid på hjemmesiden og hvilke sider der er læst. Formålet er at generere rapporter til optimering af hjemmesidens indhold.
+|1 år
+|HTTP
+|ig_putma
+|infogram.com
+|Registrerer data af statistisk karakter over flere besøgendes navigation på hjemmesiden - benyttes til intern analyse og statistik.
+|Session
+|HTTP
+|_at.hist.#
+|quizeditor.com
+|Anvendes af den sociale delings-tjeneste AddThis til at gemme brugerens historik ved brug af AddThis delingsfunktion
+|Persistent
+|HTML
+|_hjid
+|quizeditor.com
+|Sætter et unikt ID for det aktuelle besøg. Dette tillader hjemmesiden at skelne individuelle besøg fra hinanden, hvilket benyttes til intern statistik og analyse.
+|1 år
+|HTML
+|sc_anonymous_id
+|soundcloud.com
+|Denne cookie muliggør, at besøgende kan indlejre indhold på hjemmesiden; denne indlejring kan være begrænset til bestemte besøgende.
+|10 år
+|HTTP
+|_cb
+|tv2ostjylland.dk
+|Indsamler data om den besøgendes IP-adresse, geografiske placering og navigation på hjemmesiden. Dette benyttes til optimering af hjemmesiden og som statistik for hjemmesidens ejer.
+|1 år
+|HTML
+|_cb_expires
+|tv2ostjylland.dk
+|Denne cookie bruges i forbindelse med HTML Local Storage; cookien sætter en udløbsdato/-tidspunkt for _cb trackeren. Dette får _cb til at fungere som en normal cookie.
+|Persistent
+|HTML
+|_cb_ls
+|tv2ostjylland.dk
+|Indsamler data om brugerens besøg på hjemmesiden såsom hvilke sider der er læst.
+|1 år
+|HTTP
+|_cb_svref
+|tv2ostjylland.dk
+|Denne cookie indsamler informationer omkring den besøgendes adfærd og præferencer på hjemmesiden. Denne information bliver en ID-streng af information omkring den specifikke besøgende. Denne ID-streng kan bruges til at målrette annoncer til den specifikke besøgende af tredje-parts-reklamehjemmesider.
+|1 dag
+|HTML
+|_cb_svref_expires
+|tv2ostjylland.dk
+|Denne cookie bruges i forbindelse med HTML Local Storage, cookien sætter en udløbsdato/-tidspunkt for _cb_sverf trackeren. Dette får _cb_sverf til at fungere som en normal cookie.
+|Persistent
+|HTML
+|personalization_id
+|twitter.com
+|Sættes af Twitter.com - Cookien giver brugeren mulighed for at dele hjemmeside-indhold på sin twitter-profil.
+|2 år
+|HTTP
+|vuid
+|vimeo.com
+|Indsamler data om brugerens besøg på hjemmesiden såsom hvilke sider der er læst.
+|2 år
+|HTTP
+|Navn
+|Udbyder
+|Formål
+|Udløb
+|Type
+|loc
+|addthis.com
+|Geolocation, bruges til at hjælpe udgivere med at vurdere hvor brugere, der deler information med andre, geografisk er placeret (statsniveau)
+|13 mdr.
+|HTTP
+|uvc
+|addthis.com
+|Registrerer hvor ofte den sociale delingstjeneste AddThis møder samme bruger.
+|13 mdr.
+|HTTP
+|xtc
+|addthis.com
+|Registrerer brugerens delinger af indhold via sociale tjenester.
+|13 mdr.
+|HTTP
+|google_experiment_mod
+|docdroid.net
+|Benyttes af Google Adsense til at eksperimentere med effektiviteten af deres annoncer. Disse finder sted på alle hjemmesider der benytter Google Adsense.
+|Persistent
+|HTML
+|google_experiment_mod5
+|docdroid.net
+|Benyttes af Google Adsense til at eksperimentere med effektiviteten af deres annoncer. Disse finder sted på alle hjemmesider der benytter Google Adsense.
+|Persistent
+|HTML
+|google_experiment_mod6
+|docdroid.net
+|Benyttes af Google Adsense til at eksperimentere med effektiviteten af deres annoncer. Disse finder sted på alle hjemmesider der benytter Google Adsense.
+|Persistent
+|HTML
+|google_experiment_mod7
+|docdroid.net
+|Benyttes af Google Adsense til at eksperimentere med effektiviteten af deres annoncer. Disse finder sted på alle hjemmesider der benytter Google Adsense.
+|Persistent
+|HTML
+|IDE
+|doubleclick.net
+|Anvendes af Google DoubleClick til at registrere og rapportere om hjemmesidebrugerens handlinger efter at have set eller klikket på en af annoncørens annoncer. Formålet er at måle effekten af en annonce samt at målrette annoncer til brugeren.
+|1 år
+|HTTP
+|test_cookie
+|doubleclick.net
+|Anvendes til at tjekke om brugerens browser understøtter cookies.
+|1 dag
+|HTTP
+|__asc
+|giphy.com
+|Denne cookie indsamler informationer om den besøgendes adfærd og præferencer; disse informationer bliver sendt til Alexa Analytics. Alexa Analytics er en del af Amazon.
+|1 dag
+|HTTP
+|__auc
+|giphy.com
+|Denne cookie indsamler informationer om den besøgendes adfærd og præferencer; disse informationer bliver sendt til Alexa Analytics. Alexa Analytics er en del af Amazon.
+|1 år
+|HTTP
+|_pxhd
+|giphy.com
+|Registrerer præference-data på en specifik besøgende på flere hjemmesider, for at optimere annoncernes relevans.
+|1 år
+|HTTP
+|ads/ga-audiences
+|google.com
+|Anvendes af Google AdWords til at gentage annoncer for besøgende, der sandsynligvis vil konvertere til kunder baseret på den besøgendes onlineadfærd på tværs af websteder.
+|Session
+|Pixel
+|NID
+|google.com
+|Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg. ID'et anvendes til at målrette annoncer.
+|6 mdr.
+|HTTP
+|mc
+|quantserve.com
+|Indsamler data om brugerens besøg på hjemmesiden såsom hvilke sider der er læst. De registrerede data anvendes til at målrette annoncer.
+|13 mdr.
+|HTTP
+|__atuvc
+|quizeditor.com
+|Opdaterer tæller på en hjemmesides sociale delingsfunktioner.
+|13 mdr.
+|HTTP
+|__atuvs
+|quizeditor.com
+|Sørger for at brugeren ser den opdaterede tæller, hvis de deler en side med den social delings-tjeneste AddThis.
+|1 dag
+|HTTP
+|_at.cww
+|quizeditor.com
+|Anvendes af den sociale delings-tjeneste AddThis
+|Persistent
+|HTML
+|_hjIncludedInSample
+|quizeditor.com
+|Angiver om brugerens navigation skal registreres i en given statistik.
+|Session
+|HTTP
+|at-lojson-cache-#
+|quizeditor.com
+|Anvendes af den sociale delings-tjeneste AddThis
+|Persistent
+|HTML
+|at-rand
+|quizeditor.com
+|Anvendes af den sociale delings-tjeneste AddThis
+|Persistent
+|HTML
+|WIDGET::local::assignments
+|soundcloud.com
+|Benyttes af audio-tjenesten SoundCloud for at implementere, måle og forbedre deres integrerede indhold på hjemmesiden - Denne dataindsamling inkluderer brugerinteraktion med indhold, hvilket kan benyttes til statistiske formål eller til marketing.
+|Persistent
+|HTML
+|_chartbeat2
+|tv2ostjylland.dk
+|Anvendes af web-analyse-selskabet Chartbeat til at registrere om brugeren har besøgt hjemmesiden før.
+|1 år
+|HTML
+|_chartbeat2_expires
+|tv2ostjylland.dk
+|Anvendes af web-analyse-selskabet Chartbeat til at registrere om brugeren har besøgt hjemmesiden før.
+|Persistent
+|HTML
+|_chartbeat4
+|tv2ostjylland.dk
+|Anvendes af web-analyse-selskabet Chartbeat til at registrere om brugeren har besøgt hjemmesiden før.
+|1 dag
+|HTML
+|_chartbeat4_expires
+|tv2ostjylland.dk
+|Anvendes af web-analyse-selskabet Chartbeat til at registrere om brugeren har besøgt hjemmesiden før.
+|Persistent
+|HTML
+|_v__chartbeat3
+|tv2ostjylland.dk
+|Indeholder data om brugernavigation, interaktion of tid brugt på hjemmesiden og dens undersider - Dette benyttes til at optimere annoncer og til statistiske formål.
+|1 år
+|HTML
+|_v__chartbeat3_expires
+|tv2ostjylland.dk
+|Indeholder data om brugernavigation, interaktion of tid brugt på hjemmesiden og dens undersider - Dette benyttes til at optimere annoncer og til statistiske formål.
+|Persistent
+|HTML
+|GPS
+|youtube.com
+|Registrerer et unikt ID på mobile enheder for at muliggøre tracking baseret på geografisk GPS lokation.
+|1 dag
+|HTTP
+|PREF
+|youtube.com
+|Registrerer et unikt ID, der anvendes af Google til at føre statistik over hvordan den besøgende bruger YouTube vidoer på tværs af forskellige hjemmesider.
+|8 mdr.
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Forsøger at estimere brugernes båndbredde på sider med integreret YouTube-video.
+|179 dage
+|HTTP
+|YSC
+|youtube.com
+|Registrerer et unikt ID for at føre statistik over hvilke videoer fra YouTube brugeren har set.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video
+|Session
+|HTML
+|ping
+|chartbeat.net
+|Afventer
+|Session
+|Pixel
+|_px2
+|giphy.com
+|Afventer
+|1 dag
+|HTTP
+|_pxvid
+|giphy.com
+|Afventer
+|539 dage
+|HTTP
+|PXh52DW03a_px_c_p_PXh52DW03a
+|giphy.com
+|Afventer
+|Session
+|HTML
+|pxsid
+|giphy.com
+|Afventer
+|Session
+|HTML
+|pxvid
+|giphy.com
+|Afventer
+|539 dage
+|HTTP
+|www-claim-v2
+|instagram.com
+|Afventer
+|Session
+|HTML
+|__widgetsettings
+|twitter.com
+|Afventer
+|Persistent
+|HTML
+|i/jot/syndication
+|twitter.com
+|Afventer
+|Session
+|Pixel
+|Navn
+|Udbyder
+|Formål
+|Udløb
+|Type
+|google_experiment_mod12
+|docdroid.net
+|Afventer
+|Persistent
+|HTML
+|google_experiment_mod13
+|docdroid.net
+|Afventer
+|Persistent
+|HTML
+|google_experiment_mod14
+|docdroid.net
+|Afventer
+|Persistent
+|HTML
+|google_experiment_mod15
+|docdroid.net
+|Afventer
+|Persistent
+|HTML
+|google_experiment_mod16
+|docdroid.net
+|Afventer
+|Persistent
+|HTML
+|google_experiment_mod17
+|docdroid.net
+|Afventer
+|Persistent
+|HTML
+|google_experiment_mod18
+|docdroid.net
+|Afventer
+|Persistent
+|HTML
+|google_experiment_mod19
+|docdroid.net
+|Afventer
+|Persistent
+|HTML
+|google_experiment_mod21
+|docdroid.net
+|Afventer
+|Persistent
+|HTML
+|google_experiment_mod4
+|docdroid.net
+|Afventer
+|Persistent
+|HTML
+|google_pem_mod
+|docdroid.net
+|Afventer
+|Persistent
+|HTML
+|__Host-js_csrf
+|dropbox.com
+|Afventer
+|3 år
+|HTTP
+|__Host-ss
+|dropbox.com
+|Afventer
+|3 år
+|HTTP
+|gvc
+|dropbox.com
+|Afventer
+|5 år
+|HTTP
+|t
+|dropbox.com
+|Afventer
+|3 år
+|HTTP
+|_initial_referrer
+|e.infogram.com
+|Afventer
+|Session
+|HTTP
+|visme-stats-cid
+|my.visme.co
+|Afventer
+|Persistent
+|HTML
+|consent-is
+|quizeditor.com
+|Afventer
+|1 år
+|HTTP
+|cookie_consent_opened
+|quizeditor.com
+|Afventer
+|1 år
+|HTTP
+|notify_check
+|quizeditor.com
+|Afventer
+|1 år
+|HTTP
+|aff
+|thinglink.com
+|Afventer
+|29 dage
+|HTTP
+|site
+|thinglink.com
+|Afventer
+|Session
+|HTTP
+|_v__cb_cp
+|tv2ostjylland.dk
+|Afventer
+|1 dag
+|HTML
+|_v__cb_cp_expires
+|tv2ostjylland.dk
+|Afventer
+|Persistent
+|HTML
+Dit nærområde

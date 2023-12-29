@@ -1,0 +1,45 @@
+We Deliver 2 Billion Forecasts Per Day
+2,000 new subscribers a day | 2,000,000 customers | 20+ weather APIs
+Get current weather, daily forecast for 16 days, and 3-hourly forecast 5 days for your city. Helpful stats, graphics, and this day in history charts are available for your reference. Interactive maps show precipitation, clouds, pressure, wind around your location.
+More weather in your city
+Hourly Weather Forecast for 4 days
+Hourly forecast for 4 days is the accurate and detailed forecast with more advanced features in comparison with other forecasts we provide:
+- Higher geographic accuracy - weather model grid with improved degrees step
+- More detailed forecast - 96 timestamps
+- Weather data for any location including over 200,000 cities
+- You can request by geo coordinates, city name, ZIP codes
+More information in our Documentation. Contact us info@openweathermap.org.
+Dashboard for Agricultural Monitoring
+Dashboard is a service where you can visually operate with satellite imagery and weather data for your fields. Just draw a polygon in the simple interface and immediately get:
+- New Satellite imagery every 2-4 days
+- Historical satellite data archive
+- NDVI / EVI vegetation indices
+- Historical NDVI chart
+More information on the Dashboard page. Contact us info@openweathermap.org.
+Agricultural API for Satellite and Weather data
+This is a set of APIs that can provide Satellite imagery, Weather data and other products for agriculture, based on geodata. You can easily power your application with a combination of satellite and weather data.
+- New Satellite data every 2-4 days (Sentinel-2 and Landsat 8)
+- Historical Satellite and Weather archive data
+- NDVI & EVI indices
+- Soil temperature and moisture
+More information on www.agromonitoring.com. Contact us info@openweathermap.org.
+Weather maps 2.0
+Forecast & Historical weather map
+Using only one API call, you can get Forecast (for 10 days with 3-hour step), Historical, and Current weather maps.
+15 Weather map layers
+A variety of maps are available including precipitation, clouds, pressure, temperature, wind, and many more.
+Interactive current weather map
+Watching for current temperature and weather conditions in your city or any other location on the interactive global map.
+Google Weather-Based Campaign Management with OpenWeatherMap API
+Run your advertising campaign with OpenWeatherMap weather API through Google AdWords.
+Read more
+2500+ OpenWeatherMap weather API repositories on GitHub
+Find lots of workouts with our weather APIs on PHP, Java, Python, Go and many others on the Partners page together with 1500+ repositories on GitHub.
+View solutions
+Weather APIs for developers
+Simple and fast APIs.
+Access to current weather, forecasts, maps and historical data in JSON, XML, and HTML formats. A variety of map layers are available including precipitation, clouds, pressure, temperature, wind, and many more.
+Try Free APIs
+Connect your weather station to OpenWeatherMap
+We are glad to invite you to join our network of private weather stations. Today we have more than 40,000 weather stations around the world. You can connect your weather station to OpenWeatherMap and get a convenient interface for gathering and monitoring data from your weather station. You can also embed your weather station data into your home page.
+Connect

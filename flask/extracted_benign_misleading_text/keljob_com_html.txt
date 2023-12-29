@@ -1,0 +1,12 @@
+Le Règlement Général sur la Protection des Données (RGPD), appelé aussi General Data Protection Regulation (GDPR), encadre l’usage des données personnelles par les entreprises.
+Les données personnelles représentent toutes données étant attachées à l’identité d’une personne (nom, coordonnées, historique de navigation, etc...).
+Entrée en vigueur et obligation pour le citoyen
+Cette mesure de protection, entrée en vigueur le 25 mai 2018, est obligatoire et donne à chacun le pouvoir de maîtriser les informations lui appartenant lors de la navigation sur Ies canaux digitaux.
+Tous les citoyens de l’Union Européenne doivent autoriser ou refuser la collecte et le traitement de leurs données personnelles pour un usage déterminé par une entreprise.
+5 principes clefs
+Le consentement sous le RGPD doit être :
+- donné librement
+- pour un but précis et explicite
+- non équivoque
+- soumis au droit de rétractation
+- soumis au droit de portabilité

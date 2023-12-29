@@ -1,0 +1,12 @@
+Male
+Female
+Individual
+Corporation
+Complex Trust
+Simple Trust
+Grantor Trust
+Central Bank of issue
+Government
+International organization
+Tax-exempt organization
+Private foundation

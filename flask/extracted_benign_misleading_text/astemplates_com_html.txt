@@ -1,0 +1,19 @@
+Quartz is a crip clean Eco Joomla template based on the all new and highly customizable T4 Framework (a successor of the legendary T3 Framework), Bootstrap 4 and SCSS(Sassy CSS). It is tailored for Conservation, Charity and Community websites. Take absolute control of your website's layout with the inbuilt layout builder.
+Say goodbye to the old, rigid module positions and say hello to the new layout builder. With the new layout builder, you can create new blocks, rearrange blocks, assign blocks and module positions in whichever position you want. There is also an option to define the number of modules/columns per block.
+You can also add background images, overlays and colours to individual blocks. Each block can be set to be wit ...
+Get an access to Joomla! and Wordpress products developed by our authors, plus all the future items which will be released over the course of your club subscription. If you decide to change your template you can do this without having to purchase a brand new design every time.
+It's really simple – AS Templates is a marketplace for everyone to buy or sell templates and themes. At AS Templates we have created a marketplace to sell premium Joomla! and WordPress templates, of course buyers can browse quality items that have been reviewed by our experts which include free support for the premium items, upgrades and rich documentation.
+All our premium Joomla! templates and WordPress themes come with a quick-start installation package. Simply download and install the package like a regular CMS installation, and you can have a copy of our demo running on your servers just in a matter of minutes.
+On our marketplace we have a huge collection of free Joomla! templates, extensions and WordPress themes. All free items are released under the GNU/GPL License, this means you can use them for private or commercial purposes and freely edit. Sorry, no support.
+There are currently 141,276 happy community members and 44,918 purchased items. We've been in this industry for many years, and we know what our members are looking for in design trends and features.
+We're dedicated to providing a smooth service to satisfy our clients requirements. We're team of experts to help you in everything from your theme/item installation to stunning designs and great features.
+Latest from Comments
+I am working with the quickstart in my localhost. Upon sending mail i am having following message. "Could not start mail function". How to solve this? ...
+User: onik_18
+Joomla! Template: 002085
+Thank you for answering me back. It is my fault I didn't tell what exactly I cannot do: when I installed the template with quickstart, I had Quix installed as well. But it is the classic version and I cannot upload the images if I want to use them when I add a new element.I asked on a forum and they told me that I have to buy the visual version. Or to ask the template provider to update my version to visual if it's possible. In the template, I have 1.9.2 version and the visual Quix version started from 2.0 version. So it is possible to have an upgrade or I have to purchase visual Quix? ...
+User: tyriell
+Joomla! Template: LT Soccer
+Hello everyone. I have purchased the LT Soccer template but the Quix version is the classic one and i can't use all the features it has. I wrote to LT Theme asking how can I get the new visual version but they didn't answer back. What I have to do now? ...
+User: tyriell
+Joomla! Template: LT Soccer

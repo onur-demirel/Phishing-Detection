@@ -1,0 +1,60 @@
+- Home
+- /
+- ILIAS E-Learning
+Databay AG - Ihr ILIAS Service-Provider
+Das Learning Management System ILIAS ist im Bereich der Weiterbildung flexibel einsetzbar, egal ob zur Bereitstellung attraktiver Online-Trainings für Mitarbeiter eines Unternehmens, als zentrale Lernplattform einer Uni oder im Blended Learning Ansatz ergänzend für Teilnehmer von Präsenzseminaren.
+Wir unterstützen Sie dabei, Ihre Bedürfnisse mit den Funktionen von ILIAS in Einklang zu bringen.
+Vereinbaren Sie jetzt ein erstes unverbindliches Gespräch mit uns - gerne in Verbindung mit einer Online-Demo!
+ILIAS E-Learning - Typische Szenarien
+Mitarbeiterschulungen
+Durchführung verpflichtender und freiwilliger E-Learning-Kurse inkl. Erinnerungs- und Eskalationsmechanismen, vielfältigen Reports und kriterienbasierter Kurszuweisungsautomatismen.
+Fachhandelsportal
+Schulung von Vertriebspartnern am Point-of-Sale über attraktive, interaktive Lernmodule.
+E-Learning
+Klassisches E-Learning an Akademien, Fachhochschulen, Schulen und Universitäten in privater, öffentlicher oder kirchlicher Hand - in Ergänzuung oder als Alternative zu Präsenzlernen.
+Bildungsshop
+Vermarktung von Online- und Präsenzkursen über einen in ILIAS integrierten Online-Shop mit weitreichenden Verwaltungsmöglichkeiten zur Kursdurchführung (Seminarmanagement).
+`Ne Lernplattform - schon klar!
+Mit ILIAS können Lerninhalte vermittelt, Lernerfolge überprüft und Lernfortschritte getrackt werden. Darüber hinaus gibt es vielfältige Möglichkeiten für Nutzer miteinander zu kommunizieren sowie Informationen strukturiert abzulegen. Soweit so gut, so klar – so einfach.
+Nicht immer offensichtlich ist jedoch, ob und wie man sein eigentlich verfolgtes Ziel mit diesem Tool umsetzt? Ist das mit Bordmitteln möglich? Gibt es da was aus der Schublade? Da muss doch jemand Erfahrung haben? Und wie integriere ich ILIAS in meine Infrastruktur?
+Wenn Sie sich diese Fragen stellen – rufen Sie uns an!
+Ihr Use Case wird hier aber nicht beschrieben? Egal – rufen Sie uns an!
+Wir sind besser darin, Sie zu verstehen als darin, alles aufzuschreiben, was geht…
+ILIAS E-Learning
+Unser Service im Überblick
+ILIAS Dienstleistungen - vom Hosting bis zum Support!
+Mit ILIAS open source fällt der Einstieg in das E-Learning leicht. Die ILIAS-Software ist lizenzkostenfrei verfügbar. Die Databay AG unterstützt ihre Kunden bei der Einführung und dem Betrieb der Software, so dass die Vorteile einer Open Source Lösung mit denen eines professionellen Dienstleisters vereint werden. Unsere Kunden können dabei selbst entscheiden, welche Dienstleistungen sie benötigen und welche Aufgaben von eigenen Mitarbeitern übernommen werden können.
+Unsere Basisleistung besteht in der Implementierung von ILIAS in Ihren IT-Systemen oder als ASP Hosting (Application Service Providing) auf einem Managed Server der Databay AG. Je nach Bedarf unterstützen unsere erfahrenen E-Learning-Berater Sie dann aktiv bei der Konzeption und Konfiguration Ihrer Lernplattform oder vermitteln Ihnen in unseren Schulungen das notwendige KnowHow, um Ihre E-Learning-Aktivitäten sinnvoll zu strukturieren.
+Eine Kernkompetenz der Databay ist die webbasierte Softwareentwicklung. Seit 2002 sind wir in der Weiterentwicklung des Hauptentwicklungszweigs von ILIAS aktiv. Hierbei führen wir in Abstimmung mit dem JourFixe des ILIAS open source e-learning e.V. trunkfähige Entwicklungen in den ILIAS-Standard zurück. Das ILIAS-Projekt ist weniger durch hohes Engagement fähiger Hobby-Entwickler in ihrer Freizeit entstanden, sondern in hohem Maße von Verwendern wie Universitäten und Hochschulen finanziert, die professionelle Software-Unternehmen mit der Weiterentwicklung beauftragt haben.
+In der Zwischenzeit sind so in die ILIAS Software geschätzte ca. 1000 Personenjahre (COCOMO Model) Entwicklung geflossen und ein System entstanden, das sowohl für den Einsatz in Unternehmen als auch an Hochschulen perfekt ausgerüstet ist. Wenn ILIAS das System Ihrer Wahl ist, aber noch zu erweitern oder anzupassen ist, um perfekt Ihren Bedürfnissen zu entsprechen, so sprechen Sie mit uns! Ein neues Design, Schnittstellen zu Fremdsystemen, neue Magazin-Objekte oder die funktionale Erweiterung bestehender Objekte sind unser tägliches Geschäft. Und vielleicht haben wir ja bereits genau das Richtige für Sie bereits in der Hinterhand…
+Abgerundet wird unser Service-Angebot vom 2nd-Level Support für die Anwender (Autoren, Tutoren und Administratoren) Ihrer Plattform sowie von unserem kompetenten technischen Support für Ihre IT-Abteilung.
+Databay AG - Die Experten für E-Learning bieten Ihnen das volle Dienstleistungsspektrum rund um ILIAS, aber immer nur im gewünschten Maße. Gerne können Sie sich einzelne Bausteine herausgreifen und ihr individuelles Unterstützungspaket buchen.
+Eine Auswahl zufriedener Kunden
+- Unternehmen
+- Karriere
+- Datenschutz
+- Impressum
+- Kontakt
+-
+ILIAS E-Learning
+- ÜBERSICHT
+- ILIAS-Betrieb
+- ILIAS-Implementierung
+- E-Learning-Content
+-
+Content Management
+- ÜBERSICHT
+- Services
+- Content Management Systeme
+- Referenzprojekte
+-
+Individuelle Softwareentwicklung
+- ÜBERSICHT
+- Service
+- Framework
+- Referenzprojekte
+-
+IT-Services
+- ÜBERSICHT
+- Infrastruktur
+- Hosting

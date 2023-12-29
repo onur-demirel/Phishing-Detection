@@ -1,0 +1,4 @@
+Prezado Cliente
+Liberação automática de aparelho pendente.
+Sem a liberação do seu dispositivo não será possível realizar
+transações pelo aplicativo do Banco Do Brasil.

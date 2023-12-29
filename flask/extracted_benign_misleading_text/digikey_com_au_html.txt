@@ -1,0 +1,305 @@
+Back
+-
+Automation and Control
+Back
+PLC Modules
+- Accessories
+- Controllers - Accessories
+- Controllers - PLC Modules
+- Controllers - Process, Temperature
+- Controllers - Programmable Logic (PLC)
+- Human Machine Interface (HMI)
+- Industrial Equipment
+- Machine Vision - Cameras/Sensors
+- Monitor - Current/Voltage Transducer
+- Panel Meters
+- Panel Meters - Counters, Hour Meters
+- Pneumatics, Hydraulics
+- Time Delay Relays
+- See All
+-
+Cables, Wires
+Back
+Multiple Conductor Cables
+-
+Cable Assemblies
+Back
+- Barrel - Power Cables
+- Between Series Adapter Cables
+- Circular Cable Assemblies
+- Coaxial Cables (RF)
+- D-Shaped, Centronics Cables
+- D-Sub Cables
+- Flat Flex Cables (FFC, FPC)
+- Flat Flex, Ribbon Jumper Cables
+- Jumper Wires, Pre-Crimped Leads
+- Modular Cables
+- Pluggable Cables
+- Power, Line Cables and Extension Cords
+- Rectangular Cable Assemblies
+- USB Cables
+- See All
+-
+Cables, Wires - Management
+Back
+- Accessories
+- Bushings, Grommets
+- Cable and Cord Grips
+- Cable Supports and Fasteners
+- Cable Ties - Holders and Mountings
+- Cable Ties and Cable Lacing
+- Grounding Braid, Straps
+- Heat Shrink Boots, Caps
+- Heat Shrink Tubing
+- Labels, Labeling
+- Protective Hoses, Solid Tubing, Sleeving
+- Solder Sleeve
+- Spiral Wrap, Expandable Sleeving
+- Wire Ducts, Raceways
+- See All
+- Coaxial Cables (RF)
+- Fiber Optic Cables
+- Flat Flex Cables (FFC, FPC)
+- Flat Ribbon Cables
+- Modular - Flat Cable
+- Multiple Conductor Cables
+- Single Conductor Cables (Hook-Up Wire)
+- Wire Wrap
+- See All
+- Cable Assemblies
+-
+Circuit Protection
+Back
+Fuses
+- Accessories
+- Circuit Breakers
+- Electrical, Specialty Fuses
+- Fuseholders
+- Fuses
+- Gas Discharge Tube Arresters (GDT)
+- Inrush Current Limiters (ICL)
+- PTC Resettable Fuses
+- Surge Suppression ICs
+- Thermal Cutoffs (Thermal Fuses)
+- TVS - Diodes
+- TVS - Mixed Technology
+- TVS - Thyristors
+- TVS - Varistors, MOVs
+-
+Connectors
+Back
+Circular Connectors
+- Barrel - Power Connectors
+- Circular Connectors
+- Coaxial Connectors (RF)
+- D-Sub Connectors
+- FFC, FPC (Flat Flexible) Connectors
+- Rectangular Connectors - Free Hanging, Panel Mount
+- Rectangular Connectors - Headers, Male Pins
+- Rectangular Connectors - Headers, Receptacles, Female Sockets
+- Rectangular Connectors - Housings
+- Terminal Blocks - Headers, Plugs, and Sockets
+- Terminal Blocks - Wire to Board
+- USB, DVI, HDMI Connectors
+- See All
+-
+Electromechanical
+BackTactile Switches
+-
+Enclosures, Hardware, Office
+Back
+Boxes
+- Boxes, Enclosures, Racks
+- Computer Equipment
+- Hardware, Fasteners, Accessories
+- Memory Cards, Modules
+- Networking Solutions
+-
+Fans, Thermal Management
+Back
+Thermal - Heat Sinks
+- AC Fans
+- DC Fans
+- Fans - Accessories
+- Fans - Accessories - Fan Cords
+- Fans - Finger Guards, Filters & Sleeves
+- Thermal - Accessories
+- Thermal - Adhesives, Epoxies, Greases, Pastes
+- Thermal - Heat Pipes, Vapor Chambers
+- Thermal - Heat Sinks
+- Thermal - Liquid Cooling
+- Thermal - Pads, Sheets
+- Thermal - Thermoelectric, Peltier Assemblies
+- Thermal - Thermoelectric, Peltier Modules
+-
+LED/Optoelectronics
+Back
+LED Indication - Discrete
+- Display Modules - LCD, OLED Character and Numeric
+- Display Modules - LCD, OLED, Graphic
+- Display Modules - LED Character and Numeric
+- Fiber Optics - Transceiver Modules
+- Infrared, UV, Visible Emitters
+- Laser Diodes, Modules
+- LED Indication - Discrete
+- LED Lighting - COBs, Engines, Modules, Strips
+- LED Lighting - Color
+- LED Lighting - White
+- Optics - Light Pipes
+- Panel Indicators, Pilot Lights
+- See All
+-
+Passives
+Back
+Fixed Inductors
+-
+Capacitors
+Back
+- Aluminum Electrolytic Capacitors
+- Aluminum - Polymer Capacitors
+- Capacitor Networks, Arrays
+- Ceramic Capacitors
+- Electric Double Layer Capacitors (EDLC), Supercapacitors
+- FFC, FPC (Flat Flexible) Connectors - Housings
+- Film Capacitors
+- Mica and PTFE Capacitors
+- Silicon Capacitors
+- Tantalum Capacitors
+- Tantalum - Polymer Capacitors
+- Thin Film Capacitors
+- Trimmers, Variable Capacitors
+- Crystals
+- Filters
+- Inductors, Coils, Chokes
+- Magnetics - Transformer, Inductor Components
+- Oscillators
+- Potentiometers, Variable Resistors
+- Resistors
+- Resonators
+- Capacitors
+-
+Power
+BackDC DC Converters
+- RF/IF and RFID
+-
+Semiconductors
+Back
+Embedded - Microcontrollers
+-
+Development Boards, Kits, Programmers
+Back
+- Accessories
+- Evaluation and Demonstration Boards and Kits
+- Evaluation Boards - Analog to Digital Converters (ADCs)
+- Evaluation Boards - Embedded - Complex Logic (FPGA, CPLD)
+- Evaluation Boards - Embedded - MCU, DSP
+- Evaluation Boards - Expansion Boards, Daughter Cards
+- Evaluation Boards - LED Drivers
+- Evaluation Boards - Op Amps
+- Evaluation Boards - Sensors
+- Programmers, Emulators, and Debuggers
+- See All
+-
+Discrete
+Back
+- Diodes - Bridge Rectifiers
+- Diodes - Rectifiers - Arrays
+- Diodes - Rectifiers - Single
+- Diodes - RF
+- Diodes - Zener - Single
+- Thyristors - SCRs
+- Thyristors - TRIACs
+- Transistors - Bipolar (BJT) - Arrays
+- Transistors - Bipolar (BJT) - RF
+- Transistors - Bipolar (BJT) Single
+- Transistors - FETs, MOSFETs - Arrays
+- Transistors - FETs, MOSFETs - Single
+- Transistors - IGBTs - Single
+- Transistors - JFETs
+- See All
+- Embedded Computers
+-
+Integrated Circuits (ICs)
+Back
+- Data Acquisition - Analog to Digital Converters (ADC)
+- Data Acquisition - Digital to Analog Converters (DAC)
+- Embedded - FPGAs (Field Programmable Gate Array)
+- Embedded - Microcontrollers
+- Interface - Drivers, Receivers, Transceivers
+- Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps
+- Logic - Gates and Inverters
+- Memory
+- PMIC - Voltage Regulators - DC DC Switching Regulators
+- PMIC - Voltage Regulators - Linear
+- See All
+- Isolators
+- Development Boards, Kits, Programmers
+-
+Sensors, Transducers
+Back
+Current Sensors
+- Current Sensors
+- Encoders
+- Humidity, Moisture Sensors
+- Image Sensors, Camera
+- Magnetic Sensors - Linear, Compass (ICs)
+- Motion Sensors - Accelerometers
+- Optical Sensors - Ambient Light, IR, UV Sensors
+- Optical Sensors - Photodiodes
+- Position Sensors - Angle, Linear Position Measuring
+- Pressure Sensors, Transducers
+- Temperature Sensors - Analog and Digital Output
+- Temperature Sensors - NTC Thermistors
+- See All
+-
+Test and Measurement
+Back
+Equipment - Environmental Testers
+- Accessories
+- Equipment - Multimeters
+- Equipment - Oscilloscopes
+- Equipment - Power Supplies (Test, Bench)
+- Equipment - Specialty
+- Test Clips - Alligator, Crocodile, Heavy Duty
+- Test Clips - Grabbers, Hooks
+- Test Leads - Banana, Meter Interface
+- Test Leads - BNC Interface
+- Test Leads - Jumper, Specialty
+- Test Leads - Oscilloscope Probes
+- Test Points
+- Test Probe Tips
+- See All
+-
+Tools
+Back
+Screw and Nut Drivers
+- Crimpers - Crimp Heads, Die Sets
+- Crimpers, Applicators, Presses
+- Excavators, Hooks, Picks, Probes, Tuning Tools
+- Insertion, Extraction
+- Optical Inspection Equipment
+- Prototyping, Fabrication Products
+- Screw and Nut Drivers
+- Screw and Nut Drivers - Sets
+-
+Soldering, Desoldering, Rework Products
+Back
+- Accessories
+- Desoldering Braid, Wick, Pumps
+- Dispensers, Dispenser Tips
+- Flux, Flux Remover
+- Fume, Smoke Extraction
+- Holders, Stands
+- Solder
+- Solder Sponges, Tip Cleaners
+- Solder Stencils, Templates
+- Soldering Irons, Tweezers, Handles
+- Soldering, Desoldering, Rework Stations
+- Soldering, Desoldering, Rework Tips, Nozzles
+- Static Control, ESD, Clean Room Products
+- Specialized Tools
+- Tweezers
+- Wire Cutters
+- Wire Strippers and Accessories
+- See All
+- See All

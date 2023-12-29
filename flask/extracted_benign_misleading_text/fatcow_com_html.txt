@@ -1,0 +1,34 @@
+FatCow Web Hosting was founded in 1998 in with the simple mission of providing the most reliable, affordable and fun hosting service for
+personal and small business websites. Since that time, we have grown into one of the largest and most influential hosting services in the
+industry. Throughout our growth we have stayed true to our core values. Today we provide all of our customers with a safe, secure,
+Green hosting platform all backed by the best support around, the Moo Crew.
+Proud to be Green
+Since 2009, FatCow has been committed to purchasing Renewable Energy Certificates (RECs) to offset its use
+of electricity; this year, the company will purchase enough RECs to offset its use of electricity by 200%.
+FatCow's commitment to the environment will prevent 999 metric tons of carbon dioxide from being released into the atmosphere,
+this year alone; that's equivalent to planting 213 acres of trees or taking 196 cars off the road!
+FatCow's actions have not only inspired Moo Crew members who have made simple changes in their daily routines to contribute to the effort,
+but also our customers who proudly display their Green Server badges on their websites. Every FatCow customer is given a badge that they
+can place on their website to let visitors know that they're surfing a website backed by eco-friendly web hosting services. To learn more
+about FatCow's eco-friendly, visit our Green Hosting page.
+Hosting Architecture
+FatCow's web
+host services are served by two Boston-area data centers. Combined, they occupy over 2400 square feet of space, comprised of over
+800 Servers and half a petabyte of storage … and growing, fast! Our network infrastructure is comprised
+of a pooled server environment, which gives virtually any server on our network the ability to access Web site files when a request occurs.
+This means that the first machine available will be the one to serve a customer's Web pages, giving our customer incredibly fast load times
+and fewer service interruptions than our competition.
+Fatcow's network-attached storage also enables any machine to access customer data. Each machine is clustered with another identical
+machine that will seamlessly take over if the primary unit crashes, ensuring customer data is always safe and secure. Additionally, these
+units are also backed by another set of storage units that include a mirror copy of the data in case of disk failure in the primary units.
+Legendairy Support
+At FatCow, we understand that it takes more than impressive technology to be a top host; it takes a great team of people. Over the years, the
+Moo Crew, FatCow's customer support team, has developed a reputation in the industry for going the extra mile for
+customers. The Moo Crew is available 24x7, 365 days a year and can be reached via phone, email or online chat.
+We care so much about customer service at FatCow hosting that we've instituted the HeiferCratic Oath
+which outlines our dedication to our customers. The oath includes such items as:
+- Personal phone call within 7 days of signup
+- 2-minute maximum hold time
+- North American-based support.
+- Resolve issue on initial contact or set a firm, follow-up deadline.
+- Review and improve support experience with customer surveys.

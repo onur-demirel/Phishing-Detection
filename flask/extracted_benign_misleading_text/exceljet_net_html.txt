@@ -1,0 +1,24 @@
+Conquer Excel
+Quick, clean, and to the point. Join more than 100,000 people who get weekly tips from us.
+Formulas
+To return the largest values in a set of data with criteria, you can use the a formula based on the LARGE and IF functions. In the example shown, the formula in F5 is: { = LARGE ( IF ( B5:B11 = "B" , C5:C11 ), 2 ) } Note: this is an array formula and must be entered with control + shift...Read more
+If you need to perform multiple lookups sequentially, based on whether the earlier lookups succeed or not, you can chain one or more VLOOKUPs together with IFERROR. In the example shown, the formula in L5 is: = IFERROR ( VLOOKUP ( K5 , B5:C7 , 2 , 0 ), IFERROR ( VLOOKUP ( K5 , E5:F7 , 2 , 0 ),...Read more
+To find the value of the last non-empty cell in a row or column, you can use the LOOKUP function in this surprisingly compact formula. As an additional bonus, this formula is not an array formula, and not volatile. How this formula works The key to understanding this formula is to recognize that...Read more
+To average numbers based on multiple criteria, you can use the AVERAGEIFS function. In the example shown, the formula in I5 is: = AVERAGEIFS ( sales , group , F5 , region , G5 ) where "group" (B5:B14), "region" (C5:C14), and "sales" (D5:D14) are named ranges . How this formula works Like the...Read more
+To get "first in, last out" times from timesheet data, you can use the MAXIFS and MINIFS functions, or an array formula as described below. In the example shown, the formula in H6 is: = MINIFS ( times , names , H5 , actions , "in" ) with the following named ranges : actions = C5:C22...Read more
+Videos
+In this video, we'll look at a way to create a search box that highlights rows in a table, by using conditional formatting, and a formula that checks several columns at once.
+In this video, we'll look at how to use a simple formula to apply conditional formatting. Formulas allow you to create more flexible and powerful conditional formats.
+Each character you see displayed in Excel has a number. In this video, we look at two functions that work with these numbers directly: CODE and CHAR.
+In this video, I'll show you how to create a formula that uses multiple, nested IF statements. This is a common technique to handle multiple conditions in a single formula.
+In this video, we'll look at shortcuts that let you work with the Ribbon using only your keyboard.
+Blog
+Pivot tables are one of the most powerful and useful features in Excel. This article is an introduction to Pivot Tables and their benefits, and a step-by-step guide with sample data.
+Formula errors are useful, because they tell you clearly that something is wrong. This guide shows examples of each of the 9 formula errors you may run into, with an information on how to investigate and correct the error.
+If VLOOKUP finds more than one match, will you get the first match or the last match? It's a trick question. It depends :) This article explains this confusing topic in detail, with lots of examples.
+Formulas and functions are the bread and butter of Excel. They drive almost everything interesting and useful you will ever do in a spreadsheet. This article introduces the basic concepts you need to know to be proficient with formulas in Excel.
+The double negative coerces TRUE or FALSE values to their numeric equivalents, 1 and 0. This is a useful technique in many advanced formulas that work with cell ranges.
+Feedback
+I love to use excel and use it a lot in my work. Your tips, tricks and examples have helped me enormously. -Lisa
+Thank you for including transcripts of your videos! I happen to be someone who works better from written instructions with pictures/screenshots than from videos, so I really appreciate this. -Sarah
+I have been using Excel since quite some time and whenever I google something and Exceljet comes up in the results, I am a bit relieved as I know that I will find both the answer and explanation here. Thank you for building a website which has solid content, clean UI and empathy towards user needs! -Aditya

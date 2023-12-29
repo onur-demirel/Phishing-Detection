@@ -1,0 +1,5 @@
+SOWISO is een leer-, oefen- en toetsomgeving voor Hoger Onderwijs wiskunde en statistiek.
+Stel je eigen cursus samen met behulp van onze database met meer dan 11.000 opgaven, netjes gebundeld in cursussen, of creëer je eigen materiaal.
+Studenten ontvangen gepersonaliseerde feedback op al hun antwoord pogingen. Wiskundige equivalentie wordt altijd herkend.
+Maak onderscheid tussen studenten met behulp van gedetailleerde learning analytics en data-gedreven inzichten in materialen en toetsen.
+Al onze opgaven en stapsgewijze uitwerkingen hebben gerandomiseerde variabelen, dus twee opgaven zijn nooit gelijk aan elkaar.

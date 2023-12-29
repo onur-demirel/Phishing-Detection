@@ -1,0 +1,18 @@
+- Locate by GPS
+- GPS Flare on Low Battery
+- Ring Feature
+- Password Protected Setup
+- Alert on SIM Card Removal
+- Remotely Enable Screen Lock*
+- Wipe SD Card and Perform Factory Reset
+-
+- Learn More
+- Everything in Basic Plus
+- On-Demand Camera and Camera on Failed Unlock
+- Prevent App Uninstall*
+- Geofencing
+- Passive Location Tracking
+- Remotely View Contacts
+- View Nearby Wifi
+- For all devices on your account
+- Learn More

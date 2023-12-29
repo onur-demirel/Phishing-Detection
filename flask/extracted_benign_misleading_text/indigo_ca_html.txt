@@ -1,0 +1,16 @@
+This site requires JavaScript.
+Please enable JavaScript before proceeding:
+Firefox
+- On the Tools menu (top left of browser), click Options.
+- On the Content tab, click to select the Enable JavaScript check box.
+- Click OK to close the Options popup.
+- Refresh your browser page to run scripts and reload content.
+Internet Explorer
+- On the Tools menu (top right of browser), click Internet Options, and then click the Security tab.
+- Click the Internet Zone.
+- If you do not have to customize your Internet security settings, click Default Level. Then go to step 5.
+- If you have to customize your Internet security settings, follow steps a & b, then go to step 5:
+- Click Custom Level.
+- In the Security Settings - Internet Zone dialog box, click Enable for Active Scripting in the Scripting section.
+- Click OK to close the Internet Options popup.
+- Refresh your browser page to run scripts and reload content.

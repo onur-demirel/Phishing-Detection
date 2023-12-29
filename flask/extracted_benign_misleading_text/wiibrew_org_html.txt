@@ -1,0 +1,29 @@
+Main Page
+edit
+Welcome!
+|Preparing for homebrew
+|Downloading homebrew
+|Developing homebrew
+|Install the Homebrew Channel on your Wii console by following the homebrew setup tutorial.
+|Browse the homebrew directory, or use the Homebrew Browser, which allows you to install directly from your Wii over Wi-Fi.
+|Start developing homebrew for Wii by downloading devkitPPC and reading the homebrew development guide.
+edit
+Current events
+|Latest news
+|Latest homebrew releases
+|
+|RSS feed · Archive
+|RSS feed · More releases
+edit
+Featured
+|Featured media
+|Featured homebrew
+|
+Homebrew Showcase (May 2009) by Extrems
+This video showcases the following homebrew: Christmas-Type Adventure Time, CosmoRaketti, Helium Boy, Kobo Deluxe, MPlayer CE, OpenTyrianWii, Quake Wii, ScummVM, Snes9x GX, Super Mario War Wii, Visual Boy Advance GX, Wii64, and WiiEarth.
+|Index of media
+|Nominate · More entries
+|Homebrew
+|Wii hardware
+|Wii software
+|Development

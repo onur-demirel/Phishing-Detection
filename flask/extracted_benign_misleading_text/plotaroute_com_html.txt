@@ -1,0 +1,43 @@
+"How far did I run?", "How big are the hill climbs on my bike route?", "Where can I find new places to run off-road?", "How can I get turn-by-turn directions on my Garmin?"
+plotaroute.com is a free worldwide route planner, with many advanced features specifically designed to help you plan and measure walks, runs, bike rides or any other outdoor pursuit.
+plotaroute.com is funded by advertising but if you prefer an ad-free experience, we also offer a PREMIUM Membership option, which displays no adverts, has higher usage limits and other benefits. Find out more...
+Please tell your friends about plotaroute.com. Use the share buttons here to share a link to plotaroute.com or the Share option on the map to share a route map.
+Plot and share route maps with directions and elevation profiles
+plotaroute.com is used in over 190 countries across the world and has excellent reviews. It is very easy to use with many advanced features, making it it simple to quickly plot and share great looking route maps for your walks, runs or bike rides, or indeed any outdoor pursuits, on roads, paths and trails.
+The route planner can can be used on desktop computers, tablets and mobile devices, and a mobile-friendly version of the website makes it easy to access all your routes on the move.
+You can print route maps, download GPS files and share your routes on social media. You can even display your routes directly on your own website or blog, with our unique interactive video style maps.
+Standard Membership is free so why not register now and give it a try!
+Our advanced online route planner has lots of great features to help you plan and share your routes.
+Register now to try out these and many other great features.
+Want a demo to help get started? Watch our route planner in action...
+We have a number of other tutorials available. Visit our tutorials section to see the full list of tutorial videos.
+You can also use plotaroute.com on your mobile device without the need to download an app. Just go to www.plotaroute.com in your mobile web browser.
+Watch our video tutorial for a demonstration of our popular mobile-friendly route planner.
+Like our Facebook page to stay in touch and get updates.
+plotaroute.com has lots of great plotting and editing features to help you to plan routes quickly and easily.
+Plots the shortest path back to the start
+Plots return leg of an
+out-and-back route
+Plots return leg via a selected point
+Deletes a selected range of points
+Replot a section of the route
+Measures a section of the route
+Switches the start
+and end of the route
+Move the start/finish of a circular route
+Plots extra laps of a circular route
+Plots extra loops in the middle of a route
+Delete first or last parts of a route
+Plot a swappable detour on the route
+Delete superfluous points on the route
+Join together two or more existing routes
+Split a route into two or more routes
+Plot a route using draggable waypoints
+Trace over one or more existing routes
+Plots suggested routes for you!
+You can find our more about some of these route planner features in our tutorial videos.
+Check out some of our top tips for getting the most out of plotaroute.com
+We have lots more 'How To' Guides to help you with some of the more advanced route planning features.
+We also have a number of video tutorials and friendly forums where you can get more help and advice.
+One of the important things to consider when planning a new route, is how suitable the roads are for the activity. Are they safe enough to navigate on foot? Do they have cycle lanes? Do they have pavements or sidewalks? Are they very narrow or busy? Google Street View helps to answer these questions and is available to Premium users of plotaroute.com.
+Our Split Screen feature enables you to see both the map and the Street View at the same time. This gives you a ground level view of the road as you plot your route. To see the Split Screen feature in action, take look at this demo video:

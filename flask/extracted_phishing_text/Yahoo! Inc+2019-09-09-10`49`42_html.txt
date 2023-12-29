@@ -1,0 +1,1 @@
+function unhideBody() { var bodyElems = document.getElementsByTagName("body"); bodyElems[0].style.visibility = "visible"; }

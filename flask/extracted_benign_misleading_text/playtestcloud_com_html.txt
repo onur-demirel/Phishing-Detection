@@ -1,0 +1,39 @@
+Make games that players love
+Best Fiends
+by Seriously
+How it works:
+- Set up your playtest in less than 5 minutes.
+- We let the right target audience test your game.
+- Watch and listen to videos of players playing your game.
+We have the players
+All of our testers are gamers. Pick the kind of players you want and we will show you how they play your game.
+Every type of gamer, from casual to hardcore
+Target by games, genres, and demographics
+Players play at home on their own devices
+Players are from the US, UK, and Canada
+Watch the whole experience
+PlaytestCloud will capture the whole gameplay experience, turning you into a spectator with super powers.
+All gameplay is video recorded
+See where players touch the screen
+Players think aloud while they play
+Works in all stages
+PlaytestCloud has products for every stage of development. From your first idea, to the weekly updates after launch, we‘ve got you covered.
+Test ideas and early prototypes
+Playtest iteratively during development
+Understand player reactions during soft-launch
+Test new features after global launch
+No coding required
+With PlaytestCloud you can playtest any game build, be it on iOS, Android, in the browser, or on Facebook — you don’t need to change your code. Our technology safely distributes your build and deactivates it after the playtest.
+No coding required
+PlaytestCloud automatically adds video recording capabilities to your game. It works with all game engines.
+No UDIDs
+Upload any build. No custom code-signing, provisioning, or Apple Enterprise certificate required.
+Built-in security
+We remotely disable all game builds after your playtest has been completed so that your in-development game stays safe.
+More features
+Multiplayer Testing
+Test synchronous multiplayer games within a specific time window and async multiplayer games with many short sessions.
+Prototype testing
+Test mood boards, music, and rough prototypes. We support Marvel, Invision, proto.io and many other prototyping tools.
+Player questions
+Ask players questions after their playtest to get an even deeper understanding of how they perceive your game.

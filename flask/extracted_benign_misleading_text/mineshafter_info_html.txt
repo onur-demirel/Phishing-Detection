@@ -1,0 +1,14 @@
+Mineshafter is a free alternative to using the main Minecraft online services.If you enjoy the game, please consider supporting the developers.
+If you are here because the proxy told you to update, go to the "Downloads" page.
+Get Started
+If you are here to update, head over to the Downloads page.
+Forge working
+Got it working with forge again. The only thing is that you need to go into your forge version file (e.g. .minecraft/versions/1.14.4-forge-28.0.93/1.14.4-forge-28.0.93.json), and find around line 36 where it says "url": "" Put some url between those quote marks. Doesn't matter what, but I like to use "https://example.org/" Unfortunately you'll need to do that every time you install a new version of forge. I may find a way to automate it in the future, but this works for now.
+Fixed launcher
+Alright 1.14.4 should be working now
+Broken launcher
+I think Mojang changed something about the format of their metadata files, cause even the vanilla Java launcher doesn't work anymore. You can still use 1.14.3 and any version before, but 1.14.4 will trigger a freeze. I don't think they're going to fix it since they don't support the java launcher anymore. Not totally sure how to fix it yet, but check back in a bit.
+More skins working and character models
+Skins were not working for some people who didn't also have a cloak set. Sorry about that, but it's fixed now. Also, you can select a regular or slim character model to match your skin better.
+Small update to fix Mojangs update
+I'm not sure what the significance of it was, but Mojang made a small update that broke some stuff with the launcher. I just pushed out a new launcher and it should be working again.

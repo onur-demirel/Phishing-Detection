@@ -1,0 +1,220 @@
+-
+Revit Architecture Forum (RAC) Threads / Posts Last Post
+Get help and support with Autodesk Revit Architecture (RAC)
+-
+Architecture and General Revit Questions(185 Viewing)
+General questions regarding RAC and functions common to all Revit Platforms.
+Forum Actions:
+Forum Statistics:
+- Threads: 14,265
+- Posts: 100,626
+Last Post:
+Slab edge profile not working...by
+Yesterday 10:18 PM
+-
+Architecture - Family Creation(24 Viewing)
+How to create content / families for Revit - Geometry, Parameters, Formulas, etc.
+Forum Actions:
+Forum Statistics:
+- Threads: 2,167
+- Posts: 15,988
+Last Post:
+Windows Family - Wall opening...by
+Yesterday 07:42 PM
+-
+Creating complex geometric forms with Conceptual Massing and Adaptive Components.
+Forum Actions:
+Forum Statistics:
+- Threads: 523
+- Posts: 3,287
+Last Post:by
+October 21st, 2019 03:19 AM
+-
+-
+Revit Structure Forum (RST) Threads / Posts Last Post
+Get help and support with Autodesk Revit Structure. (RST)
+-
+Structure - General Questions(21 Viewing)
+Questions about Structural Columns, Beams, Framing, Braces, Trusses, Foundations, Slabs, etc.
+Forum Actions:
+Forum Statistics:
+- Threads: 1,778
+- Posts: 9,197
+Last Post:
+Material Cut Pattern problem...by
+Yesterday 02:00 PM
+-
+Structure - Family Creation(5 Viewing)
+How to create BIM objects / families for RST - Geometry, Parameters, Formulas, etc.
+Forum Actions:
+Forum Statistics:
+- Threads: 430
+- Posts: 2,259
+Last Post:by
+October 17th, 2019 01:35 PM
+-
+Structure - Interoperability(1 Viewing)
+AutoCad Structural Detailing, Robot, E-Tabs, CSC Fastrak, RAM, Tekla, etc.
+Forum Actions:
+Forum Statistics:
+- Threads: 101
+- Posts: 414
+Last Post:
+Exporting Revit Architectural...by
+June 13th, 2019 07:02 PM
+-
+-
+Revit Mechanical, Electrical & Plumbing Forum (MEP) Threads / Posts Last Post
+Get help and support with Revit Mechanical, Electrical, and Plumbing. (MEP)
+-
+MEP - General(15 Viewing)
+Questions about Revit Ducts, Piping, Plumbing, Fire Protection, Electrical, etc.
+Forum Actions:
+Forum Statistics:
+- Threads: 2,224
+- Posts: 12,741
+Last Post:
+Making Beam appear on MEP planby
+Yesterday 08:18 AM
+-
+MEP - Family Creation(4 Viewing)
+How to create objects / BIM content for MEP - Connectors, Parameters, Formula, etc.
+Forum Actions:
+Forum Statistics:
+- Threads: 598
+- Posts: 3,095
+Last Post:by
+Yesterday 04:25 PM
+-
+-
+Revit - All Flavors Threads / Posts Last Post
+Forums that relate to all flavors of Revit. (RAC, RST & MEP)
+-
+Dynamo BIM(6 Viewing)
+Dynamo extends building information modeling with the data and logic environment of a graphical algorithm editor
+Forum Actions:
+Forum Statistics:
+- Threads: 504
+- Posts: 3,245
+Last Post:by
+Yesterday 07:32 PM
+-
+Tutorials, Tips & Tricks(11 Viewing)
+Find or share free Revit Tutorials and Tips & Tricks for Revit.
+Sub-Forums:
+Forum Actions:
+Forum Statistics:
+- Threads: 371
+- Posts: 3,462
+Last Post:
+Global Parameters and Egress...by
+October 14th, 2019 03:28 PM
+-
+Worksharing, Revit Server & C4R(9 Viewing)
+How to collaborate in Revit using Worksets, and questions about Revit Server.
+Forum Actions:
+Forum Statistics:
+- Threads: 348
+- Posts: 2,547
+Last Post:by
+Yesterday 07:34 PM
+-
+Hardware and Infrastructure(15 Viewing)
+What are the best Graphic Cards for Revit? CPU, RAM, Hard Drives, etc.
+Forum Actions:
+Forum Statistics:
+- Threads: 635
+- Posts: 8,879
+Last Post:by
+Yesterday 03:11 PM
+-
+Third party Add-Ins, API and R&D(11 Viewing)
+Discussions about creating Add-Ins, API, SDK, VSTA, VB, gbXML, .NET, etc.
+Sub-Forums:
+Forum Actions:
+Forum Statistics:
+- Threads: 627
+- Posts: 3,608
+Last Post:by
+Yesterday 08:54 PM
+-
+Coordination Tools(2 Viewing)
+Navisworks, Design Review, 3D coordination, 4D planning, dynamic simulation, and accurate analysis.
+Forum Actions:
+Forum Statistics:
+- Threads: 312
+- Posts: 1,706
+Last Post:by
+Yesterday 11:36 AM
+-
+Rendering and Gallery(8 Viewing)
+Questions about Rendering in Revit, Rendering tips, and a place to show off your work.
+Forum Actions:
+Forum Statistics:
+- Threads: 452
+- Posts: 4,119
+Last Post:by
+October 5th, 2019 10:37 PM
+-
+-
+Revit - International Threads / Posts Last Post
+Revit help and support in your native language (Español, Français, Россия & Dutch)
+-
+Forum Actions:
+Forum Statistics:
+- Threads: 267
+- Posts: 1,025
+Last Post:
+Cómo asgnar parámetros a una...by
+Yesterday 02:59 PM
+-
+Forum Français(12 Viewing)
+Forum pour Revit questions et réponses dans votre langue maternelle.
+Forum Actions:
+Forum Statistics:
+- Threads: 620
+- Posts: 3,263
+Last Post:by
+October 20th, 2019 11:18 AM
+-
+Forum Actions:
+Forum Statistics:
+- Threads: 118
+- Posts: 551
+Last Post:by
+August 26th, 2019 08:40 AM
+-
+-
+Revit - Jobs & Career opportunities Threads / Posts Last Post
+Find Revit job openings or Seek new adventures here.
+-
+Career Corner(1 Viewing)
+This is a moderated forum for members who may know of Revit jobs or contract work which others may be interested in or who are seeking employment for themselves. Employment companies and the like are not permitted to post here.
+Forum Actions:
+Forum Statistics:
+- Threads: 222
+- Posts: 243
+Last Post:by
+October 15th, 2019 06:21 PM
+-
+What's Going On?
+Currently Active Users
+There are currently 559 users online. 7 members and 552 guests
+Most users ever online was 2,601, March 25th, 2015 at 05:13 AM.
+Revit Forum Statistics
+- Threads
+- 39,537
+- Posts
+- 218,868
+- Members
+- 91,895
+- Active Members
+- 2,958
+Welcome to our newest member, PMcKenzie2004
+Icon Legend
+- Contains unread forum posts
+- Contains no unread forum posts
+- Forum is a category
+- Forum is a Link
+Hence the reason why very few people work in Revit in preliminary or schematic design.
+Slab edge profile not working when floor edge is a spline

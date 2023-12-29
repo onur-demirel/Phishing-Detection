@@ -1,0 +1,40 @@
+创建失败...
+激活码无效！
+我知道了
+|
+Office
+微软5t 网盘账号自助开通
+(只包含5TB Onedrive)
+获取账号
+获取激活码
+登录网盘
+获取账号
+email
+邮箱：
+lock
+初始密码：
+前往登录
+账号信息：
+订阅：
+A1学生版(onedrive 5t)
+A1教师版(onedrive 5t)
+A1学生版(onedrive 5t)
+A1学生版(onedrive 5t)
+A1教师版(onedrive 5t)
+姓名
+用户名仅限中文/英文/数字
+账号展示的姓名
+0
+/ 20
+用户名
+邮箱前缀仅限英文/数字
+邮箱 @ 前面的字符
+0
+/ 20
+@ a1.eefun.win
+@ a1.eefun.win
+@ a1.eefun.win
+激活信息：
+激活码
+必填
+获取激活码

@@ -1,0 +1,65 @@
+Skip to content
+Toggle navigation
+TECHNOBYTE
+Articles
+Courses
+Interesting Facts
+Sign in
+X
+Welcome! Let's get you settled in!
+Sign in/up
+We never post on your behalf
+Search for:
+Search for:
+WE COMBINE REAL WORLD SCIENCE AND TECHNOLOGY WITH ACADEMICS
+New in Courses
+Top 10 Arduino shields and breakout boards – Ultimate Guide
+Interfacing of Arduino with servo motor – The definitive guide
+Arduino PWM output and its uses – The definitive guide
+Parity Generator and Parity Checker
+Interfacing of Arduino with DC motor (single and multiple motors)
+Interfacing of Arduino Uno with Temperature and Humidity sensor
+More
+Articles of Interest
+Top 4 remote desktop software – Teamviewer alternatives 2019
+Challenges of 3D Printing in Manufacturing – Top 3 issues that need addressing
+Bitcoin vs Traditional Assets – Comparison of the crypto with traditional investments
+Top 5 Android apps for Computer Engineers 2019
+Artificial Intelligence In Retail: Leveraging the Next Step In Customer Engagement
+How Technology is Reshaping the Oil and Gas Industry
+More
+Engineering Courses
+Digital Logic Design and Digital Electronics Course
+Logic Gates using NAND and NOR universal gates
+Sequential and Combinational logic circuits – Types of logic circuits
+Code Converters – Binary to Excess 3, Binary to Gray and Gray to Binary
+View Course
+Android Development for Beginners - Learn From Scratch
+Introduction to Android Studio and running your first program
+Layouts in Android Studio – Which ones should we use?
+Performing Arithmetic Operations in Android Studio
+View Course
+Satellite Communication Course - Learn from scratch
+What is satellite communication, an introduction to the topic and other FAQs
+History of communication satellites – Timeline & major events
+Kepler’s Laws for Satellites – Space Segment
+View Course
+C Programming Course - Learn from scratch
+Install Code Blocks, GCC compiler & run your first C program – Windows 10
+Install Code Blocks on Mac OS X and run your first C program
+Arrays in C – Full explanation with examples and tutorials
+View Course
+Embedded Systems Course - Learn from scratch
+Embedded Systems – Introduction to the free course
+Why do we have to use the 8051? Isn’t it too old?
+AT89C51 Pins – Ultimate guide to the 8051’s pin configuration
+View Course
+Optical Fiber Communication Course - Learn from scratch
+Optical Fiber Communication – Introduction to the free course
+Optical Fiber Communication Basics – Ray theory of light
+Optical Fiber Communication Basics – Mode theory of light
+View Course
+More
+Interesting Facts
+More
+Top

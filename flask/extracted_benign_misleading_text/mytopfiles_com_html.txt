@@ -1,0 +1,12 @@
+|
+Use our search and find your favorite programs, documents and archives.
+We know about more than 5 508 programs, 9 540 archives and
+more than 10 300
+documents! Also we provide:
+- Unbiased real-time file popularity rating;
+- Search for any files (programs, archives, documents
+etc.);
+- File mirrors search;
+- Integration to the popular download manager Internet Download Accelerator;
+- Ability to keep track of and compare number of downloads of particular files;
+- All ratings are available through RSS feeds which we are updating constantly.

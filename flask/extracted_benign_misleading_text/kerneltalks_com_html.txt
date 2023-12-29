@@ -1,0 +1,9 @@
+SUSE Manager 4 server installation walkthrough along with screenshots.
+SUSE Manager Server 4 installation with screenshots
+If you like my tutorials and if they helped you in any way, then
+- Consider buying me a cup of coffee via paypal!
+- Subscribe to our newsletter here!
+- Like KernelTalks Facebook page.
+- Follow us on Twitter.
+- Follow our Google+ page.
+- Add our RSS feed to your feed reader.

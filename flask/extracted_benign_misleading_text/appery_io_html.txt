@@ -1,0 +1,25 @@
+Everything you need to make your own app
+Appery.io is a low-code app development platform that makes it easy to create hybrid mobile apps, web apps and PWAs.
+Start DevelopingWith Our Free Trial
+How to build an app in 5 easy steps using Appery.io
+- Choose one of the available templates
+- Use drag & drop to design app UI
+- Connect database and services
+- Preview your app
+- Build a mobile app or deploy a web app
+Used by over 500,000 users
+Key Platform Advantages
+Cloud App Builder
+Creating custom app UI has never been this easy. Use the speed of drag & drop and the power of Javascript to turn your idea into complete app in days not months.
+Build Once, Run Anywhere
+Apps built with Appery.io will work and look great across all popular devices and platforms. Submit mobile apps to App Store and Google Play or deploy them as web apps and PWAs. All with a single codebase.
+Simple Yet Powerful
+Our platform is easy to master even for total beginners. No prior programming experience is required. Seasoned app developers will continue working with frameworks they love such as Ionic and Angular, augmented with visual tools to boost productivty.
+Mobile backend as a service
+Use integrated backend services such as cloud database, server-side scripting, authentication, push notifications and more. Instantly import and use these services in the app builder. We offer scalable, reliable and secure infrastructure. Focus on implementing your idea and we will take care of the rest.
+Bring your own backend
+Have an existing backend and want to use it for an app? You can easily integrate it with Appery.io. We provide the tools that will create RESTful APIs from various enterprise systems such as Oracle, SQL Server, MySQL, SAP, Sharepoint, LDAP and more.
+Easily collaborate with your team
+Collaborate with team members in real time with simultaneous sharing of apps in browser and devices. Manage access with role based team management and permissions. Secure your progress with versioning and backups.
+What our customers are saying
+“We switched from Appcelerator to Appery.io to accelerate time to market and to develop apps more cost effectively. In our side by side comparison, an app that took us 1600 hours of senior developer time using Appcelerator took less than 500 hours to develop using Appery.io, and three quarters of that time was with a business analyst, not a developer.”

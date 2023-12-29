@@ -1,0 +1,9 @@
+My company uses their own custom login code. 15 minutes into the
+SQL injection lesson I realized we needed to have a meeting about
+security practices!
+I’ve always thought that learning how to hack was one of the best ways
+to learn how to defend yourself from attacks. You should send all your
+web developers, and even your IT staff, to check out Hacksplaining.
+Extremely impressed. This website is very well done, and we will be
+using Hacksplaining as a training tool for newer developers.
+Netsparker, the developers of dead-accurate web application security scanners have sponsored the Hacksplaining project to help raise web application security awareness which allow more developers to learn about writing secure code.

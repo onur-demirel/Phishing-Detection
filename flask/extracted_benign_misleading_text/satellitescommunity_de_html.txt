@@ -1,0 +1,291 @@
+|
+|Forums
+|Messages
+|Themes
+|Latest
+|Staff
+|
+|
+|GS>Ku
+|3625
+|92
+|
+|Feedsat
+|
+|DX>Ku
+|5553
+|103
+|
+|Feedsat
+|
+|Data>Ku
+|1034
+|87
+|
+|Feedsat
+|
+|MIS>Ku
+|143
+|11
+|
+|Feedsat
+|
+|T2-MI>Ku
+|23
+|5
+|
+|Feedsat
+|
+|IP over DVB>Ku
+|57
+|17
+|
+|Feedsat
+|
+|S2X>Ku
+|116
+|18
+|
+|Feedsat
+|
+|Feeds>Ku
+(Benutzer im Board aktiv : milan58 und 0 Gäste)
+|2457
+|74
+|
+|Feedsat
+|
+|
+|GS>C
+(Benutzer im Board aktiv : kein User und 2 Gäste)
+|2672
+|55
+|
+|Feedsat
+|
+|DX>C
+|3859
+|56
+|
+|Feedsat
+|
+|Data>C
+|726
+|59
+|
+|Feedsat
+|
+|MIS>C
+|3
+|1
+|
+|Feedsat
+|
+|T2-MI>C
+|269
+|12
+|
+|Feedsat
+|
+|IP over DVB>C
+|16
+|8
+|
+|Feedsat
+|
+|S2X>C
+|15
+|6
+|
+|Feedsat
+|
+|Feeds>C
+(Benutzer im Board aktiv : kein User und 2 Gäste)
+|4241
+|41
+|
+|Feedsat
+|
+|
+|GS>Extended C
+(Benutzer im Board aktiv : kein User und 1 Gast)
+|89
+|3
+|
+|Feedsat
+|
+|DX>Extended C
+|141
+|4
+|
+|Feedsat
+|
+|Data>Extended C
+|41
+|3
+|
+|Feedsat
+|
+|
+|DX>Ku>NS3/NS4
+|305
+|5
+|
+|Feedsat
+|
+|DX>C>NS3/NS4
+|151
+|10
+|
+|Feedsat
+|
+|
+|17.3-19.2 GHz band E/A
+Inklusive: GS>Ka E/A,
+DX>Ka E/A,
+Data>Ka E/A,
+Feeds>Ka E/A,
+|558
+|25
+|
+|Feedsat
+|
+|19.2-20.2 GHz band B
+Inklusive: GS>Ka B,
+DX>Ka B,
+Data>Ka B,
+|324
+|26
+|
+|Feedsat
+|
+|20.2-21.2 GHz band C
+Inklusive: GS>Ka C,
+Data>Ka C,
+|267
+|32
+|
+|Feedsat
+|
+|21.4-22.0 GHz band D
+Inklusive: GS>Ka D,
+DX>Ka D,
+Data>Ka D,
+Feeds>Ka D,
+|1065
+|23
+|
+|Feedsat
+|
+|31.8-32.3 GHz band
+Inklusive: DSN>Ka,
+|0
+|0
+|
+bisher keiner
+|
+|
+|
+|GS>X
+|149
+|12
+|
+|Feedsat
+|
+|Data>X
+|57
+|17
+|
+|Feedsat
+|
+|DSN>X
+|50
+|15
+|
+|
+|
+|
+|Data>S
+|49
+|23
+|
+|
+|
+|DSN>S
+|25
+|7
+|
+|
+|
+|
+|Beacon(s)
+|231
+|5
+|
+|hvdh
+|
+|Launches
+|23
+|7
+|
+|hvdh
+|
+|Testpositions
+(Benutzer im Board aktiv : kein User und 1 Gast)
+|531
+|29
+|
+|hvdh
+|
+|
+|Movings
+|46
+|4
+|
+|hvdh
+|
+|Old Positions
+|2003
+|93
+|
+|hvdh
+|
+|Graveyard
+(Benutzer im Board aktiv : kein User und 2 Gäste)
+|1244
+|49
+|
+|hvdh
+|
+|
+|Tools
+|944
+|42
+|
+|stephan94
+|
+|
+|DX corner
+|327
+|43
+|
+|Feedsat
+|
+|Small Talk
+|320
+|40
+|
+|qwer
+|
+|FAQ (English)
+|9
+|3
+|
+|qwer
+|
+|
+|Introduce yourself
+|176
+|20
+|
+|Feedsat

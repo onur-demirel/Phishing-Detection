@@ -1,0 +1,32 @@
+Here are the latest Linux tutorials that you can read and follow on Linux Handbook.
+You’ll learn something new with these tips and tutorials.
+Using Linux Basename Command in Bash Scripts
+The basename command in Linux prints the final component in a file path. Learn some practical examples of using basename command in bash scripts.
+5 Practical Examples of the Read Command in Linux
+With read command, you can make your bash script interactive by accepting user inputs. Learn to use the read command in Linux with these practical examples.
+Fixing ‘Authentication Token Manipulation Error’ in Ubuntu Linux
+Cannot change user password in Linux because of Authentication Token Manipulation Error? Here are the possible reasons why it happens and how you can fix it.
+New to Linux command line? Start Here!
+Learn to use various Linux commands with practical examples.
+Linux Terminal Tips and tricks
+Learn to do things in Linux command line with these practical tips and tricks curated from personal experience in day-to-day life of Linux sysadmin.
+How to Restart Apache in Ubuntu
+A quick tip that shows how to restart Apache server in Ubuntu and other Linux distributions.
+How to Install Vim on Ubuntu
+Learn to install Vim on Ubuntu Linux. Also learn to make Vim the default text editor in Ubuntu and Debian based distributions.
+How to Run Alias as Sudo in Linux
+By default, you cannot run an aliased command with sudo. Don’t worry. With this neat little tip, you’ll be able to run any alias with sudo access in Linux.
+Linux Tutorials for SysAdmins and DevOps
+Learn to setup tools on a Linux server in cloud. Also learn to manage your servers with various tools and services.
+How to Install and Use WP CLI on Linux
+Learn to install WP-CLI on Linux. Also learn to enable bash completion and use the basic WordPress commands in this tutorial.
+How to Create Symbolic Links in Linux
+This detailed tutorial tells you what are symbolic links, how to create a symbolic links and other important things associated with symlinks.
+Send Emails From Linux Terminal Using SSMTP
+This article will give a brief introduction to SSMTP and steps to install it and use the same to send emails from Linux terminal.
+Guide for Setting up SFTP Server in Linux
+This tutorial will give you a handy guide to install and setup a SFTP server in Linux.
+How to Setup Discourse Forum on Digital Ocean
+This step-by-step tutorial teaches you to install a Discourse forum on Digital Ocean cloud server properly. You’ll have a functioning SMTP server with a free SSL installed on your forum.
+Get Rid of Network Connectivity Issues in SSH with Mosh
+Struggling with SSH connection over a slow and inconsistent network? Mosh overcomes the shortcomings of SSH by giving you a steady connection over SSH.

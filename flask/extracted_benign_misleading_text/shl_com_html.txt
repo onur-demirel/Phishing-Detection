@@ -1,0 +1,190 @@
+|loc
+|addthis.com
+|Geolocation, which is used to help providers determine how users who share information with each other are geographically located (state level).
+|13 months
+|HTTP
+|uvc
+|addthis.com
+|Detects how often the social sharing service, AddThis, encounters the same user.
+|13 months
+|HTTP
+|xtc
+|addthis.com
+|Registers the user's sharing of content via social media.
+|13 months
+|HTTP
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+|__atuvc
+|shldirect.com
+|Updates the counter of a website's social sharing features.
+|13 months
+|HTTP
+|__atuvs
+|shldirect.com
+|Ensures that the updated counter is displayed to the user if a page is shared with the social sharing service, AddThis.
+|1 day
+|HTTP
+|_at.cww
+|shldirect.com
+|Used by the social sharing platform AddThis
+|Persistent
+|HTML
+|at-lojson-cache-#
+|shldirect.com
+|Used by the social sharing platform AddThis
+|Persistent
+|HTML
+|at-rand
+|shldirect.com
+|Used by the social sharing platform AddThis
+|Persistent
+|HTML
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|test_cookie
+|doubleclick.net
+|Used to check if the user's browser supports cookies.
+|1 day
+|HTTP
+|ELOQUA
+|eloqua.com
+|Registers a unique ID that identifies the user's device upon return visits. Used for auto-populating forms and to validate if a certain contact is registered to an email group.
+|2 years
+|HTTP
+|ELQSTATUS
+|eloqua.com
+|Used to auto-populate forms and validate if a given contact has subscribed to an email group. The cookie is only set if the user allows tracking.
+|2 years
+|HTTP
+|GoogleAdServingTest
+|embed.ted.com
+|Used to register what ads have been displayed to the user.
+|Session
+|HTTP
+|playerconfig
+|embed.ted.com
+|Used in conjunction with video-advertisement - Detects where on the website the video-advertisements should be displayed.
+|Persistent
+|HTML
+|bcookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|bscookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|lidc
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|1 day
+|HTTP
+|UserMatchHistory
+|linkedin.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|29 days
+|HTTP
+|UID
+|scorecardresearch.com
+|Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.
+|2 years
+|HTTP
+|UIDR
+|scorecardresearch.com
+|Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.
+|2 years
+|HTTP
+|cid
+|shl.com
+|Stores tracking code during session from external link
+|Session
+|HTTP
+|personalization_id
+|twitter.com
+|This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+|2 years
+|HTTP
+|GPS
+|youtube.com
+|Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+|1 day
+|HTTP
+|PREF
+|youtube.com
+|Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+|8 months
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+|179 days
+|HTTP
+|YSC
+|youtube.com
+|Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+|Session
+|HTTP
+|yt-player-headers-readable
+|youtube.com
+|Collects data on visitor interaction with the website's video-content - This data is used to make the website's video-content more relevant towards the visitor.
+|Persistent
+|HTML
+|yt-remote-cast-installed
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|pagead/1p-user-list/#
+|google.com
+|Pending
+|Session
+|Pixel
+|__ab12#
+|sharethis.com
+|Pending
+|1 year
+|HTTP
+|__widgetsettings
+|twitter.com
+|Pending
+|Persistent
+|HTML
+|i/jot/syndication
+|twitter.com
+|Pending
+|Session
+|Pixel

@@ -1,0 +1,45 @@
+Starting your own Cydia Source has never been easier.
+Limit access of your packages to certain devices.
+Completely customizable with your colors and icons.
+Sell your packages directly with Paypal.
+Buy exclusive packages with Paypal safely.
+Download exclusive packages only available on YouRepo.
+Convert your zip file to deb.
+Package structure to follow
+2 354 packages converted
+Build your theme easily with our Theme Creator.
+271 packages built
+Get detailed statistics from your users.
+50 Mo Storage
+15 Mo Upload Limit
+5 Custom Sections
+1 Source Limit
+10 UDIDs per Whitelist
+Free
+1 Go Storage
+150 Mo Upload Limit
+Unlimited Custom Sections
+3 Sources Limit
+100 UDIDs per Whitelist
+Advertisements removed
+Link your domain name
+Convert your zip files to deb
+Use our Theme Creator tool
+5 Go Storage
+200 Mo Upload Limit
+Unlimited Custom Sections
+5 Sources Limit
+Unlimited UDIDs per Whitelist
+Advertisements removed
+Link your domain name
+Convert your zip files to deb
+Use our Theme Creator tool
+10 Go Storage
+200 Mo Upload Limit
+Unlimited Custom Sections
+Unlimited Sources Limit
+Unlimited UDIDs per Whitelist
+Brand and advertisements removed
+Link your domain name
+Convert your zip files to deb
+Use our Theme Creator tool

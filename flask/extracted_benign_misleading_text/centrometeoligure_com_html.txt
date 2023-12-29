@@ -1,0 +1,210 @@
+|01AI
+|abmr.net
+|Utilizzato per raccogliere informazioni tecniche anonime sul browser dell'utente, il sistema operativo, l'indirizzo IP e la risoluzione dello schermo, oltre che la navigazione dell'utente sul sito internet.
+|1 anno
+|HTTP
+|loc
+|addthis.com
+|Geolocalizzazione, che è utilizzata per aiutare i provider a determinare la posizione geografica (a livello statale) degli utenti che condividono informazioni tra loro.
+|13 mesi
+|HTTP
+|uvc
+|addthis.com
+|Rileva quanto spesso il servizio di condivisione sociale AddThis si relaziona con lo stesso utente.
+|13 mesi
+|HTTP
+|xtc
+|addthis.com
+|Registra la condivisione di contenuti da parte dell'utente tramite social media.
+|13 mesi
+|HTTP
+|CMID
+|casalemedia.com
+|Raccoglie dati anonimi legati alle visite dell'utente al sito, come numero delle visite, tempo medio trascorso sul sito e pagine caricate, al fine di visualizzare pubblicità mirate.
+|1 anno
+|HTTP
+|CMPRO
+|casalemedia.com
+|Raccoglie dati sul comportamento dei visitatori da più siti web, al fine di presentare annunci pubblicitari più pertinenti. Ciò consente inoltre al sito web di limitare il numero di volte che un visitatore viene mostrato lo stesso annuncio.
+|3 mesi
+|HTTP
+|CMPS
+|casalemedia.com
+|Raccoglie dati anonimi legati alle visite dell'utente al sito, come numero delle visite, tempo medio trascorso sul sito e pagine caricate, al fine di visualizzare pubblicità mirate.
+|3 mesi
+|HTTP
+|CMST
+|casalemedia.com
+|Raccoglie dati anonimi legati alle visite dell'utente al sito, come numero delle visite, tempo medio trascorso sul sito e pagine caricate, al fine di visualizzare pubblicità mirate.
+|1 giorno
+|HTTP
+|__atuvc
+|centrometeoligure.com
+|Aggiorna il contatore delle funzioni di condivisione sociale del sito.
+|13 mesi
+|HTTP
+|__atuvs
+|centrometeoligure.com
+|Permette che venga visualizzato all'utente un contatore aggiornato qualora la pagina venga condivisa su un servizio di condivisione sociale, AddThis.
+|1 giorno
+|HTTP
+|_at.cww
+|centrometeoligure.com
+|Utilizzato dalla piattaforma di social sharing AddThis
+|Persistent
+|HTML
+|at-lojson-cache-#
+|centrometeoligure.com
+|Utilizzato dalla piattaforma di social sharing AddThis
+|Persistent
+|HTML
+|at-rand
+|centrometeoligure.com
+|Utilizzato dalla piattaforma di social sharing AddThis
+|Persistent
+|HTML
+|google_adsense_settings
+|centrometeoligure.com
+|Utilizzato da Google AdSense per sperimentare l'efficienza pubblicitaria su tutti i siti web che utilizzano i loro servizi.
+|Persistent
+|HTML
+|google_experiment_mod
+|centrometeoligure.com
+|Utilizzato da Google AdSense per sperimentare l'efficienza pubblicitaria su tutti i siti web che utilizzano i loro servizi.
+|Persistent
+|HTML
+|google_experiment_mod5
+|centrometeoligure.com
+|Utilizzato da Google AdSense per sperimentare l'efficienza pubblicitaria su tutti i siti web che utilizzano i loro servizi.
+|Persistent
+|HTML
+|google_experiment_mod6
+|centrometeoligure.com
+|Utilizzato da Google AdSense per sperimentare l'efficienza pubblicitaria su tutti i siti web che utilizzano i loro servizi.
+|Persistent
+|HTML
+|google_experiment_mod7
+|centrometeoligure.com
+|Utilizzato da Google AdSense per sperimentare l'efficienza pubblicitaria su tutti i siti web che utilizzano i loro servizi.
+|Persistent
+|HTML
+|DSID
+|doubleclick.net
+|Utilizzato da Google DoubleClick per il re-targeting, l’ottimizzazione, rendicontazione e attribuzione delle pubblicità online.
+|1 giorno
+|HTTP
+|IDE
+|doubleclick.net
+|Utilizzato da Google DoubleClick per registrare e produrre resoconti sulle azioni dell'utente sul sito dopo aver visualizzato o cliccato una delle pubblicità dell'inserzionista al fine di misurare l'efficacia di una pubblicità e presentare pubblicità mirata all'utente.
+|1 anno
+|HTTP
+|test_cookie
+|doubleclick.net
+|Utilizzato per verificare se il browser dell'utente supporta i cookie.
+|1 giorno
+|HTTP
+|NID
+|google.com
+|Registra un ID univoco che identifica il dispositivo dell'utente che ritorna sul sito. L'ID viene utilizzato per pubblicità mirate.
+|6 mesi
+|HTTP
+|rc::a
+|google.com
+|Utilizzato nel contesto del video-annuncio. Il cookie limita il numero di volte in cui un visitatore visualizza lo stesso contenuto dell'annuncio. Il cookie viene anche utilizzato per garantire la pertinenza del video-annuncio al visitatore specifico.
+|Persistent
+|HTML
+|rc::b
+|google.com
+|Utilizzato nel contesto del video-annuncio. Il cookie limita il numero di volte in cui un visitatore visualizza lo stesso contenuto dell'annuncio. Il cookie viene anche utilizzato per garantire la pertinenza del video-annuncio al visitatore specifico.
+|Session
+|HTML
+|rc::c
+|google.com
+|Utilizzato nel contesto del video-annuncio. Il cookie limita il numero di volte in cui un visitatore visualizza lo stesso contenuto dell'annuncio. Il cookie viene anche utilizzato per garantire la pertinenza del video-annuncio al visitatore specifico.
+|Session
+|HTML
+|pcs/activeview
+|googlesyndication.com
+|Utilizzato da DoubleClick per determinare se la pubblicità sul sito web è stata visualizzata correttamente: ciò serve a rendere più efficiente il loro sforzo di marketing.
+|Session
+|Pixel
+|uuid
+|innovid.com
+|Questo cookie viene utilizzato per ottimizzare la rilevanza degli annunci e raccoglie i dati del visitatore da diversi siti internet; questo scambio dei dati del visitatore viene fornito normalmente da un centro dati di terze parti o da un servizio per lo scambio di annunci.
+|3 mesi
+|HTTP
+|id
+|mookie1.com
+|Registra un ID univoco che identifica il dispositivo dell'utente che ritorna sul sito. L'ID viene utilizzato per pubblicità mirate.
+|13 mesi
+|HTTP
+|mdata
+|mookie1.com
+|Registra un ID univoco che identifica il dispositivo dell'utente che ritorna sul sito. L'ID viene utilizzato per pubblicità mirate.
+|13 mesi
+|HTTP
+|GPS
+|youtube.com
+|Registra un ID univoco sui dispositivi mobile per consentire il tracciamento sulla base della posizione geografica GPS.
+|1 giorno
+|HTTP
+|PREF
+|youtube.com
+|Registra un ID univoco utilizzato da Google per statistiche legate a come il visitatore utilizza i video YouTube su diversi siti internet.
+|8 mesi
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Prova a stimare la velocità della connessione dell'utente su pagine con video YouTube integrati.
+|179 giorni
+|HTTP
+|YSC
+|youtube.com
+|Registra un ID univoco per statistiche legate a quali video YouTube sono stati visualizzati dall'utente.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Memorizza le preferenze del lettore video dell'utente usando il video YouTube incorporato
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Memorizza le preferenze del lettore video dell'utente usando il video YouTube incorporato
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Memorizza le preferenze del lettore video dell'utente usando il video YouTube incorporato
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Memorizza le preferenze del lettore video dell'utente usando il video YouTube incorporato
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Memorizza le preferenze del lettore video dell'utente usando il video YouTube incorporato
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Memorizza le preferenze del lettore video dell'utente usando il video YouTube incorporato
+|Session
+|HTML
+|google_experiment_mod4
+|centrometeoligure.com
+|In attesa
+|Persistent
+|HTML
+|trk
+|innovid.com
+|In attesa
+|Session
+|Pixel
+|dpclb
+|protezionecivile.gov.it
+|In attesa
+|Session
+|HTTP

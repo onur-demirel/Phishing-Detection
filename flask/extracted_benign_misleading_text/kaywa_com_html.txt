@@ -1,0 +1,6 @@
+-
+QR Codes are a proven and easy-to-understand technology to bridge the gap between the physical (aka meatspace) and the digital world.
+-
+You can encode any type of textual information in a QR Code, for example your website's address, a Facebook page, a coupon, a contact.
+-
+Once published on paper, any other physical support (or even on the web), people with a QR App can scan your QR Code. By scanning they decode the information and the app then renders the website, the Facebook page, the coupon or the contact.

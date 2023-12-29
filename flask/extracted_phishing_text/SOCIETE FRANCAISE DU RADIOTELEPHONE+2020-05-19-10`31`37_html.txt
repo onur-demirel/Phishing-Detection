@@ -1,0 +1,33 @@
+Espace Client
+Numéro de ligne mobile, email ou NeufID
+Besoin d'aide
+Mobile perdu ou volé, SIM bloquéeAccédez aux actes d'urgence
+Télécharger l'application SFR & Moi
+Entrez votre numéro, pour recevoir un SMS de téléchargement sur votre mobile.
+ESPACE CLIENT
+Connectez-vous pour accéder à votre espace client
+Numéro de ligne mobile, email ou NeufID
+Entrez votre numéro, pour recevoir un SMS de téléchargement sur votre mobile.
+SFR a adopté une fonction de sécurité sur sa page d’authentification vous
+permettant de vérifier visuellement que vous êtes bien sur le site web SFR
+légitime.
+Aussi, ayez le bon réflexe :
+Vérifiez que vous voyez SFR (Société française du radiotéléphone - SFR SA) affiché en vert ou sur fond vert dans la barre de navigation de votre navigateur internet.
+Par exemple :
+Si vous utilisez un système d’exploitation ou une version de navigateur internet anciens, vous n’aurez pas cet affichage.
+Vous êtes client mobile, clé Internet ou
+tablette
+Utilisez votre numéro de ligne mobile.
+Vous êtes client ADSL / Fibre
+Utilisez votre adresse email (@sfr.fr ou @neuf.fr), identifiant NeufId ou l'adresse email personnelle que vous avez saisie. Si vous avez oublié votre identifiant, cliquez ici.
+Vous n'avez pas souscrit de ligne fixe ou de ligne mobile
+Votre identifiant est votre adresse email personnelle (@gmail.com, @yahoo.fr, @hotmail.com ...), celle que vous avez saisie lors de la création de votre compte.
+Vous avez résilié votre ligne mobile
+Votre identifiant est votre ancienne référence contrat ou votre adresse email SFR si vous en aviez créée une.
+Vous êtes client d'une ligne mobile :
+Votre identifiant est votre numéro de ligne mobile, c’est-à-dire 06xxxxxxxx ou 07xxxxxxxx.
+Pour accéder à votre compte personnel, votre ligne mobile doit fonctionner sur le réseau SFR. Vous avez reçu votre mot de passe par SMS.
+Si vous ne l’avez pas reçu, vous pouvez en demander un nouveau en cliquant sur le lien mot de passe oublié mot de passe oublié et en renseignant les informations demandées.
+Vous êtes client d'une ligne fixe ADSL ou Fibre :
+Votre identifiant (au format @sfr.fr) et votre mot de passe sont indiqués en haut à gauche de votre courrier suivi de commande : il s’agit des informations "identifiant de messagerie" et "mot de passe de messagerie".
+Ce sont les mêmes pour votre Espace Client, le service SFR Mail, les Applis depuis votre mobile et la majorité des services SFR.

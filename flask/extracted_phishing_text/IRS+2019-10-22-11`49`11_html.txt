@@ -1,0 +1,6 @@
+Choose an option from the dropdown list to provide your filing status for the tax year selected. For that year, you were one of the following:
+- A single taxpayer
+- A married taxpayer and filed a joint return
+- A married taxpayer and filed a separate return
+- A head of household (you were unmarried on the last day of the year, you paid more than half the costs of keeping up a home for the year, and you had a qualifying person living in the home for more than half the year)
+- A qualifying widow(er) with a dependent child (you were qualified to use this status for 2 years following the year your spouse died and had not remarried during this time)

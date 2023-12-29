@@ -1,0 +1,2 @@
+Combination images as textures - Free PrestaShop Module
+Combination images as textures PrestaShop 1.7 module Take the first image of every combination as textures, this module can save you a lot of time of uploading texture images one by one. Demo 1 Download Installation 1. Use the "Upload a module" button on "BO > Modules" page to install the module. 2. Modify the…

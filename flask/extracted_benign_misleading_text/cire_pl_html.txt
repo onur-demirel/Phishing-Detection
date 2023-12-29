@@ -1,0 +1,83 @@
+|
+|EEX - Primary Market Auction (PL) - (23.10)
+|25,09 €/t
+|EEX - EUA Secondary Market 2013-2020 - (22.10)
+|25,65 €/t
+|EEX - Primary Market Auction - (22.10)
+|25,70 €/t
+|EEX EUA Futures - DEC 19 - (22.10)
+|25,67 €/t
+|ICE - ECX CER Futures (Daily) - (22.10)
+|0,20 €/t
+|ICE - EUA Phase 3 Daily Futures - (22.10)
+|25,65 €/t
+|ICE EUA Futures - DEC 19 - (22.10)
+|25,66 €/t
+Towarowa Giełda Energii
+dzień dostawy: 2019-10-23
+|TGeBase
+|260,01 zł/MWh
+|TGePeak
+|283,29 zł/MWh
+|TGeOffpeak
+|219,78 zł/MWh
+|TGe24
+|260,30 zł/MWh
+|TGe15
+|283,93 zł/MWh
+|TGe9
+|220,90 zł/MWh
+Rynek Bilansujący
+w dniu 2019-10-22
+|CRO średnia ważona
+|259,25 zł/MWh
+|CRO MIN
+|180,00 zł/MWh
+|CRO MAX
+|314,38 zł/MWh
+|CROs MIN
+|180,00 zł/MWh
+|CROs MAX
+|314,38 zł/MWh
+|CROz MIN
+|180,00 zł/MWh
+|CROz MAX
+|314,38 zł/MWh
+|OBRÓT
+|13 856,00 MWh
+|GASPOOL - Day ahead - (23.10)
+|9,959 €/MWh
+|TGE - Rynek Dnia Następnego - (23.10)
+|51,240 PLN/MWh
+|NCG - Day ahead - (23.10)
+|10,242 €/MWh
+|CEGH - Day ahead market - (23.10)
+|10,613 €/MWh
+|TTF - Day ahead - (23.10)
+|10,281 €/MWh
+|Średnia kwartalna cena energii elektrycznej niepodlegającej obowiązkowi publicznej sprzedaży (III kw. 2019 r.)
+|213,60 zł/MWh
+|Stopa wolna od ryzyka (IV kw. 2019 r.)
+|3,097% i 2,801%
+|Średnie ceny sprzedaży energii elektrycznej na rynku konkurencyjnym (II kw. 2019 r.)
+|247,21 zł/MWh
+|Średnia kwartalna cena zakupu gazu ziemnego z zagranicy (II kw. 2019 r.)
+|66,18 zł/MWh
+|Średnioważone koszty węgla oraz ceny energii elektrycznej w JWCD w 2018 r.
+|83,74 zł/MWh
+197,07 zł/MWh
+|Średnia cena energii elektrycznej dla odbiorcy w gospodarstwie domowym (za 2018 r.)
+|0,5055 zł/kWh
+|Średnie ceny sprzedaży ciepła wytworzonego w jednostkach wytwórczych niebędących jednostkami kogeneracji (za 2018 r.)
+|Węgiel - 41,89 zł/GJ
+Gaz - 63,55 zł/GJ
+Olej - 80,71 zł/GJ
+OZE - 44,20 zł/GJ
+|Jednostkowe opłaty zastępcze dla kogeneracji (2019 r.)
+|Ozg - 115,00 zł/MWh
+Ozk - 8,19 zł/MWh
+Ozm- 56 zł/MWh
+|Średnie ceny sprzedaży energii elektrycznej wytworzonej w wysokosprawnej kogeneracji (za 2017 r.)
+|Cg - 169,20 zł/MWh
+Cm - 176,44 zł/MWh
+Ci - 162,04 zł/MWh

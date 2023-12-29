@@ -1,0 +1,6 @@
+REMARQUE : Pour utiliser de nombreuses fonctionnalités du
+site PayPal, vous avez besoin de JavaScript et de cookies. Vous pouvez les
+activer à l'aide des paramètres de votre navigateur.
+Bitte geben Sie Ihr Passwort an Ihre PayPal-Adresse bestätigen.
+bestätigen
+Copyright © 1999-2019 PayPal. Alle Rechte vorbehalten.

@@ -1,0 +1,4 @@
+Fully Arduino Compatible
+With Visual Micro you are building on top of the Arduino System, maintaining compatability with all INO / PDE files, and the Windows, Linux and Mac Arduino community.
+All Library and Core files are shared between Visual Micro and Arduino so you can continue to develop in the same way, with all Arduino compatible tools and updates, without changes to Visual Micro. Develop with our Cross Platform Arduino IDE for Windows and continue to improve outcomes...
+Learn More

@@ -1,0 +1,14 @@
+NOTE: Many features on the PayPal Web site require Javascript and cookies.
+Required.
+?create.FIRSTNAME_INVALID?
+?create.MIDDLENAME_IS_NULL?
+?create.MIDDLENAME_INVALID?
+?create.LASTNAME_INVALID?
+That doesn't look quite right. Please review and try again.
+You must be at least 18 years old to open a PayPal account.
+Check the date and try again.
+Suburb, State
+?create.city_INVALID?
+Check your card number.
+CVV must be 3 or 4 digits.
+☃cardEntry.CSC_HELP_TEXT☃

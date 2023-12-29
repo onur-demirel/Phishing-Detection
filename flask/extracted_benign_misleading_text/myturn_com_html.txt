@@ -1,0 +1,17 @@
+How it works
+Features & Benefits
+What's New
+Improved workflow for transferring Items between Locations & more!
+This sprint marks the completion of a number of improvements when it comes to transferring items between locations. In...August 4, 2019
+Improved check out workflow, import images from URL (beta), and more!
+When trying to check out an item to a user with a reservation that starts “today” myTurn will alert...July 26, 2019
+Unified “Check In / Out” field, limit registration by multiple domains, and more!
+We’ve made the “Check In / Out” field work for both Item IDs (as it did before) and also...July 13, 2019
+New SAML 2.0 Single Sign On, User Registration Options, & more!
+Two important enhancements have been added to the myTurn platform with this release: Initial support for the widely used...June 30, 2019
+Trusted By Enterprise, Education, Government & Communities
+What others are saying
+- "We doubled the utilization of our Lending Library in the first year using myTurn!"
+- “Incredibly easy to get started, we were up and running in minutes.”University Administrator
+- "We would have never started our community sharing program without myTurn. We're now helping thousands of people in low and mixed-income neighborhoods make their homes more efficient, improve their neighborhoods and start new businesses."
+- "We've reduced our inventory loss to nearly zero with myTurn's superior asset tracking capabilities, email reminders, reports and analytics."

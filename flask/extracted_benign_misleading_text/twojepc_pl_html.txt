@@ -1,0 +1,95 @@
+|
+Autor: Wedelek | 06:08
+|
+(3)
+|Redaktorzy z portalu HarwareLuxx przyjrzeli się bliżej zdjęciom wykonanym procesorom AMD z rdzeniami X86 Zen 2 oraz danym podawanym przez producenta i na tej podstawie obliczyli jak dużo było potrzeba tranzystorów do zbudowania 64-rdzeniowego Rome (Epyc) oraz 16-rdzeniowego Matisse (Ryzen 3000). W tym miejscu trzeba przypomnieć, że zarówno serwerowe jak i desktopowe procesory od AMD z Zen 2 charakteryzują się budową modułową. Układy te składają się z jednego bloku IO wykonanego w 14nm, ze wszystkimi kluczowymi kontrolerami (IOD) oraz 7nm chipletów (CCD) obejmujących pamięć L1, L2, współdzieloną L3 oraz cztery rdzenie x86. » czytaj dalej
+|
+|
+|
+Autor: Wedelek | 05:31
+|
+(5)
+|Nvidia zdecydowała o dodaniu do oprogramowania GeForce Experience popularnego narzędzia do modyfikacji palety barw w grach. Mowa o filtrze kolorów ReShade, który cieszy się dużą popularnością w środowisku moderów. Opisywane narzędzie po raz pierwszy trafi do sterowników Nvidii w przyszłym tygodniu przy okazji premiery najnowszej wersji oprogramowania dla GeForce’ów. Jego debiut nie bez przyczyny zbiegnie się z premierą karty graficznej GeForce GTX 1660 Super, czyli poprawionej wersji tego akceleratora z nowymi, znacznie szybszymi pamięciami RAM typu GDDR6. » czytaj dalej
+|
+Autor: materiały partnera | 05:20
+|
+(1)
+|Uszkodzenie smartfona to poważny problem nie tylko dla osób prowadzących działalność gospodarczą, ale również dla przeciętnych użytkowników. Obecnie telefon jest narzędziem, które wykorzystuje się do dzwonienia i wysyłania wiadomości tekstowej, a także do wielu innych czynności związanych z pracą lub rozrywką. Z tego powodu brak smartfona staje się uciążliwy, nawet gdy usunięcie usterki urządzenia zajmuje kilka dni. Jeśli zależy Ci na szybkiej naprawie smartfona, sprawdź, jak działa serwis iPhone. » czytaj dalej
+|
+Autor: Wedelek | źródło: KitGuru | 05:14
+|
+(8)
+|Intel cały czas pracuje w pocie czoła nad swoimi pierwszymi, w pełni nowymi układami graficznymi od lat. Architektura Gen 12 ma być ze wszech miar przełomowa oferując szereg rozwiązań niedostępnych do tej pory w IGP Intela. Przy tym będą to stosunkowo mocne chipy, które trafią zarówno do procesorów ogólnego zastosowania, w formie zintegrowanych układów, jak i do dedykowanych akceleratorów. Do tej pory dość dużo mówiło się między innymi o RayTracingu który będzie wprowadzony do bazujących na Gen12 kartach z rodziny Xe. Teraz okazuje się, że nie będzie to jedyna ciekawa funkcja jaką zaoferują te akceleratory. » czytaj dalej
+|
+Autor: Wedelek | źródło: SlashGear | 05:01
+|
+|Samsung opublikował nową aktualizację bezpieczeństwa dla smartfonów Galaxy Note 10 i Galaxy S10. Naprawia ona problem związany z wadliwie działającym czytnikiem linii papilarnych który przez błąd w kodzie można było bardzo prosto oszukać. Wystarczyło jedynie nakleić na wyświetlacz folię ochronną by urządzenie zaczęło się gubić rozpoznając jako poprawny każdy z przyłożonych palców. Cała sprawa została nagłośniona tydzień temu, a w odpowiedzi na tak poważny problem część banków zdecydowała się wyłączyć identyfikację biometryczną na wymienionych urządzeniach. » czytaj dalej
+|
+|
+|Czwartek 24 października 2019
+|
+Autor: Wedelek | 19:07
+|
+(2)
+|Premiera Ryzenów 3000 wymusiła na Intelu znaczącą obniżkę premierowych cen procesorów z rodziny Cascade Lake-X. To z kolei sprawiło, że dotychczas sprzedawane modele z rdzeniami Skylake-X stały się kompletnie nie opłacalne. Nikt o zdrowych zmysłach nie kupił by przecież modelu Core i9-9980XE za niemal $1950 skoro za nowego Core i9-9980XE trzeba zapłacić $999. Świadomy sporych stanów magazynowych producent musiał więc zdecydować się na radykalny krok obniżając drastycznie ceny starszych chipów. W niektórych przypadkach cena spadła o ponad połowę i dotyczy to zarówno serii 9xxx jak i 7xxx. » czytaj dalej
+|
+Autor: Wedelek | źródło: SlashGear | 05:45
+|
+(7)
+|Użytkownicy inteligentnych głośników Googe Home zgłaszają nagminnie problemy ze swoim sprzętem. Całemu zamieszaniu winna jest wadliwa aktualizacja, która skutecznie zawiesza oprogramowanie. Usterka objawia się zapalonymi wszystkimi diodami statusu oraz brakiem reakcji ze strony głośnika na komendy głosowe. W niektórych przypadkach pomaga chwilowe odłączenie urządzenia od zasilania lub przywrócenie go do ustawień fabrycznych, ale nie jest to regułą. Bardziej pechowi użytkownicy muszą się pogodzić z całkowitym uszkodzeniem oprogramowania i koniecznością reklamacji. » czytaj dalej
+|
+Autor: materiały partnera | 05:40
+|
+|Dźwięk przestrzenny, obraz w jakości HD oraz funkcje smart to najczęstsze określenia cech telewizorów, z jakimi spotkacie się w sklepach. Aby nie zginąć w gąszczu nowinek technologicznych oraz wybrać telewizor dopasowany do waszych oczekiwań, warto wcześniej przemyśleć, na jakich funkcjach odbiornika szczególnie wam zależy. » czytaj dalej
+|
+Autor: Wedelek | źródło: Hexus | 05:29
+|
+(1)
+|Firma iLife zaprezentowała niedawno dwa nowe mikrokomputery. Pierwszym jest laptop „kieszonkowy” z 8-calowym wyświetlaczem IPS o rozdzielczości 1920x1200 pikseli, procesorem Intel Kaby Lake 8100Y, 4GB pamięci RAM typu LPDDR3, 64GB dyskiem SSD, 2MP aparatem oraz baterią o pojemności 3500mAh. Urządzenie działa pod kontrolą Windowsa 10 i pod względem wymiarów przypomina gruby tablet. Znacznie mniejszym urządzeniem jest iLife MP8 Micro PC, który w obudowie o wymiarach około 5cm x 5cm x 4,5cm mieści procesor Intel Celeron N4100 (Gemini Lake, 4R/4W, 1.1/2.4GHz, 6W), 4GB pamięci RAM, 64GB pamięci na dane oraz złącza USB Type-C, dwa USB 3.0, HDMI i porty audio. » czytaj dalej
+|
+Autor: Wedelek | źródło: WCCFTech | 05:15
+|
+(4)
+|Jednym z ciekawszych elementów zamontowanych w nowych Pixelach 4 i 4XL są wyświetlacze o odświeżaniu 90Hz. Ich przewaga nad standardowymi ekranami 60Hz jest zauważalna przede wszystkim w najbardziej dynamicznych grach gdzie faktycznie czas reakcji ma duże znaczenie. Niestety sam producent zapomniał w swoich materiałach dodać, że użytkownik rzadko kiedy ma okazję skorzystać z zalet ekranu z tak szybką częstotliwością odświeżania, bo telefon automatycznie przełącza się w tryb „oszczędny” oferując jedynie 60Hz. Okazuje się, że jest to ściśle powiązane z podświetleniem ekranu. » czytaj dalej
+|
+Autor: Wedelek | źródło: Reuters | 05:01
+|
+(2)
+|Intel oskarżył grupę Fortress Investment o działanie na szkodę branży IT poprzez masowe gromadzenie patentów jedynie po to, by żądać od innych podmiotów opłat za ich wykorzystanie. Zdaniem Chipzilii firma działa tym samym na szkodę całej branży sztucznie hamując jej rozwój. Niebieskich boli przede wszystkim to, że Fortress ma w swoim portfolio ponad 1000 patentów, z czego część jest aktywnie wykorzystywan przez Intela. Są to między innymi IP należące niegdyś do NXP Semiconductors którego rozwiązania można znaleźć w CPU produkowanych od 2011 roku do chwili obecnej. » czytaj dalej
+|
+|
+|Środa 23 października 2019
+|
+Autor: Wedelek | źródło: Tech Power Up | 19:15
+|
+(12)
+|Wszystko wskazuje na to, że premiera procesorów Ice Lake dla komputerów desktop i serwer nadchodzi wielkimi krokami. Źródłem naszej nadziei są listy LKML (Linux kernel mailing list), które zawierają spis wspieranych przez system procesorów. Pojawiły się na nich wpisy dotyczące kolejno układów Ice Lake X dla serwerowych Xeonów, Ice Lake D dla serii Xeon D, Ice Lake L dla urządzeń mobilnych i wreszcie CPU dla desktopów. Oczywiście samo dodanie wymienionych chipów do listy nie oznacza, że ich premiera nastąpi lada tydzień. Tak dobrze nie będzie, ale mimo wszystko możemy mieć pewność, że rok 2020 przyniesie w końcu powiew świeżości w ofercie Chipzilli. » czytaj dalej
+|
+Autor: Wedelek | 19:14
+|
+(7)
+|Microsoft ogłosił, że osoby zainteresowane nabyciem procesorów z rodziny Threadripper 3, Ryzen 3000, APU 7-mej generacji lub 10 generacji CPU Intela muszą zaktualizować swój system operacyjny do wersji Windows 10 1903 lub nowszej*. To samo dotyczy również nowych układów dla komputerów klasy serwer od obu producentów, a także Snapdragonów 8cx od Qualcomma. Podobna sytuacja miała już miejsce w przeszłości. Przykładowo podczas premiery układów Kaby Lake i Bristol Ridge użytkownicy byli zmuszeni do porzucenia Windowsów 7 i 8/8.1, a posiadacze Skyalke’a musieli się liczyć z pewnymi ograniczeniami jeśli decydowali się na starsze „okienka”. » czytaj dalej
+|
+Autor: Wedelek | źródło: PC Perspective | 05:45
+|
+(7)
+|Wygląda na to, że jedną z pierwszych konstrukcji korzystających z modularnego systemu Intela opisywanego wczoraj na TPC, będzie nowy NUC (Next Unit of Computing). Wyglądająca niczym karta graficzna jednostka The Element posiada wlutowany procesor, niezbędne kontrolery, układ chłodzenia i sloty na RAM oraz dysk SSD w formacie M.2. Można ją zamontować w obudowie zewnętrznej o wymiarach 238 x 216 x 96 mm (5.0L), która ma wbudowany zasilacz o mocy 500W oraz dodatkowe złącze PCI-Express i sloty dla dedykowanej karty graficznej. Użytkownik ma do wyboru jeden z trzech CPU o TDP 45W: ośmiordzeniowego Core i9-9980HK, sześciordzeniowego Core i7-9750H lub czterordzeniowego Core i5-9300H. » czytaj dalej
+|
+Autor: Wedelek | źródło: VideoCardZ | 05:30
+|
+(2)
+|VideoCardZ dotarł do kolejnych informacji na temat nowej karty graficznej Nvidii z rodziny Super. Mowa o modelu GeForce GTX 1660 SUPER, który oficjalnie zadebiutuje w przyszły wtorek w cenie około 230 dolarów. Jest to karta na bazie architektury Turing, korzystająca z tego samego GPU co „zwykła” wersja, a więc z wyposażonego w 1408 procesorów CUDA układu TU116-300. Reszta specyfikacji jest praktycznie identyczna i tak naprawdę jedyną rzeczą odróżniającą oba modele jest pamięć RAM. W GTX 1660 SUPER znajdziemy 6GB RAMu typu GDDR6 z efektywnym taktowaniem na poziomie 14Gb/s, a w GTX 1660 mamy 6GB GDDR5 8Gb/s. » czytaj dalej
+|
+Autor: Wedelek | źródło: Ubergizmo | 05:15
+|
+(1)
+|Ostatnio sporo się mówi o nowej generacji konsol od Sony oraz Microsoftu i o wydajności jaki przyniosą. Od jakiegoś czasu wiemy, że w obu przypadkach otrzymamy procesory na bazie architektury Zen 2, GPU z Navi i wsparciem dla Ray Tracingu, oraz dysk SSD. W całym tym zamieszaniu stosunkowo mało mówi się o kontrolerach, a przecież jest to ważna kwestia, zwłaszcza, jeśli ktoś potrzebuje czegoś więcej niż standardowy pad. Dlatego też Microsoft postanowił zabrać głos w tej materii obiecując, że kosztujące niemało kontrolery Xbox Elite v2 będą kompatybilne z projektem Scarlet. » czytaj dalej
+|
+Autor: Wedelek | źródło: Mozilla | 05:01
+|
+(6)
+|Mozilla oddała w ręce użytkowników nową wersję przeglądarki internetowej Firefox oznaczoną numerem 70. Usprawniono w niej działanie interpretera kodu JavaScript, tak by ten radził sobie lepiej z dużymi fragmentami kodu. W rezultacie wydajność w tym zakresie przy korzystaniu z największych aplikacji wzrosła do 8%. Posiadacze komputerów z Windowsem ucieszą się zapewne z usprawnionego WebRendera, który potrafi teraz lepiej korzystać z zasobów GPU Intela, a użytkownicy Maców dzięki poprawkom dla Compositora odczują szybsze o 22% ładowanie stron internetowych oraz mniejsze o maksymalnie 37% obciążenie CPU podczas odtwarzania wideo. » czytaj dalej
+|
+|
+|Informacje
+|

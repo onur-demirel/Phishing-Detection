@@ -1,0 +1,4 @@
+-
+3 lezioni
+-
+Adobe Photoshop è uno dei software di grafica 2D più noti e diffusi al mondo, oltre che tra i più performanti ed apprezzati. In questa guida impareremo ad utilizzarlo per creare grafiche 2D da utilizzare nella realizzazione di un videogioco, partendo dalle basi del software fino ad arrivare a tutti i dettagli più avanzati.

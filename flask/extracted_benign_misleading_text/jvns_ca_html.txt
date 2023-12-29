@@ -1,0 +1,81 @@
+Hey! I'm Julia. Welcome to my blog. Here's every post I've ever written, organized by category. Enjoy! You can subscribe to a weekly digest of these blog posts.
+I also publish computer zines at Wizard Zines.
+I also publish computer zines at Wizard Zines.
+Most recent 10 posts
+and all posts by category:
+Cool computer tools / features / ideas
+Computer networking
+How a computer thing works
+Kubernetes / containers
+Zines / comics
+On writing comics / zines
+|How do you document a tech project with comics?
+|When does teaching with comics work well?
+|Why sell zines?
+|How to teach technical concepts with cartoons
+|Handwritten books
+|An idea for a programming book
+|Why cute drawings?
+|How (and why) I made a zine
+Conferences
+Organizing conferences
+|Ideas for making better conference talks & conferences
+|You can choose who submits talks to your conference
+|Should my conference do anonymous review?
+|Anonymous talk review is amazing.
+Businesses / marketing
+|A few early marketing thoughts
+|Who pays to educate developers?
+|I started a corporation!
+Statistics / machine learning / data analysis
+Year in review
+|2018: Year in review
+|2017: Year in review
+|2016: Year in review
+|2015: Year in review
+Infrastructure / operations engineering
+Career / work
+Working with others / communication
+|Making small culture changes
+|How do you make an awesome team?
+|Learning to like design documents
+|Senior engineering & fantasy heroes
+|On reading the source code, not the docs
+|Pair programming is amazing! Except... when it's not.
+|Pair programming
+Remote work
+|Working remotely, 4 years in
+|Surviving meetings while remote
+|Working remote, 8 months in (seeing humans is important!)
+|Working remote, 3 months in
+|Reports from remote-land: remote pairing works great!
+Talks transcripts / podcasts
+On blogging / speaking
+On learning
+Rust
+Linux debugging / tracing tools
+Debugging stories
+|Reverse engineering the Notability file format
+|Debugging netlink requests
+|A small website mystery
+|Investigating Erlang by reading its system calls
+|Surprises in Ruby HTTP libraries
+|Nancy Drew and the Case of the Slow Program
+Fan posts about awesome work by other people
+Inclusion
+Rbspy
+Performance
+Open source
+|Figuring out how to contribute to open source
+|A few questions about open source
+|Learning at open source sprints (no preparation required)
+|★
+|Don't feel guilty about not contributing to open source
+Linux systems stuff
+|How to get a core dump for a segfault on Linux
+|Things to learn about Linux
+|Guessing Linux kernel registers
+|You can be a kernel hacker!
+|Recovering files using /proc (and spying, too!)
+|★
+|4 paths to being a kernel hacker

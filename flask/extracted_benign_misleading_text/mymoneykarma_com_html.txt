@@ -1,0 +1,7 @@
+Password minimum requirements:
+Must have:
+- At least one uppercase letter.
+- At least one lowercase letter.
+- At least one digit.
+- At least one of these special characters (` ~ ! @ # $ % ^ & * ( ) _ - + = { } [ ] \ | : ; " ' < > , . ? /).
+Your Security is our top priority, that is the reason we require multi-layer logon verification in accordance with the highest standards of online security. Your account is protected by a sophisticated combination of a unique username and 2 different passwords created by you.

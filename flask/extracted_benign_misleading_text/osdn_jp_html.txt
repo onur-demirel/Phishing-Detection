@@ -1,0 +1,113 @@
+我々のサイトでユーザ体験を向上するために cookie を利用しています。このサイトの利用を継続することで cookie の利用、プライバシーポリシーおよび利用規約に同意したものとみなします。
+同意
+プライバシーポリシー
+利用規約
+ダウンロード
+Magazine
+開発
+アカウント
+ダウンロード
+Magazine
+開発
+コピペ
+ログイン
+アカウント/パスワードを忘れた
+アカウント作成
+言語
+ヘルプ
+言語
+ヘルプ
+×
+ログイン
+ログイン名
+パスワード
+ログイン
+キャンセル
+×
+アカウント/パスワードを忘れた
+申請
+キャンセル
+オープンソース・ソフトウェアの開発とダウンロード
+昨日: 232,544 ダウンロード
+合計: 62,323 ユーザ,
+84,099 リリースファイル
+アカウント作成
+ログイン名
+パスワード
+ログイン
+Login with GitHub
+Login with Twitter
+Login with Google
+Login with Facebook
+ソフトウェアの配布
+OSDNは、オープンソースソフトウェア開発やその利用に賛同する各組織の協力の下、オープンソースソフトウェア開発者がソフトウェア頒布のために無料で利用できる、全ての大陸に分散された世界規模のダウンロード環境と柔軟なアップロードを実現するファイルリリース環境を提供しています。
+さらに詳しく
+OSDN について
+ソフトウェアの開発
+OSDNは、Git/Subversion/Mercurial/Bazaarなどのソースコードリポジトリ、Webサイトホスティング、チケットシステム、Webフォーラム、メーリングリスト、そしてそれらをWebベースで総合的かつ容易にプロジェクト管理を行う環境をオープンソースプロジェクトに提供しています。
+Gitユーザ
+Subversionユーザ
+Mercurialユーザ
+ダウンロードランキング
+MinGW - Minimalist GNU for Windows
+This is the official download site for the latest packages originating from the MinGW.org Project MinGW is a native Windows port of the GNU Compiler Collection (GCC), with freely distributable import libraries and header files for building native Windows applications; includes extensions to the MSVC runtime to support C99 functionality. Although (currently) offering only a 32-bit compiler suite, all of MinGW's software will execute on the 64bit Windows platforms. MinGW is a registered trademark of Software in the Public Interest Inc. , registration number 86017856 ; this trademark has been registered on behalf of the MinGW.org Project , and its use by any other project is unauthorized.
+CrystalDiskInfo
+CrystalDiskInfoは、一部の USB 接続や Intel RAID, NVMe に対応し、ディスクに異常があればメールや音声で通知してくれるHDDとSSDに対応したディスク ユーティリティです。型番、容量、バッファサイズといった情報に加えて、電源投入回数、使用時間、温度などのS.M.A.R.T.情報を取得し、ディスクの健康状態を監視します。
+TortoiseSVN
+TortoiseSVNはSubversion（SVN）クライアントであり、Windowsシェル拡張として実装されています。 つまり、必要な時にWindowsファイルエクスプローラで利用できるようになります。 Subversionコマンドラインクライアントを実行する必要がないため、直感的で使いやすいです。（Sub）バージョン管理の最もクールなインターフェースです！
+Manjaro Linux
+Manjaro is a user-friendly Linux distribution based on the independently developed Arch operating system. Within the Linux community, Arch itself is renowned for being an exceptionally fast, powerful, and lightweight distribution that provides access to the very latest cutting edge - and bleeding edge - software. However, Arch is also aimed at more experienced or technically-minded users. As such, it is generally considered to be beyond the reach of those who lack the technical expertise (or persistence) required to use it. Developed in Austria, France, and Germany, Manjaro provides all the benefits of the Arch operating system combined with a focus on user-friendliness and accessibility. Available in both 32 and 64 bit versions, Manjaro is suitable for newcomers as well as experienced Linux users. For newcomers, a user-friendly installer is provided, and the system itself is designed to work fully 'straight out of the box'.
+FFFTP
+FFFTPは、2ペイン型のFTPクライアントソフトです。ローカルのフォルダとFTPサーバー側のディレクトリを同期させるミラーリング機能や漢字コードの変換機能、ファイアウォールやSOCKS、ワンタイムパスワードへの対応といった機能を備えています。
+活発なプロジェクト
+MinGW - Minimalist GNU for Windows
+This is the official download site for the latest packages originating from the MinGW.org Project MinGW is a native Windows port of the GNU Compiler Collection (GCC), with freely distributable import libraries and header files for building native Windows applications; includes extensions to the MSVC runtime to support C99 functionality. Although (currently) offering only a 32-bit compiler suite, all of MinGW's software will execute on the 64bit Windows platforms. MinGW is a registered trademark of Software in the Public Interest Inc. , registration number 86017856 ; this trademark has been registered on behalf of the MinGW.org Project , and its use by any other project is unauthorized.
+CrystalDiskInfo
+CrystalDiskInfoは、一部の USB 接続や Intel RAID, NVMe に対応し、ディスクに異常があればメールや音声で通知してくれるHDDとSSDに対応したディスク ユーティリティです。型番、容量、バッファサイズといった情報に加えて、電源投入回数、使用時間、温度などのS.M.A.R.T.情報を取得し、ディスクの健康状態を監視します。
+Bytom
+Bytom Blockchain Protocol (hereinafter referred as Bytom) is an interactive protocol of multiple byteassets. Heterogeneous byte-assets (indigenous digital currency, digital assets) that operate in different forms on the Bytom Blockchain and atomic assets (warrants, securities, dividends, bonds, intelligence information, forecasting information and other information that exist in the physical world) can be registered, exchanged, gambled and engaged in other more complicated and contract-based interoperations via Bytom. The protocol connects the atomic world and the byteworld to promote the interaction and circulation of assets between the two worlds. Bytom adopts three-layer architecture: application layer, contract layer and data transmission layer. The application layer is friendly to mobile and other terminals and convenient for developers to develop asset management applications. The contract layer use genesis contract and control contracts for asset issuance and management, supporting scalable BUTXO of UTXO model at the bottom layer, optimizing EVM and using introspection mechanism to prevent deadlock in Turing complete. The data transmission layer adopts DLT technology to achieve asset issuance, spending, transfer and other operations. The consensus mechanism uses POW algorithm that are friendly to AI ASIC chips. Matrix and convolution calculation is introduced into the hashing process so that the miners can be used for AI hardware acceleration services, generating additional social benefits.
+Tera Term
+Tera Term は、オリジナルの Tera Term Pro 2.3 の原作者公認の後継版です。オープンソースで開発されており、UTF-8 表示に対応しています。 また、SSH1 対応モジュール TTSSH を拡張し、SSH2 プロトコルをサポートしています。
+Android-x86
+This is a project to port Android open source project to x86 platform, formerly known as "patch hosting for android x86 support". http://www.android-x86.org/ The original plan is to host different patches for android x86 support from open source community. A few months after we created the project, we found out that we could do much more than just hosting patches. So we decide to create our code base to provide support on different x86 platforms, and set up a git server to host it. This is an open source project licensed under Apache Public License 2.0. Some components are licensed under GNU General Public License (GPL) 2.0 or later.
+新規リリース
+FT - V1.09
+2019-10-26 05:35: V1.09のリリースです。 主な項目は以下 ・テスト仕様書の初期データを既存のWebPageから取り込む機能を、IEObjectから脱却し、SeleniumBasicベースとした。この機能を使わない場合、従来の版でも構わない。 ・chromedriverを76系で確認。
+ROMs - lineage-16.0-20191024-UNOFFICIAL-x2
+2019-10-25 03:24: LineageOS Android ROM unified builds for the LeEco Le Max 2 (x2) and LeEco Le Max Pro (max_plus) Compatible models: x820, x821, x822, x829, x910
+core.db - 191025-Update.db
+2019-10-25 00:18: Bytom Blockchain Protocol (hereinafter referred as Bytom) is an interactive protocol of multiple byteassets. Heterogeneous byte-assets (indigenous digital currency, digital assets) that operate in different forms on the Bytom Blockchain and atomic assets (warrants, securities, dividends, bonds, intelligence information, forecasting information and other information that exist in the physical world) can be registered, exchanged, gambled and engaged in other more complicated and contract-based interoperations via Bytom. The protocol connects the atomic world and the byteworld to promote the interaction and circulation of assets between the two worlds. Bytom adopts three-layer architecture: application layer, contract layer and data transmission layer. The application layer is friendly to mobile and other terminals and convenient for developers to develop asset management applications. The contract layer use genesis contract and control contracts for asset issuance and management, supporting scalable BUTXO of UTXO model at the bottom layer, optimizing EVM and using introspection mechanism to prevent deadlock in Turing complete. The data transmission layer adopts DLT technology to achieve asset issuance, spending, transfer and other operations. The consensus mechanism uses POW algorithm that are friendly to AI ASIC chips. Matrix and convolution calculation is introduced into the hashing process so that the miners can be used for AI hardware acceleration services, generating additional social benefits.
+clonezilla_live_alternative_testing - 20191024-disco-source
+2019-10-24 14:30: Clonezilla は、True Image®に似た、パーティションおよびディスククローンツールです。 これは、ハードドライブにのみ使用されているブロックを保存し、復元します。 Clonezillaは、次の2種類、Clonezilla LiveとClonezilla SE（サーバー版）をご利用いただけます。 Filesystem supported: ext2, ext3, ext4, reiserfs, xfs, jfs of GNU/Linux, FAT, NTFS of MS Windows, HFS+ of Mac OS, UFS of BSD, minix of Minix and VMFS of VMWare ESX. Therefore you can clone GNU/Linux, MS windows and Intel-based Mac OS, no matter it's 32-bit (x86) or 64-bit (x86-64) OS. For these file systems, only used blocks in partition are saved and restored. For unsupported file system, sector-to-sector copy is done by dd in Clonezilla LVM2 (LVM version 1 is not) under GNU/Linux is supported. Multicast is supported in Clonezilla SE, which is suitable for massively clone. Based on partclone to clone partition. However, clonezilla, containing some other programs, can save and restore not only partitions, but also a whole disk.
+space-sss - 0.1.0.174
+2019-10-24 03:17: L＆L - Labyrinths ＆ Legends は「パーティが組める」ローグライク RPG です。 詳しくはウェブサイトを見て下さい。 http://lnl.sourceforge.jp/pukiwiki/
+サイトアナウンス
+[復旧済] Web閲覧障害
+2019-09-08 01:04: CDNの設定不具合により osdn.net の Web の閲覧に問題が発生していました。 すでに問題は修正されて復旧済です。 問題発生時間 2019-09-07 0:00 UTC ころ 〜 2019-09-07 21:00 UTC ころ 影響範囲 css や js のロードができないため osdn.net の Web のレイアウトが崩れる/操作ができない等の問題が発生していました (その他 プロジェクトWebやgit等のリポジトリアクセス等には影響は出ていません)
+[完了] [メンテナンス予告] プロジェクトWeb, リリース機能
+2019-06-12 04:24: 以下のメンテナンスは完了しました。 停止中はご迷惑をおかけしました。 6/18 (火) にストレージサーバのメンテナンスを予定しております。 このため、以下のサービスが停止します: プロジェクトWebサービス全体 (vhost サービス含む) プロジェクトファイルリリース (リリース、ストレージともに) 作業部屋のファイル管理 コードレポジトリのアーカイブダウンロード shell サーバ 予定時間: 2019/6/18 12:00 (JST) 〜 数時間程度 ご迷惑おかけしますが、よろしくお願いいたします。
+最新のリリース(ファイル)を指し示すURLを追加しました
+2019-05-31 07:05: ファイルリリースおよびファイルストレージの両機能において、常に最新のリリース(ファイル)を指し示すURLを用意しました。これらのURLは、プロジェクト全体や特定パッケージ/リリース内の最新のリリース(ファイル)へリダイレクトされるので、ユーザーに対してアナウンスするためのダウンロード用URLを変更する手間を軽減します。 ファイルリリース機能 - プロジェクトの最新のリリースページ /projects/(プロジェクト名)/latest/releases/release - プロジェクトの最新のリリースファイル /projects/(プロジェクト名)/latest/releases/file - 特定パッケージ内の最新リリースページ /projects/(プロジェクト名)/latest/(パッケージid)/release - 特定パッケージ内の最新のリリースファイル /projects/(プロジェクト名)/latest/(パッケージid)/file - 特定リリース内の最新のリリースファイル /projects/(プロジェクト名)/latest/(リリースid)/file - 最新リリースページ内の最新のリリースファイル /projects/(プロジェクト名)/latest/release/file ファイルストレージ機能 - ストレージ機能内の最新ファイル /projects/(プロジェクト名)/latest/storage
+所属プロジェクトのトップページを変更する機能が追加
+2019-05-23 06:19: 自分が所属するプロジェクトのトップページは、一般ユーザーと同じように見える「プロジェクト概要」ページではなく、「開発ダッシュボード」と呼ばれるページが割り当てられていましたが、どちらかを選択できる機能が追加されました。 「ユーザー設定」ページにて、自所属のプロジェクトのトップページを「プロジェクト概要」もしくは「開発ダッシュボード」のどちらかを選ぶことができます。
+[復旧] プロジェクトリリースのFTPアップロード
+2019-04-17 06:15: 2019-04-11 16時ごろより、プロジェクトのリリースファイルを FTP でアップロードしようとすると、Permission denied のエラーによりアップロードが失敗する状態になっていました。 この問題は 17日 12時ごろ復旧しました。 ご迷惑おかけしてすみません。
+新着Magazine記事
+「Google Chrome 78」リリース
+Googleは10月22日、Webブラウザ「Chrome 78（78.0.3904.70）」を公開した。Windows...
+「Firefox 70」公開、JavaScriptインタプリタ「Baseline Interpreter」の導入や多くの機能強化が行われる
+Mozillaは10月22日、オープンソースのWebブラウザの最新版「Firefox 70」を公開した。プライバシやセ...
+「Ubuntu 19.10（Eoan Ermine）」リリース
+英CanonicalのUbuntu開発チームは10月17日、「Ubuntu 19.10」（開発コード「Eoan Erm...
+「OpenBSD 6.6」リリース
+オープンソースのUNIX系OS「OpenBSD」開発チームは10月17日、「OpenBSD 6.6」のリリースを発表し...
+米Microsoft、オープンソースのマイクロサービス構築フレームワーク「Dapr」を発表
+米Microsoftは10月16日、マイクロサービス構築フレームワーク「Dapr」を発表した。任意の言語やフレームワー...
+Magazine 特集記事
+多機能なコンテナクラスタ構築ツール「Kontena」
+【Dockerの最新機能を使ってみよう】複数のDockerコンテナを自動で立ち上げる構成管理ツール「Docker Compose」
+コンテナ/クラウド環境におけるSerfを使った構成管理
+【Jenkinsを使った自動テスト環境を作る】Dockerコンテナを使って自動ビルドを実行する
+【Jenkinsを使った自動テスト環境を作る】パイプラインを使ったビルド/テストの自動化
+商用ソフトウエアライセンス購入
+各種主要な商用ソフトウェアライセンスを格安で購入

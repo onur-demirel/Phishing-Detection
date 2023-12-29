@@ -1,0 +1,166 @@
+Smart practice management
+for practitioners.
+Start your free 30 day trial and feel better.
+Trusted by thousands.
+Every day, thousands of users around the world use Nookal on their journey for growth and to reach each goal along the way.
+Practice smarter.
+Anywhere. Anytime.
+Keep everything running on time
+Manage appointments, classes, group bookings, meetings, staff and clients from a simple and flexible calendar platform.
+Class / Group Bookings
+Add multiple clients to classes and group therapy bookings. They can even purchase sessions in bulk.
+Staff Schedules
+Set up visual cues for recurring and one-off schedules and breaks for staff members on your diary.
+Waiting List
+Avoid missing client preferred times and availabilities by adding them to your waiting list.
+Automate bookings and reminders
+Let clients book their own appointments online while you're sleeping. Send them automatic reminders about their next booking.
+Online Bookings
+Allow your clients to easily book into available times and classes whenever they want.
+SMS and Email Reminders
+Send automatic reminders to minimise no-shows and keep your clients running on time.
+Receive SMS Replies
+Receive SMS message replies from clients to confirm or rebook appointments.
+Take clinical notes in a flash
+Document each consultation with your own easy-to-use templates, shortcuts and symbols. Quickly track progress on the same screen.
+Personalised Templates
+Get the information and results you need with your own clinical note templates.
+Draw on Body Charts
+Highlight and mark important treatment areas with interactive body chart images.
+Shortcuts and Symbols
+Focus on clients and results by entering detailed information with your own shortcuts.
+Write letters and store client files
+Securely upload and access documents, letters and files for each patient. Use personalised templates to write letters.
+Document and File Storage
+Attach files, documents and images to client records so you've got them wherever you go.
+Letter Templates
+Save time by setting up templates for clients, doctors, referrals and insurance companies.
+Placeholders
+Rapidly and accurately construct letters using client demographic and referral data.
+Invoice and submit claims easily
+Easily generate invoices for clients, health funds and insurance companies. Claim from Medicare online and get the money in the bank.
+Manage Invoices
+Generate, discount, combine and merge invoices all with the quick push of a button.
+Accounting Integrations
+Synchronise and export your accounting data to make financial management easier.
+Submit Claims Online
+Submit and track client claims online for quick and easy payment and processing.
+Keep data safe inside and out
+With an extensive permission management system, you have full control over exactly what your staff can see and do.
+User Groups
+Add staff to permission groups or create new groups for specific staff, like your accountant.
+Permissions
+Easily toggle permissions to block, allow full, or even partial access of specific data and areas.
+Change Tracking
+See who made and who changed appointments, cancellations and other diary items.
+Report and track your goals
+Powerful finance and activity reporting can give you a strong insight into what's happening in your business and with staff.
+Detailed Reports
+Designed by business-minded and result-driven people, our reporting is second to none.
+Automatic Clinic Snapshots
+Receive a weekly summary of your clinic performance to help you meet the goals you set.
+Multi-practice Aware
+Built from the ground up to grow with your business, no practice is too big or small.
+Safe and Secure
+The security and privacy of your account must be second to none. Nookal automatically backs up your data to multiple secure locations to ensure your peace of mind.
+Our system infrastructure uses state-of-the-art security measures and all information is transmitted with 256-bit SSL / HTTPS enterprise grade encryption.
+We constantly monitor the system around the clock to ensure everything runs optimally and to reduce any possible downtime.
+Integrations
+We've got a few friends that might be able to lend a hand:
+Xero
+Accounting Software
+Synchronise payments and invoices with Xero.
+Tyro
+Business Banking
+Process Payments and Claims from EFTPOS, Health Funds, and Medicare.
+MYOB
+Accounting Software
+Export sales and transaction data into MYOB.
+Medicare
+Department of Human Services
+Submit claims for automated payment to Medicare.
+DVA
+Department of Veteran's Affairs
+Submit claims for automated payment to DVA.
+ACC
+Accident Compensation Corporation
+Submit claims and invoices for approval and payment.
+HealthEngine
+Online Healthcare Platform
+Patient acquisition, management and retention for your practice.
+Physitrack
+Client Engagement
+Exercise prescription, outcomes tracking, education and Telehealth.
+MailChimp
+In Development
+Synchronise client lists with email marketing campaigns.
+TrackActive
+Exercise Prescription
+Set up, prescribe and monitor your clients exercise program.
+Cliniq Apps
+Client Communication
+Patient recalls, retention, acquisition, satisfaction and more.
+Nextin
+Branded Mobile Apps
+Streamlined mobile bookings, deals and push notifications.
+Smartabase
+Data Management
+Store profiles, fitness tests, training and coaching data, and more.
+Features List
+We're always adding exciting new features - our current feature list consists of these (and even more):
+Diary
+- Appointment Bookings
+- Group Class Bookings
+- Waiting List
+- Customisable Diary Views
+- Online Bookings
+- Recurring Staff Schedules
+- Meetings and Events
+- Notes and Reminders
+- iCal™ Feed for Outlook™, Google Calendar™, etc.
+Clients
+- Contact Details
+- Approved Session Reminders
+- Client Demographics
+- Health Fund Details
+- Referral Sources
+- Class Pass Management
+- Export to Excel™ (CSV)
+Messaging
+- Send SMS and Email
+- Receive SMS Replies
+- Automated Reminders
+- Message Templates
+- Send iCal™ Events
+Clinical Notes
+- Customisable Templates
+- Interactive Body Charts
+- Shortcuts and Symbols
+- Letter Creation and Editing
+- Quick Historical Data
+- Export to Excel™ (CSV)
+Accounting
+- Client Invoicing
+- Combine Bulk Invoices
+- Claim online from Medicare
+- Claim online from DVA
+- Synchronise with Xero™
+- Export to MYOB™
+- Export to Excel™ (CSV)
+Security
+- Custom User Groups
+- Permission Controls
+- HTTPS/SSL 256-bit Encryption
+- Secure Off-site Backups
+Administration
+- Multi-location Management
+- Staff Management
+- Inventory and Stock Control
+- Bulk Session Pass Purchases
+Reporting
+- Financial Reports
+- Activity Reports
+- Management Reports
+- Export to PDF
+- Export to Excel™ (CSV)
+Can't see what you're looking for?

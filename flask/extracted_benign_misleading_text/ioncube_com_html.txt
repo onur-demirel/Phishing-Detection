@@ -1,0 +1,21 @@
+PHP Encoder 10
+Protect, Encrypt & License your PHP Scripts
+- Unique External and Dynamic Keys encryption feature for the ultimate in PHP security.
+- Encode and run PHP 4, 5.x, 7.1 and 7.2 files.
+- 7.1 and 7.2 encoded files will also run on PHP 7.3.
+- Compiled Bytecode protection.
+- Command line plus GUI for Windows and OS X.
+- Binary code obfuscation.
+- Optional expiry, domain, IP and MAC locking for effective code licensing.
+- One time purchase with no annual renewal.
+- and more...
+Hackers exploiting a website flaw to run malware is a common cause of security breach, not prevented by most security tools. ionCube24 is an infosec service that actively prevents running of possible PHP malware before it can do harm, and also provides PHP/JS error reporting and service monitoring to keep aware of faults of outages.
+- Website Defacement and Malware prevention.
+- Real-Time detection and management.
+- Unexpected new or modified files instantly blocked.
+- Website PHP error alerts.
+more solutions...
+- Use Package Foundry to create easy to use installers for your web applications. Free Trial | Buy Now
+- The ionCube Bundler makes the creation of auto-executing self-extracting Windows archives from Windows or Linux a breeze!
+- Use the online PHP Encoder for low cost code protection.
+- Run encoded files and add website security using ionCube24 with the ionCube Loader.

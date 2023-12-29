@@ -1,0 +1,8 @@
+Sometimes we need to fix flicker in post. And that’s ok!
+Flickering is a difficult problem to predict and sometimes, no matter how much you plan a shoot, it's just not possible to see it happening on set. In these situations, Flicker Free can save the day!
+Automated Transcriptions
+A new plugin for Premiere Pro that uses AI to create automated transcriptions. It's going to change the way you transcribe. Get more info and try out Transcriptive with a FREE trial!
+Creating Burned-in subtitles from SRTS
+Learn how to use our Free After Effects SRT importer to create customized burned in subtitles. The script is especially beneficial to Transcriptive user, but will work with any SRT files!
+De-Flicker Your Video Footage
+Flicker Free is a powerful way to deflicker video. It fixes flicker that’s common in video footage and can be caused from lights and cameras being out of sync, time lapse or slow motion video.

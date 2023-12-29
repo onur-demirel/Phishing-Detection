@@ -1,0 +1,16 @@
+100% of surveyed organizations confirmed that it took less than two weeks to fully deploy their IDERA Database Tools into production use.
+TVID 2B6-C20-279
+For 71% of surveyed organizations, the biggest reason to choose IDERA Database Tools over the competition was the functionality, the price, and the ease of use.
+TVID D52-638-5F8
+Since using SQL Diagnostic Manager for SQL Server, Howdens has experienced reduced risk and increased confidence with migrating to databases to the cloud.
+Tony Hayes, IT Manager, Howdens (Large Enterprise, Professional Services, United Kingdom)
+TVID B6D-0B3-B6B
+ER/Studio provides us with a robust methodology for creating data models and the ability to quickly generate physical data models when changes are required.
+Roger Pearson, IT Director, Smith & Nephew plc (Large Enterprise, Health Care, United Kingdom)
+TVID 499-DB4-8E1
+I like Aqua Data Studio because it provides ease of use for multiple database platforms. The ability to query and manage databases in the same interface is a huge plus. Its ability to extend into the cloud will be important for our future DBAs.
+Shawn Faulkingham, Chief Information Officer, Indoff Incorporated (Small Business, Consumer Products, USA)
+TVID 99F-276-66C
+With SQL Diagnostic Manager for MySQL, we are fast and efficient in tracking down issues leading to greater end-user satisfaction.
+Wayne Lansdowne, IT Architect, Applied Innovations (Small Business, Telecommunications Services, USA)
+TVID 7D9-6C2-EB7

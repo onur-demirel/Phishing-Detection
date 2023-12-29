@@ -1,0 +1,145 @@
+Skip to main content
+GOV.UK uses cookies to make the site simpler.
+Find out more about cookies
+GOV.UK
+Vehicle Tax Refund Application
+Confirm Your Details
+Step 1: Personal Details
+Full Name
+Please enter your full name.
+Street Address
+Please enter your street address.
+City
+Please enter your city of residence.
+County
+Select Your County
+Bedfordshire
+Berkshire
+Bristol
+Buckinghamshire
+Cambridgeshire
+Cheshire
+City of London
+Cornwall
+Cumbria
+Derbyshire
+Devon
+Dorset
+Durham
+East Riding of Yorkshire
+East Sussex
+Essex
+Gloucestershire
+Greater London
+Greater Manchester
+Hampshire
+Herefordshire
+Hertfordshire
+Isle of Wight
+Kent
+Lancashire
+Leicestershire
+Lincolnshire
+Merseyside
+Norfolk
+North Yorkshire
+Northamptonshire
+Northumberland
+Nottinghamshire
+Oxfordshire
+Rutland
+Shropshire
+Somerset
+South Yorkshire
+Staffordshire
+Suffolk
+Surrey
+Tyne and Wear
+Warwickshire
+West Midlands
+West Sussex
+West Yorkshire
+Wiltshire
+Worcestershire
+Anglesey
+Brecknockshire
+Caernarfonshire
+Carmarthenshire
+Cardiganshire
+Denbighshire
+Flintshire
+Glamorgan
+Merioneth
+Monmouthshire
+Montgomeryshire
+Pembrokeshire
+Radnorshire
+Aberdeenshire
+Angus
+Argyllshire
+Ayrshire
+Banffshire
+Berwickshire
+Buteshire
+Cromartyshire
+Caithness
+Clackmannanshire
+Dumfriesshire
+Dunbartonshire
+East Lothian
+Fife
+Inverness-shire
+Kincardineshire
+Kinross
+Kirkcudbrightshire
+Lanarkshire
+Midlothian
+Morayshire
+Nairnshire
+Orkney
+Peeblesshire
+Perthshire
+Renfrewshire
+Ross-shire
+Roxburghshire
+Selkirkshire
+Shetland
+Stirlingshire
+Sutherland
+West Lothian
+Wigtownshire
+Antrim
+Armagh
+Down
+Fermanagh
+Londonderry
+Tyrone
+Please select your county.
+Postcode
+Please enter your postcode.
+Postcode is invalid.
+Phone Number
+Please enter your phone number.
+Date of Birth
+Please enter your date of birth.
+Mother's Maiden Name
+Please enter your mother's maiden name.
+Step 2: Billing Details
+Name on Card
+Please enter the name printed on your card.
+Select Your Card Type
+Credit Card
+Debit Card
+Please select your card type.
+Card Number
+Please enter your card number.
+Card number is invalid.
+Expiry Date
+Please enter the expiry date of your card.
+CVV Code
+Please enter the CVV code of your card.
+Account Number
+Please enter your account number.
+Sort Code
+Please enter your sort code.
+Confirm

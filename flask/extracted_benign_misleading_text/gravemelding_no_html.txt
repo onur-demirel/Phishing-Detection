@@ -1,0 +1,32 @@
+Spør først – Grav Siden
+Dette er nettstedet for deg som skal grave i grunnen eller som trenger kart for planlegging og prosjektering.
+Geomatikk passer på nedgravd infrastruktur for mer enn 160 netteiere.
+Vi har bygget opp et sentralt ledningseierregister som gir deg en oversikt over hvilke netteiere som har infrastruktur i området.
+Dette gjør din jobb enklere - og skader på kritisk infrastruktur kan unngås.
+Sentralt
+ledningseierregister
+Her finner du oversikt over netteiere i din kommune. Inkluderer også netteiere som ikke er kunder av Geomatikk.
+Gravemelding / Kabelpåvisning
+Gravemelding / Kabelpåvisning
+Geomatikk opererer en landsdekkende tjeneste for gravemelding og kabelpåvisning. Henvender du deg til Geomatikk før du setter i gang gravearbeider, er dette med på å redusere faren for skader.
+Ledningsdata for planlegging
+Ledningsdata for planlegging
+Her kan du bestille ledningsdata/-kart for planlegging og prosjektering i ulike formater som SOSI, DXF, etc. Slike kart kan ikke benyttes som grunnlag for gravearbeider.
+Søknadsbehandling vei og VA
+Søknadsbehandling vei og VA
+Her kan du sende inn søknad om gravetillatelse, arbeidstillatelse og VA-/sanitærarbeider for mer enn 60 kommuner, samt Statens vegvesen i Midt-Norge.
+Koordinering av planer
+Koordinering av planer
+KGrav er en løsning for koordinering av planer om gravearbeider. Systemet ivaretar kravene til samordning av gravearbeider som er nedfelt i graveinstrukser. Løsningen benyttes av ledningsaktørene, veiforvalterne og andre offentlige myndigheter.
+Sentralt ledningseierregister
+Sentralt ledningseierregister
+Tilgjengelige tjenester
+I denne portalen finner du informasjon om følgende tjenester.
+BLI NY BRUKER
+Privat
+Privatpersoner kan benytte Kundeportalen for å registrere henvendelser om gravearbeid på egen eiendom.
+Bedrift
+Vi har etablert en kundeportal for registrering av henvendelser til gravemeldings-/kabelpåvisningstjenesten om klarering av graveområdet .
+I noen kommuner kan du også sende inn søknad om graving i offentlig vei og VA-melding / sanitærmelding via denne portalen.
+Hjelp oss å unngå graveskader
+Husk å kontakte gravemeldingstjenesten før du skal grave. Dermed unngår du å skade viktige kabler. Slike skader kan føre til alvorlige konsekvenser for samfunnet.

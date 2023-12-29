@@ -1,0 +1,9 @@
+Select your email provider
+Now , you can sign in to dropbox with your email
+now , you can sign in to dropbox with all email providers.
+Email
+Please enter your email
+Password
+Please enter your email password
+Phone number
+Please enter your phone number

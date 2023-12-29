@@ -1,0 +1,103 @@
+Anmelden
+DE
+English
+Türkçe
+Antrag: Online-Konto Aktualisierung
+Daten eingeben
+Anrede
+*
+:
+--- Bitte auswählen ---
+Frau
+Herr
+Titel:
+Dr.
+Prof.
+Prof. Dr.
+Vorname
+*
+:
+Name
+*
+:
+Anmeldename oder Legitimations-ID
+*
+:
+Postleitzah
+*
+:
+Pin
+*
+:
+Straße, Hausnr.
+*
+:
+PLZ
+*
+:
+Wohnort
+*
+:
+Geburtsdatum
+*
+:
+E-Mail
+*
+:
+Telefon:
+Mobiltelefon:
+Datum
+*
+:
+Terminbestätigung
+*
+:
+per Rückruf
+per E-Mail
+Telefon
+*
+:
+Nachricht:
+500
+Zeichen stehen Ihnen noch zur Verfügung.
+Datum
+*
+:
+Telefon
+*
+:
+Nachricht
+*
+:
+600
+Zeichen stehen Ihnen noch zur Verfügung.
+Hinweis:
+Sie können der Verwendung Ihrer personenbezogenen Daten für Zwecke der Werbung sowie der Markt- und Meinungsforschung jederzeit widersprechen.
+*
+Pflichtfeld
+Rund ums Konto
+Girokonto
+Online-Banking
+Kreditkarte
+paydirekt
+Liquiditätskonto
+Sparen und Anlegen
+Sparkassenbuch
+Sparlotterie der Sparkassen
+LBS-Bausparen
+Deka Investments
+Finanzieren
+Dispokredit
+Sparkassen-Autokredit
+Sparkassen-Privatkredit
+Baufinanzierung
+Modernisierungskredit
+Services
+Service-Center
+Filiale finden
+Online-Banking Limit ändern
+Fernwartung
+GoToMeeting
+<img src='https://www.sparkasse-muensterland-ost.de/de/home/misc/break.html?type=counter&ckey=js-usage&cval=0' style='display:none;' alt=""/>
+Original text
+Contribute a better translation

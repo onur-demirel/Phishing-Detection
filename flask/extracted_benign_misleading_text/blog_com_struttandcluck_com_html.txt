@@ -1,0 +1,7 @@
+If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
+Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
+* If you need High speed and Protection - the right choice is to use ClouDNS’ Anycast DNS network!
+Suggested article from our blog: What is Anycast DNS and how does it work?
+Improved routing method and a lot of extra benefits? Yes, Anycast DNS is this and even more!
+Take full advantage of Anycast DNS for your domain or application. It will boost the speed, providing an intelligent loading balance for your DNS queries. It can understand the traffic at each point of presence (PoP) and take measures to optimize it.
+It will significantly reduce downtime and provide excellent service for your users around the globe. Anycast is a network of DNS servers that is very resilient and can resist many DNS flood DDoS attacks. In our case, there are 29 PoPs that you can quickly deploy in essential world’s locations. Make your DNS query flow smoothly and find the best route!

@@ -1,0 +1,20 @@
+Google Research tackles challenges that define the technology of today and tomorrow.
+Advancing the state of the art
+Our approach
+Our researchers publish regularly in academic journals, release projects as open source, and apply research to Google products.
+Explore a sample of our research
+See some of our latest research developments from the Google AI blog and elsewhere.
+Learn how we challenge conventions.
+Publications
+See some of our most recent research.
+Proceedings of the 37th International Conference on Machine Learning (2020)
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (2020)
+SODA (2021) (to appear)
+Proceedings of the 2020 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP (to appear)
+Interspeech 2020 (to appear)
+European Conference on Computer Vision 2020
+International Conference on Machine Learning (2020)
+Teams & people
+Our teams advance the state of the art through research, systems engineering, and collaboration across Google.
+Join us
+Our global reach means that research teams across the company tackle tough problems together.

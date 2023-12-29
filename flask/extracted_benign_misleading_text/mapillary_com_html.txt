@@ -1,0 +1,6 @@
+People, companies, NGOs, and governments across the world share their imagery. Using computer vision, Mapillary combines everything into a connected street-level view and automatically extracts map features.Learn more
+Mapillary imagery is available to everyone under an open license (CC BY-SA). We also provide commercial licenses for automatically extracted map data and deriving geospatial data from Mapillary imagery.Learn more
+Anyone can capture street-level imagery with simple tools like smartphones and action cameras, or upload existing geotagged imagery. A marketplace connects you with our contributor network to fulfill mapping requests.Learn more
+Add up-to-date street-level data to your mapping and GIS workflows. Mapillary provides developer resources for building custom tools and is already integrated in popular tools such as ArcGIS, OpenStreetMap editors, and HERE Map Creator.Learn more
+We will get back to you soon with instructions how to retrieve your data sample (usually, within one work day).
+Visualize data from your area of interest on the Mapillary platform and download a sample that you can evaluate in your GIS or mapping tools.

@@ -1,0 +1,14 @@
+Nous joindre
+Aide
+Change language. English
+Si vous reconnaissez cette phrase, entrez votre mot de passe.
+Si vous reconnaissez cette phrase et cette image, entrez votre mot de passe.
+Sinon, n'entrez pas votre mot de passe et communiquez avec nous.
+Attention : Respecter majuscules et minuscules
+La touche verrouillage majuscules de votre clavier est activée.
+La touche Verr. Maj. de votre clavier est activée.
+Attention! Votre mot de passe actuel sera désactivé.
+Note : Vous pouvez recevoir votre mot de passe temporaire par courriel. Pour le recevoir par courriel, vous devez ajouter un courriel à vos identifiants AccèsD, dans la section Paramètres de sécurité sous l’icône Profil et préférences de la page Sommaire AccèsD.
+Votre mot de passe a été désactivé après 3 échecs de connexion.
+Le délai d’inactivité de votre session expirera dans ?? minute seconde. Les données entrées seront perdues.
+Voulez-vous prolonger la session?

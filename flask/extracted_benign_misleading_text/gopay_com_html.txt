@@ -1,0 +1,10 @@
+How to get the payment gateway?
+Start with
+the integration
+The programming can begin immediately. All documentation is available online.
+We check it
+all together
+In our sandbox we will check if your payment gateway works as it should.
+Start to accept
+payments
+If everything works well you will go live with your integration and payments can be accepted.

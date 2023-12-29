@@ -1,0 +1,59 @@
+Lingua
+Italiano
+ordine
+Importo:
+5,42 €
+Esercente:
+www.aruba.it
+Codice ordine:
+12978497-Aruba
+RINNOVO DOMINIO E HOSTING
+nserimento dati
+Verifica
+Finire
+Inserimento dati
+Intestatario carta
+Numero Carta *
+Data scadenza *
+mm
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+aa
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+Codice di sicurezza *
+(CVV2 o 4DBC)
+Dove trovo il codice di sicurezza?
+Email
+Seleziona la divisa da utilizzare per l'addebito sul tuo conto:
+Pay in your own currency (xxx) the final amount of : xx,xx xxx
+Accept the conversion rate based on European Central Bank : xx.xx and the additional fee: xx%
+Accertati di aver compreso che il costo del cambio può variare a seconda che tu scelga di pagare in Euro o nella tua divisa. La scelta adottata sarà quella usata per la conclusione della transazione.
+*I campi contrassegnati con asterisco sono obbligatori.
+Informativa sulla privacy
+Indietro
+Cookie Policy

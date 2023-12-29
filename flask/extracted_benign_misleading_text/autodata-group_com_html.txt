@@ -1,0 +1,148 @@
+|_orig_referrer
+|autodata-limited.myshopify.com
+|This cookie is used to collect information on a visitor. This information will become an ID string with information on a specific visitor – ID information strings can be used to target groups with similar preferences, or can be used by third-party domains or ad-exchanges.
+|13 days
+|HTTP
+|___utmvc
+|autodata-group.com
+|Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.
+|1 day
+|HTTP
+|_fbp [x2]
+|autodata-group.com
+myshopify.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|_gcl_au
+|autodata-group.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|3 months
+|HTTP
+|_hjIncludedInSample
+|autodata-group.com
+|Determines if the user's navigation should be registered in a certain statistical place holder.
+|Session
+|HTTP
+|_landing_page
+|autodata-limited.myshopify.com
+|Stores visitors' navigation by registering landing pages - This allows the website to present relevant products and/or measure their advertisement efficiency on other websites.
+|13 days
+|HTTP
+|_s [x2]
+|autodata-limited.myshopify.com
+myshopify.com
+|Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+|1 day
+|HTTP
+|_shopify_fs [x2]
+|autodata-limited.myshopify.com
+myshopify.com
+|Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+|2 years
+|HTTP
+|_shopify_s [x2]
+|autodata-limited.myshopify.com
+myshopify.com
+|Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+|1 day
+|HTTP
+|_shopify_sa_p [x2]
+|autodata-limited.myshopify.com
+myshopify.com
+|Collects data on visitors' behaviour and interaction - This is used to make advertisement on the website more relevant. The cookie also allows the website to detect any referrals from other websites.
+|1 day
+|HTTP
+|_shopify_sa_t [x2]
+|autodata-limited.myshopify.com
+myshopify.com
+|Collects data on visitors' behaviour and interaction - This is used to make advertisement on the website more relevant. The cookie also allows the website to detect any referrals from other websites.
+|1 day
+|HTTP
+|_shopify_y [x2]
+|autodata-limited.myshopify.com
+myshopify.com
+|Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+|2 years
+|HTTP
+|_y [x2]
+|autodata-limited.myshopify.com
+myshopify.com
+|Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+|2 years
+|HTTP
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|test_cookie
+|doubleclick.net
+|Used to check if the user's browser supports cookies.
+|1 day
+|HTTP
+|fr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|tr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|Session
+|Pixel
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+|GPS
+|youtube.com
+|Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+|1 day
+|HTTP
+|PREF
+|youtube.com
+|Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+|8 months
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+|179 days
+|HTTP
+|YSC
+|youtube.com
+|Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML

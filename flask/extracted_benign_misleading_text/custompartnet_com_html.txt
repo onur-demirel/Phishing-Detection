@@ -1,0 +1,58 @@
+- Processes
+- Polymer Processing
+- Blow Molding
+- Injection Molding
+- Metal Injection Molding
+- Thermoforming
+- Metal Casting
+- Centrifugal Casting
+- Die Casting
+- Investment Casting
+- Permanent Mold
+- Sand Casting
+- Shell Mold Casting
+- Machining
+- Milling
+- Turning
+- Hole-making
+- Drill Size Chart
+- Tap Size Chart
+- Sheet Metal Fabrication
+- Forming
+- Cutting with shear
+- Cutting without shear
+- Gauge Size Chart
+- Additive Fabrication
+- SLA
+- FDM
+- SLS
+- DMLS
+- 3D Printing
+- Inkjet Printing
+- Jetted Photopolymer
+- LOM
+- Materials
+- Metals
+- Plastics
+- Case Studies
+- Cost Analysis
+- Part Redesign
+- Product Development
+- Resources
+- Curriculum Resources
+- Glossary
+|
+Recent Estimates (30 days)
+Injection Molding - 5262
+Machining - 3833
+Tooling - 2911
+Die Casting - 1108
+Sand Casting - 470
+|
+Quick Links
+CustomPart.Netis a resource for engineers, inventors, and contract manufacturers to facilitate informed decision making during the product design and sourcing process. Get started by browsing the knowledge center on the left, covering a range of manufacturing processes and materials. Learn about the manufacturing cycle and capabilities for each process, as well as design for manufacturing guidelines to create a more cost effective part. Use the many interactive tools to aid in the design and manufacture of your part. These tools provide a fast and reliable way to identify a compatible process and material, estimate the cost of manufacturing, and locate a supplier.
+Register nowfor free and gain access to even more online tools that allow you to personalize the above services and collaborate with others.
+- View and edit complete estimates for reference parts
+- Save and manage all estimates in a customizable workspace
+- Create your own part libraries
+- Share estimates with colleagues or customers

@@ -1,0 +1,15 @@
+My name is Shawn Alan Burgess, I currently work as a software engineer for Hanover Insurance where I spend most of my time writing web applications. I am married to the lovely Megan Blomgren Burgess and we have a beautiful daughter Violet Grace.
+Write software applications as part of a large team.
+Develop RESTful JavaEE web applications using Spring, Hibernate, and Maven.
+Helped lead transition to Git.
+Write software to improve content editor workflows.
+Write web applications for management activities.
+Take the lead where discussions involve consensus.
+Developed and tested database software for a manufacturing environment.
+Worked with clients to deliver custom software to their specifications.
+Process client payroll files.
+Worked with highly sensitive and accurate information.
+Operated and helped manage on campus radio station.
+Managed all station equipment and software, including all necessary repairs.
+Training student disk jockeys on equipment operation.
+Tracked albums with promotion companies and record labels.

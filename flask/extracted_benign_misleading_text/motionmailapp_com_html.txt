@@ -1,0 +1,124 @@
+Increase Engagement
+Increase engagement, conversions and sales by enhancing your marketing emails with easy to design countdown timers.Create a Timer
+138,700,000+ Countdown timers viewed in the past 30 days!
+The power of zero hour.
+Communicate the immediacy of your message. The highly visual appearance of MotionMail countdown timers instantly communicates the concept of limited-time status and builds anticipation for upcoming events.
+Easy as copy and paste.
+Customize your email timers and insert into emails with a short code snippet. Perfect for limited time offers, sales alerts, and events.
+Ready for the world.
+For international use, the countdown timers automatically display the same countdown regardless of the recipient's local time zone.
+Multiple languages supported*
+Dynamically generates translations of the timer’s labels based on the email recipient’s preferred language.
+*For paid plans only.
+Match your brand colors.
+The color, font, and style of the countdown timer’s appearance can be changed to match brand colors and design of the email.
+Track impressions.
+The MotionMail analytics dashboard will show how many times your timers have been viewed.
+Maintain your workflow.
+MotionMail timer integration is compatible with popular email marketing software. No need to change the way that you’re used to working.
+Who uses MotionMail?
+MotionMail has thousands of clients, below are a few you may recognize.
+Get started for free.
+20% Off
+No credit card required. Cancel any time.
+|Free
+|Bootstrap
+|Startup
+|Enterprise
+|Cost/Month
+|Free
+|$10
+|$60
+|$200
+|Views/Month
+|20K
+|100K
+|700K
+|2.8M
+|Branding Removed
+|No
+|Yes
+|Yes
+|Yes
+|Dynamic Language
+|No
+|Yes
+|Yes
+|Yes
+|Credits Rollover*
+|No
+|No
+|Yes
+|Yes
+|Additional Views**
+|None
+|.0001/View
+|.000095/View
+|.000085/View
+|Number of Timers
+|Unlimited
+|Unlimited
+|Unlimited
+|Unlimited
+|Free
+|Cost/Month
+|Free
+|Views/Month
+|20K
+|Branding Removed
+|No
+|Dynamic Language
+|No
+|Credits Rollover*
+|No
+|Additional Views**
+|None
+|Number of Timers
+|Unlimited
+|Bootstrap
+|Cost/Month
+|$10
+|Views/Month
+|100K
+|Branding Removed
+|Yes
+|Dynamic Language
+|Yes
+|Credits Rollover*
+|No
+|Additional Views**
+|.0001/View
+|Number of Timers
+|Unlimited
+|Startup
+|Cost/Month
+|$60
+|Views/Month
+|700K
+|Branding Removed
+|Yes
+|Dynamic Language
+|Yes
+|Credits Rollover*
+|Yes
+|Additional Views**
+|.000095/View
+|Number of Timers
+|Unlimited
+|Enterprise
+|Cost/Month
+|$200
+|Views/Month
+|2.8M
+|Branding Removed
+|Yes
+|Dynamic Language
+|Yes
+|Credits Rollover*
+|Yes
+|Additional Views**
+|.000085/View
+|Number of Timers
+|Unlimited
+* Rollover credits cannot be transfered between plans.
+** Per impression overage rates apply to all timers rendered over monthly plan credits. Minimum overage fee is $1.

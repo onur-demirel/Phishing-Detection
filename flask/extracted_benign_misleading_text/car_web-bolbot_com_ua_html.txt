@@ -1,0 +1,19 @@
+Logo
+view_module
+Головна
+view_module
+Замовлення
+view_module
+Про нас
+view_module
+Каталог
+view_module
+Кабінет
+This is our big Tagline!
+Here's our small slogan.
+Left Aligned Caption
+Here's our small slogan.
+Right Aligned Caption
+Here's our small slogan.
+This is our big Tagline!
+Here's our small slogan.

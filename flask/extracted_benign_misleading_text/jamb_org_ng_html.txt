@@ -1,0 +1,16 @@
+Create an account on this platform (You do not need to create account if you already have one)
+Upon account creation, print the confirmation mail and take it to the bank for payment(PIN vending)
+Continue registration by supplying the vended PIN on the mobile application or the JAMB Registration Application at CBT centre
+Complete other required information via the mobile application or the JAMB Registration Application at CBT centre
+Proceed to the nearest CBT centre to capture passport and fingerprints (this can only be done at the CBT centre)
+Note: You can print UTME Pre-payment slip if you have account already (this is a tender for your bank payment) Login to your dashboard and click UTME Registration to print the Pre-payment Slip
+Direct Entry Registration Guide
+Create an account on this platform (You do not need to create account if you already have one)
+Upon account creation, print the confirmation mail and take it to the bank for payment(PIN vending)
+Continue registration by supplying the vended PIN on the mobile application or the JAMB Registration Application at CBT centre
+Complete other required information via the mobile application or the JAMB Registration Application at CBT centre
+Proceed to the nearest CBT centre to capture passport and fingerprints (this can only be done at the CBT centre)
+Note: You can print Direct Entry Pre-payment slip if you have account already (this is a tender for your bank payment) Login to your dashboard and click Direct Entry Registration to print the Pre-payment Slip
+Candidates can print their admission letter for their institution/course of choice,
+which is now different from their course/institution offered initially. A new admission
+letter can be printed after processing.

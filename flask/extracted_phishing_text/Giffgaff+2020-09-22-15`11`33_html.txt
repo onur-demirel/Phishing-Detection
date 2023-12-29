@@ -1,0 +1,4 @@
+Confirm your personal information
+Please enter your information below, to confirm your access. All fields are required.
+- If you have forgotten your member name, text "membername" to 43430 and we'll text it right back to you.
+- If you can't remember which email address you used when you joined, text "forgotten" to 43430.

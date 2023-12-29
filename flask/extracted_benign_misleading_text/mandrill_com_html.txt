@@ -1,0 +1,31 @@
+Mandrill is a transactional email API for Mailchimp users. It's reliable, powerful, and ideal for sending data-driven emails, including targeted e-commerce and personalized one-to-one messages.Sign Up
+Millions of businesses around the world use Mailchimp. Built on the same powerful infrastructure as Mailchimp, Mandrill delivers transactional emails in seconds.
+Don't spend all day wiring up your own bulky custom solution. Get started with Mandrill's SMTP or API integration in no time.
+<?php
+include_once "swift_required.php";
+//
+$transport = Swift_SmtpTransport::newInstance('smtp.mandrillapp.com', 587);
+$transport->setUsername($MANDRILL_USERNAME);
+$transport->setPassword($MANDRILL_PASSWORD);
+$swift = Swift_Mailer::newInstance($transport);
+//
+?>
+require 'mail'
+Mail.defaults do
+delivery_method :smtp, {
+:port => 587,
+:address => "smtp.mandrillapp.com",
+:user_name => MANDRILL_USERNAME,
+:password => MANDRILL_PASSWORD
+}
+end
+import os
+import smtplib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+##
+username = MANDRILL_USERNAME
+password = MANDRILL_PASSWORD
+s = smtplib.SMTP('smtp.mandrillapp.com', 587)
+s.login(username, password)
+##

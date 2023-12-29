@@ -1,0 +1,37 @@
+We have web accessibility in mind
+Our mission is to empower organizations to make their web content accessible to people with disabilities.
+Accessibility Training
+Whether here in Utah or on-site at your organization, WebAIM can provide web and document training to fit your needs.
+StrategicA11y
+The Strategic Web Accessibility Workshop will help participants make strategic plans for the accessibility of their organizations.
+Technical Assistance
+Need assistance implementing accessibility? WebAIM's expert staff can provide the assistance you need.
+Evaluation and Reporting
+We can provide reports to help you know how accessible your site is and how to make it better.
+Community
+Current Features
+Screen Reader User Survey #8
+The results of WebAIM's 8th screen reader user survey are now available. There are several interesting and surprising findings.
+The WebAIM Million: An accessibility analysis of the top 1,000,000 home pages
+An automated WAVE analysis of the home pages for the top one million web sites shows widespread accessibility issues.
+Read the WebAIM Million report
+Contrast and Color Accessibility
+This new WebAIM article goes in-depth into understanding and testing color and contrast for WCAG conformance.
+Read the color and contrast article
+WebAIM Trainings
+- Document Accessibility Training
+Begins October 7
+- Web Accessibility Training
+Logan, Utah
+December 3–4
+- StrategicA11y
+Strategic Web Accessibility Workshop
+Logan, Utah
+January 22–24
+WebAIM Activities
+- HighEdWeb
+Milwaukee, Wisconsin
+October 13–16
+- Accessing Higher Ground
+Westminster, Colorado
+November 18–22

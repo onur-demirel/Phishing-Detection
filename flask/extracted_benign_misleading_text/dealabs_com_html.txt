@@ -1,0 +1,13 @@
+Voter
+La température des deals est au cœur du fonctionnement de Dealabs. Si vous trouvez qu'on bon plan est intéressant, faites monter sa température en cliquant sur le bouton '+'. Sinon, vous pouvez voter négativement.
+Commenter
+Échangez avec les autres membres sur les deals, les produits et les marchands.
+Poster un deal
+Vous avez trouvé un bon plan ? Partagez-le avec la communauté et soumettez-le au vote !
+Voir le deal
+Si un deal vous intéresse, rendez-vous chez le marchand pour profiter directement du bon plan avant qu'il n'expire !
+Mise en page
+Vous pouvez choisir d'afficher les deals en vue réduite, sous forme de liste avec des images ou en texte seul.
+En cliquant sur l'icône des paramètres, vous pouvez choisir d'afficher les deals en vue réduite, sous forme de liste avec des images ou en texte seul.
+Menu principal
+Le menu principal vous permet de découvrir les groupes et les marchands qui vous intéressent.

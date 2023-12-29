@@ -1,0 +1,23 @@
+Select Language
+▼
+Administrateur
+:
+Original text
+Contribute a better translation
+Vérifiez si votre pays est paramétré
+Pays ==>
+Pays ==> ALLEMAGNE
+Pays ==> AUSTRALIE
+Pays ==> BENIN
+Pays ==> BURKINA FASO
+Pays ==> CANADA
+Pays ==> CHINE
+Pays ==> FRANCE
+Pays ==> GUINEE CONAKRY
+Pays ==> INDE
+Pays ==> MALI
+Pays ==> MAROC
+Pays ==> SENEGAL
+Pays ==> TOGO
+Pays ==> USA
+Déconnexion

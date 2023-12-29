@@ -1,0 +1,21 @@
+The simplest way to keep notes.
+Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
+What makes Simplenote great?
+-
+Use it everywhere
+Your notes stay updated across all your devices. No buttons to press. It just works.
+-
+Stay organized
+Find notes quickly with instant searching and simple tags.
+-
+Work together
+Share a list, post some instructions, or publish your notes online.
+-
+Go back in time
+Your notes are backed up when you change them. Just drag the version slider to go back in time.
+-
+Markdown support
+Write, preview, and publish your notes in Markdown format.
+-
+It’s free
+Backups, syncing, sharing — it’s all completely free.

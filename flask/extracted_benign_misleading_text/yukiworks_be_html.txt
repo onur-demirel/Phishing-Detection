@@ -1,0 +1,3 @@
+Belangrijk:
+Vanaf 1 januari 2019 ondersteunt Yuki de browser Internet Explorer niet meer. Na deze datum zijn alle problemen die worden veroorzaakt door het gebruik van deze browser op eigen risico van de gebruiker. Yuki blokkeert de toegang met Internet Explorer vanaf 1 april 2019.
+Klik hier voor meer details

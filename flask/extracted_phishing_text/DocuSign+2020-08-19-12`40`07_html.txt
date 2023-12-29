@@ -1,0 +1,43 @@
+العربية
+Български
+Čeština
+中文 (简体)
+中文 (繁體)
+Hrvatski
+Dansk
+Nederlandse
+English (US)
+English (UK)
+Eesti
+فارسی
+Suomi
+Français (France)
+Français (Canada)
+Deutsch
+Ελληνικά
+עברית
+हिन्दी
+Magyar
+Bahasa Indonesia
+Italiano
+日本語
+한국어
+Latviešu
+Lietuvių
+Bahasa Melayu
+Norsk
+Polski
+Português (Portugal)
+Português (Brasil)
+Română
+Русский
+Српски
+Slovenčina
+Slovenščina
+Español
+Español (América Latina)
+Svenska
+ภาษาไทย
+Türkçe
+Українська
+Việt

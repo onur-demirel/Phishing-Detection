@@ -1,0 +1,28 @@
+Toggle navigation
+Join Discord
+Home
+Sign in
+Register
+Play as guest
+Top players
+Partners
+bestonlinerpggames.com
+gametop.com
+crazygames.com
+silvergames.com
+pacogames.com
+iogames.space
+Channels
+Twitter
+YouTube
+Ninja
+.io
+alpha
+Username
+Play
+Sign in
+Ninja.io is a fast paced, 2D multiplayer shooter inspired by games like Soldat, Unreal Tournament and N-game.
+Currently implemented game modes include Capture the Flag and Deathmatch.
+More IO Games
+Contact:
+dev.ninja.io@gmail.com

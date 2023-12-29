@@ -1,0 +1,7 @@
+0%
+comenzar la configuración del sistema
+Hello Piotr
+Set your password to access the platform
+Password
+Repeat password
+SUBMIT

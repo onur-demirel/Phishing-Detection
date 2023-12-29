@@ -1,0 +1,30 @@
+Registro
+Por favor complete el siguiente formulario para registrarse. Los campos marcados con (*) son obligatorios.
+Nombre(s)
+*
+Apellido(s)
+*
+Empresa
+*
+Giro
+*
+Selecciona una opción
+Educación
+Gobierno
+Retail
+Servicios
+Banca
+Manufactura
+Healthcare
+Otro
+No. de cliente INGRAM Micro (opcional)
+Teléfono
+*
+Teléfono móvil
+*
+Correo electrónico
+*
+Ciudad
+Estado
+limpiar
+Enviar

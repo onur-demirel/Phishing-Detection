@@ -1,0 +1,155 @@
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|test_cookie
+|doubleclick.net
+|Used to check if the user's browser supports cookies.
+|1 day
+|HTTP
+|fr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|tr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|Session
+|Pixel
+|_fbp
+|feedbackcompany.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|_gcl_au
+|feedbackcompany.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|3 months
+|HTTP
+|_hjIncludedInSample
+|feedbackcompany.com
+|Determines if the user's navigation should be registered in a certain statistical place holder.
+|Session
+|HTTP
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+|rc::c
+|google.com
+|This cookie is used to distinguish between humans and bots.
+|Session
+|HTML
+|bcookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|bscookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|lidc
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|1 day
+|HTTP
+|UserMatchHistory
+|linkedin.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|29 days
+|HTTP
+|__tld__
+|typeform.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|Session
+|HTTP
+|ajs%3Acookies
+|typeform.com
+|Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.
+|1 year
+|HTTP
+|ajs%3Atest
+|typeform.com
+|Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.
+|1 year
+|HTTP
+|ajs_group_id
+|typeform.com
+|This cookie is used to assign specific visitors into segments, this segmentation is based on visitor behavior on the website - the segmentation can be used to target larger groups.
+|1 year
+|HTTP
+|ajs_user_id
+|typeform.com
+|This cookie is used to collect data on the visitor's behavior on the website - this information can be used to assign the visitor to a visitor segment, based on common preferences.
+|1 year
+|HTTP
+|attribution_user_id
+|typeform.com
+|Used in context with the website’s pop-up questionnaires and messengering. The data is used for statistical or marketing purposes.
+|1 year
+|HTTP
+|GPS
+|youtube.com
+|Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+|1 day
+|HTTP
+|PREF
+|youtube.com
+|Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+|8 months
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+|179 days
+|HTTP
+|YSC
+|youtube.com
+|Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|segmentio.#GUID#.#
+|feedbackcompany.typeform.com
+|Pending
+|Persistent
+|HTML
+|pagead/1p-conversion/#
+|google.com
+|Pending
+|Session
+|Pixel

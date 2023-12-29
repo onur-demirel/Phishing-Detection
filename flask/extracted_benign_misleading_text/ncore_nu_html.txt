@@ -1,0 +1,12 @@
+Csökkentett biztonság
+A csökkentett biztonságú bejelentkezés kiválasztásával a felhasználónevedet és a jelszavadat a böngészőben egy cookie-ban (sütiben) tároljuk.
+Miért jó ez?
+Ha cookie-ban tároljuk a jelszavad, akkor a böngésző (gép) újraindításánál nem kell újra beírnod a felhasználóneved és jelszavad, valamint belépned, vagyis sokkal kényelmesebb az oldal használata. Ez volt eddig az alapbeállítás, így működött a belépés. (Fontos! Ez nem azonos a böngésző jelszó mentési szolgáltatásával!)
+És miért rossz?
+A cookie-ban érzékeny adatok tárolása sajnos nem tekinthető biztonságosnak. Abban az esetben például, ha egy olyan gépen lépsz be az oldalra, amit esetleg többen is használnak (pl: iskola, könyvtár, netkávézó vagy a haver gépe), akkor nem elég a használat végén a 'Kilépés', hanem a cookie-kat is törölni kell. De ettől még előfordulhat, hogy illetéktelenek hozzáférnek a cookie tartalmához, ezzel megszerezve az oldalhoz a hozzáférésed.
+Mit tegyél?
+Azt javasoljuk, hogy ha más által is hozzáférhető gépen lépsz be az oldalra, akkor NE JELÖLD BE a csökkentett biztonságot. Viszont ha az otthoni gépeden használod az oldalt, akkor ezt nyugodtan megteheted.
+Fontos! Az oldal ettől függetlenül továbbra is használ cookie-kat, csak az érzékeny információk tárolását szabályozhatod ezzel a funckióval. Így tehát a cookie-kat továbbra sem szabad letiltani!
+A funkció ideiglenesen kikapcsolva.
+Szerzői jogi probléma esetén kérjük a webmaster@ncore.cc
+hivatalos címünkre küldjön levelet.

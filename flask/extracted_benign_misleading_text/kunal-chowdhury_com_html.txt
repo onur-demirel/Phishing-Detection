@@ -1,0 +1,2 @@
+Microsoft announced that they are ready with the next feature update of Windows 10, i.e. the
+This build is currently available to the insiders and those who want to experience it early can join the Windows Insider program and select the "Release Preview" ring to get this update.

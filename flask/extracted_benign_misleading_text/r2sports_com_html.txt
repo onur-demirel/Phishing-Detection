@@ -1,0 +1,147 @@
+|
+|
+|
+|
+|
+Welcome to R2sports
+|
+Online Registration, Tournament Software, League Management, Rankings Systems, Membership Applications, Election Software, Intramural software, and sport organization websites.
+|
+|
+|
+Tournament Software
+Directors can use the R2 Sports tournament software to simplify the process of running a tournament which will help save hours of time. This is a complete tournament software package that has been used to run several world championships, national, state / provincial, and local events. Works for any type of tournament!
+Participants are able to register online and after the registration deadline, the director seeds brackets and sets match times. Tournament staff can manage a live event and update game scores. Results will appear in real time on the tournament website where fans, parents, and players can follow along.
+Software tournament application
+|
+Rankings Systems
+The rankings system automatically tracks player rankings using match result information from the league and tournament software database. Your rankings coordinator will no longer have to spend time manually tracking player rankings in using excel.
+Website users can view their rankings and search rankings by various filter choices. Click on the linked player’s name in order to view their match history. Directors save time by pre-seeding brackets by ranking order
+Ranking software
+|
+Membership Managment System
+The R2 sports membership application is a tool that sport organizations can use to track users. Administrators can setup groups for users, create membership types and give users different access levels.
+Easily generate reports for system payments and activity history of users. Create courses and online tests that users can take to a achieve a certification.
+Membership software
+|
+Live Scorecard / Scoreboard
+No more refereeing and keeping score with a pencil and piece of paper. The new R2 score card app allows the referee to keep track of the score, points, timeouts, etc, all through the app. The app is integrated with a scoreboard screen that shows all the live scores for all the matches being officiated. It is also integreated with the R2 tournament app to provide live scoring data in real time for fans to follow.
+Live Scorecard / Scoreboard
+|
+Software for Fantasy Bracket Picks
+Software that copies a designated draw from an en event using the R2 Sports tournament software, then allows participants to register and fill out the brackets making their best bracket picks of who they think will win. Director sets a points system, then the participants ranking and point totals are automatically recalculated each time the director of main tournament updates a score.
+Fantasy Bracket Software
+|
+Broadcast Online Video
+The league and tournament software has an upgrade option to allow directors to broadcast live events so fans and parents can watch the action online in real-time.
+The on line streaming video player is embedded in the event website home page so it is easy to get scores and game updates and watch the video at the same time.
+Live Streaming Sports
+|
+|
+Tournament App
+The app conveniently brings the data from the tournament software to the fans and players. It is free to download and allows users to select their favorite participants and divisions. Once it learns the users favorites, it does all the work by finding all the favorite information and delivering it to the home screen of the app.
+During live events, results on the home screen are updated in real time. Live scoring is also delivered if the referee is using the R2 referee scorecard app. Option to receive push notification messages when new results and scores are entered by the director.
+Link your R2 profile to the app, then easily enter future events, renew memberships, and make challenges on a challenge ladder.
+R2 Sports Tournament App
+|
+Challenge Ladder Software
+The R2 sports ladder challenge software was developed to provide an easy way for players to meet others who compete at a similar skill level. The ladder ranking system is updated instantly after results are reported through the system.
+The director sets up their sports ladder by selecting the options and rules that the players follow. Some of the rules include: How many spots can be challenged up, amount of time to respond to a challenge, and setting penalties for non-participation. The director can add players through the participants section, or players can register online themselves through the website.
+There is no cost to setup a challenge ladder for your club, organization, or city.
+View Challenge Ladder Screen Shots
+|
+League Managment Software
+Use the R2 sports season and league software to take all the hassles out of managing your event. Save time when players and teams register and pay online. League directors can seed round robin league schedules and set game times. Staff members can update league scores through the director control panel.
+Print and hand out league sheets to all the participants. Parents and fans can follow league results online and see the upcoming schedule. League directors can communicate with registered participants using the built-in email system. After the season is over, activate the league results so everyone can see the winners.
+League manager system
+|
+Online Event Registration
+The online registration system allows participants to sign up for an event online. The director sets the division pricing along with any early entry discounts or late fees that can be applied based on the timing of that the entry is placed.
+Competitors can purchase additional items during the registration like an extra event t-shirt, banquet tickets, or make a donation.
+To complete the entry, the registrant must make a payment by e-check or credit card, and a confirmation email receipt is sent to them after successfully entering.
+Online registration system
+|
+Sports Websites
+An event website is the perfect compliment to an existing association’s website. Having a programmer make changes to your tournament and league schedule is a thing of the past! The sport template website for your organization is customized to match the color scheme of your main site.
+The site pulls information from the league and tournament software database to populate the pages. Live events, upcoming events, and recent result sections automatically get updated and events are displayed in their appropriate section based on the current date in relation to the date of the event.
+The back-end content manager allows website administrators to modify text and upload photos without having to know html. Upload website sponsor images, feature players, show player rankings, create an image gallery, and manage a newsroom with archived articles.
+Website association software
+|
+|
+Like R2 Sports on Facebook
+|
+|
+|
+|
+|
+|
+|
+|
+Featured Events
+|
+|
+Racquetball
+2019 Arizona IRT Pro-Am Racquetball
+10/24/2019 - 10/27/2019
+Tempe, AZ
+|
+|
+Handball
+2019 Tucson Memorial
+10/31/2019 - 11/3/2019
+Tucson, AZ
+|
+|
+Handball
+53rd Lilac Handball Tournament
+11/8/2019 - 11/10/2019
+Spokane, WA
+|
+|
+Racquetball
+ATL TURKEY SHOOTOUT
+11/9/2019
+Lilburn Georgia , GA
+|
+|
+Racquetball
+Winterton Racquetball Life Time Clinic
+11/15/2019 - 11/16/2019
+Scottsdale, AZ
+|
+|
+Tennis
+New Lyons Park 34th Annual Turkey Day Classic
+11/22/2019 - 11/24/2019
+Mobile, AL
+|
+|
+Handball
+Milwaukee Handball Classic 2019 / Women's Classic 2019
+12/6/2019 - 12/8/2019
+West Allis, WI
+|
+|
+Racquetball
+2020 ATLANTA CHAMPIONSHIPS
+1/17/2020 - 1/19/2020
+Lilburn / Atlanta, GA
+|
+|
+Handball
+2020 R48 Red Death Handball Tournament + MT State Doubles
+1/24/2020 - 1/26/2020
+Missoula , MT
+|
+|
+Handball
+Houston 2020 R48Pro Texas State Doubles Championships
+4/24/2020 - 4/26/2020
+Houston, TX
+|
+|
+Handball
+Ace's Players Championship & WPH R48Pro IX
+5/14/2020 - 5/17/2020
+Salt Lake City, UT
+|

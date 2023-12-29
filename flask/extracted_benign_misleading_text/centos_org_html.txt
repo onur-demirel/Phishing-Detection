@@ -1,0 +1,25 @@
+The CentOS Project
+The CentOS Project is a community-driven free software effort focused on delivering a robust open source ecosystem around a Linux platform.
+We offer two Linux distros:
+– CentOS Linux is a consistent, manageable platform that suits a wide variety of deployments. For some open source communities, it is a solid, predictable base to build upon.
+– The new CentOS Stream is a rolling-release distro that tracks just ahead of Red Hat Enterprise Linux (RHEL) development, positioned as a midstream between Fedora Linux and RHEL. For anyone interested in participating and collaborating in the RHEL ecosystem, CentOS Stream is your reliable platform for innovation.
+In support of this community effort, the CentOS Project provides extensive resources to build, test, release, and maintain code on these platforms.
+For more information about updates and improvements in CentOS Stream and CentOS Linux 8, please check out the CentOS Stream release notes and the CentOS linux release notes or the release announcement in the mailing list archive. Information about other actively maintained CentOS Linux releases is available on the CentOS Linux 7 and CentOS Linux 6 release notes pages.
+Around CentOS
+- Tuesday Oct 8th : CentOS Blog: CentOS Community newsletter, October 2019 (#1910)
+Dear CentOS enthusiast, If you'd like to help out with the process of putting together the newsletter, please see the C
+- Wednesday Sep 25th : CentOS Blog: CentOS 8 and CentOS Stream released
+We are excited to announce the release of CentOS 8, and of the new RHEL upstream, CentOS Streams. Details can be found o
+- Tuesday Sep 17th : CentOS Blog: Release for CentOS Linux 7 (1908) on the x86_64 Architecture
+We are pleased to announce the general availability of CentOS Linux 7 (1908) for the x86_64 architecture. Effectively im
+- Monday Sep 2nd : CentOS Blog: CentOS Community Newsletter, September 2019 (#1909)
+Dear CentOS enthusiast, If you'd like to help out with the process of putting together the newsletter, please see the Co
+- Thursday Aug 8th : CentOS Blog: CentOS Community Newsletter, August 2019 (#1908)
+Dear CentOS enthusiast, It's been another busy month, but better a few days late than never! If you'd like to help out w
+News & Events
+CentOS 7.7.1908 released
+We are pleased to announce the general availability of CentOS Linux 7 (1908) for the x86_64 architecture. Details on the Centos-Devel mailing list.
+CentOS 8 and CentOS Stream announced
+We’re pleased to announce the release of CentOS 8, and also of a new upstream called CentOS Stream. Get them both at centos.org/download, and read all about Stream in the Release Notes.
+Sponsorship
+CentOS would not be possible without the support of our sponsors. We would like to thank the following product/service for being a CentOS sponsor:

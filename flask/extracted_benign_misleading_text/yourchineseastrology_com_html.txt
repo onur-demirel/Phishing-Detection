@@ -1,0 +1,124 @@
+Weekly Horoscope：
+You have a flat fortune this week. In terms of work, you are busy at the end of the year. You need to take good care of your body while working hard. ... [Read More]
+|Su
+|Mo
+|Tu
+|We
+|Th
+|Fr
+|Sa
+|
+九月 (Sep)
+29
+初一/1
+|
+30
+初二/2
+|
+1
+初三/3
+|
+2
+初四/4
+|
+3
+初五/5
+|
+4
+初六/6
+|
+5
+初七/7
+|
+6
+初八/8
+|
+7
+初九/9
+|
+8
+初十/10
+|
+9
+十一/11
+|
+10
+十二/12
+|
+11
+十三/13
+|
+12
+十四/14
+|
+13
+十五/15
+|
+14
+十六/16
+|
+15
+十七/17
+|
+16
+十八/18
+|
+17
+十九/19
+|
+18
+二十/20
+|
+19
+廿一/21
+|
+20
+廿二/22
+|
+21
+廿三/23
+|
+22
+廿四/24
+|
+23
+廿五/25
+|
+24
+廿六/26
+|
+25
+廿七/27
+|
+26
+廿八/28
+|
+27
+廿九/29
+|
+十月 (Oct)
+28
+初一/1
+|
+29
+初二/2
+|
+30
+初三/3
+|
+31
+初四/4
+|
+1
+初五/5
+|
+2
+初六/6
+Select a Western date and convert it to its Chinese lunar equivalent.
+Gregorian Date: {{date}}
+Chinese Lunar Date: {{lunar}}
+Chinese Solar Date: {{solar}}
+Chinese Zodiac: {{zodiac}}
+Lunar conception month: {{mn}}
+Lunar age at the time of conception: {{age}}
+Prediction of Baby Gender: {{gender}}

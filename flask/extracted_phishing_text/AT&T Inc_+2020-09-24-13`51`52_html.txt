@@ -1,0 +1,8 @@
+What does "Keep me signed in" mean?
+Many of our users have asked for a way to reduce how frequently they're asked to sign-in to att.net and Mail. By checking this new box you'll stay signed in for up to 2 weeks or until you sign out. You'll get easier access to your mail, photos, music, and all your other stuff, even if you close your browser or shut down your computer.
+To protect your most sensitive data and activities (like changing your password or using your credit card), we'll ask you to re-enter your password when you access some AT&T services.
+What if I'm on a computer that I share with others?
+If you're using a public computer or you share this computer with others, we recommend that you uncheck the "Keep me signed in" box.
+This checkbox applies to this computer only. So, for example, you can stay signed in on your home computer, but maintain more frequent password protection on your work or school computer.
+You can change the length of time you remain signed in to att.net and Mail, once you are signed in, by clicking on the "My Account" link at the top of most of the att.net pages. Go to the "Member Information" section to change the frequency whereby AT&T will prompt you for your password. If you do so, AT&T will ask you to verify your password more frequently, although your sign-in screen will indicate every "two weeks".
+If you need to sign out, remember to click the "Sign Out" link located at the top of most att.net pages when you're signed in.

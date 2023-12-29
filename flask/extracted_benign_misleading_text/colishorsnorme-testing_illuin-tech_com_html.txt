@@ -1,0 +1,1 @@
+Photoconfirm PhotoConfirmCharger une photo à envoyer au service PhotoConfirm.Sélectionner une image

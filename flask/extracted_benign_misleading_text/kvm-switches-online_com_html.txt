@@ -1,0 +1,2 @@
+USB
+A Switch that uses USB cables for keyboard and mouse connections. Some USB switches will also allow PS/2 connections and some will allow sharing of other USB devices such as printers. Other things to look for in a USB switch include ability to share audio and wireless keyboard/mouse connectivity. Also remember to note which USB specification the switch supports.

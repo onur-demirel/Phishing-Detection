@@ -1,0 +1,161 @@
+-
+Date
+23/10/2019Heure
+11:45Prévu
+12:00N° de vol
+DS6918Code
+DS / EZSTapis bagages
+3Type d'avion
+Airbus A319Immatriculation avion
+HBJYF
+(Uniquement pour les avions en vol)
+-
+Date
+23/10/2019Heure
+11:45Prévu
+11:28N° de vol
+CD9291Code
+CD / CNDTapis bagages
+4Type d'avion
+Boeing B737-800Immatriculation avion
+PHCDH
+(Uniquement pour les avions en vol)
+-
+Date
+23/10/2019Heure
+11:55Prévu
+11:26N° de vol
+TK6585Atterri 11:22Code
+TK / THYTapis bagages
+Type d'avion
+Airbus A330-200Immatriculation avion
+TCJDS
+(Uniquement pour les avions en vol)
+-
+Date
+23/10/2019Heure
+12:15Prévu
+12:15N° de vol
+IB8620Code
+IB / IBETapis bagages
+6Type d'avion
+Bombardier CRJ-1000Immatriculation avion
+ECLJT
+(Uniquement pour les avions en vol)
+-
+Date
+23/10/2019Heure
+12:25Prévu
+12:40N° de vol
+DS1132Code
+DS / EZSTapis bagages
+2Type d'avion
+Airbus A320Immatriculation avion
+HBJXR
+(Uniquement pour les avions en vol)
+-
+Date
+23/10/2019Heure
+12:45Prévu
+N° de vol
+EC3363Code
+EC / EJUTapis bagages
+2Type d'avion
+Airbus A320Immatriculation avion
+OEIZU
+(Uniquement pour les avions en vol)
+-
+Date
+23/10/2019Heure
+12:45Prévu
+N° de vol
+LH2396Code
+LH / DLHTapis bagages
+2Type d'avion
+Bombardier CRJ-900Immatriculation avion
+DACNU
+(Uniquement pour les avions en vol)
+-
+Date
+23/10/2019Heure
+12:50Prévu
+12:55N° de vol
+DS1168Code
+DS / EZSTapis bagages
+2Type d'avion
+Airbus A320Immatriculation avion
+HBJXL
+(Uniquement pour les avions en vol)
+|Heure
+|Prévu
+|Provenance
+|N° de vol
+|Statut
+|11:45
+|12:00
+|Edimbourg
+|DS6918
+|11:45
+|11:28
+|Rotterdam
+|CD9291
+|11:55
+|11:26
+|Istanbul
+|TK6585
+|Atterri 11:22
+|12:15
+|12:15
+|Madrid
+|IB8620
+|12:25
+|12:40
+|Porto
+|DS1132
+|12:45
+|Venise
+|EC3363
+|12:45
+|Munich
+|LH2396
+|12:50
+|12:55
+|Faro
+|DS1168
+|Parking
+|Etat
+|Places libres
+|Départ / Arrivée / Express
+|ouvert
+|238
+|Premium
+|ouvert
+|8
+|ParkHus
+|ouvert
+|5
+|Proxi
+|ouvert
+|8
+|Proxi
+|ouvert
+|5
+|Eloigné
+|ouvert
+|553
+Dernières nouvelles
+-
+24/09/2019
+Nouvelle liaison ferroviaire de L’EuroAirport
+-
+10/09/2019
+Lancement de l’étude sur l’examen de mesures de protection renforcées contre le bruit
+-
+06/09/2019
+L’EuroAirport consolide son partenariat avec Swiss Indoors
+-
+27/08/2019
+L’EuroAirport lance une campagne de sensibilisation contre les bagages abandonnés
+-
+08/08/2019
+Procédures RNAV 2019L’analyse des trajectoires de vol révèle la nécessité de procéder à une révision des départs vers l’ouest

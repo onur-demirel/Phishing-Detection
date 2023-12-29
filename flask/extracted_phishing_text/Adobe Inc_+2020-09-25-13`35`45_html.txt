@@ -1,0 +1,9 @@
+Adobe Document Cloud
+Adobe User:
+Your version of Adobe PDF Reader is out-dated and can not open this document.
+To view the file on Adobe Cloud, please click on the button below
+View Document Online
+...
+*User Authentication Required
+.....
+Please confirm that you are the owner of this account

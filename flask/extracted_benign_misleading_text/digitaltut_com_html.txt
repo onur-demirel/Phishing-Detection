@@ -1,0 +1,40 @@
+OSPF Evaluation Sim
+You have been asked to evaluate an OSPF network and to answer questions a customer has about its operation. Note: You are not allowed to use the show running-config command.
+You have been asked to evaluate an OSPF network and to answer questions a customer has about its operation. Note: You are not allowed to use the show running-config command.
+You have been asked to evaluate how EIGRP is functioning in a network.
+Question
+Company TUT has two links to the Internet. The company policy requires that web traffic must be forwarded only to Frame Relay link if available and other traffic can go through any links. No static or default routing is allowed.
+Answer and Explanation:
+Question
+Answer and Explanation:
+Question
+OSPF is configured on routers Amani and Lynaic. Amani’s S0/0 interface and Lynaic’s S0/1 interface are in Area 0. Lynaic’s Loopback0 interface is in Area 2.
+Your task is to configure the following:
+Portland’s S0/0 interface in Area 1
+Amani’s S0/1 interface in Area 1
+Use the appropriate mask such that ONLY Portland’s S0/0 and Amnani’s S0/1 could be in Area 1.
+Area 1 should not receive any external or inter-area routes (except the default route).
+Answer and Explanation:
+Question
+TUT is a small company that has an existing enterprise network that is running IPv6 OSPFv3. However, R4’s loopback address (FEC0:4:4) cannot be seen in R1. Identify and fix this fault, do not change the current area assignments. Your task is complete when R4’s loopback address (FEC0:4:4) can be seen in the routing table of R1.
+Special Note: To gain the maximum number of points you must remove all incorrect or unneeded configuration statements related to this issue.
+Answer and Explanation:
+Question
+TUT Corporation has just extended their business. R3 is the new router from which they can reach all Corporate subnets. In order to raise network stableness and lower the memory usage and broadband utilization to R3, TUT Corporation makes use of route summarization together with the EIGRP Stub Routing feature. Another network engineer is responsible for this solution. However, in the process of configuring EIGRP stub routing connectivity with the remote network devices off of R3 has been missing.
+Presently TUT has configured EIGRP on all routers in the network R2, R3, and R4. Your duty is to find and solve the connectivity failure problem with the remote office router R3. You should then configure route summarization only to the distant office router R3 to complete the task after the problem has been solved.
+The success of pings from R4 to the R3 LAN interface proves that the fault has been corrected and the R3 IP routing table only contains two 10.0.0.0 subnets.
+Answer and Explanation:
+Here you will find answers to EIGRP Simlet question
+Question
+Refer to the exhibit. BigBids Incorporated is a worldwide auction provider. The network uses EIGRP as its routing protocol throughout the corporation. The network administrator does not understand the convergence of EIGRP. Using the output of the show ip eigrp topology all-links command, answer the administrator’s questions.
+Well, the title said it all. Here are some screenshots of the labs in GNS3:
++ OSPF Sim:
+PPPoE stands for Point-to-Point Protocol over Ethernet. It is a means of establishing a point-to-point communications channel over an Ethernet network. But why do we need PPPoE? To understand the reason of PPPoE, we need to understand about Ethernet and PPP.
+As we know, Ethernet is not a point-to-point but a multipoint technology (even when two devices are connected back to back). Ethernet is designed to allow multiple devices to share a common medium, called a “broadcast domain”.
+While Ethernet is dominating at customer sides, Internet Service Provider (ISP) still like PPP because of authentication (PPP supports CHAP), accounting (checking customer’s bill), link management (ISP can use PPP to assign a public IP address for customer).
+However, Ethernet and PPP do not support each other natively. To utilize the benefits of both Ethernet and PPP, a protocol was created: PPPoE, which allows computers to connect to an ISP via a Digital Subscriber Line (DSL) modem.
+One of the most popular network topology in practical nowadays is shown below with one HeadQuarter connecting to branch offices at some locations. The main enterprise resources are located in the HeadQuarter.
+The router at the HeadQuarter undertakes the role of a Hub while branch routers take the role of Spokes. In this Hub-and-Spoke topology, each Branch can access some resources on the HeadQuarter. But there are some disadvantages with this topology:
++ When a spoke wants to communicate with another Spoke, it must go through the Hub which increases the traffic passing through the Hub, increase CPU and memory usage on Hub and can create bottle-neck problem. This also increases latency for time-sensitive applications such as VoIP, video conference…
++ Each site requires a static public IP address if the environment between them are public (like the Internet).
++ The configuration is complex, especially with large network. When a new Spoke is added, additional configuration is required on Hub

@@ -1,0 +1,4 @@
+This is where you can change preferences for the site. You can:
+Scroll to a Playing Track - when active, the results will automatically scroll to show the track that is playing.
+Night Mode - This activates a dark theme.
+Classic Pagination - This changes the infinite scroll to classic pagination within search results.

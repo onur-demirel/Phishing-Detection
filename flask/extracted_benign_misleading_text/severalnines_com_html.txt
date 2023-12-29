@@ -1,0 +1,2 @@
+The ClusterControl demo allows you to navigate the system and see how it works. For the purposes of the demo, most features have been disabled or are running using simulated data. This means you will not be able to deploy a new database or make any changes to the environment.
+After the demo we encourage you to Download ClusterControl so that you can explore the benefits of database automation for yourself and take control of your database infrastructure.

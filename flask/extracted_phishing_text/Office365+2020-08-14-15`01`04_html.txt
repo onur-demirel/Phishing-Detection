@@ -1,0 +1,5 @@
+{"ariaCollectorUrl":"https://browser.pipe.aria.microsoft.com.office.o365-prod-demo.mvccasbdemo.myshn.net/Collector/3.0/","ariaTenant":"ea6758984c4b43529f9929667d8d3198-c52d4a8b-47fe-4fdf-99b8-5f897ff4e33b-7365","buildDateUtc":"2020-08-13 03:35:45Z","buildId":"abbd9da5-1bb7-22a7-6912-14dbbfc61f31","corpNet":false,"correlationId":"a8d12536-c842-4fcc-b4ec-c8090dfd2472","deploymentEnvironment":"prod","devEnvironment":"ServiceFabric","flights":"cappopup,csslicensing,gotoprovider,templatedime,unauthupsell,leftnavfr,powerpointdocaspx,lntreatment1,powerbienabled,officefeed,pwafreeconsumerfrecf","geoName":"eus","requestOrigin":"Direct","sessionId":"6d6a2f0b-ff1b-4eb9-91ba-e982ab8e3ead","testTraffic":false,"cookieConsentRequired":false,"officeMarketLcid":1033,"useMruS2SFlow":false,"useFeedApi":true}
+blobs.officehome.msocdn.com
+{"diskPreloadEnabled":true,"enabled":true,"pilotFlights":[],"serviceWorkerAllowedFlights":["cacheshell","appshell"],"scriptUrl":"/sw","scope":"/"}
+True
+Your place to create, communicate, collaborate, and get great work done.

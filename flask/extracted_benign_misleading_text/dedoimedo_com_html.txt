@@ -1,0 +1,532 @@
+Updated: October 23, 2019 | Category:
+Linux
+It's happened again. The KDE team has released a new version of their desktop environment. Seemingly a
+small increment, based on the numbering scheme, it still brings a wealth of changes, improvements and
+whatnot to the desktop scene. That means there's only one reasonable outcome: some proper testing.
+And so I did. I fired up my neon instance sitting cozily in the eight-boot Windows-and-Linux setup on
+my G50 laptop, let the system run a whole bunch of updates, and an hour later, I had the Plasma 5.17
+desktop up and running. Now, let's see how it fares and what it offers. After me.
+Read more ...
+Updated: October 21, 2019 | Category:
+Linux
+You know how the popular saying goes. When it rains ... people drive slowly just to annoy you. But as
+it happens, I received a bunch of emails from people asking me two things: 1) Why have I not recently done
+any more Cinnamon reviews (other than Mint)? 2) When am I going to review the latest version of Manjaro
+18.1 Juhraya?
+The answer to these question is: yes. At the same time! I decided to try Manjaro Cinnamon, not
+something I've done before, so it should be an interesting, refreshing and hopefully worthwhile exercise.
+The test box will be the same one I used for the Illyria Xfce test, so we can compare things in
+earnest - and accurately. This is an eight-book mixed Windows & Linux box, and it comes with UEFI,
+Intel graphics, 16 sweet partitions, and another instance of Manjaro that we won't touch in this review.
+Begin to start.
+Read more ...
+Updated: October 19, 2019 | Category:
+Windows
+Feeling bored? Not enough excitement or first-world problems in your life? Worry not! Windows 10 at
+your service - not to be confused with Windows as a Service, right. Indeed, if you've followed the tech
+news in the past three or four years, you may have noticed there's always a flurry of unexpected activity
+with Windows 10. This could be system changes after updates, this could be problems with updates, or this
+could be, the latest thingie, how to setup your local account after a fresh installation. Shouldn't be an
+issue right, except, seemingly, it is.
+A few days ago, I came across an avalanche of articles discussing a (new) phenomenon: when you set up
+your Windows 10, it seems to be more difficult to create a local account, and you might be forced to use
+an online account instead. I read this on Ghacks, among other places, and then decided to do the test for
+myself, to see whether this is indeed the case. Let's see what happens.
+Read more ...
+Updated: October 18, 2019 | Category:
+Books
+Civilians.
+No, that was not the right word. Non-combatants, then. That didn’t work either.
+Everyone was affected by the global war of the past nineteen years. The best description was people with no control over their lives. Fallen leaves, waiting to be swept and whirled by a sudden gust of wind. Ghosts, with brittle smiles.
+One such specimen stood at the corner of the street. Smiling that empty smile of people living through hell.
+Read
+more ... (my books-only website)
+Updated: October 16, 2019 | Category:
+Linux
+Plasma is an extremely extensible, flexible desktop environment, and it lets you customize and change
+anything and everything to the tiniest detail. You can go about mimicking other desktops and systems as
+you please, limited only by your imagination and patience. If you want a Mac-like look or a Unity look,
+you can.
+So I thought, I should revisit my old Plasma widgets article and explore some fresh applets out there,
+to see what else you can do here. Indeed, there are lots of hidden goodies lurking beneath the surface,
+and if you're curious, you will discover fresh tools and features that can make the Plasma desktop
+experience even more enjoyable.
+Read more ...
+Updated: October 14, 2019 | Category:
+Linux
+Several days ago, I reviewed CentOS 8. Overall, the whole thing went well, but there were some snags
+along the way. Most notably, I had trouble getting the system configured so that I could use Gnome
+extensions and transform the vanilla, default look & feel of the Gnome 3 desktop, which I find extremely
+unproductive, into a more classic desktop formula.
+There were problems getting Gnome extensions installed, and then the system didn't have the native host
+connector, and it took a bit of work sorting everything out. Not trivial. Before I give you a full perfect
+desktop tutorial that I promised, the kind we did with CentOS 7, I'd like to show you all the steps you
+need to get the Gnome extensions properly configured in the latest edition of this server-cum-desktop
+distro. After me.
+Read more ...
+Updated: October 12, 2019 | Category:
+Linux
+Now and then, the sun rises above Gondor. And by Gondor, I mean Linux. And by that, I mean,
+occasionally, fresh new software is born, and it is indeed as fresh as a brioche just taken out of the
+oven in a small, remote village somewhere in Normandy. The holder of the challenge seems to be Peek, a
+software designed to help you create compact, high-quality demo animations of desktop activity.
+Being able to record your desktop isn't a new thing. I've written about this many times in the past,
+covering programs like recordMyDesktop, Kazam and friends. Even Spectacle can do this for you, and if
+you're handy with the omnipotent ffmpeg, then you can do whatever you fancy. Sounds like a simple recipe
+that would be hard to beat. But this article proves otherwise. After me.
+Read more ...
+Updated: October 11, 2019 | Category:
+Books
+Commander Lip sure didn’t waste time.
+He tried to kill Lee Qiang the very next day.
+They were riding an APC to the front lines for a routine inspection and familiarization. It was one of the new prewar models, a Kismet urban warrior, with an anti-tank mesh on both sides. A squeaky clean example of a dwindling inventory.
+Read
+more ... (my books-only website)
+Updated: October 9, 2019 | Category:
+Office
+Many a person in the modern world have had, at some point in their life, to write a document of some
+sort, usually a CV, and then send it to other people for professional scrutiny. Others have braved their
+luck writing books and articles, or creating presentations. Many have tried, but few had succeeded.
+If you want to write a nicely styled document, you need, well, style. Or rather styles. Ever since
+computer graphics became powerful enough to show fancy stuff on your screen, document writing has gone
+from text to a vomit of figures and colorful objects mixed with words in one messy bundle. But if you
+want to do it right, you want content and style separation. In essence, this is HTML and CSS, and to be
+fair, this is your modern word processor with the use of styles. Or if you're feeling really
+adventurous - LaTeX. Or if you're feeling bold and lazy, then maybe LyX. Then, there's another
+candidate - TeXstudio, and we shall discuss it today.
+Read more ...
+Updated: October 7, 2019 | Category:
+Media
+My music requirements are simple. I have many great qualities, but a refined ear isn't among them.
+With an aural sensitivity of a comodo dragon, my needs come down to a simple player that is pleasing to
+the eye, comes with a semi-modern layout, and most importantly, will not annoy me with badly arranged
+albums, titles and tags. The last piece has been my chief music-related woe for years.
+When it comes to music players, I'm kind of okay here. VLC does the job, and when you tweak it, it's
+quite delightful one must say. Then, when I'm feeling adventurous, there's Clementine, which features
+splendidly on the desktop, with a clean interface and tons of goodies. And yet, now and then, I go about
+testing music applications, because music collections won't sort themselves, now will they. To wit, Quod
+Libet.
+Read more ...
+Updated: October 5, 2019 | Category:
+Linux
+There are operating systems that were never meant to be used as desktops. Well, to be fair, most Linux
+distributions fall into this category, in a way. But CentOS falls more. It's a no-nonsense server distro,
+designed to give you three quarters of an eternity of stable support and a blackhole worth of predictable
+boredom so you can do work stuffs. But if you wanna desktop, you can too.
+I've always had a soft spot for CentOS - if you're curious, you can read all about my CentOS 6 story
+and the subsequent CentOS 7 saga over the past decade. Now that the latest release is out, it's time for
+another long review. I'll commit the distro to my eight-boot mixed Windows & Linux Lenovo G50 machine,
+which, by the way, already runs a CentOS instance. And if all goes well, then we will attempt an in-vivo
+upgrade, too. For now, let's commence the journey.
+Read more ...
+Updated: October 4, 2019 | Category:
+Books
+Eyes squinted against the daylight glare, Lee Qiang stepped out of the tin-can transport, together with seventeen other soldiers, all new recruits—except him. They milled quietly, rubbing shoulder against sweaty shoulder, trying to get some sense of where they were.
+Hell, Lee Qiang thought.
+A familiar place.
+Read
+more ... (my books-only website)
+Updated: October 2, 2019 | Category:
+Linux
+In a perfect world, desktops are complete solutions. Alas, we live in a world that is far from
+perfect. If you look across different Linux desktop environments, only Plasma (and Unity) offer a fully
+consistent layout. Gnome requires modifications, and Xfce never mastered the dock idea that well.
+Indeed, while testing Manjaro, I decided to retry my notion of a handsome Xfce desktop with a top panel
+featuring global menu and a pleasant dock at the bottom of the screen. In Gnome, the latter part would be
+satisfied using extensions, the likes of either Dash to Dock or Dash to Panel, Plasma would give you
+icons-only task manager or Latte, MATE would give you its own plankified dock version, and Xfce ... well.
+To that end, I decided to test and explore Cairo Dock. Hence, this article.
+Read more ...
+Updated: September 30, 2019 | Category:
+Car reviews
+To roof or not to roof. This is a question than many Cabriolet drivers had faced since the dawn of the,
+eh, cabriolet. It's not something I had to contend with until very recently, when I finally got a chance
+to drive a BMW 218d Cabriolet, with two doors, M Sport kit and signature Estoril Blue paint, and some
+black canvas for the roof.
+I had the car for two days and about 550 km of driving, including open highways, jammed urban traffic,
+but also some nice twisty roads in the hills and mountains, which gave me an opportunity to test the
+vehicle's dynamics in all three dimensions. The weather was favorable too, so there's that. Follow me.
+Read more ...
+Updated: September 28, 2019 | Category:
+Linux
+You know I'm no Arch fan. But I am also impressed by the efforts to transform the ultra-nerdy Arch into
+a friendly system accessible to the masses. This is primarily done by Manjaro, which is blazing an honest
+path of creativity down the Linux highway. I've recently tested version 18.0.4 Illyria Plasma, and found
+it to be quite solid. There were lots of problems, but then, there were also some super-cool
+features.
+To help you get along, I've compiled this article - it's mostly the summary of tweaks and changes I
+introduced to the installed Manjaro system, in order to get a smooth, seamless experience replete with
+good software, good looks and proprietary drivers. Now, there's also the Xfce review, and we might do
+some tweaks for that edition, too. But now, we only focus on the Plasma spin. To wit, let us
+commence.
+Read more ...
+Updated: September 27, 2019 | Category:
+Linux
+Over the years, in my production setup, I've used only two Linux desktop environments in earnest - KDE
+and Unity - well, Xfce to a much, much smaller extent. I've started with KDE 3.5 back in the day (with
+SUSE 10), ran Unity for as long as Trusty was supported, and I'm now using Plasma 5.12 LTS as part of
+Kubuntu 18.04 on my Slimbook Pro2 laptop. But Unity has a sweet spot in my heart.
+Well, I haven't abandoned the desktop, as it is still installed on the Asus Vivobook machine. I had the
+system upgraded from Trusty to Bionic a few months ago, and installed both the Unity and Plasma desktops,
+and then tweaked the latter to look like the former. A small and incomplete transformation. Then I decided
+to ratchet this up a notch or three. A full makeover. Proceed we shall. If you're impatient, go to the
+good results section below right away.
+Read more ...
+Updated: September 25, 2019 | Category:
+Linux games
+Several weeks ago, we talked about the all-time classic Red Alert. Now, I want to focus on the
+successor, the equally nice and fun Red Alert 2 and its expansion Yuri's Revenge. While this game never
+really eclipsed the original, it's still very much the quintessential Westwood RTS, with great graphics,
+same fast-paced spirit and some extra factions and technology.
+So how does one go about enjoying this game on Linux? Well, you noticed the mention of CNCNET in my Red
+Alert guide, a great community of people dedicated to keeping the legends and classics alive. While RA is
+free to play, RA2 and Yuri are not. These games have not been handed off to the public at large, and so
+you still need to have the original DVD - or buy them fresh. But if you happen to have those, then let's
+talk business.
+Read more ...
+Updated: September 23, 2019 | Category:
+Windows
+If you're in possession of an Android phone, then you might be interested in KDE Connect. This is an
+application developed by KDE folks, which lets you pair your smartphone with your Plasma desktop, and
+then do all sorts of magic to and fro. You can control media, check SMS messages, view system
+information, share files, and more.
+I've reviewed this software and found it quite useful, although support for other mobile systems would
+be nice. Now, as you can imagine, its very name implies that it is tied into the KDE (Plasma) desktop
+environment. Well, not anymore! You can use it Gnome vis GSConnect, but that's still Linux. Well, well,
+well! There's also an experimental build for Windows. And that's why we're here. Let's test this software
+in Windows.
+Read more ...
+Updated: September 14, 2019 | Category:
+Windows
+The last time I tested system sandboxing software was in the XP era. I remember programs like
+ShadowGuard, if my memory servers me well, and Deep Freeze, designed to create a virtual filesystem layer
+to which changes would be made during your active session, and then on next reboot, these would be
+scrubbed back to a clean state. In essence, a read-only system with the ability for selective
+modification.
+For applications, you may have wanted something less complicated - and for those in need, there was
+Sandboxie. As it happens, I never really got to try the application, not in its early days nor later after
+it was acquired, but now, having tried Windows Defender Application Guard (unsuccessfully) on Windows 10
+Home, I decided to give this program another look. So let's have a test and review of Sandboxie. Let's
+build us a security castle!
+Read more ...
+Updated: September 13, 2019 | Category:
+Linux
+Here's an interesting problem. Several weeks ago, I tested Manjaro 18.0.4 Illyria on my HP Pavilion
+laptop, and I've come across an interesting phenomenon. The laptop is equipped with a Broadcom Wireless
+card, and in the live session, both with free and nonfree drivers, the network was up and running okay.
+However, after the installation, I had no Wireless.
+Looking at system looks, I found an error that said WLC_SCAN error (-22). Once I hit the Intertubes
+with this search, all hell broke loose. I found dozens of Arch and Manjaro forum posts talking about this
+issue. There were some solutions offered, but they were either ineffective or very difficult to implement.
+So I decided to try to fix this on my own, hence this guide. Follow me.
+Read more ...
+Updated: September 13, 2019 | Category:
+Books
+Readers of mine and random curious souls, rejoice! I am going to try something new vis-a-vis writing.
+At least, new for me. In a few weeks, I will begin a year-long journey of a serial book publication,
+releasing a fresh new chapter every week, right here on this website, for free. Which book, you’re
+asking?
+Well, this is going to be The Golden Horde, a military thriller taking place in near future, with
+World War Three in full swing. You say, War World Three… Why, did you expect the series to end with just
+two installments?
+Read
+more ... (external link)
+Updated: September 5, 2019 | Category:
+Linux
+If you're using Linux, you are also probably, almost definitely, using the GRUB2 bootloader. The
+bootloader lets you control the startup sequence of the system, especially if you have multiple operating
+systems installed, like Windows and Linux side by side, multiple distributions of Linux, and so forth.
+Sometimes, you will need to make changes to the GRUB2 configuration, including specific overrides like
+kernel command-line parameters.
+If the above means nothing to you, you don't need this guide. But if it does, then you can consult my
+rather extensive GRUB2 tutorial on how to use and manage the bootloader. Except, it's not enough. If you
+want to add boot parameters to the kernel - permanently - then editing the default configuration file as
+I've explained in the guide will not work. That's part of the fragmentation delight that's Linux. So we
+need a different method, and this is why we're here.
+Read more ...
+Updated: September 2, 2019 | Category:
+Media
+About a year ago, I reviewed the beta version of Kdenlive 18.08. It proved to be an okay program, an
+incremental improvement, even though there were some issues that you'd expect to find in beta-quality
+software. Overall, there weren't any big surprises, but I was hoping for a more streamlined workflow and
+improved consistency.
+Twelve months later, Kdenlive 19.08 has been released, and it's time for another review. After all,
+this is my favorite video editor, and I've used it to create all of my funny and unfunny Youtube videos,
+so I'm always very keen on what new things and improvements we can have here. Let us commence then, ever
+so gingerly.
+Read more ...
+Updated: August 31, 2019 | Category:
+Linux
+People often ask me (joking, no one asks me anything, I ain't got no friends) what my favorite Linux
+desktop is. And my answer is, well, long and complicated. But I guess, in the past fifteen years, I've
+mostly used and loved Plasma and Unity, with some brief moments of joy with Gnome 2. Then, inevitably,
+the question of Xfce comes up, and my answer is even longer and more complicated.
+The release of Xfce 4.14 might provide a part of the answer you're looking for. And you should
+definitely look at my reviews of various distros running Xfce, like say Xubuntu or MX Linux, to get a
+sense of what this desktop environment does, and how it does it. But then, it's never been really my
+default go-to setup, although I did use it quite successfully and effectively - and still do - on my
+feisty, 10-year-old Asus eeePC netbook. On the desktop proper, I like it, and I liked what it did
+approximately three years or so. Since, it's kind of kept a quiet profile, not quite here nor there.
+Well, I want to see if the new version has the kick to make my proverbial colt buck and gallop. Testing
+time it is then!
+Read more ...
+Updated: August 30, 2019 | Category:
+Internet
+Here's a philosophical question for you. Would you rather have a problem that clearly manifests and
+comes with a well-defined error or one that seemingly does not exhibit any symptoms but is also
+accompanied with a vague message that doesn't really tell you what's wrong? I have to say I prefer the
+former, because the latter just assailed me a few days back, in the form of a Firefox error in
+Windows.
+Without having made ANY changes to my operational setup, I was merrily browsing the net, and as it
+happens, I did look in the Windows 7 Event Viewer logs for unrelated reasons, when I noticed a bunch of
+errors, all related to Firefox. The message read: The description for Event ID 58 from source Firefox
+cannot be found. Either the component that raises this event is not installed on your local computer or
+the installation is corrupted. You can install or repair the component on the local computer. Well,
+let's debug this.
+Read more ...
+Updated: August 28, 2019 | Category:
+Internet
+The modern web is all about dynamic content. But in most cases, this is a technological illusion. A
+large number of website uses dynamically generated pages, i.e. stuff gets read from a database and
+rendered on the screen when requested, even for things that don't necessarily require any interaction.
+This takes resources, and might even be considered less secure, because bad or malformed instructions
+could theoretically generate something undesired.
+The old Web was all about static content - HTML pages with links and images and not much else. Not
+bad, very light on the resources, and as secure as the Web server what does it. But then, not much
+interaction happens, and updating content can be tedious. What if there was something midway between
+the two worlds? That would be Nikola, a static site generator.
+Read more ...
+Updated: August 26, 2019 | Category:
+Linux
+Several weeks ago, I wrote my article slash guide on how to style the Plasma desktop to appear
+somewhat like a Mac. It wasn't a perfect one-to-one transformation, but it was sufficiently pretty and
+elegant. Then I got me thinking. How far can I take this experiment? How about full Unity?
+Again, this ain't a new topic, and I have already made the Plasma instance on my Asus Vivobook, which
+used to run Trusty and have since been upgraded to Bionic, look somewhat like the Unity desktop - in
+addition to the actual Unity desktop, that is. Not a complete change, though. And that's my next
+objective. However, this is a rather lengthy and non-trivial topic, so I'll start with something simpler.
+Let's first see how you can have integrated buttons for maximized windows and application titles in the
+top panel in Plasma.
+Read
+more ...
+Updated: August 24, 2019 | Category:
+Linux games
+A true definition of a classic is something that refuses to die. Ten, a hundred, a thousand years
+later, they are still relevant. One such example is Command & Conquer and its immediate successor Red
+Alert. Released in mid-90s, this superb RTS franchise revolutionized the PC gaming, defining a standard
+for decades to come. Sure, there was Dune, and there was Warcraft, but C&C and RA sort of reigned
+supreme.
+All right, so we have a mission. I want to show you how to enjoy Red Alert in all its glory on a
+modern system, replete with online gaming, should you so desire. As it turns out, this is somewhat
+easier than you'd be led to believe, as I shall demonstrate in a jiffy. Follow me.
+Read more ...
+Updated: August 23, 2019 | Category:
+Office
+I am a fairly happy user of LibreOffice. For real. I use it in a relatively lightweight capacity,
+mostly the Writer application, and it does a decent job for a program that costs nothing. But then,
+occasionally, when I do try to use Calc, or when I have to work with Microsoft Office files, issues do
+crop up. I've written about this in my day-in-office article. As much as I'd like for the reality to
+be different, it isn't.
+However, every time there's a new LibreOffice release, like version 6.3, I perk up, aflush with hope
+that this new edition will bring in revolutionary changes and fixes, which will make it a business-quality
+rival to the expensive Microsoft suite. This is ever so more important and relevant, given how
+aggressively Microsoft is pushing its cloud-based software, and for people who just want a quiet and
+relatively inexpensive solution, the future holds little glamor. And so we test.
+Read more ...
+Updated: August 19, 2019 | Category:
+Books
+I have some nice news for you. Having focused a lot on getting a fresh fiction work out there in the
+past couple of months, it is almost too easy to neglect mentioning some of the more serious writing I've
+been doing lately. Plus some rather curious and happy developments. Indeed.
+As it turns out, I have completed a new technical book, slightly ahead of schedule, and it's due out
+soon. And an older volume of work has been translated. Lots of good stuff happening. I hope you will be
+pleased with this snippet of news as much as I am. Well, let's elaborate, shall we. But not like super
+long and prosaic beyond recognition. In fact, for real this time, this will actually be a short article,
+something I rarely do. Let's see what gives.
+Read more ...
+Updated: August 18, 2019 | Category:
+Linux
+Well, well. It is time to expand our horizons. That means more distro testing. In particular, I shall
+continue exploring the Manjaro 18.X range. The Plasma version turned out to be a pretty solid, colorful
+release. It wasn't perfect, and there were quite a few hardware-related issues with my old Nvidia-powered
+Pavilion dv6 laptop. But then, there were also tons of unique goodies that convinced me to persevere.
+Now (meaning when this article was written, a few weeks back), I want to check the Xfce edition, and
+see how it fares on my eight-boot G50 laptop, running Windows 10 and a whole crop of different Linux
+distros, complete with UEFI/GPT and Intel graphics. This is similar to what I've done with Manjaro 17
+Hakoila, having tested both the Plasma and Xfce builds. So we begin.
+Read more ...
+Updated: August 17, 2019 | Category:
+Linux
+Time for another and possibly last test of the 30th crop of the Fedora grain. So far, we had two.
+First, I did a fresh install on the Lenovo G50 laptop, with its UEFI + Intel graphics set, and it went
+quite all right. Then, I ran a similar experiment on the much older HP Pavilion box, with BIOS + Nvidia
+graphics, and this was a much more disappointing experience, full of bugs and hardware problems.
+Still, overall I was pleased somewhat with what Fedora 30 delivered, and I wanted to do a third test,
+and that would be the upgrade of the Fedora 29 instance sitting in my eight-boot Windows-and-Linux setup
+on the Lenovo machine. With the system polished up all pretty and functional, this ought to be an
+interesting experiment, especially on the performance and compatibility fronts, given the changes and
+tweaks.
+Read more ...
+Updated: August 14, 2019 | Category:
+Linux
+The modern Internet is a fairly annoying place. Quite often, innocent activities like reading text or
+watching videos are interrupted by promotional messages better known as ads. This wouldn't be a problem
+if the ads were relevant, well-timed, or non-intrusive, but despite much "progress" in artificial
+intelligence, deep learning and other buzzwords, they are none of those. Then, we have privacy and
+whatnot.
+The battle between ad givers and ad blockers rages on. It's also slowly escalating, as more and more
+people are turning against the aggressive in-yer-face ad model. For the most part, if you use an
+adblocking extension in your browser, you're all set. But then, you're at the mercy of the browser
+company and what they allow, plus this doesn't always work in every browser and/or operating system. The
+solution is to complete block network requests to ad servers, and this is what Pi-Hole does. Let's
+review.
+Read more ...
+Updated: August 12, 2019 | Category:
+The Hall of Fame
+I have just updated my Greatest sites page with two fresh items of goodness. The Internet just got
+better. Item number one: Sometimes, a rather unassuming website name can hide a lot of goodies under its
+cloak of modesty. The Register is a good example. Think Dad's Army meets IT meets science. That's the crux
+of The Register, a very neat and humor-flavored (or rather humour-flavor, this being the British site and
+all) domain that dabbles in all things hax0ry and technological.
+Item number two: Vasily's blog may be a new thing, but it comes loaded with rich, colorful articles
+full of self-deprecating humor and tongue-in-cheek references to the steaming pile of buzzword dung that
+is polluting the oceans of the Web. Vas3k, at your service.
+Read more ...
+Updated: August 1, 2019 | Category:
+Linux
+The mission continues. We're now in the Delta Quadrant, chasing the Borg. Or rather, you are reading
+my tenth Slimbook report. If you've got some time, you should read the first through ninth installment.
+If you ain't got time for that, the long story short is that I've bought a Linux laptop, and I'm using it
+for realz, production stuff, serious work. And does it work?
+Well, quite so. In fact, while there are many subtle differences between the worlds of Linux and
+Windows desktop, the big differentiating factors are gaming and office. That's all. But the devil is in
+the detail, which is why you're reading this piece now. Let's see what happened in the past few weeks.
+Read more ...
+Updated: July 17, 2019 | Category:
+Linux
+Good system troubleshooting tools are everything. Great tools, though, are harder to find. Luckily,
+Linux comes with a wealth of excellent programs and utilities that let you profile, analyze and resolve
+system behavior problems, from application bottlenecks to misconfigurations and even bugs. It all starts
+with a tool that can grab the necessary metrics and give you the data you need.
+Health-check is a neat program that can monitor and profile processes, so you can identify and resolve
+excess resource usage - or associated problems. Where it stands out compared to the rest of the crowd -
+it aims to offer many useful facets of system data simultaneously, so you can more easily
+component-search your systems, troubleshoot performance issues and fix configuration mishaps in your
+environment. Rather than having to run five tools at the same time, or do five runs to get all the info
+you need, you just use health-check, and Bob's your distant relative. Good. All right, ready? Proceed.
+Read more ...
+Updated: July 15, 2019 | Category:
+Windows
+A few days ago, I read a flurry of articles surrounding the July batch of security patches for Windows
+7. One of them, the security-only KB4507456 package, available through the Online Catalog (and not WU)
+seems to contain telemetry code, too - something called Compatibility Appraiser. Hm, naughty.
+I decided to check this and see what gives. There are two important findings to this - one, whether
+Microsoft sneaked in telemetry to Windows 7 in the guise of a security-only fix, and two, the wider
+implication of this move when it comes to user trust. Let's explore.
+Read more ...
+Updated: July 13, 2019 | Category:
+Linux
+It is time to tread perilous waters. Noobs hate him. Master Linux with one little trick. Indeed.
+Manjaro, an Arch-based system, hardly sounds like a taster's choice for a desktop. And yet, in a world
+mired in apathy and rehashed content, this distribution is one of the few still delivering unique,
+original features. Also, quite importantly, it's getting better and better as time goes by.
+Yesteryear, I've sampled Hakoila, both the Xfce and Plasma flavors, and found them to be rather solid,
+dependable, full of curious goodies and delights, and of course, the bane of all small distros, lots of
+papercuts and odd problems. With Illyria out, it's time to do some fresh testing, and I'll be doing that
+on my 2010-crop HP Pavilion machine, a dual-boot system with Nvidia graphics and known not to be too
+friendly hardware-wise to Linuxes out there. But that makes the adventure all the more fun. We begin.
+Read more ...
+Updated: July 12, 2019 | Category:
+Linux
+The world of things falls into three categories - the things you don't want to do but have to, the
+things you want to do but can't and the things you can do. Skinning your KDE desktop to look like macOS
+falls in the third category. It serves no higher purpose, philosophical or existential, but it is
+something that Plasma users have the option to try, and try they will.
+I've dabbled in the Mac transformation packs for many years now. The original Macbuntu test was the
+best. Ever since, the subsequent attempts came out somewhat short. However, I've always done this on
+Gnome- and Unity-based desktops, never Plasma. Well, that's about to change. We're attempting the
+unattemptable.
+Read more ...
+Updated: July 10, 2019 | Category:
+Books
+There are heroes. There are anti-heroes. And then, there’s Prince Dietrich.
+Freshly returned to Monrich from his little escapade of war and deception, the newly wed Prince Dietrich—Dick to his friends—just wants to be left alone, so he can gamble, drink and keep on wishing for the early demise of his father. But King Ulaf is having none of it. He has devised a new challenge for his recalcitrant heir: Dietrich must go to Ostfort and assume the wardenship of the palatine. Or else.
+What could possibly go wrong?
+Well, since it’s Dick we’re talking about…everything. For starters.
+The Glorious Adventures of Glamorous Prince Dietrich continues the absurd series of mishaps, accidents, machinations, lies, treachery, lewdness, greed, malice, and mischief that embody our troublesome, misunderstood protagonist.
+Dear Dedoimedo readers! I am pleased to announce the release of the second volume in the Woes and Hose grimfun trilogy. Now, this is a great opportunity for you to extend some love and support my way, if you're interested. Thank you, and happy reading!
+Amazon book page (external link)
+Updated: July 10, 2019 | Category:
+Linux
+OpenSUSE will always have a soft spot in my heart. SUSE was my first Linux distro, and for many years,
+I even used it in my production setup. I had a SUSE box as a network router, I ran VMware Server beta on
+it long before ESXi existed, and compiled Nvidia drivers from source back in 2005. It was good. But then
+it ended. I've been trying to recreate the ancient glory for more than a decade, without success. Ever
+since SUSE 11 or so, the efforts always came up short.
+My last test with Leap 15 was an utter disappointment. But every time there's a new release, I reset
+my emotions meter and start again, hopeful against hope that there will be a majestic renaissance of
+goodness in the openSUSE world. Anyway, I went to the official site, grabbed the KDE live ISO (weighs
+less than 1 GB), and then booted on my HP Pavilion laptop. So let's see what happened.
+Read more ...
+Updated: July 8, 2019 | Category:
+Linux
+As it happens, every few years, I end up writing a new tutorial explaining how to configure proprietary
+drives in Fedora. The reason is, this has never been a smooth, straightforward process the likes of which
+you get in many Debian-based distributions. Back in the day, I wrote a relatively simple guide that relied
+on third-party software to get the job done for you. So far so good.
+Then, about two years ago, I also wrote a guide on what you should expect when you upgrade the
+distribution, in this case from version 24 to version 25, the ensuing problems with the drivers, and the
+resolution. And now, just several days back, I did a thorough review of the latest edition of Fedora on my
+HP Pavilion laptop, and it also includes the various pitfalls I faced trying to get the Nvidia drivers
+installed. So it's time to revisit the topic. Follow me.
+Read more ...
+Updated: July 7, 2019 | Category:
+Linux
+Provided Geany is spelling with a soft g, then the first thing that comes to my mind is Arnie in the
+sublime role of John Matrix in the ultra-legendary movie Commando shouting Jenny (more like Chenney) in
+the opening scene. The second thing that comes to mind is, good text editors are hard to find.
+I've been hunting for THE Linux text editor for a long time, and somehow, inevitably, slowly but
+surely, I always end up using Notepad++ through WINE. The combination of a simple, clear interface, a
+logical flow, and tons of great plugins make it impossible to beat. I've played with lots of text
+editors, I also frequently use Kate in Plasma, and yet, Notepad++ remains the optimal choice for me. But
+then, one of me readers mentioned Geany, a GTK+ text editor, which is supposed to be using the SCIntilla
+text engine, same as Notepad++. Well then. It's testing time!
+Read more ...
+Updated: July 5, 2019 | Category:
+Windows
+Several months ago, I wrote an article on how to backup your Linux home directory, including data and
+application settings plus encryption. This was done using some rather simple tools present in every Linux
+system, making it usable anywhere, anytime. Then I got your emails and suggestions, calling for an
+equivalent tutorial for Windows.
+At first I considered writing a command-line guide, with Windows shell scripts, but I decided to do
+something simpler. Most people use Windows visually, so we will do a visual article. I'll show you how to
+backup all your user data, application and program settings, create a zipped archive and then encrypt it,
+so you have a portable copy of your stuff should you ever need - perhaps when migrating to a new machine.
+Let's start.
+Read more ...
+Updated: July 3, 2019 | Category:
+Windows
+You all know I'm a sucker for smart, intelligent software. And by that I mean tools that are designed
+correctly on a philosophical level; they solve strategic problems rather than tactical annoyances. In
+Windows, two prime examples of such design are EMET and Exploit Mitigation, fire-and-forget security
+concepts that don't use the outdated blacklist model of filtering out bad software. Instead, they use a
+philosophical approach of filtering out illegal memory instructions. It doesn't matter what your app is,
+if it behaves badly, it goes down.
+This means I was quite intrigued and almost ended up being keen after reading about a recently unveiled
+Microsoft software solution called Windows Defender Application Guard, which uses hardware isolation to
+block threats. Sounds like my kind of tool. No signatures, no chasing one's tail. Instead you get isolated
+browsing instances, and whatever happens inside them, stays inside them. Like Las Vegas. So I started
+testing.
+Read more ...
+Updated: July 1, 2019 | Category:
+Office
+Necessity is the mother of all inventions. So they say. Indeed, a few days ago, I encountered a curious
+use case, and I went a-huntin' for a solution to the issue I was having. Namely, I wanted to fill a PDF
+form with necessary information, without having to actually print the document and write by hand. But the
+file didn't have interactive fields, and there was nothing in Okular (Plasma's PDF reader) other than
+annotations that would let me insert text into the document.
+I started fiddling and testing, and realized that there wasn't a trivial solution to my need. Then, I
+decided to give LibreOffice more scrutiny. After all, it can create as well as open PDF files, so maybe
+this is the right approach? Well, it is! Let me show you how you can use LibreOffice Draw to make the
+necessary changes in PDF documents and forms, even if they don't have interactive fields. After me.
+Read more ...

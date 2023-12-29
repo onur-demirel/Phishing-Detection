@@ -1,0 +1,1 @@
+Error: (#10) To use 'Page Public Content Access', your use of this endpoint must be reviewed and approved by Facebook. To submit this 'Page Public Content Access' feature for review please read our documentation on reviewable features: https://developers.facebook.com/docs/apps/review. Type: OAuthException Code: 10 Please refer to our Error Message Reference.

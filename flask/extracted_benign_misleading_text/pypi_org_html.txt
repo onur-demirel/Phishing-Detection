@@ -1,0 +1,41 @@
+201,647 projects
+1,514,638 releases
+2,246,760 files
+382,739 users
+The Python Package Index (PyPI) is a repository of software for the Python programming language.
+PyPI helps you find and install software developed and shared by the Python community. Learn about installing packages.
+Package authors use PyPI to distribute their software. Learn how to package your Python code for PyPI.
+Trending projects
+Trending projects as downloaded by the community
+-
+cbor2 4.1.2
+Pure Python CBOR (de)serializer with extensive tag support
+-
+haro 2018.11.15
+Haro.ai Python Library
+-
+scikit-optimize 0.5.2
+Sequential model-based optimization toolbox.
+-
+admobilizeapis 0.0.33
+Protobufs used in AdMobilize Ecosystem
+-
+filesplit 2.0.0
+Module to split file of any size into multiple chunks
+New releases
+Hot off the press: the newest project releases
+-
+BenBotAsync 0.0.1
+Asynchronous Python wrapper for BenBot API.
+-
+quaerere-willamette-common 0.2.1
+Common library for willamette and willamette-client
+-
+zooper-common 0.1.25
+This package contains useful common library
+-
+ocrd-calamari 0.0.1
+Calamari bindings
+-
+pycascrel 0.1.0
+A Cascade-Correlation network framework (Python bindings)

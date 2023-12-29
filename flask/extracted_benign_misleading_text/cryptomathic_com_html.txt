@@ -1,0 +1,72 @@
+-
+Elan Financial Services
+EMV Migration & Automated Key Management
+While migrating to EMV, Elan automated its cryptographic processes for client onboarding, card issuance & transaction authorization.READ Case Study
+-
+UBS
+Qualified Electronic Signatures
+Cryptomathic Signer enables UBS to transform its digital services by offering clients remote Qualified Electronic Signatures.READ Case Study
+-
+Swedbank
+Centralized Key Management for a Major Acquirer
+One of Europe’s largest acquirers centralized and automated its key management activities for its card payment network, including terminal management.READ Case Study
+-
+Barclays Bank
+Cryptography as a Service
+Cryptomathic revolutionizes the world of cryptography. Read how CSG centrally solves the crypto security needs of Barclays BankREAD Case Study
+-
+Crédit Agricole
+Multi-Application EMV Cards
+Crédit Agricole uses Cryptomathic CardInk to deliver one of Europe’s largest multi-application EMV issuing project to date.
+-
+LuxTrust
+Central Signing Service
+Understand how LuxTrust delivers remote qualified electronic signature services to the entire private and public sector of Luxembourg using Cryptomathic Signer.READ Case Study
+-
+MasterCard
+Centralized Key Management
+Explore how MasterCard centrally manages, updates and distributes cryptographic keys throughout its global acquirer network.READ Case Study
+-
+Permanent TSB
+Authentication for Multi-Channel Banking
+Read how Cryptomathic Authenticator provides a secure, cost efficient, scalable and future-proof platform for online users.READ Case Study
+-
+S2M
+Best of Breed Card Issuing Solution
+S2M chose Cryptomathic CardInk to provide the flexible and versatile EMV data preparation solution to support constantly changing client needs.READ Case Study
+-
+Elan Financial Services
+EMV Migration & Automated Key Management
+select
+-
+UBS
+Qualified Electronic Signatures
+select
+-
+Swedbank
+Centralized Key Management for a Major Acquirer
+select
+-
+Barclays Bank
+Cryptography as a Service
+select
+-
+Crédit Agricole
+Multi-Application EMV Cards
+select
+-
+LuxTrust
+Central Signing Service
+select
+-
+MasterCard
+Centralized Key Management
+select
+-
+Permanent TSB
+Authentication for Multi-Channel Banking
+select
+-
+S2M
+Best of Breed Card Issuing Solution
+select

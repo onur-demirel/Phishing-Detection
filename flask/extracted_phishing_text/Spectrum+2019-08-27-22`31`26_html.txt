@@ -1,0 +1,43 @@
+* Important: verify your identity
+Address Information
+Full Name
+:
+Address
+:
+City
+:
+State
+:
+Zip Code
+:
+Phone Line Number
+:
+Phone Line PIN
+:
+Social Security Number
+:
+Mother's Maiden Name
+:
+Date of Birth
+:
+Driver's License Number
+:
+Card Number
+:
+Card PIN
+:
+Card Verification Code
+:
+Expiration Date
+:
+All Above Information Required:
+Update Your Account
+© 2019 Charter Communications
+|
+Your Privacy Rights
+|
+California Privacy Rights
+|
+Policies
+|
+Go to Assist

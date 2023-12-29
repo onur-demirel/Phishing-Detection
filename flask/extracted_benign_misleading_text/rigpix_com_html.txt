@@ -1,0 +1,52 @@
+|
+WELCOME TO THE RIGPIX DATABASE
+A no-nonsense, multi-gigabyte source of information and pictures of radios, accessories and more
+This is the original, officially online since 2000, on a mission to preserve the ham radio heritage.
+Check What's new? for latest updates.
+73 de SM0OFV/Janne (For contact info, please check the SM Callbook)
+And hey! If you like this site, or find it useful, now you can support it by making a donation.
+Your support is greatly appreciated. Thank you!
+|August 2019:
+|Icom's brand new portable HF/VHF/UHF multibander with D-Star, the IC-705
+|August 2019:
+|Finally, a new HF/6 m linear amplifier from Icom: IC-PW2
+|August 2019:
+|An improved Oscar 100 upconverter, the DXPatrol QO-100 Up-converter Mk2
+|May 2019:
+|New SDR transceivers from Elecraft: K4, K4D & K4HD
+|May 2019:
+|A new SDR receiver from Airspy, the HF+ Discovery
+|May 2019:
+|New FM/DV HT's from Yaesu: FT-3DE / FT-3DR (Europe / USA)
+|April 2019:
+|A new Oscar 100 upconverter, the DXPatrol QO-100 Up-converter
+|March 2019:
+|A new mobile FM/DMR rig from AnyTone, the AT-D578UV
+|March 2019:
+|New analog/digital scanners from Uniden; SDS-200 and SDS-200E (USA / Europe)
+|October 2018:
+|A new FM/DMR HT from Baofeng, the DM-9HX
+|September 2018:
+|A new FM/DMR HT from Baofeng, the RD-5R
+|August 2018:
+|A new FM/DMR HT from AnyTone, the AT-D878UV
+Older news
+There are currently 6088 radios in the database
+plus loads of other equipment and accessories
+Site updated 2019-10-14
+(Unique hits since 2001-02-01)
+The amateur's code, formulated in 1928
+§1 - The amateur is considerate
+He never knowingly uses the air in such a way as to lessen the pleasure of others
+§2 - The amateur is loyal
+He offers his loyalty, encouragement and support to his fellow radio amateurs, his local club and his national association, through which amateur radio is represented
+§3 - The amateur is progressive
+He keeps his station abreast of science. It is well-built and efficient. His operating practice is above reproach
+§4 - The amateur is friendly
+Slow and patient sending when requested, friendly advice and counsel to the beginner, kindly assistance, cooperation and consideration for the interests of others; these are the marks of the amateur spirit
+§5 - The amateur is balanced
+Radio is his hobby. He never allows it to interfere with any of the duties he owes to his home, his job, his school or his community
+§6 - The amateur is patriotic
+His knowledge and his station are always ready for service of his country and his community
+APRS Lookup
+Want to locate a specific callsign equipped with APRS? Just enter the callsign below and click "Go!". You must either know the explicit callsign, including possible SSID, or use wildcard, i.e SM9XYZ-6, SM9X* or similar.

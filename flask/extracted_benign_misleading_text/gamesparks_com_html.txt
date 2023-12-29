@@ -1,0 +1,10 @@
+Friends, leaderboards, chat, and the full range of multiplayer options, including highly performant Realtime. Teams, tournaments, lobbies and matchmaking all included.
+Currencies, virtual goods, trading and achievement systems. With catalogue management, IAP and fraud detection.
+Design custom control panels for each role within your team, with any combination of information and controls.
+All features are fully customisable. Plus access to a fully featured PaaS layer allowing creation of custom API and server logic, plus database-as-a-service and more.
+Dynamically scalable cloud-based capacity from all the major providers combined with high quality infrastructure management. Design your solution for dedicated clusters, region deployment and premium SLA.
+Full, customisable access to player history and summaries, and flexible communication to those players via multiple channels.
+Create custom segments and assign players automatically to them with rules. Sophisticated analytics, including A/B testing, delivers tracking of segment performance.
+Operate specific engagement strategies for each segment, with a suite of messaging, promotions and campaign tools.
+Adapt the play experience for each segment, with control of any parameter that is made server-authoritative.
+Create full backoffice solutions to operate live events and weekend/seasonal promotions.

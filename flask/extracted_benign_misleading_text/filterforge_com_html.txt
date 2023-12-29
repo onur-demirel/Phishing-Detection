@@ -1,0 +1,31 @@
+High-end graphic software that allows you to apply thousands of photo effects, generate textures, and produce render maps.
+The next Filter Forge version, 9.0, is under active development and is planned for release by the end of 2019. You can install the beta version and check it over yourself! It features support for PBR textures compatible with Unity3D, Unreal, and other 3D engines, a new component for filter authors, and other cool improvements.
+Learn more about the upcoming Filter Forge 9 and install the beta on the beta page.
+Buy Filter Forge 8 today and receive a free upgrade to Filter Forge 9 upon release that is due by the end of the year.
+Check the pricing
+Want to learn more? Check out our video tutorials
+A visual node-based editor lets you create visual effects and procedural textures.
+A free online repository of filters submitted by Filter Forge users. Contributors can earn a free copy of Filter Forge.
+Most filters in Filter Forge support seamless tiling, even for non-square textures.
+Filter Forge can generate diffuse, bump, specular and normal maps – all are anti-aliased and most are seamlessly tiled.
+As all filters are generated procedurally, any filter can be rendered in any resolution without losing a detail.
+This filter requires Filter Forge 7.0
+This filter requires Filter Forge 3.0
+This filter requires Filter Forge 2.0
+This filter requires Filter Forge 2.0
+This filter requires Filter Forge 3.0
+This filter requires Filter Forge 3.0
+This filter requires Filter Forge 4.0
+This filter requires Filter Forge 2.0
+This filter requires Filter Forge 2.0
+We are excited to offer cooperation to computer artists, graphic software authors, bloggers, online store owners and all Filter Forge lovers. We are open to all forms of partnership.
+Processed by Element5 AG
+The Filter Forge Watercolor filter is so realistic that it's scary. It is soooooooo GREAT! Trust me, you definitely need to check this out.
+Russell Brown
+Senior Creative Director
+Adobe Inc.
+www.russellbrown.com
+“Chief among my pleasures is Filter Forge, which I've been ranting (positively) and raving (voraciously) about ever since it entered my life.”
+Torley
+Resident Enlightenment Manager Linden Lab, makers of virtual world Second Life
+www.torley.com

@@ -1,0 +1,2 @@
+I'm Gary Bernhardt. You know me from Wat and, with luck, from Boundaries or The Birth & Death of JavaScript.
+These screencasts are the ones that I wish I'd had for myself: dense, brief, concrete demonstrations of topics that we usually only talk about in the abstract.

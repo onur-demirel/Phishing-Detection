@@ -1,0 +1,7 @@
+Enter email:
+Enter email:
+Invalid format.
+Enter password:
+Enter password:
+Forgot your password?
+Forgot your email address?

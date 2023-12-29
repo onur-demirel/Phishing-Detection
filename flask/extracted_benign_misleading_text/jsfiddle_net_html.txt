@@ -1,0 +1,48 @@
+Replaced CSS linter with Stylelint which supports all modern syntax. JSHint also got a big update lately, now supports async/await syntax!
+Apply local draft version or discard it
+Dark theme
+Line numbers
+Wrap lines
+Indent with tabs
+Code hinting (autocomplete) (beta)
+Auto-run code
+Only auto-run code that validates
+Auto-save code (bumps the version)
+Auto-close HTML tags
+Auto-close brackets
+Clear console on run
+Live code validation
+Highlight matching tags
+Show boilerplates bar less often
+Save anonymous (public) fiddle?
+- Be sure not to include personal data
+- Do not include copyrighted material
+Log in if you'd like to delete this fiddle in the future.
+Fork anonymous (public) fiddle?
+No autoresizing to fit the code
+Render blocking of the parent page
+Add title to make the fiddle visible on your profile page
+/echo simulates Async calls:
+JSON: /echo/json/
+JSONP: //jsfiddle.net/echo/jsonp/
+HTML: /echo/html/
+XML: /echo/xml/
+/echo
+/echo/json/
+//jsfiddle.net/echo/jsonp/
+/echo/html/
+/echo/xml/
+See docs for more info.
+Created and maintained by Piotr and Oskar.
+Hosted on DigitalOcean
+All code belongs to the poster and no license is enforced. JSFiddle or its authors are not responsible or liable for any loss or damage of any kind during the usage of provided code.
+Links
+Bug tracker
+Roadmap (vote for features)
+About
+Docs
+Service status
+Help keep us running.
+If you don't mind tech-related ads (no tracking or remarketing), and want to keep us running, whitelist JSFiddle in your blocker.
+Thank you! ✌🏻🐞❤️
+Normalized CSS

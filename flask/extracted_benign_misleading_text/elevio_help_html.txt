@@ -1,0 +1,16 @@
+The Elevio Assistant and Hotspots intelligently deliver instant contextual support, right within your product.
+No more sending users off-site, waiting for support staff, or getting nowhere with chatbots.
+Just the right help, for the right person, at the right timeMore on the Assistant
+Positioned anywhere on your page, Hotspots provide instant prompts to inline help.
+Set them up to disappear after use, or have them stay permanently, it's up to you.
+No developers required 🎉More on Hotspots
+We also intelligently surface relevant content right before your customers submit support tickets, to instantly resolve issues and actively deflect 20% of customer tickets on average.
+Dive into reports and see how your users are engaging with your in-app help.
+Advisor uses Machine Learning to help you to continuously improve your docs based on engagement and feedback.
+Knowledge Centered Service has never been easier.More on KCS
+Grace Brunina - Community Manager
+"When you look at our metrics, you can tell the exact day that Elevio went live, because article views start trending upwards and contacts to support trend downwards"
+Dan Duett - UX Generalist
+"Elevio gives our customers one place to get whatever help they need. It gives us a single point of integration for all our services, helping us focus on improving content and service as we grow."
+Doug McDaniel - Sr. Customer Enablement Manager
+"Elevio has changed the way we think about our customer's in-app experience. It allows us to create documentation, capture suggestions, link out to help videos, and provide in-app chat seamlessly. Elevio is the foundation of our customer adoption experience, and I can't imagine what we'd be doing without it"

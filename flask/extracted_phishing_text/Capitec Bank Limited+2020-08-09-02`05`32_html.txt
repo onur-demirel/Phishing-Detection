@@ -1,0 +1,8 @@
+Remote Banking
+Security Basics
+- We will NEVER ask you for your Remote PIN, password
+or token passwords by email, SMS or telephone
+- ALWAYS keep your username, Remote PIN, password
+or token passwords secret
+- NEVER use a link or an attachment in any message to access Remote Banking
+- ALWAYS check that the website address bar and certificate both match capitecbank.co.za

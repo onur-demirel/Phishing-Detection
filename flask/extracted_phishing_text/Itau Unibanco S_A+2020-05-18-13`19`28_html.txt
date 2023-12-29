@@ -1,0 +1,7 @@
+Olá, confirme seus dados para validação.
+Digite sua senha do cartão:
+esqueceu sua senha?
+senha do cartão:
+usada para acessar o caixa eletrônico
+senha eletrônica:
+usada para acessar a internet

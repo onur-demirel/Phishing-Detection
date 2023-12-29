@@ -1,0 +1,5 @@
+Evepraisal is a tool for quickly getting bulk estimates of items from Eve Online.
+Find something in Eve Online that you want to price check like a contract, cargo scan result, etc. Press CTRL + A, CTRL + C, then click on the lovely box to the left or above this and press CTRL + V. Submit and you should see a price breakdown of all the items.
+At first, this started as a simple cargo scan estimator but over time more formats have been added to the parser so you can use it as a more general price checker. Currently the following formats are supported:
+All Eve Related Materials are property of CCP Games. See Legal Notice.
+Source on github | Report an Issue | Status

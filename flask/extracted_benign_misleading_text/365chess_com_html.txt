@@ -1,0 +1,37 @@
+Search in more than 4,000,000 chess games
+Features - Consider becoming a supporter today!
+Open Features
+- Chess Opening Explorer
+From the initial position, you can browse move by move, our entire chess games database
+- Search Chess Games
+Searching in our Chess Games Database it's really easy! Select your search criteria like: player's name, ECO code or result, and you will get the resultant chess games in a second!
+- Search a position
+Are you playing a position and wonder if it has been played before? The answer is at your fingertips! Use our Search Position tool and find it out in a second!
+- Bookmark games
+With this tool you can order your chess games, search results and opening browser position
+- ECO Codes Listing
+The most comprehensive Encyclopaedia of Chess Openings (ECO) listing online. See how each Opening is played in our Database, get stats and improve your chess!
+- Analysis Board
+Reproduce and analyze your games or the game you want. You can import your game in pgn notation or set up a position from a FEN.
+- Chess Puzzles
+If you really want to improve your chess skills you should practice. And the funniest way of practicing is solving puzzles! Regular training sessions will boost your chess playing level.
+- Play games against the computer
+Play online chess games against a top chess engine computer. You can challenge Stockfish choosing different levels of strength.
+Exclusive tools for Supporters
+- Download games as PGN
+Our supporters will have the possibility to download games from our database as PGN.
+- Create your own Database
+You can make your own chess games database and you can have the same tools we have developed for our own database. Analyzing your games with the Opening Explorer will boost your play learning how you perform on each line played!
+- Player's Opening Explorer
+Do you want to know how does Carlsen play with white pieces? or which moves does Anand choose against 1.e4? With the Player's Opening Explorer, now 365Chess.com has the answers to these questions!
+- Search & Browse the Masters Database
+Now you'll be able to search and browse a database of games played by the Masters! In our Big Database you'll find more of 3.5 million interesting games played by all kind of players. But if you want only the games featuring world's best players, the Masters Database is for you. Start learning from the Masters right now!
+- Unlimited Chess Puzzles
+Supporters get unlimited access to the problems in the database. Train your tactical ability, exercise your calculating skills and candidate moves evaluation.
+- Save computer played games
+As a supporter you will have the possibility to save your played games to analyze and download them.
+365Chess Updates
+Skolkovo Women's FIDE Grand Prix 2019 - Round 1
+Sep 11, 2019 by 365Chess
+Ding Liren wins Sinquefield Cup 2019 in tiebreak
+Aug 30, 2019 by 365Chess

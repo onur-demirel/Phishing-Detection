@@ -1,0 +1,236 @@
+|DAX
+|12.896,00
+|+0,19 %
+|Dow Jones
+|26.954,00
+|+0,57 %
+|EUR/USD
+|1,1080
+|-0,23 %
+|Gold
+|1.504,70
+|+0,06 %
+|TecDAX
+|2.814,46
+|-0,75 %
+|US Tech 100
+|8.028,00
+|+0,80 %
+|Bitcoin
+|9.226,37
+|+23,49 %
+|Öl (Brent)
+|61,97
+|+0,65 %
+|DAX
+|+0,17 %
+|EUR/USD
+|-0,23 %
+|Gold
+|-0,01 %
+|Öl (Brent)
+|+0,65 %
+|Platz
+|vorher
+|Wertpapier
+|Kurs
+|Perf. %
+|Anzahl
+|1.
+2.
+|114,50
+|-0,99
+|170
+|2.
+11.
+|5,284
+|-3,44
+|40
+|3.
+15.
+|198,04
+|+0,44
+|38
+|4.
+35.
+|1,280
+|-3,76
+|33
+|5.
+7.
+|3,824
+|-3,19
+|30
+|6.
+5.
+|19,965
+|+0,53
+|30
+|7.
+19.
+|19,950
+|+5,17
+|26
+|8.
+38.
+|1,266
+|+1,28
+|19
+|9.
+Neu!
+|2,010
+|+0,90
+|19
+|10.
+40.
+|1,995
+|-0,75
+|16
+|11.
+Neu!
+|1,189
+|0,00
+|14
+|12.
+14.
+|4,742
+|+2,07
+|14
+|13.
+Neu!
+|28,93
+|-19,71
+|13
+|14.
+Neu!
+|23,600
+|+0,85
+|11
+|15.
+46.
+|6,904
+|+1,83
+|11
+|Mitglieder
+|Beschreibung
+|Perf 1M
+|Frei nach Martingale
+|+143,76 %
+|Trading - Baerenstark
+|+39,69 %
+|Bonus-Zertifikat-Werte
+|+30,04 %
+|DRF-Hebelprod. dt. Aktien/Ind.
+|+24,22 %
+|RPE's Investment Chance 2016
+|+19,23 %
+|Newstrading
+|+19,21 %
+|Purple Trader
+|+17,80 %
+|Bitcoin & Blockchain Investments
+|+16,91 %
+|DRF-Hebelprod. int. Aktien/Ind.
+|+16,53 %
+|Globale Chancen a la Digga80
+|+15,80 %
+|Zeit
+|Land
+|Termin
+|28.10.
+|USA
+|
+Akt. - | Progn. -0,37 | Vorherig 0,1
+|28.10.
+|EUR
+|
+Akt. - | Progn. - | Vorherig -
+|28.10.
+|GBR
+|
+Akt. - | Progn. - | Vorherig -
+|29.10.
+|JPN
+|
+Akt. - | Progn. 0,7% | Vorherig 0,5%
+|29.10.
+|JPN
+|
+Akt. - | Progn. 0,5% | Vorherig 0,6%
+|29.10.
+|JPN
+|
+Akt. - | Progn. 0,5% | Vorherig 0,4%
+|Titel
+|Kursexplosion am Montag? Diese News ist mehr als nur die Kirsche auf der Schlagsahne der Schokotorte
+|Zeit
+|Titel
+|19:28 Uhr
+|Robby's Elliottwellen
+|16:29 Uhr
+|Roland Klaus
+|10:00 Uhr
+|Bernd Niquet
+|25.10.19
+|Jens Klatt
+|25.10.19
+|Friedrich & Weik
+|25.10.19
+|Commerzbank
+|25.10.19
+|Martin Siegel
+|25.10.19
+|Christian-Hendrik Knappe
+|25.10.19
+|Achim Mautz
+|25.10.19
+|Markus Fugmann
+|Wertpapier
+|Kurs
+|Perf. %
+|1,1080
+|-0,23
+|1,1020
+|+0,02
+|0,8638
+|0,00
+|8,6838
+|0,00
+|120,4000
+|0,00
+|HypoVereinsbank
+|Zertifikate »
+Optionsscheine »
+Knock-Outs »
+|Vontobel
+|Zertifikate »
+Optionsscheine »
+Knock-Outs »
+|TTMzero
+|
+|Citigroup
+|Zertifikate »
+Optionsscheine »
+Knock-Outs »
+|Deutsche Bank
+|Zertifikate »
+Optionsscheine »
+Knock-Outs »
+|Société Générale
+|Zertifikate »
+Optionsscheine »
+Knock-Outs »
+|Commerzbank
+|Zertifikate »
+Optionsscheine »
+Knock-Outs »
+|DekaBank
+|Zertifikate »
+|Morgan Stanley
+|Zertifikate »
+Optionsscheine »
+Knock-Outs »
+|Lang&Schwarz
+|Zertifikate »
+Optionsscheine »
+Knock-Outs »

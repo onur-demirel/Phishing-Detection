@@ -1,0 +1,37 @@
+Hello bfgomez3!
+This account is currently using a Steam Guard Mobile Authenticator.
+Whoops!
+Sorry but,
+that isn't quite right...
+Let us help!
+Sorry you're having trouble. We know your Steam account is valuable to you, and we're committed to helping you keep access to it in the right hands.
+Confirm ownership of your account
+We'll send a text message containing an account recovery code to your phone number ending in . Once you enter the code, we will remove the mobile authenticator from your account and you will receive Steam Guard codes via email.
+Confirm ownership of your account
+We have sent a text message containing a confirmation code to your phone number ending in . Enter the code below so we can remove the mobile authenticator from your account.
+Whoops!
+Sorry but,
+that isn't quite right...
+Success!
+We have removed the mobile authenticator from your account. Next time you log in, you will have to enter a Steam Guard code that is sent to your email address.
+Success!
+You can now use this device to get mobile authenticator codes for your account. Any other device that was previously providing authenticator codes for your account will no longer be able to do so.
+Do you have the recovery code?
+You do not have a phone number associated with your Steam account, so we are unable to verify account ownership via a text message. Do you have the recovery code that you wrote down when you added the mobile authenticator? The recovery code begins with the letter 'R'.
+Enter your recovery code
+Please enter the recovery code in the box below. The recovery code begins with the letter 'R'.
+Whoops!
+Sorry but,
+that isn't quite right...
+Whoops!
+Sorry but,
+that isn't quite right...
+Whoops!
+Sorry but,
+that isn't quite right...
+Let us help!
+If you have lost access to your mobile device, the mobile phone number associated with your account, and don't have the recovery code that you wrote down when you added the mobile authenticator, then please contact Steam Support for assistance recovering access to your account.
+Let us help!
+Sorry you're having trouble. We know your Steam account is valuable to you, and we're committed to helping you keep access to it in the right hands.
+Sorry!
+There was an error encountered while processing your request.

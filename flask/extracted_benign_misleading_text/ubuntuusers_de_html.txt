@@ -1,0 +1,11 @@
+Hier findest Du freundliche Hilfe zu Ubuntu. Im Forum beantworten Dir hilfsbereite Benutzer gerne Deine Fragen (siehe unsere Regeln und die Kurzanleitung). Neben dem Wiki mit einem Einsteigerbereich gibt es Ikhaya (Nachrichten) und einen Planeten (Blogsammlung der Ubuntu-Gemeinschaft). Viel Spaß! ☺
+Version 19.10 „Eoan Ermine“ kommt mit einer neuen GNOME Version, neuer Software und mit experimentellem ZFS.
+Was tat sich hinter den Kulissen des Portals? Was gibt es Wissenswertes? Wer ist neu im Team oder verließ es? Was gibt es Neues im Wiki? Das alles und noch viel mehr in der monatlichen Übersicht „Neues aus dem Team“.
+Seit kurzem ist „getestet: eoan“ in Wiki-Artikeln zulässig und wird in der getestet-Box entsprechend angezeigt.
+Am 19. Oktober findet in Dornbirn, Österreich der diesjährige LinuxDay statt. Veranstaltungsort ist wie üblich die Höhere Technische Bundeslehr- und Versuchsanstalt (HTL) Dornbirn. Organisiert wird das Event alljährlich im Herbst von der Linux User Group Vorarlberg, der Eintritt ist frei.
+Auf dem UBports Dekko Hackathon bei Brainlab in München ergab sich die Gelegenheit für ein Interview mit dem Entwickler krille. Er sprach mit jonius über FluffyChat, Matrix und Ubuntu Touch.
+Was tat sich hinter den Kulissen des Portals? Was gibt es Wissenswertes? Wer ist neu im Team oder verließ es? Was gibt es Neues im Wiki? Das alles und noch viel mehr in der monatlichen Übersicht „Neues aus dem Team“.
+Am Donnerstag, den 22. August, wird ubuntuusers.de um 20:30 für einige Minuten nicht erreichbar sein. Grund hierfür ist eine Aktualisierung der Portalsoftware Inyoka.
+Schon zum 17. Mal werden in Kiel die Linuxtage veranstaltet. In diesem Jahr sind wieder viele Programm-Highlights im September in Kiel zu sehen.
+Die Ubuntu-Entwickler haben Version 18.04.3 LTS, das dritte Pointrelease von Ubuntu 18.04 LTS namens „Bionic Beaver“, veröffentlicht.
+Was tat sich hinter den Kulissen des Portals? Was gibt es Wissenswertes? Wer ist neu im Team oder verließ es? Was gibt es Neues im Wiki? Das alles und noch viel mehr in der monatlichen Übersicht „Neues aus dem Team“.

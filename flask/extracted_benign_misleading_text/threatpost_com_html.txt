@@ -1,0 +1,75 @@
+No ‘Silver Bullet’ Fix for Alexa, Google Smart Speaker Hacks
+Karsten Nohl, who was behind this week’s research that outlined new eavesdropping hacks for Alexa and Google Home, says that privacy for smart home assistants still has a ways to go.
+Newsletter
+Join thousands of people who receive the latest breaking cybersecurity news every day.
+The administrator of your personal data will be Threatpost, Inc., 500 Unicorn Park, Woburn, MA 01801. Detailed information on the processing of personal data can be found in the privacy policy. In addition, you will find them in the message confirming the subscription to the newsletter.
+Karsten Nohl, who was behind this week’s research that outlined new eavesdropping hacks for Alexa and Google Home, says that privacy for smart home assistants still has a ways to go.
+A report by HP found that most people admit to looking at others’ computer screens and documents in the workplace while still keeping their own privacy top of mind.
+Multiple critical memory safety bugs in Firefox 69 and Firefox ESR 68.1 in particular affect medium and large government entities and enterprises.
+Two high-severity vulnerabilities in a Fujitsu wireless keyboard expose passwords and allow keystroke injection attacks.
+Get the latest breaking news delivered daily to your inbox.
+An unsecured NFC tag opens a door to trivial exploitation of robots inside Japanese hotels.
+With DoubleClick, Analytics and AdWords under its belt, Google continues dominating when it comes to global data collection for advertising, a new report found.
+A fresh look at the penetration testing tool Metasploit reveals the 15-year old hacking tool still has some tricks up its sleeves, even against modern defenses.
+The FTC has banned the sale of three apps – marketed to monitor children and employees – unless the developers can prove that the apps will be used for legitimate purposes.
+The Qode Instagram Widget and Qode Twitter Feed both have bugs that could allow redirects to malicious sites.
+Marc Rogers discusses the logistics behind a recently-proposed anonymous bug submission program, meant to encourage ethical hackers to submit high-level bugs anonymously.
+Threatpost editors Tara Seals and Lindsey O’Donnell talk about the top news stories of the week – from leaky databases to SIM card attacks.
+Karsten Nohl, who was behind this week’s research that outlined new eavesdropping hacks for Alexa and Google Home, says that privacy for smart home assistants still has a ways to go.
+At what point will infiltrating companies via the “insider threat model” become less costly and difficult than using malware? Threatpost discusses with a SolarWinds expert.
+Threatpost talks to Digital Guardian’s Tim Bandos about the top insider threats that enterprises are facing today.
+In this sponsored podcast, Threatpost talks to Spycloud’s Chip Witt about the account takeover risks posed by third parties.
+Cybergang Silent Starling is taking BEC to the next level by targeting suppliers and going after their customers.
+The malware landscape continues to evolve with the re-emergence of the GandCrab operators and a continued spearphishing attack spreading the LookBack RAT.
+Threatpost editors discuss the return of Emotet, a new lawsuit against Edward Snowden and more.
+Marc Rogers discusses the logistics behind a recently-proposed anonymous bug submission program, meant to encourage ethical hackers to submit high-level bugs anonymously.
+Threatpost editors Tara Seals and Lindsey O’Donnell talk about the top news stories of the week – from leaky databases to SIM card attacks.
+Karsten Nohl, who was behind this week’s research that outlined new eavesdropping hacks for Alexa and Google Home, says that privacy for smart home assistants still has a ways to go.
+At what point will infiltrating companies via the “insider threat model” become less costly and difficult than using malware? Threatpost discusses with a SolarWinds expert.
+Threatpost talks to Digital Guardian’s Tim Bandos about the top insider threats that enterprises are facing today.
+In this sponsored podcast, Threatpost talks to Spycloud’s Chip Witt about the account takeover risks posed by third parties.
+Cybergang Silent Starling is taking BEC to the next level by targeting suppliers and going after their customers.
+The malware landscape continues to evolve with the re-emergence of the GandCrab operators and a continued spearphishing attack spreading the LookBack RAT.
+Threatpost editors discuss the return of Emotet, a new lawsuit against Edward Snowden and more.
+Marc Rogers discusses the logistics behind a recently-proposed anonymous bug submission program, meant to encourage ethical hackers to submit high-level bugs anonymously.
+Threatpost editors Tara Seals and Lindsey O’Donnell talk about the top news stories of the week – from leaky databases to SIM card attacks.
+Increasingly, attackers are targeting the most vulnerable people inside companies and exploiting their weaknesses.
+In this video, Josh Zelonis, senior analyst at Forrester Research, discusses the next great security threats to enterprises.
+A detailed look at underground forums shows that cybercriminals aren’t sure where to look on the heels of the GandCrab ransomware group shutting its doors – and low-level actors are taking advantage of that by developing their own strains.
+From insecure voting machines to social media misinformation, governments have alot to think about when it comes to securing elections.
+A kid’s tablet with security vulnerabilities is only the latest privacy faux pas in a children’s connected device.
+Enjoy the video replay of the recent Threatpost cloud security webinar, featuring a panel of experts offering best practices and ideas for managing data in a cloudified world.
+A video interview and Q&A with IoT specialist Dan Demeter of Kaspersky Lab.
+A Q&A with Kaspersky Lab researcher David Jacoby examines a gaping hole in the telco customer-service process that allows adversaries to commandeer phone calls.
+Experts from Gartner, Lookout and Google talk enterprise mobile security in this webinar replay.
+Increasingly, attackers are targeting the most vulnerable people inside companies and exploiting their weaknesses.
+In this video, Josh Zelonis, senior analyst at Forrester Research, discusses the next great security threats to enterprises.
+A detailed look at underground forums shows that cybercriminals aren’t sure where to look on the heels of the GandCrab ransomware group shutting its doors – and low-level actors are taking advantage of that by developing their own strains.
+From insecure voting machines to social media misinformation, governments have alot to think about when it comes to securing elections.
+A kid’s tablet with security vulnerabilities is only the latest privacy faux pas in a children’s connected device.
+Enjoy the video replay of the recent Threatpost cloud security webinar, featuring a panel of experts offering best practices and ideas for managing data in a cloudified world.
+A video interview and Q&A with IoT specialist Dan Demeter of Kaspersky Lab.
+A Q&A with Kaspersky Lab researcher David Jacoby examines a gaping hole in the telco customer-service process that allows adversaries to commandeer phone calls.
+Experts from Gartner, Lookout and Google talk enterprise mobile security in this webinar replay.
+Increasingly, attackers are targeting the most vulnerable people inside companies and exploiting their weaknesses.
+In this video, Josh Zelonis, senior analyst at Forrester Research, discusses the next great security threats to enterprises.
+Ryan McGeehan, the director of incident response at Facebook and Chad Greene, the manager of the Facebook CERT on Thursday both explained how the social network has planned red team exercises in the past to prepare the company’s security team for a real attack.
+Mobile security researcher Stefan Esser discussed the security model of Apple iOS and some of the recent changes the company has made to lock it down even further.
+The top cybersecurity and privacy trends that biggest impact in 2018.
+What are the top cyber trends to watch out for in 2019? Here’s what we’re hearing.
+This year’s Virus Bulletin conference featured top-tier research from some of the world’s best threat intelligence experts.
+Scenes from this year’s hacking conference in Las Vegas, Nev. include a keynote by General Keith B. Alexander, Director of the National Security Agency and talks by researchers Karsten Nohl and Ralf-Phillip Weinmann.
+Pwn2Own, Pwnium Attract Dollars and 0-Days by the BushelGroundbreaking Cyber Fast Track Research Program EndingAt Pwn2Own, Browser Exploits Gett
+Ryan McGeehan, the director of incident response at Facebook and Chad Greene, the manager of the Facebook CERT on Thursday both explained how the social network has planned red team exercises in the past to prepare the company’s security team for a real attack.
+Mobile security researcher Stefan Esser discussed the security model of Apple iOS and some of the recent changes the company has made to lock it down even further.
+The top cybersecurity and privacy trends that biggest impact in 2018.
+What are the top cyber trends to watch out for in 2019? Here’s what we’re hearing.
+This year’s Virus Bulletin conference featured top-tier research from some of the world’s best threat intelligence experts.
+Scenes from this year’s hacking conference in Las Vegas, Nev. include a keynote by General Keith B. Alexander, Director of the National Security Agency and talks by researchers Karsten Nohl and Ralf-Phillip Weinmann.
+Pwn2Own, Pwnium Attract Dollars and 0-Days by the BushelGroundbreaking Cyber Fast Track Research Program EndingAt Pwn2Own, Browser Exploits Gett
+Ryan McGeehan, the director of incident response at Facebook and Chad Greene, the manager of the Facebook CERT on Thursday both explained how the social network has planned red team exercises in the past to prepare the company’s security team for a real attack.
+Mobile security researcher Stefan Esser discussed the security model of Apple iOS and some of the recent changes the company has made to lock it down even further.
+Get the latest breaking news delivered daily to your inbox.
+Infosec Insider content is written by a trusted community of Threatpost cybersecurity subject matter experts. Each contribution has a goal of bringing a unique voice to important cybersecurity topics. Content strives to be of the highest quality, objective and non-commercial.
+Sponsored Content is paid for by an advertiser. Sponsored content is written and edited by members of our sponsor community. This content creates an opportunity for a sponsor to provide insight and commentary from their point-of-view directly to the Threatpost audience. The Threatpost editorial team does not participate in the writing or editing of Sponsored Content.
+ACCEPT AND CLOSE

@@ -1,0 +1,17 @@
+GCC for Windows 64 & 32 bits
+Mingw-w64 is an advancement of the original mingw.org project, created to support the GCC compiler on Windows systems. It has forked it in 2007 in order to provide support for 64 bits and new APIs. It has since then gained widespread use and distribution.
+The development and community are very active and welcoming with new contributors every month and simple installers.
+v6.0.0: 2018-09-17
+Notable changes:
+You can also look at the full list of versions.
+Mingw-w64 interacts a lot with other projects in order to help everyone move forward. Contributions have been going to and coming from these projects:
+include/winsock2.h: add some flags
+include/winsock2.h: Add missing IPPROTO_* defines
+include: Add missing enum defines for IO_REPARSE_TAG_*
+I was using version 8.1.0, and was unaware version 9 aven existed. I installed Mingw as a standalone. I'll try installing with msys2. Thanks a lot.
+This is fixed in version 9.x. Unfortunately, there is no mingw-w64 build for version 9.x here. As Chris suggested, msys2 includes it. But it would be very convenient to have it also here as usual.
+This is no longer a bug. Where are you installing mingw from? Use msys2.
+include/cfgmgr32.h: add CM_Get_DevNode_PropertyW
+include/devpkey.h: add device property keys
+include/{cfgmgr32,devpkey}.h: Add a missing `#include <devpropdef.h>`
+We are having the same issue here. Looking forward to see these patches included in a MinGW update.

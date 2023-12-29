@@ -1,0 +1,88 @@
+|Ciudad
+|Fecha
+|Plazas
+|Acción
+Ciudad
+Fecha
+Plazas
+Acción
+|Madrid
+|25, 26 y 27 de Octubre
+|Quedan 2 plazas!
+|Reservar Plaza
+|Granada
+|8, 9 y 10 de Noviembre
+|Quedan 2 plazas!
+|Reservar Plaza
+|Miami
+|22, 23 y 24 de Noviembre
+|Hay Plazas
+|Reservar Plaza
+|Guadalajara (México)
+|9 y 10 de Diciembre
+|Hay Plazas
+|Reservar Plaza
+|Barcelona
+|7, 8 y 9 de Febrero 2020
+|Hay Plazas
+|Reservar Plaza
+|Ciudad
+|Fecha
+|Plazas
+|Inscripción
+|Madrid
+|25, 26 y 27 de Octubre
+|Queda solo una plaza!
+|Más información
+|Granada
+|8, 9 y 10 de Noviembre
+|NO QUEDAN PLAZAS
+|Reservar Plaza
+|Miami
+|22, 23 y 24 de Noviembre
+|Hay Plazas
+|Reservar Plaza
+|Guadalajara (México)
+|10 y 11 de Diciembre 2019
+|Hay Plazas
+|Más Información
+|Barcelona
+|7, 8 y 9 de Febrero 2020
+|Hay Plazas
+|Más Información
+|Ciudad
+|Fecha
+|Plazas
+|Inscripción
+|Barcelona
+|19 y 20 de Octubre
+|Hay Plazas
+|Reservar Plaza
+|Granada
+|14 y 15 de Diciembre
+|Hay Plazas
+|Reservar Plaza
+|Ciudad
+|Fecha
+|Plazas
+|Inscripción
+|Granada
+|30 Noviembre y 1 de Diciembre
+|Hay plazas
+|Reservar Plaza
+|Madrid
+|22 y 23 de Febrero de 2020
+|Hay plazas
+|Reservar Plaza
+|Ciudad
+|Fecha
+|Plazas
+|Inscripción
+|Granada
+|29 y 30 de Noviembre
+|Hay Plazas
+|Reservar Plaza
+|Madrid
+|21 y 22 de Febrero de 2020
+|Hay Plazas
+|Reservar Plaza

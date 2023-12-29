@@ -1,0 +1,41 @@
+-
+Game Services
+A suite of tools that complement your existing backend infrastructure
+Player management, inventory, tournaments, commerce, and moreDetails
+-
+LiveOps
+Improve your game and take bold actions without waiting on engineering
+Real-time analytics, A/B testing, in-game events, in-game promotions, and moreDetails
+-
+Analytics
+Measure your success over time, track in real-time, and build custom reports
+Dashboards, export custom reports, export data events, moreDetails
+Full Stack LiveOps, Real-time Control
+PlayFab is a complete backend platform for live games.
+Without an effective LiveOps strategy, you're leaving money on the table.
+-
+-
+Listen to The Art of LiveOps podcast
+A collection of interviews with game creators working at the cutting edge of LiveOps.
+- LISTEN NOW
+Trusted Worldwide
+PlayFab powers over 2,500 games with 1 billion player accounts created.
+What is LiveOps? Get the PlayFab Definitive Guide
+An effective LiveOps strategy can make the difference between success and failure for a modern game. At PlayFab, we believe that LiveOps techniques are the single most important reason why great games connect with players over the long haul.
+To help you build your strategy, we've written our Definitive Guide to LiveOps, filled with everything we've learned over four years of helping developers build and operate their games.
+Platforms & Engines
+Games operated with PlayFab
+Gaming studio learns what players want and delivers quickly with the cloud.READ CASE STUDY All Games
+Games operated with PlayFab
+Multiplayer servers help Ubisoft bring world-class gaming experiences to 30 million players.READ CASE STUDY All Games
+Games operated with PlayFab
+Sea of Thieves is using multiplayer servers to bring more exciting experiences to their immersive world.WATCH CASE STUDY All Games
+PlayFab Developer Resources
+-
+Role-based guides
+Get to know PlayFab based on what you do
+-
+Quickstarts, SDKs, and more
+Jump right into PlayFab features and start developing now
+-
+All PlayFab documentation

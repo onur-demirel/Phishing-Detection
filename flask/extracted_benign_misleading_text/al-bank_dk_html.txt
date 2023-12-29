@@ -1,0 +1,292 @@
+Varsling af renteændring
+Fra 1. november 2019 sænker Arbejdernes Landsbank renten på udvalgte erhvervs- og foreningskonti. Fra 1. november 2019 sænker Arbejdernes Landsbank renten på udvalgte erhvervs- og foreningskonti.
+Websitet anvender første og tredjeparts cookies til at huske dine indstillinger, statistik og målrette annoncer for at give dig en bedre oplevelse. Du samtykker til vores cookies, ved at klikke OK.
+|Navn
+|Udbyder
+|Formål
+|Udløb
+|Type
+|__RequestVerificationToken
+|al-bank.dk
+|Hjælper til at forebygge Cross-Site Request Forgery (CSRF) angreb.
+|Session
+|HTTP
+|ASP.NET_SessionId
+|al-bank.dk
+|Bevarer brugertilstand på tværs af sideforespørgsler.
+|Session
+|HTTP
+|CookieConsent
+|al-bank.dk
+|Gemmer brugerens cookie-samtykke-tilstand for det aktuelle domæne.
+|1 år
+|HTTP
+|__gwtCookieCheck
+|applet.danid.dk
+|Anvendes til at tjekke om brugerens browser understøtter cookies.
+|Session
+|HTTP
+|JSESSIONID [x2]
+|applet.danid.dk
+netbank.al-bank.dk
+|Bevarer brugertilstand på tværs af sideforespørgsler.
+|Session
+|HTTP
+|__cfduid
+|totalkredit.dk
+|Anvendes af indholds-netværket Cloudflare til at identificere betroet webtrafik.
+|1 år
+|HTTP
+|ARRAffinity [x2]
+|totalkredit.dk
+ws.al-bank.dk
+|Anvendes til at fordele trafikken på hjemmesiden over flere servere for at optimere svartider.
+|Session
+|HTTP
+|TiPMix
+|totalkredit.dk
+|Indeholder information om hvilken server-cluster den besøgende benytter. Dette bruges i kontekst med load-balancing for at optimere brugeroplevelsen på hjemmesiden.
+|1 dag
+|HTTP
+|netbank-mode
+|al-bank.dk
+|Afventer
+|Session
+|HTTP
+|TrackingOK
+|al-bank.dk
+|Afventer
+|1 år
+|HTTP
+|BECSessionToken
+|netbank.al-bank.dk
+|Afventer
+|Session
+|HTTP
+|Navn
+|Udbyder
+|Formål
+|Udløb
+|Type
+|lang [x2]
+|ads.linkedin.com
+linkedin.com
+|Gemmer det sprog brugeren har valgt på en hjemmeside
+|Session
+|HTTP
+|Navn
+|Udbyder
+|Formål
+|Udløb
+|Type
+|bounce
+|adnxs.com
+|Registrerer hvis den besøgende forlader hjemmesiden straks. Dette bruges af hjemmesiden til intern statistik og bounce-rate analyse.
+|Session
+|Pixel
+|seg
+|adnxs.com
+|Registrerer data af statistisk karakter over flere besøgendes navigation på hjemmesiden - benyttes til intern analyse og statistik.
+|Session
+|Pixel
+|_dc_gtm_UA-#
+|al-bank.dk
+|Anvendes af Google Tag Manager til at styre indlæsningen af Google Analytics script.
+|1 dag
+|HTTP
+|_ga
+|al-bank.dk
+|Registrerer et unikt ID, der anvendes til at føre statistik over hvordan den besøgende bruger hjemmesiden.
+|2 år
+|HTTP
+|_gid
+|al-bank.dk
+|Registrerer et unikt ID, der anvendes til at føre statistik over hvordan den besøgende bruger hjemmesiden.
+|1 dag
+|HTTP
+|collect
+|google-analytics.com
+|Bruges til at sende data til Google Analytics om den besøgendes enhed og adfærd. Sporer den besøgende på tværs af enheder og marketingkanaler.
+|Session
+|Pixel
+|p.gif
+|typekit.net
+|Denne cookie benyttes internt på hjemmesiden for at analysere- og holde styr på hjemmesidens fonts. Indeholder ingen persondata.
+|Session
+|Pixel
+|Navn
+|Udbyder
+|Formål
+|Udløb
+|Type
+|anj
+|adnxs.com
+|Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg. ID'et anvendes til at målrette annoncer.
+|3 mdr.
+|HTTP
+|uuid2
+|adnxs.com
+|Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg. ID'et anvendes til at målrette annoncer.
+|3 mdr.
+|HTTP
+|_fbp
+|al-bank.dk
+|Anvendes af Facebook til at levere forskellige reklame-tjenester, herunder realtids-bud fra tredjeparts-annoncører.
+|3 mdr.
+|HTTP
+|_gcl_au
+|al-bank.dk
+|Benyttes af Google Adsense til at eksperimentere med effektiviteten af deres annoncer. Disse finder sted på alle hjemmesider der benytter Google Adsense.
+|3 mdr.
+|HTTP
+|IDE
+|doubleclick.net
+|Anvendes af Google DoubleClick til at registrere og rapportere om hjemmesidebrugerens handlinger efter at have set eller klikket på en af annoncørens annoncer. Formålet er at måle effekten af en annonce samt at målrette annoncer til brugeren.
+|1 år
+|HTTP
+|test_cookie
+|doubleclick.net
+|Anvendes til at tjekke om brugerens browser understøtter cookies.
+|1 dag
+|HTTP
+|fr
+|facebook.com
+|Anvendes af Facebook til at levere forskellige reklame-tjenester, herunder realtids-bud fra tredjeparts-annoncører.
+|3 mdr.
+|HTTP
+|tr
+|facebook.com
+|Anvendes af Facebook til at levere forskellige reklame-tjenester, herunder realtids-bud fra tredjeparts-annoncører.
+|Session
+|Pixel
+|ads/ga-audiences
+|google.com
+|Anvendes af Google AdWords til at gentage annoncer for besøgende, der sandsynligvis vil konvertere til kunder baseret på den besøgendes onlineadfærd på tværs af websteder.
+|Session
+|Pixel
+|rc::c
+|google.com
+|Cookien benyttes i forbindelse med hjemmesidens video-annoncer. Sørger for, at den besøgende ikke bliver vist den samme annonce flere gange end tiltænkt.
+|Session
+|HTML
+|bcookie
+|linkedin.com
+|Anvendes af den sociale netværkstjeneste LinkedIn til at spore brugen af indlejrede services.
+|2 år
+|HTTP
+|bscookie
+|linkedin.com
+|Anvendes af den sociale netværkstjeneste LinkedIn til at spore brugen af indlejrede services.
+|2 år
+|HTTP
+|lidc
+|linkedin.com
+|Anvendes af den sociale netværkstjeneste LinkedIn til at spore brugen af indlejrede services.
+|1 dag
+|HTTP
+|UserMatchHistory
+|linkedin.com
+|Indsamler data om den besøgendes præferencer på flere hjemmesider - benyttes til at optimere hjemmesidens annonce-relevans i forhold til den specifikke besøgende.
+|29 dage
+|HTTP
+|id
+|mookie1.com
+|Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg. ID'et anvendes til at målrette annoncer.
+|1 år
+|HTTP
+|mdata
+|mookie1.com
+|Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg. ID'et anvendes til at målrette annoncer.
+|1 år
+|HTTP
+|GPS
+|youtube.com
+|Registrerer et unikt ID på mobile enheder for at muliggøre tracking baseret på geografisk GPS lokation.
+|1 dag
+|HTTP
+|PREF
+|youtube.com
+|Registrerer et unikt ID, der anvendes af Google til at føre statistik over hvordan den besøgende bruger YouTube vidoer på tværs af forskellige hjemmesider.
+|8 mdr.
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Forsøger at estimere brugernes båndbredde på sider med integreret YouTube-video.
+|179 dage
+|HTTP
+|YSC
+|youtube.com
+|Registrerer et unikt ID for at føre statistik over hvilke videoer fra YouTube brugeren har set.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video
+|Session
+|HTML
+|pixie
+|adnxs.com
+|Afventer
+|Session
+|Pixel
+|pagead/1p-user-list/#
+|google.com
+|Afventer
+|Session
+|Pixel
+|t/v2/activity
+|mookie1.com
+|Afventer
+|Session
+|Pixel
+|Navn
+|Udbyder
+|Formål
+|Udløb
+|Type
+|mTrackingPageViewCount
+|al-bank.dk
+|Afventer
+|1 dag
+|HTTP
+|mTrackingTimeOnSite
+|al-bank.dk
+|Afventer
+|1 dag
+|HTTP
+|pses
+|al-bank.dk
+|Afventer
+|1 dag
+|HTTP
+|x-ms-routing-name
+|totalkredit.dk
+|Afventer
+|1 dag
+|HTTP
+Godt for klimaet, godt for dit hjem, godt for din økonomi.Læs mere

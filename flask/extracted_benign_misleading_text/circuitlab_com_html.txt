@@ -1,0 +1,17 @@
+or watch a quick demo video →
+Master the analysis and design of electronic systems with CircuitLab's free, interactive, online electronics textbook.
+Open: Ultimate Electronics: Practical Circuit Design and Analysis
+from the CircuitLab Community
+Easy-wire mode lets you connect elements with fewer clicks and less frustration.
+Cross-window copy/paste lets you easily explore and re-mix parts of public circuits from the CircuitLab community.
+Mixed-mode circuit simulation lets you simulate analog and digital components side-by-side.
+SPICE-like component models give you accurate results for nonlinear circuit effects.
+Human-friendly formats let you enter and display values concisely, just like you would on a paper schematic.
+Unit-aware expression evaluation lets you plot arbitrary signals of interest, such as differential signals or power dissipation.
+In-browser simulation and plotting lets you design and analyze faster, making sure your circuit works before ever picking up a soldering iron.
+Unique circuit URLs let you easily share your work or ask for help online.
+“Give it a try – this is a great idea.”
+“Amazingly user friendly and simple for even the novice hobbyist to dive into.”
+“Browser-based circuit simulator boasts a mountain of features.”
+“ CircuitLab is the best editor I have ever used. Bug-free design, excellent simulation. Well done. No more using LTSpice. ”
+“ In our product development cycle, we've used CircuitLab in more places than you might expect: optimizing our analog front-end, RF matching network analysis, improving our power supply robustness, and designing and documenting test and production fixtures. ”

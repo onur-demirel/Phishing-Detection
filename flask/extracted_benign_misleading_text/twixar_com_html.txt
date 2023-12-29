@@ -1,0 +1,7 @@
+Shorten, share and keep track of your short links by using the Twixar URL shortener
+Example:
+Long URL › http://edition.cnn.com/videos/world/2015/01/28/pkg-burke-apple-profits-iphone-effect.cnn
+Short URL › http://twixar.me/G1
+The Twixar url shortener shortens your long link marking them easy to remember and share.
+After you've shorten your link you can share it directly on Twitter or Facebook.
+Twixar is a url shortener that allows you shorten, and take control and keep track your short links.

@@ -1,0 +1,39 @@
+Video Communication
+made easy
+Take advantage of easy-to-use group video calls which facilitate your business communication. There is simply no time for complicated systems anymore.
+Our technology keeps the bandwidth low and video & audio quality high.
+eyeson video calls are web-based and require only a sign-up.
+Invite your team with the group link & use QuickJoin for one-time meetings.
+Reliable technology & user-friendly interface
+Start group video calls within one minute
+WEB App for
+Video meetings & webinars
+Use eyeson for your daily stand-up meetings, 1on1 calls, coaching sessions, product demos, etc. Up to 9 people can be visible and up to 100 can take part. Take advantage of features like screen & file sharing, YouTube & Facebook live streaming, GIF reactions, and many more.Try it now
+Our most popular features
+Quick Join
+Invite any externals during the call – without registration
+ECO MODE
+Enable the ECO (audio-only) Mode to save bandwidth
+GIF Reactions
+Lighten up the mood by inserting funny GIFs from the Giphy library
+Live Streaming
+Stream your video calls live to YouTube & Facebook
+Recording
+Record & download your group video calls
+Multi-Speaker Layouts
+See up to 9 participants within one video stream
+Screen & File Sharing
+Share your screen or present PDFs & images
+Snapshots
+Take snapshots during the call to catch moments
+Video Call History
+Have an overview of your past video calls
+Mobile App for
+Group Video calls on the go
+Join or continue your video calls also on the go. You can switch to the ECO (audio-only) mode when you are going by car and your internet connection might not be the best. It is easy to use and designed to facilitate your business life.
+Integrations for
+Seamless & efficient workflows
+There is no need to leave your business tool for having a video meeting with eyeson. Start video meetings directly in your favorite tools via our integrations. Just add eyeson as an app in Slack, Trello, Youtube or Facebook. Jira, Talkdesk, Freshdesk, Zendesk are coming soon.
+Video Conferencing API to
+Build your own web application
+Create your own live video platform with the eyeson API. Use modern JavaScript frameworks or build a native desktop or mobile application. Manage conferences in your application, cloud or serverless environment.

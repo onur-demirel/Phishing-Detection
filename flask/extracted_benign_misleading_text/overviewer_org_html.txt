@@ -1,0 +1,4 @@
+a high-resolution Minecraft world renderer with a LeafletJS interface
+to learn about installation and how to run The Overviewer.
+for issue reporting and access to the code.
+to download binaries and source code for various platforms.

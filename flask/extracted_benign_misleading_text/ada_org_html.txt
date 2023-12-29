@@ -1,0 +1,8 @@
+[NullReferenceException: Object reference not set to an instance of an object.]
+Shared.code.Pipeline.PageNotFound.Process(HttpRequestArgs args) +575
+(Object , Object[] ) +73
+Sitecore.Pipelines.CorePipeline.Run(PipelineArgs args) +323
+Sitecore.Nexus.Web.HttpModule.(Object , EventArgs ) +516
+System.Web.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute() +138
+System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step) +194
+System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) +87

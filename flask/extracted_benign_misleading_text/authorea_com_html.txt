@@ -1,0 +1,51 @@
+Cape Canaveral Air Force Station, United States
+A
+About
+Research documents made available on Authorea as preprints can be discovered and cited
+epidemiology
+Published in
+Cell on 06/18/2015
+9,069 views
+83 times cited
+forest ecology
+Published in
+Science on 10/14/2016
+201 views
+3 times cited
+The best features for modern research publishing
+Behind the editor and beautiful interface, Authorea is an incredibly powerful platform. Here are some features that make it the most advanced tool out there for publishing all your research outputs.
+Host and Publish Data
+Store and publish all your research outputs such as code, figures, notebooks, and posters
+Multiple Markup Languages
+LaTeX, Markdown, Rich text, Javascript: you can add many formats to a single document
+Versions
+Add new versions, roll back changes, and see how a document came together over time
+White label and custom domains
+Whether you run a journal or a research group, you can customize the look and feel of your portal pages
+Make your work citeable
+Receive a digital object identifier (DOI) for anything you upload on Authorea. Use it to get credit for all your research outputs
+Journal-integrated preprints
+Directly submit to journals. Associate your preprints with your target journals.
+Fork documents
+Authorea stores the entire history of a document using Git, an advanced version control system
+Templates
+Start from templates for leading conferences, institutions, and journals
+Powerful document upload
+Upload and host any filetype. Convert documents from Word, PDF, and LaTeX
+Open Collaborative Review
+Explore new ways to peer review and improve your content
+Mathematical notation
+Insert equations using a handy equations editor or type in LaTeX
+24x7 support
+Authorea's support team is available via chat 7 days a week
+Interactive Figures
+Add rich media to your research documents to make them come alive on the web
+Integrations with Jupyter, Plotly, and more
+Publish your data-driven interactive notebooks with Authorea
+Advanced Export and Journal Styles
+Export your work in one click to hundreds of different styles in PDF, Word, LaTeX, or Zip
+What people are saying
+"Authorea is at the forefront of the open science movement. I use it for all my papers, as it allows me to make my research accessible from the initial drafting stage all the way through to post publication."
+CSIRO Oceans and Atmosphere
+Comments
+Discuss changes with collaborators in real time

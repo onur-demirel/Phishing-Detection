@@ -1,0 +1,104 @@
+Logga in i Vklass
+Till start
+Logga ut
+Logga in med
+BankID
+arrow_forward
+Logga in med
+Freja eID
+arrow_forward
+account_circle
+Logga in med
+Vklass inloggningsuppgifter
+arrow_forward
+eller
+Välj organisation
+Välj organisation. Obligatoriskt.
+keyboard_arrow_down
+--- Välj organisation ---
+ABF Stockholm
+Albatross Montessoriskola Lidingö
+Alingsås kommun
+Alingsås yrkesgymnasium
+Botkyrka Kommun
+Burlövs församlings förskola (ORG)
+Burlövs kommun
+Båstad kommun
+Carlgrenska Waldorf
+Curt Nicolin Gymnasiet
+Dals-Ed kommun
+Eksjö kommun
+Eskilstuna Kommun
+Folkuniversitetet
+Fordonsutbildningar i Örebro
+Frida utbildning
+Företagsekonomiska Institutet
+Gislaved
+Haninge Kommun
+Herrljunga kommun
+Hjo kommun
+Höörs kommun
+Jeppsagårdens personalkooperativ
+Järfälla kommun
+Jönköpings kommun
+Karlsborgs kommun
+Kiruna kommun
+Kungsbacka kommun
+Laholms kommun
+Leksands kommun
+Lerums Kommun
+Lidingö stad
+Lilla Akademien
+Lunds kommun
+Lysekils kommun
+Malung-Sälens kommun
+Möllans föräldrakooperativ
+Naturbruksskolorna i Jönköpings län
+Nilsholgerssonskolan
+Nynäshamns kommun
+Orionskolan i Visby
+Partille kommun
+Ronneby kommun
+Skalmans förskola (ORG)
+Skapaskolan Huddinge
+Skövde kommun
+Sotenäs kommun
+Specialpedagogiska skolmyndigheten
+Spelevinken FSK
+St Staffans församling
+Staffanstorps kommun
+Staffanstorps montessoriförening
+Stiftelsen Mikaeliskolan
+Strömstad kommun
+Sundbybergs stad
+Sundsvalls kommun
+Sverigefinska skolan i Botkyrka
+Sverigefinska Skolan i Stockholm
+Säters kommun
+Sävsjö kommun
+Södertälje kommun
+Sölvesborg-Bromölla
+Taktik
+Tidaholms kommun
+Timrå kommun
+Trelleborgs Kommun
+Trollhättan
+Tyresö kommun
+Täby kommun
+Uddevalla kommun
+Upplands-Bro Intresseförening för Montessori
+Upplands-Bro kommun
+Waldorf Umeå
+Varbergs kommun
+Vejbystrands förskola och skola
+Vellinge kommun
+Vetlanda kommun
+Vintertullsskolan i Stockholm AB
+Vklass
+Västbergslagens Utbildningsförbund
+Västerås stad
+Ystad Kommun
+Åtvidabergs kommun
+Ängbybarnens förskolor
+Öringe skola
+Örnsköldsviks kommun

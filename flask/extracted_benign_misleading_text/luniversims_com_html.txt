@@ -1,0 +1,22 @@
+While some cookies will almost always be set by the Suite, there are some cookies that are set only in very specific circumstances. If you have a need to identify all cookies the Suite may set, the following is a list of cookies and their intended purposes.
+This cookie is set by javascript and then later read to determine if javascript is supported in the user agent.
+This cookie is set by javascript to detect the user's local time zone so that the software can adapt the displaying of times automatically.
+This is a session tracking cookie, used to track the user between page clicks.
+This cookie would contain the user's member ID, used to "remember" the user in case their session ends between visits.
+This cookie would contain a hash used to validate that the viewing user's member ID was not forged (it is not the actual password hash).
+-
+ips4_cms_filters (Pages only)
+This cookie would track filters set by a user when filtering content in the Pages application.
+-
+ips4_ipsApprovalQueueSplash (Moderators only)
+This cookie would track that a user has acknowledged the splash screen in the Moderator CP so that it is not shown again.
+-
+ips4_language (Guests only)
+This cookie is used to track a language preference for a guest if the site has more than one language installed and the guest user chooses a specific language to use.
+This cookie is used to track a user's anonymous login preference if they choose this option during the login process.
+This cookie is used to track a theme preference for a guest if the site has more than one theme installed and the guest user chooses a specific theme to use.
+When a forum has a specific password set, this cookie is set once a user logs in to that forum to validate that they have logged in on subsequent page loads.
+-
+ips4_thumbnailSize (Gallery only)
+This cookie tracks what type of table layout to use in Gallery listings (list view, small thumbnails or large thumbnails)
+Be aware that third party addons may set cookies as well, and that third party services integrated with the Suite (such as Google Analytics or Facebook Logins) may also set their own cookies.

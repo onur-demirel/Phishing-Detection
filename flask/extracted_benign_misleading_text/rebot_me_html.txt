@@ -1,0 +1,4 @@
+Rebot.me is a great new service which basically allows you to create
+your own chatbot for free.
+Very Simple
+Typically, people have a wrong notion that creating and managing a chatbot is a difficult and involves complex programming. However, we at Rebot.me ensure developing a chatbot is very simple which can be done by anyone.

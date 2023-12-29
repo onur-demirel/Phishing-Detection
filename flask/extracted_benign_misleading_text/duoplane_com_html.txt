@@ -1,0 +1,50 @@
+Drop Shipping and Ecommerce Automation
+- Save time and money
+- Scale your business faster
+- Serve your customers better
+Featured Integrations
+If you drop ship, then you'll love Duoplane.
+Automation that makes it easier for you to grow and manage your ecommerce business.
+Tailored for drop shipping
+Duoplane was built specifically for multi-supplier and multi-channel ecommerce, helping you realize the full benefits of drop shipping.
+Fully automated
+Our ecommerce management software automates the manual tasks that bog you down, freeing you up to focus on growing your business.
+Powerful
+We offer a full featured ecommerce solution that provides tools for order management, merchandising, and accounting.
+Easy to set up
+Duoplane integrates with your existing systems and can be customized to suit your needs. Many customers are up and running within minutes.
+What's to love?
+Automated Order Routing
+Duoplane intelligently and automatically routes orders to the right vendor or warehouse.
+Complete Order Management
+Manage the full order cycle, including changes, shipments, returns, and order exceptions.
+Multi-Channel Support
+Centralize orders from all of your ecommerce channels in one place.
+Vendor Portal
+Keep everyone on the same page and save time by allowing vendors to manage their orders.
+Vendor Scorecarding
+Provide feedback to vendors using actionable performance metrics.
+Profitabililty Metrics
+Make better marketing and merchandising decisions with accurate product profitability data.
+Accounting Automation
+Connect with your accounting system to sync vendor invoices.
+Catalog Onboarding
+Speed up the time to market for new products with our product onboarding tools.
+Seamless Integration
+Duoplane connects to your existing systems to minimize manual effort by you or your team.
+What does Duoplane do for you?
+Duoplane allows you realize the true power of direct-to-consumer order fulfillment -
+helping you expand your catalog, grow sales, and operate more efficiently.
+- Frees you up to focus on growing your business.
+- Helps you do more with fewer resources.
+- Gives you valuable insights into your business.
+- Improves your service levels and makes your customers happier.
+How does it work?
+- Your customer places an order on your site.
+- Duoplane automatically imports the order.
+- Based on rules that you've set, Duoplane separates the order's items into one or more vendor purchase orders.
+- Duoplane sends the purchase orders to the correct vendors or warehouses. POs can be sent by email or FTP in any of a number of different formats (e.g. PDF, CSV, XML files) and on a variety of custom schedules.
+- Once a vendor receives a purchase order, they can use your Vendor Portal to confirm the PO, send you a message about the order, or download a branded packing slip that has been customized with your logo and policies.
+- After the purchase order ships, your vendor or you upload or enter tracking information. Duoplane can also automatically retrieve tracking information if the order was shipped on your UPS or FedEx account.
+- Duoplane transmits the tracking number to your cart software to indicate that that part of the order has shipped.
+- With our optional accounting sync, Duoplane can also export vendor invoices to your accounting system.

@@ -1,0 +1,7 @@
+Welcome
+Welcome to the Flight Plan Database. We are a flight simulation utility for creating, sharing and finding routes and flight plans for use with X-Plane, FSX, Infinite Flight and other compatible flight simulators. Join for free to share your uploaded, decoded or generated routes.
+Get started with some of our most popular features:
+Planner
+Create new flight plans from real world routes and airways Search
+Find flight plans for your favourite route or explore new parts of the world Upload
+Submit your own flight plans to share with the world

@@ -1,0 +1,57 @@
+Possible Uses this is what you can do
+- Give an internet connection a memorable name
+- Host your websites using server at home
+- Remote access your home computer from anywhere
+- Set up a home security webcam
+- Run a mail server using your home computer
+- Run a public game server or teamspeak server at home
+- Host websites on any port
+- Use URL forwarding to redirect your domain name to another URL
+Included Features this is what helps you do it
+- 100% free
+- Easy to use control panel
+- Complete control of your domain name
+- Free dynamic DNS client
+- Reliable DNS uptime through redundant geographically located DNS servers
+- Port 80 redirection and offline options
+- Subdomains as well as MX records
+- Support for virtually all types of DNS records
+Get Started this is how you do it
+- Create a free account along with a free third level domain name or use your own domain name
+- Register a top level domain name or transfer your domain name
+- Download a free dynamic DNS client for your operating system
+- Setup your router or device
+- Use the control panel to manage advanced features
+- Use network tools for troubleshooting
+- Refer to the FAQs and Tutorials
+- Refer to our simple API for customization
+We are a free dynamic DNS service provider
+making your connection easier!
+Domain Registration
+Registration and transfer
+Easy to use control panel
+Network tools for troubleshooting
+Email Service
+Fast, simple & affordable
+Unlimited storage and backup
+Change service mode anytime
+SSL Certificate
+State-of-the-art data encryption
+Over 99% browser compatibility
+Fast setup & easy management
+Why choose Dynu?
+-
+Years of experience
+More than 15 years of experience have provided us with the ability to arm you with enterprise quality tools.
+-
+Excellent service
+Our innovative administrators and developers constantly research and improve our infrastructure to make sure our service remains top notch.
+-
+Clueful support
+Not only do we offer responsive technical support, we also equip you with efficient tools to resolve issues.
+-
+Best value pricing
+We take pride in our contribution towards the online community and offer services at little or no cost.
+Very impressed!
+"So far, I'm extremely impressed with your software and services and have recommended your company to many of my associates."
+-Michael Delvecchio

@@ -1,0 +1,8 @@
+All fields are required
+We're sorry, an unexpected error has occurred with this application. Please try again. If you need help, contact Customer Support or Live Chat for assistance.
+Personal Info
+Identity Verification
+Billing Info
+All fields are required
+Securing Your Cox Accounts
+If you use the same login credentials on multiple websites, then the initial suspicious activity could have occurred on any of those websites. As such, Cox recommends updating all of your login credentials to unique combinations that have never been used before to help prevent this from occurring again.

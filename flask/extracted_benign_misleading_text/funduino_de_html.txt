@@ -1,0 +1,14 @@
+Puuh… ist das heiß hier! Wie soll mein Bausatz nur bis zum Schulanfang fertig werden bei dieser Hitze???
+…auf der Ideenexpo!
+Hier ein paar Impressionen, wo sich Funduino auf der Ideenexpo 2019 wiederfindet
+Funduino UNO Controller in einem Projekt zur Feuchtigkeitsmessung:
+Prototyp einer zukünftigen Lernplattform für Arduino (Ab August 2019) in Zusammenarbeit mit dem Hackerspace Bremen:
+Ein Robotik-Workshop mit dem DOBOT Magician. Die Arbeitsplattform (Workspace) stammt von Funduino:
+Prototyp der Lernplattform in Zusammenspiel mit einem Bonbonspender:
+3D-Drucker „Funduino Pro“ im Einsatz:
+Was ist ?
+Mikrocontrolling steigert das technische Verständnis, fördert Kreativität und macht viel Spaß (Funduino). Mit der Arduino Entwicklungsumgebung hat man die Möglichkeit, sich für relativ wenig Geld in die Thematik des Mikrocontrollings einzuarbeiten. Daher vermitteln auch Schulen, Hochschulen, Universitäten und andere Bildungseinrichtungen mit Hilfe der Arduino Entwicklungsumgebung das Thema Mikrocontrolling.
+Dennoch ist es mühsam, sich in der Einarbeitungsphase die vielen nützlichen elektrischen Bauteile einzeln anzuschaffen. Zudem gibt es im Internet viele Anleitungen zu Mikrocontrolling-Experimenten, jedoch passen die Bauteile (Sensoren und Aktoren) in den Anleitungen häufig nicht zu denen, die man sich selber angeschafft hat. Dadurch kann es gerade in der Erarbeitungsphase zu Frust kommen, wenn Experimente nicht funktionieren und der Fehler nicht gefunden werden kann.
+Diese Seite kann Abhilfe schaffen und soll den Einstieg in das Thema Mikrocontrolling für Schüler, Studenten und Lehrer erleichtern. Sie bietet Anleitungen zu Arduino-Experimenten, gleichzeitig aber auch die Möglichkeit, passende Materialien kostengünstig zu erwerben. Daher bekommen Schüler, Studenten, Schulen, Universitäten, Ausbildungsbetriebe und alle vergleichbaren Einrichtungen 10% Rabatt auf Alle Artikel, die über unseren Shop bezogen werden.
+Die Seite wird kontinuierlich erweitert um Schülern, Studenten und Lehrern immer bessere und interessantere Möglichkeiten rund um das Erlernen der Arduino Entwicklungsumgebung zu bieten.
+Seit 2017 hat die Funduino GmbH mit „www.filamentplatz.de“ einen weiteren Bereich geschaffen, in dem sich Erfinder, Bastler und „Maker“ mit günstigem Material rund um das Thema 3D-Druck versorgen können:

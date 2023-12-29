@@ -1,0 +1,17 @@
+Fluorescent Turtle Embryo Wins Forty-Fifth Annual Nikon Small World Competition
+October 21, 2019, via Nikon Small World
+We’re happy to announce that we’ve updated our article on Single-Molecule Super-Resolution Imaging. This article now contains an in-depth discussion of sample preparation, including near-comprehensive tables listing known fluorescent probes and buffer systems for single molecule localization microscopies.
+The ratio of the speed of light in a vacuum to that in the imaging medium of a microscope.
+The resolving power of a microscope is the most important feature of the optical system.
+A mechanism to translate variations in phase into corresponding changes in amplitude.
+Using crossed polarized illumination to examine birefringent materials.
+Spatial resolution refers to the number of pixels utilized in construction of the image.
+Review the basic steps involved in acquiring a STORM super-resolution image.
+Explore how objective numerical aperture size influences Airy disk properties.
+Vary numerical aperture, magnification, and video coupler size to match camera resolution.
+Congratulations to the winners of the forty-fifth annual Nikon Small World Photomicrography Competition!
+Visit the Nikon Instruments Website for the latest information on products, company news, upcoming events and features.
+October 21, 2019, via Nikon Small World
+January 18, 2019, via Nature
+January 17, 2019, via Nature Communications Biology
+January 15, 2019, via Nature Communications

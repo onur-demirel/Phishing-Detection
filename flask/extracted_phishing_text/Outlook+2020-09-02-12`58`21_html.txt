@@ -1,0 +1,22 @@
+To use Outlook Web App, browser settings must allow scripts to run. For information about how to allow scripts, consult the Help for your browser. If your browser doesn't support scripts, you can download
+Windows Internet Explorer
+for access to Outlook Web App.
+Security (
+show explanation
+hide explanation
+)
+This is a public or shared computer
+Select this option if you use Outlook Web App on a public computer. Be sure to sign out when you've finished and close all windows to end your session.
+This is a private computer
+Select this option if you're the only person who uses this computer. Your server will allow a longer period of inactivity before signing you out.
+Warning: By selecting this option, you confirm that this computer complies with your organization's security policy.
+Use the light version of Outlook Web App
+The light version of Outlook Web App includes fewer features. Use it if you're on a slow connection or using a computer with unusually strict browser security settings. We also support the full Outlook Web App experience on some browsers on Windows, Mac, and Linux computers. To check out all the supported browsers and operating systems,
+click here.
+User name:
+Password:
+Please enable cookies for this Web site.
+Cookies are currently disabled by your browser. Outlook Web App requires that cookies be enabled.
+For information about how to enable cookies, see the Help for your Web browser.
+Connected to Microsoft Exchange
+© 2010 Microsoft Corporation. All rights reserved.

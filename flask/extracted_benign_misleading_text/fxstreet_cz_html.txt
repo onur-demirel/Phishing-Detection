@@ -1,0 +1,130 @@
+-
+FOREX21. říjen 2019
+-
+ROZHOVOR14. říjen 2019
+Saxo Bank: Rozhovor se šéfem klientského oddělení Stefanem Veghem
+-
+AOS14. říjen 2019
+FX analýzy
+FX blogy
+Online FOREX data
+|Symbol
+|Akt. cena
+|Denní min
+|Denní max
+|Změna
+|AUD/USD
+|0.68556
+|0.68335
+|0.68603
+|-0.07%
+|EUR/CHF
+|1.1026
+|1.09934
+|1.10269
+|+0.14%
+|EUR/USD
+|1.11347
+|1.11061
+|1.11361
+|+0.05%
+|GBP/USD
+|1.29174
+|1.28411
+|1.29189
+|+0.27%
+|USD/CAD
+|1.30726
+|1.30722
+|1.31089
+|-0.16%
+|USD/CHF
+|0.99021
+|0.98856
+|0.99143
+|+0.09%
+|USD/JPY
+|108.663
+|108.248
+|108.702
+|+0.16%
+FX sazby
+|Měna
+|Sazba
+|Měna
+|Sazba
+|EUR
+|0.00 %
+|USD
+|2.00 %
+|GBP
+|0.75 %
+|AUD
+|0.75 %
+|CAD
+|1.75 %
+|NZD
+|1.00 %
+|CHF
+|-0.75%
+|JPY
+|-0.10%
+Denní kalendář událostí
+|D
+|Čas
+|Měna
+|Popis události
+|00:00
+|USD
+|V USA bilance státního rozpočtu
+|00:20
+|AUD
+|Člen RBA Christopher Kent
+|14:30
+|CAD
+|V Kanadě velkoobchodní tržby
+|15:00
+|USD
+|V USA index cen domů
+|16:00
+|EUR
+|V eurozóně spotřebitelská důvěra
+Diskusní fórum
+|Diskusní téma
+|Přísp.
+|Poslední
+|Price Action Trading Jakuba Hodana
+|1942
+|23.10.2019 21:22
+od: Jakub Hodan
+|Proč jsou komerční aosy nefunkční?
+|20
+|23.10.2019 21:19
+od: Krakra
+|EUR/USD
+|59385
+|23.10.2019 21:11
+od: Jan
+|Praktická ukázka: Víra ve vlastní přípravu
+|8
+|23.10.2019 20:24
+od: MiTrade
+|IronFX
+|364
+|23.10.2019 15:48
+od: G_M
+|Zobrazit posledních 20 témat
+Praktické kurzy obchodování na forexu
+Exkluzivní VIP seminář: Obchodujte jako bankovní trader!
+Představujeme vám exkluzivní seminář, který účastníky semináře posouvá mezi tradingovou elitu. V průběhu semináře se dozvíte veřejně nedostupné informace o tom, jak ve skutečnosti funguje forex, pravdu o retailových brokerech a další veřejně nedostupné informace z obchodování bank a tradingu na institucionální úrovni.
+Juniorská škola tradingu - Forex I-II (Brno)
+Juniorská škola tradingu - Forex I-II je určena pro začínající tradery. Pokud chcete vyzkoušet něco nového, vymanit se z davu a být úspěšný v obchodování na finančních trzích, tak je tento seminář určen právě vám.
+Praktický workshop technické analýzy + profi obchodní systémy na FOREXu
+FXstreet.cz představuje unikátní seminář s hostem - Patrikem Urbanem, který působil jako profesionální trader na Wall Streetu. Praktické použití technické analýzy, Price Action a obchodní systémy ziskových traderů. Kromě Patrika Urbana na semináři jako host vystoupí také full-time trader Jakub Hodan.
+České knihy o forex tradingu
+Novinka! Kniha "Jak se stát forexovým obchodníkem" Ondřeje Hartmana vychází ve druhém a výrazně rozšířeném vydání!
+Kniha vychází již ve druhém, ale tentokrát výrazně upraveném a rozšířeném vydání. Kniha je koncipována tak, aby byla užitečným průvodcem jak začínajícím obchodníkům bez zkušeností, tak i těm, kdo na forexu již obchodují a potřebují si prohloubit své znalosti.
+Kniha "FOREX – Ziskové intradenní a swingové obchodní strategie" od Kathy Lien vychází v češtině!
+Je nám velikou ctí, že můžeme obohatit český a slovenský forexový trh světově uznávanou knihou číslo 1 pro každého, kdo chce do hloubky pochopit fungování největšího světového finančního trhu.
+Světový bestseller o tradingu v češtině! Úspěšní obchodníci: Jak běžní lidé porážejí Wall Street v jeho vlastní hře
+Jedna z nejprodávanějších knih od Kathy Lien právě vychází v českém překladu! Obsahuje sérii rozhovorů Kathy Lien s nejúspěšnějšími tradery. Tato kniha se stala inspirací pro tisíce čtenářů po celém světě. Setkáte se v ní s příběhy obyčejných lidí, kteří dokázali zbohatnout díky systematickému dodržování konkrétních pravidel v tradingu. Bez ohledu na jejich povolání jsou dnes úspěšnými obchodníky a investory. V této knize vám budou představeny jejich obchodní přístupy a strategie, které vám pomohou pochopit, jak lze pomocí vlastní píle dosáhnout úspěchu ve zdánlivě složitém světě tradingu.

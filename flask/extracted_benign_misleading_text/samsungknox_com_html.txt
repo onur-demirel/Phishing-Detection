@@ -1,0 +1,9 @@
+Success story
+Knox is Samsung’s guarantee of security, and a secure device gives you the freedom to work and play how, where, and when you want. Samsung Knox consists of a highly secure platform built into Samsung devices and a set of solutions that leverage this platform.
+Whether you’d like to keep your personal photos private, or remotely manage a batch of business smartphones, Knox has you covered.
+The Samsung Knox platform is built into Samsung smartphones, tablets, and wearables at the manufacturing stage, so you have it the moment you unpack your device. The Knox platform consists of overlapping defense and security mechanisms that protect against intrusion, malware, and more malicious threats.
+To further protect these devices for high security use cases, Samsung developed resilient and user-friendly Knox solutions.
+Build and deploy your app on secure Samsung devices with Knox developer tools, a diverse set of SDKs, code libraries, and support materials available from our Samsung Enterprise Alliance Program.
+Your financial, health, and government information is always safe on Samsung consumer apps leveraging Knox. Learn more about apps that use Knox to verify system security and safeguard data.
+Get in touch with our sales teams to discuss the best options for your business.
+Find help and FAQs about your personal Samsung devices.

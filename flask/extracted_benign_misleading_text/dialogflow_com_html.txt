@@ -1,0 +1,26 @@
+Build natural and rich conversational experiences
+Give users new ways to interact with your product by building engaging voice and text-based conversational interfaces, such as voice apps and chatbots, powered by AI. Connect with users on your website, mobile app, the Google Assistant, Amazon Alexa, Facebook Messenger, and other popular platforms and devices.
+Powered by Google's machine learning
+Dialogflow incorporates Google's machine learning expertise and products such as Google Cloud Speech-to-Text.
+Built on Google infrastructure
+Dialogflow is a Google service that runs on Google Cloud Platform, letting you scale to hundreds of millions of users.
+Optimized for the Google Assistant
+Dialogflow is the most widely used tool to build Actions for more than 400M+ Google Assistant devices.
+Dialogflow is user-friendly, intuitive, and just makes sense. Its natural language processing (NLP) is the best we've tried.
+Mandi Galluch, Digital Experience Program Leader, Domino's
+Use machine learning to understand what users are saying
+Provide us with examples of what a user might say when interacting with your product. Using years of domain knowledge and natural language understanding, we analyze and understand the user's intent to help you respond in the most useful way.
+Reach more audiences, wherever they are
+On any platform
+Build Actions, Skills, bots, and apps for the Google Assistant, Alexa, Cortana, Facebook Messenger and other platforms your users are on.
+Across devices
+Whether your users are on-the-go or at home, engage with them through wearables, phones, cars, speakers and other smart devices.
+Around the world
+Broaden your reach globally with 20+ supported languages including Spanish, French, and Japanese.
+See who's using Dialogflow
+See case studies of how companies around the world are using Dialogflow to help them serve their users and reach their business goals.
+News and events
+Kicking off I/O ‘18 with new & improved features
+See what we've released during Google I/O to help you build conversational experiences faster and smarter.
+Subscribe to the Dialogflow blog
+Subscribe to our blog to get news, product updates, best practices, and tutorials directly in your inbox.

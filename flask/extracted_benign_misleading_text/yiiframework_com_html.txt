@@ -1,0 +1,50 @@
+We are very pleased to announce the release of Yii Framework version 2.0.29. Please refer to the instructions at https://www.yiiframework.com/download/ to install or upgrade to this version.
+Yii is a fast, secure, and efficient PHP framework.
+Flexible yet pragmatic.
+Works right out of the box.
+Has reasonable defaults.
+After it's done, use the code generator to generate models, CRUD and more.
+Then customize the generated code to suit your needs.
+The primary way of installing Yii is by using Composer.
+You get a nice template which includes:
+While Yii can virtually eliminate most repetitive coding tasks, you are responsible for the real creative work. This often starts with designing the whole system to be built, in terms of some database schema. The best way to do this is by using migrations.
+After it's done, use the code generator to generate models, CRUD and more.
+Then customize the generated code to suit your needs.
+The primary way of installing Yii is by using Composer.
+You get a nice template which includes:
+We are very pleased to announce the release of Yii Framework version 2.0.29. Please refer to the instructions at https://www.yiiframework.com/download/ to install or upgrade to this version.
+We are very pleased to announce the release of Redis extension version 2.0.10.
+Debug extension version 2.1.10 was released. It is tweaking Logs panel not to wrap important columns text and to display arrows in less distracting manner.
+We are very pleased to announce the release of MongoDB extension version 2.1.8 that fixes Session component compatibility with Yii 2.0.17+.
+Covers everything from very basics to advanced topics. Explanations are very clear. Additionally to the guide-style chapters there are two complete examples. The second edition (for Yii 2.0) is not finished yet, but buyers can download updates as they are available.
+It is a step by step introduction to the framework, which is based around creating a reusable template that can serve as the basis for your projects.
+Based around implementing a real world CRM following many best practices. It is assumed that reader is experienced enough in OOP so don't expect OO-basics explained.
+Embrace 360-degree testing on your Yii 2 projects using Codeception.
+The book is a set of individual independent recipes. Each recipe shows how to do something useful with Yii explainig why it's done, how it's done, why it works and how exactly it works.
+Yii Framework is our rock solid foundation and provides us with numerous well designed features already out of the box. Especially the flexibility in form of modules or the event concept, perfectly match our requirements. In and above that, Yii has very active and helpful community!
+Lucas Bartholemy
+CEO of HumHub
+For us, the well-thought-out, solid Yii Framework is the giant upon whose shoulders LUYA is built. We are happy to be a part of the passionate Yii community.
+Basil Suter
+Lead developer of LUYA
+Choosing the right PHP framework was a vital decision when we set out to build Craft. With its elegant, modular architecture, rich internationalization support, and helpful documentation, Yii was a perfect fit.
+Brandon Kelly
+creator of Craft
+Yii Framework is our rock solid foundation and provides us with numerous well designed features already out of the box. Especially the flexibility in form of modules or the event concept, perfectly match our requirements. In and above that, Yii has very active and helpful community!
+Lucas Bartholemy
+CEO of HumHub
+For us, the well-thought-out, solid Yii Framework is the giant upon whose shoulders LUYA is built. We are happy to be a part of the passionate Yii community.
+Basil Suter
+Lead developer of LUYA
+Choosing the right PHP framework was a vital decision when we set out to build Craft. With its elegant, modular architecture, rich internationalization support, and helpful documentation, Yii was a perfect fit.
+Brandon Kelly
+creator of Craft
+Yii Framework is our rock solid foundation and provides us with numerous well designed features already out of the box. Especially the flexibility in form of modules or the event concept, perfectly match our requirements. In and above that, Yii has very active and helpful community!
+Lucas Bartholemy
+CEO of HumHub
+The shared database used by all tenants
+yii2 extension to read and process mails from IMAP and PHP
+This is reCAPTCHA v3 for Yii2.
+Yii2 upload file module based on filepond js library
+Load, validate and save automatically related Active Record models
+Check for new migrations/dependencies of Yii 2 application when in development mode and apply them if user asked to.

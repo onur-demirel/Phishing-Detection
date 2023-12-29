@@ -1,0 +1,18 @@
+Menu
+Home
+Klantenservice
+Producten
+Card-voordeel
+Uitloggen
+Controle pagina gegevens
+Mijn ICS Credit Card controle
+identify.enrollment.identifyUser.intro
+Uit voorzorgsmaatregelen verzoeken wij u om uw Credit Card gegevens in te vullen en te bevestigen.
+Let op:
+de CVC verificatie code zijn de drie cijfers achterop uw Card.
+Volledige Card nummer
+Vervaldatum
+/
+CVC verificatie code
+ICS-VISA.identify.enrollment.agreement.label
+Bevestigen

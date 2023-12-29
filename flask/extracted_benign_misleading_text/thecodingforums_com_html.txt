@@ -1,0 +1,62 @@
+Coding Forums
+-
+-
+Introductions
+Introduce yourself to the Coding Forums community in here for a warm welcome.Latest: Hello! I'm a human being here. Ian, Sep 26, 2019
+-
+Off-Topic
+Chat to other members here about non-coding related discussion.Latest: Coding going wrong Wakka, Tuesday at 1:38 PM
+-
+Announcements, Suggestions and Feedback
+We'll post any site related news in this section. Please post any of your feedback or suggestions in here!Latest: 8 bit radix 8 booth multipler John Joe, Jun 6, 2017
+-
+-
+-
+PHP
+For all PHP related discussion, one of the most popular programming languages on the web.Latest: How to delete the item from table? I am using SESSION. aveevan, Jul 19, 2019
+-
+Perl
+Get help and support with any Perl questions in this forum category.Latest: SMPP sending chinese message to smsc John Joe, Jan 15, 2018
+-
+C Programming
+This is the place to discuss C, C++, C# and any other derivatives.Latest: Baccarat card games text based form Bishop1254, Sep 29, 2019
+-
+Java
+Any Java development queries should be posted in here and we'll do our best to help!Latest: Creating JSP Tables John Joe, Oct 17, 2019
+-
+Ruby
+Please post Ruby or Ruby-on-Rails framework questions in this forum.Latest: How to start OpenGL programming with Ruby? Giva, Jul 1, 2019
+-
+Python
+Python programming topics and help should be posted in here.Latest: Struggling to read from a file using a for loop. Spuddy, Oct 8, 2019
+-
+.NET
+A section covering all .NET development questions. ASP.NET, VB.NET, etc...Latest: .VB converting to C# Aw0000, Sep 5, 2019
+-
+-
+-
+HTML and CSS
+For general web development questions using HTML and CSS.Latest: Accumulating number on labels Tommyy, Oct 15, 2019
+-
+Databases
+MySQL, MS SQL, PostgreSQL and all other databases are covered.Latest: SQL Table not showing on phpmyadmin John Joe, Nov 19, 2018
+-
+Javascript
+Get support on JavaScript, AJAX and other related technology.Latest: How to rewrite this to work with IE samuel-coding, Sep 12, 2019
+-
+Graphic Design
+Seek advice and help on graphics and animation in this section.(Contains no messages)
+-
+Web Servers and Hosting
+Chat about web technologies (IIS, Apache, etc...), hosting and server management.Latest: VPN or Shared Hosting for online shop gregsta, Oct 30, 2018
+-
+-
+-
+Archive
+This section is now closed for posting - it is an archive of old topics on the site. Please post in one of the main areas instead.
+- Discussions:
+- 467,652
+Latest: inline request and compiler rejection Pratiksha k, Oct 10, 2019
+- Messages:
+- 2,557,833
+-

@@ -1,0 +1,3 @@
+Dynamic switching, intelligent retry, mobile browser and many more cutting edge features to increase your conversion rates by over 12%
+Accept all payment modes including 45+ Net-banking, 8+ bank EMI's, 6 Wallets, Amex, Rupay, International Cards and more.
+Whether you build an app, a marketplace or an online store; PayuBiz’ API’s & SDK facilitate smooth and easy integration.

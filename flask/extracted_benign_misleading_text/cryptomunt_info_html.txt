@@ -1,0 +1,2 @@
+Hoe een Ether Wallet (MyEtherWallet) opzetten?
+Het begint allemaal met het aanmaken van een ether wallet. Deze heeft u nodig om ethers of andere ERC20 tokens te kunnen ontvangen en verzenden. Direct na het aanmaken van uw ether wallet is deze actief. Het aanmaken en het gebruik van een MyEtherWallet is gratis! Op de website MyEtherWallet, wordt je direct gevraagd om …

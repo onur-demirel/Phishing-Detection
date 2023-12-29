@@ -1,0 +1,100 @@
+I cookie necessari aiutano a contribuire a rendere fruibile un sito web abilitando le funzioni di base come la navigazione della pagina e l'accesso alle aree protette del sito. Il sito web non può funzionare correttamente senza questi cookie.
+|Nome
+|Fornitore
+|Scopo
+|Scadenza
+|Tipo
+|__cfduid
+|globalsign.com
+|Utilizzato dalla rete di contenuti, Cloudflare, per identificare traffico web affidabile.
+|1 anno
+|HTTP
+|CookieConsent
+|gls-italy.com
+|Memorizza lo stato del consenso ai cookie dell'utente per il dominio corrente
+|1 anno
+|HTTP
+I cookie per le preferenze consentono a un sito web di ricordare le informazioni che influenzano il modo in cui il sito si comporta o si presenta, come la lingua preferita o la regione che ti trovi
+|Nome
+|Fornitore
+|Scopo
+|Scadenza
+|Tipo
+|joomsef_lang
+|gls-italy.com
+|Utilizzato per salvare la lingua scelta dall'utente
+|999 giorni
+|HTTP
+I cookie statistici aiutano i proprietari del sito web a capire come i visitatori interagiscono con i siti raccogliendo e trasmettendo informazioni in forma anonima.
+|Nome
+|Fornitore
+|Scopo
+|Scadenza
+|Tipo
+|_ga
+|gls-italy.com
+|Registra un ID univoco utilizzato per generare dati statistici su come il visitatore utilizza il sito internet.
+|2 anni
+|HTTP
+|_gat
+|gls-italy.com
+|Utilizzato da Google Analytics per limitare la frequenza delle richieste
+|1 giorno
+|HTTP
+|_gid
+|gls-italy.com
+|Registra un ID univoco utilizzato per generare dati statistici su come il visitatore utilizza il sito internet.
+|1 giorno
+|HTTP
+I cookie per il marketing vengono utilizzati per monitorare i visitatori nei siti web. L'intento è quello di visualizzare annunci pertinenti e coinvolgenti per il singolo utente e quindi quelli di maggior valore per gli editori e gli inserzionisti terzi.
+|Nome
+|Fornitore
+|Scopo
+|Scadenza
+|Tipo
+|IDE
+|doubleclick.net
+|Utilizzato da Google DoubleClick per registrare e produrre resoconti sulle azioni dell'utente sul sito dopo aver visualizzato o cliccato una delle pubblicità dell'inserzionista al fine di misurare l'efficacia di una pubblicità e presentare pubblicità mirata all'utente.
+|1 anno
+|HTTP
+|test_cookie
+|doubleclick.net
+|Utilizzato per verificare se il browser dell'utente supporta i cookie.
+|1 giorno
+|HTTP
+|rc::c
+|google.com
+|Utilizzato nel contesto del video-annuncio. Il cookie limita il numero di volte in cui un visitatore visualizza lo stesso contenuto dell'annuncio. Il cookie viene anche utilizzato per garantire la pertinenza del video-annuncio al visitatore specifico.
+|Session
+|HTML
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+|UUID#[abcdef0123456789]{32}
+|gls-italy.com
+|In attesa
+|Session
+|HTTP
+|pagead/1p-conversion/#
+|google.com
+|In attesa
+|Session
+|Pixel
+|pagead/1p-user-list/#
+|google.com
+|In attesa
+|Session
+|Pixel
+I cookie non classificati sono i cookie che sono in fase di classificazione, insieme ai fornitori di cookie individuali.
+|Nome
+|Fornitore
+|Scopo
+|Scadenza
+|Tipo
+|STunn
+|gls-italy.com
+|In attesa
+|Session
+|HTTP

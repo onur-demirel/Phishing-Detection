@@ -1,0 +1,19 @@
+Don’t be the one using traditional technology of VPS.
+Use our virtual cloud with scalable platform loaded with features like Cloud Server, cloud firewall, DNS, load balancer to run your loaded application.Signup and Deploy
+You can easily upscale & downscale your resources and make your business efficient cost effective and make yourself available for new opportunities.
+Get the full Console access of the server to make some changes on the server through console.
+We use best class enterprise SSD for a better Storage performance. MaxIOPS is our priority and offering upto 200,000 IOPS
+Get Full Root/Administrator Access with our cloud server, where you have freedom to run any software according to your requirement.
+Technology we built that can offer best in the industry.
+Extend your cloud experience with monitoring services, backups, firewall, snapshots, DNS, load balancer.
+Distribute incoming network traffic across multiple servers within a data center so that a single device does not carry an entire load.
+Our Cloud firewalls are network level firewall with no extra cost that checks incoming and outgoing packets to filter from the access policies block malicious and unwanted traffic. You can create and manage your own virtual instance with your own defined rules in our cloud firewalls.
+A networking system that allows us to connect human-friendly names to unique addresses. In simple words remembering every unique address(IP address) is a tough task. To resolve this issue we point unique addresses to a friendly name(Domain).
+Boost your application performance with Intel Xeon CPU in our cloud servers.
+Enjoy the cloud platform experience with hourly billing and no contracts.
+Create, resize, reboot and do other actions on your cloud infra via our API.
+We have 100% Guaranteed uptime, If not delivered, We’ll credit you back as per our SLA.
+Our cluster is secured with network level firewalls and hardware level RAID technology.
+Reinstall the OS and application as many times your application demand.
+MicroHost trusted by the enterprises.
+Associated with brilliant technology and media partner.

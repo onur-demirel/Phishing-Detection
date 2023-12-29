@@ -1,0 +1,36 @@
+O portalu
+Checkpoint portal je zbirka javno dostupnih informacija koja vam pruža mogućnost da na jednom mestu saznate sve ključne informacije. Informacije koje vam stoje na raspolaganju su:
+OSOBE
+Saznajte sve o licima iz vašeg okruženja.
+SUDSKI SPOROVI
+Najobimnija baza sudskih sporova.
+IMOVINA
+Kompletne informacije o pokretnoj i nepokretnoj imovini.
+POSLOVANJE
+Funkcije u preduzećima.
+Najobimnija baza podataka u Srbiji
+Brojevi Vam govore koliko smo informacija analizirali za Vas.
+Proverite...
+OSNOVNE FUNKCIONALNOSTI
+Potrudili smo se da imate:
+Jednostavna pretraga baze podataka.
+Određivanje lokacije željenog subjekta.
+Izvoz svih dostupnih podataka u excel.
+Korisnički servis na raspolaganju svih 7 dana u nedelji.
+Svakodnevno ažuriranje dostupnih informacija u bazi.
+Obrada i analiza različitih vrsta informacija.
+NAPREDNE FUNKCIONALNOSTI...
+Povezana lica
+Povezanost osoba po različitim osnovama.
+Multisearch
+Mogućnost analize grupe subjekata po zadatom kriterijumu.
+Najaktuelnija osoba
+Osoba sa najviše pregleda na nedeljnom nivou (zašto?).
+Napredna pretraga
+Uz pomoć dostupnih filtera selektujte informacije koje Vas interesuju (osobe, nekretnine, sudski postupci).
+Monitoring
+Budite obavešteni o svim promenama vezanim za osobu koja Vas interesuje.
+Grafička analiza
+Grafički prikazi podataka.
+Kontakt
+Napišite nam poruku i naša služba za brigu o korisnicima će Vas kontaktirati što je pre moguće

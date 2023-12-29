@@ -1,0 +1,69 @@
+You are using an unsupported browser. For the best experience, please use Google Chrome, Firefox, Internet Explorer 11 or Safari
+** Follow us for the latest news and alerts: **
+PROPERTY SEARCH
+SELECT one or more of the following property types:
+|Residential
+|Commercial
+|Mineral
+|Personal Property
+ENTER one of the following property characteristics:
+|Account Number
+|(ex: 01234567)
+|Owner Name
+|(ex: Doe John)
+|Owner Address
+|(ex: 123 Main)
+|Georeference
+|(ex: 01234-5-6)
+|Subdivision Name
+|(ex: Apple Heights Addition)
+|Property Address
+|(ex: 456 Vine)
+|Legal Description
+|(ex: Apple Heights Addition Block 5 Lot 6)
+|Business Name
+|(ex: Apple Heights Bakery)
+|Mineral Lease Name
+|(ex: Apple Smith Well 1)
+|Mineral RRC Number
+|(ex: 012345)
+FILTER by one of the property characteristics on the search results page.
+DOWNLOAD a comma delimited text file for analysis in MS Excel, Apple Numbers, etc.
+ADVANCED PROPERTY SEARCH
+SELECT one of the following advanced property search types:
+|Property Information
+|Owner Information
+|Mineral Information
+ENTER one or more of the following property characteristics by advanced property search type:
+|Property Address
+|(Property)
+|Zipcode
+|(Property)
+|Georeference
+|(Property)
+|Subdivision Name
+|(Property)
+|Legal Description
+|(Property)
+|Owner Name
+|(Owner)
+|Owner Address
+|(Owner)
+|Business Name
+|(Owner)
+|Lease Name
+|(Mineral)
+|RRC Number
+|(Mineral)
+FILTER by one of the property characteristics on the search results page.
+DOWNLOAD a comma delimited text file for analysis in MS Excel, Apple Numbers, etc.
+PROPERTY SEARCH SCORING
+Search Scoring utilizes the following criteria:
+|Term Frequency
+|Inverse Document Frequency
+Term Frequency is the rate at which a term shows up in TAD’s database. The higher number of matches of a term, the higher up in the list it will display.
+Inverse Document Frequency is the rate at which the term you searched for shows up in documents. Unlike Term Frequency, this option shows up higher in the results list when there are less occurrences in the document. For example, if you searched for the word “the” you wouldn’t get many results based on documents we have on file. If you searched for the word “xylophone” you would likely get a result from the documents based on that word.
+Community | Partners | Procurement | Careers
+TAD is responsible for property tax appraisal and exemption administration for over seventy jurisdictions within Tarrant County. Each jurisdiction sets its tax rate to provide for police and fire protection, public schools, roads and streets, district courts, water and sewer systems, and other public services.
+Do More With An Online Account
+As a free public service, Tarrant County property owners are entitled to an extra level of TAD.org access and features. Claim your benefits by creating a TAD.org Online Account today!

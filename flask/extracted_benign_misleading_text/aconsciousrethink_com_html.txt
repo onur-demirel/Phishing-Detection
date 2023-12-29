@@ -1,0 +1,50 @@
+|9b7fb7ec3bd1b77e68dc8ce39d48523f
+|true
+|PHPSESSID
+|A unique identifier used to preserve states across pages.
+|false
+|__cfduid
+|Used by the content network, Cloudflare, to identify trusted web traffic.
+|false
+|__smToken
+|Used by Sumo widgets to track whether the visitor is logged in or not.
+|false
+|__utmt
+|Used to throttle the speed of requests to the server.
+|false
+|__utmt_e
+|Used to throttle the speed of requests to the server.
+|false
+|__utmt_f
+|Used to throttle the speed of requests to the server.
+|false
+|_bs462a41a13bfed81f587f12a705bf7ed1
+|true
+|active_template::28269
+|false
+|cookieconsent_dismissed
+|Used to track closure of a cookie consent dialog.
+|false
+|ezCMPCookieConsent
+|false
+|ez_pub_site
+|false
+|ez_rdr
+|false
+|ez_rdr_count
+|false
+|freewheel-detected-bandwidth
+|Used to check and record how fast your internet connection is
+|false
+|session_depth
+|Used to track the number of pages you visit in a session on this site.
+|false
+|wordpress_logged_in_86678a962eed259d0fda3c248901cdd8
+|false
+|wordpress_test_cookie
+|WordPress sets this cookie when you navigate to the login page. The cookie is used to check whether your web browser is set to allow, or reject cookies.
+|false
+|wp-settings-1
+|false
+|wp-settings-time-1
+|false

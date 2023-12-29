@@ -1,0 +1,8 @@
+14 Tbps+ global network, real-time tech support and 100% transparent pricing are just a few reasons why Hubble images are delivered around the Earth using CDN77.
+Speed up your online presence, be it website acceleration, software distribution, gaming, VOD services or any other content delivery.
+Live, linear or VOD broadcast. An end-to-end solution built upon our CDN that treats your viewers with smooth video experience.
+Redundant global network designed to absorb peaks of all sizes.
+Strategic data centers in North America, Europe as well as 3 PoPs South America and 12 PoPs in Asia.
+CDN supports TLS 1.3, Brotli, HTTP/2 Server Push, and Let’s Encrypt.
+In-house engineers with a live chat response time under 50 seconds.
+Check the side-by-side comparison with other CDN providers such as StackPath, Fastly, Amazon CloudFront or Akamai. Get the full picture of PAYG and Monthly pricing models, key features and security.

@@ -1,0 +1,8 @@
+If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
+Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
+Do you know why the TTL (time to live) is so crucial for your DNS management?
+Suggested article from our blog: https://www.cloudns.net/blog/ttl/
+TTL meaning:
+The TTL - Time to live is a mechanism that limits how long the data should be kept before discarding. In the DNS (Domain name system), it has a value in seconds. The best DNS service providers, like ClouDNS, present an option to set different TTL values for all of your DNS zone records. These values determine how long the Recursive DNS server would keep the information depending on the predetermined time.
+People prefer various TTL periods for its DNS records. You should determine the best one for your needs. ClouDNS can help you with some recommendations:
+Let's summarize, TTL - Time to live in the Domain name system has a value in seconds, which determines how long the Recursive DNS server would keep the DNS cache.

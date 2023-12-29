@@ -1,0 +1,21 @@
+Latest Videos & Blog Posts
+-
+Too Old to Rock n’Roll?
+October 25, 2019
+Young developers are hyper concerned about learning the newest programming languages and frameworks only … but the most popular languages today are 20+ years old! Alright yung’uns, gather ’round the fire… I know, everyone has indoor heating and there’s no need for fires anymore but this is gonna help with the over all ‘flavor’ for …
+-
+Creating Our Replacements
+October 11, 2019
+Will AI replace software developers in a short time? For those of you keeping score at home we actually dove into this a year ago, but since a newly published Forbes article has pointed out some advancements in AI learning, we’d like to comment on the, ‘next step towards Skynet’. So in the interest of …
+-
+Frame[work] of Mind
+September 27, 2019
+Vue.js, React and Angular are the big three JavaScript frameworks. But which one is the best in 2019? There are many JavaScript frameworks out there but Vue.js, React, and Angular are easily (though, I guess also arguably) the top three. All three have their strengths and uses, but if you want to find the best …
+-
+The Oracle Brings News of Change…
+September 26, 2019
+Oracle releases Java 13 and things are changing! All jokes of ominous soothsaying and portents aside, Oracle has released Java 13 with a promise of updates every six months. This is kind of a big deal because they are famous for releasing updates every 3 years, up until about 2017… This article goes into more …
+-
+Am I Too Stupid to Learn Java?
+September 19, 2019
+Is Java easy to learn or am I just not good at programming? First of all, I think we can all agree: Awwww, muffin, no! Second, “99% of the time, when you’re running into problems…learning a programming language -especially Java- it’s normal for everybody and 99% of the time you just have to give yourself …

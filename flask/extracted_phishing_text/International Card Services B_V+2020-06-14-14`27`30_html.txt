@@ -1,0 +1,4 @@
+Inloggen Mijn ICS
+login.saveUsername.microcopy
+Update van uw app nodig
+Aan de ICS App zijn extra's toegevoegd, zoals inloggen met een vingerafdruk en een nieuwe manier voor het goedkeuren van online betalingen. Daarom moet u de app updaten en opnieuw activeren. Houd hiervoor uw creditcard bij de hand.

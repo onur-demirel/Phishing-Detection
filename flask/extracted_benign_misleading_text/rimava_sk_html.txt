@@ -1,0 +1,1 @@
+Access denied Welcome to phpMyAdmin 2.10.1 Wrong username/password. Access denied.

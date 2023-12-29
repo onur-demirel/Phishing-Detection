@@ -1,0 +1,38 @@
+What we are
+We fetch files from many public places at very high speeds, then put them into your digital stash.
+We are more like the remote version of the "/downloads" directory on your computer. We do the downloading for you and then we serve up the goods to your devices.
+What we are not
+We are not a backup or syncing service like Dropbox or Google Drive where you upload your own stuff for safekeeping.
+We are also not a cyber-locker where you can upload something and make it available to the whole public.
+Sneak Peek
+Apps & Integrations
+Apple TV
+If you have a 4th generation Apple TV with tvOS, there is an official put.io app for it!
+iOS Apps
+There are several put.io clients on the App Store made by our users and also an official one.
+AirPlay
+You can send videos from our web app to your AirPlay devices, with subtitles!
+Roku Channel
+You can access your content with your Roku through our private channel.
+Samsung Tizen TV
+If you have a Samsung TV born after 2015, there is an official put.io app for it!
+LG webOS TV
+Visit tv.put.io from your LG's browser and control it with your remote.
+Amazon Fire TV
+Our official TV app is also compatible with Fire TV and easy to install.
+Android Apps
+There are several put.io clients on the Google Play Store, made by our users!
+Chromecast
+Send videos from our web app to your Chromecast devices, with subtitles!
+Kodi
+You can access your account from your Kodi device with our official addon.
+IFTTT
+If this then put.io = endless possibilities.
+FTP & WebDAV
+You have the option of downloading via FTP (Explicit FTP over TLS) or WebDAV.
+Browser Extensions
+Stash files from all around the web to your account with right click!
+Gaming Consoles
+Want to watch your favorite videos on your gaming console? tv.put.io comes to rescue!
+Make Your Own!
+If you are a techy person, we have a well documented API that might be useful for you!

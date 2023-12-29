@@ -1,0 +1,130 @@
+MythicCraft
+The ultimate suite of advanced RPG plugins for Minecraft! Create custom mobs, items, classes, and more!
+Now that it's October, we're happy to announce our next contest - which is, of course, the Halloween Contest! This contest primarily takes place on the community Discord server, so I suggest you join if you want to be part of it!
+Theme
+The theme of this contest will be GHOSTS! We will also accept spirits, spectres, and other spooky spiritual things!
+Judging
+Mobs will be judged in these categories:
+For this contest, all entries *must* be submitted the following two ways:
+Prizes
+The entries will be evaluated by the MythicCraft Executive Judging Squad winners will be chosen!
+First Place
+- Two MythicCraft premium plugins for free of your choice
+- Special VIP role including Premium access
+- You can decide what feature we add next to one of our plugins (must be possible/reasonable/sensible, though)
+Second Place
+- One MythicCraft premium plugin for free of your choice
+More prizes added if we have at least 10 entries!
+Theme
+The theme of this contest will be GHOSTS! We will also accept spirits, spectres, and other spooky spiritual things!
+Judging
+Mobs will be judged in these categories:
+- How well it incorporates the theme
+- Mechanics (does the boss do interesting things that require thought?)
+- Balance (is the boss difficult but possible to defeat?)
+- Special Effects (visual)
+- Special Effects (sounds)
+For this contest, all entries *must* be submitted the following two ways:
+- Upload a video to YouTube with #MythicMobsContest in the title, and post it in the contest channel on our Discord Server
+- Include your server IP and information on how everyone can join your server to check it out!
+Prizes
+The entries will be evaluated by the MythicCraft Executive Judging Squad winners will be chosen!
+First Place
+- Two MythicCraft premium plugins for free of your choice
+- Special VIP role including Premium access
+- You can decide what feature we add next to one of our plugins (must be possible/reasonable/sensible, though)
+Second Place
+- One MythicCraft premium plugin for free of your choice
+More prizes added if we have at least 10 entries!
+Hey everyone!
+We have now released MythicMobs v4.6.5 for everyone! This update will run on 1.14, and also has lots of bug fixes that we've merged from the 4.7 dev builds! While this version doesn't contain all of the new 1.14 features, it should run as smoothly as on 1.13. New features can be found in the dev builds!
+If you're upgrading from 4.5 make sure to read the changelog to see all the new goodies.
+If you're happy that we've made v4.6 free for everyone, please make sure to leave a 5 star review on spigot and consider donating or subscribing to MythicMobs premium so we can keep working hard on new stuff!
+You can get it from the Download tab. Have fun everyone!
+We have now released MythicMobs v4.6.5 for everyone! This update will run on 1.14, and also has lots of bug fixes that we've merged from the 4.7 dev builds! While this version doesn't contain all of the new 1.14 features, it should run as smoothly as on 1.13. New features can be found in the dev builds!
+If you're upgrading from 4.5 make sure to read the changelog to see all the new goodies.
+If you're happy that we've made v4.6 free for everyone, please make sure to leave a 5 star review on spigot and consider donating or subscribing to MythicMobs premium so we can keep working hard on new stuff!
+You can get it from the Download tab. Have fun everyone!
+We've gone ahead and released v4.6.0 as a "stable" build for all premium users.
+This is a massive update that includes many new systems, new mechanics, new conditions, and tons of other stuff! Including:
+To get it, just click the Download tab at the top and click to download the latest stable Premium version.
+As usual, this version will become available for free once the next "stable" version is released.
+This is a massive update that includes many new systems, new mechanics, new conditions, and tons of other stuff! Including:
+- Better Placeholders system, including PlaceholderAPI support
+- Variables! Both permanent and temporary
+- New in-line conditions
+- Finally the long-requested ~onDespawn trigger
+- Much more reliable mob saving, and saving of ALL data for non-despawning mobs/npcs
+- Huge Aura (buff/debuff) improvements
+- Some major droptable improvements
+- Tons of new mechanics/conditions
+- Many bug fixe
+To get it, just click the Download tab at the top and click to download the latest stable Premium version.
+As usual, this version will become available for free once the next "stable" version is released.
+Hello everyone!
+We have gone ahead and released a special version v4.5.7 for free! In this version we backported more bug fixes from v4.6.0, including re-adding support for WorldGuard 6 for those of you still using 1.8-1.12.
+The latest Stable Premium build has also been updated to v4.5.7 with the same bug fixes and changes, and also includes all the Premium-only stuff, so grab it if you aren't using v4.6 already!
+To celebrate, for the next few weeks anybody who leaves a 5-star review on Spigot will be entered into a raffle for 3 months of Premium (or one of our other plugins, if you already have Premium). You must be in our Discord to qualify and receive your prize, though.
+If you want to see more free releases in the future, please leave us a 5-star review on Spigot!
+To get it, just click the Download tab at the top and click to download the latest stable Free version.
+We have gone ahead and released a special version v4.5.7 for free! In this version we backported more bug fixes from v4.6.0, including re-adding support for WorldGuard 6 for those of you still using 1.8-1.12.
+The latest Stable Premium build has also been updated to v4.5.7 with the same bug fixes and changes, and also includes all the Premium-only stuff, so grab it if you aren't using v4.6 already!
+To celebrate, for the next few weeks anybody who leaves a 5-star review on Spigot will be entered into a raffle for 3 months of Premium (or one of our other plugins, if you already have Premium). You must be in our Discord to qualify and receive your prize, though.
+If you want to see more free releases in the future, please leave us a 5-star review on Spigot!
+To get it, just click the Download tab at the top and click to download the latest stable Free version.
+Hello everyone!
+We have gone ahead and released a special version v4.5.5 for free! In this version we backported lots of bug fixes from v4.6.0, along with all of our API changes/additions, so your favorite add-ons can update to support all the latest stuff. We have also released a matching Artifacts version.
+The latest Stable Premium build has also been updated to v4.5.5 with the same bug fixes and changes, and also includes all the Premium-only stuff, so grab it if you aren't using v4.6 already!
+* Since we just posted it, the free version may take a few hours to be approved on BukkitDev
+If you want to see more free releases in the future, please leave us a 5-star review on Spigot!
+To get it, just click the Download tab at the top and click to download the latest stable Free version.
+We have gone ahead and released a special version v4.5.5 for free! In this version we backported lots of bug fixes from v4.6.0, along with all of our API changes/additions, so your favorite add-ons can update to support all the latest stuff. We have also released a matching Artifacts version.
+The latest Stable Premium build has also been updated to v4.5.5 with the same bug fixes and changes, and also includes all the Premium-only stuff, so grab it if you aren't using v4.6 already!
+* Since we just posted it, the free version may take a few hours to be approved on BukkitDev
+If you want to see more free releases in the future, please leave us a 5-star review on Spigot!
+To get it, just click the Download tab at the top and click to download the latest stable Free version.
+Hello everyone!
+Now that Spigot 1.13.2 is finally stable, we've gone ahead and released v4.5.0 to everyone for free for the Holiday season. This includes full support for 1.13.X and for other versions as far back as 1.7.4.
+If you want to see more free releases in the future, please leave us a 5-star review on Spigot!
+This is a massive update and while it should be mostly bug-free, there may still be some kinks to work out. If you encounter any problems, please post a bug report!
+We have also promoted v4.5.2 to the latest Stable Premium version. It contains the latest bug fixes and optimizations.
+To get them, just click the Download tab at the top and click to download the latest stable Free version.
+Now that Spigot 1.13.2 is finally stable, we've gone ahead and released v4.5.0 to everyone for free for the Holiday season. This includes full support for 1.13.X and for other versions as far back as 1.7.4.
+If you want to see more free releases in the future, please leave us a 5-star review on Spigot!
+This is a massive update and while it should be mostly bug-free, there may still be some kinks to work out. If you encounter any problems, please post a bug report!
+We have also promoted v4.5.2 to the latest Stable Premium version. It contains the latest bug fixes and optimizations.
+To get them, just click the Download tab at the top and click to download the latest stable Free version.
+We've gone ahead and released v4.5.0 as a "stable" build for all premium users.
+This version includes both 1.13 support and full support for backwards compatibility. We have rewritten huge parts of the plugin to be both backwards and forwards compatible and continue to support as far back as 1.8 where possible. This was a massive internal update due to the nature of 1.13's sweeping changes.
+Item configs should not require updating, as we've added in a "translator" to ensure the old item IDs and data values will still be usable, even on 1.13+. There may be cases we missed though, so please submit bug reports if you encounter problems!
+To get it, just click the Download tab at the top and click to download the latest stable Premium version.
+As usual, this version will become available for free once the next "stable" version is released.
+This version includes both 1.13 support and full support for backwards compatibility. We have rewritten huge parts of the plugin to be both backwards and forwards compatible and continue to support as far back as 1.8 where possible. This was a massive internal update due to the nature of 1.13's sweeping changes.
+Item configs should not require updating, as we've added in a "translator" to ensure the old item IDs and data values will still be usable, even on 1.13+. There may be cases we missed though, so please submit bug reports if you encounter problems!
+To get it, just click the Download tab at the top and click to download the latest stable Premium version.
+As usual, this version will become available for free once the next "stable" version is released.
+We've gone ahead and released v4.4.1 for free. This includes numerous bug fixes. If you want to see more free releases in the future, please leave us a 5-star review on Spigot!
+This version does not include native 1.13 or 1.13.1 support, but most features should work. If you're looking for full support, check out MythicMobs Premium to get access to dev builds. v4.5.0 with 1.13 support will be released in the near future.
+To get it, just click the Download tab at the top and click to download the latest stable Free version.
+This version does not include native 1.13 or 1.13.1 support, but most features should work. If you're looking for full support, check out MythicMobs Premium to get access to dev builds. v4.5.0 with 1.13 support will be released in the near future.
+To get it, just click the Download tab at the top and click to download the latest stable Free version.
+We've gone ahead and released v4.4.0 for free for everyone to use.
+This version includes our new Drops APIs for other plugins to use, as well as numerous improvements and performance enhancements to the DropTables system. We've also thrown in some new mechanics and goodies for you to use! All the changes are listed in the changelog, and should be put on the manual shortly.
+We anticipate v4.4.1 will become free in the next week or two once v4.5.0 is released as the next stable premium version.
+This version does not include native 1.13 or 1.13.1 support. If you're looking for that, check out MythicMobs Premium to get access to the latest versions now!
+To get it, just click the Download tab at the top and click to download the latest stable Free version.
+This version includes our new Drops APIs for other plugins to use, as well as numerous improvements and performance enhancements to the DropTables system. We've also thrown in some new mechanics and goodies for you to use! All the changes are listed in the changelog, and should be put on the manual shortly.
+We anticipate v4.4.1 will become free in the next week or two once v4.5.0 is released as the next stable premium version.
+This version does not include native 1.13 or 1.13.1 support. If you're looking for that, check out MythicMobs Premium to get access to the latest versions now!
+To get it, just click the Download tab at the top and click to download the latest stable Free version.
+We've gone ahead and released v4.4.0 as a "stable" build for all premium users. This version includes our new Drops APIs for other plugins to use, as well as numerous improvements and performance enhancements to the DropTables system. We've also thrown in some new mechanics and goodies for you to use! All the changes are listed in the changelog, and should be put on the manual shortly.
+This version also contains tons of bug fixes. As usual, please report any new (or old) bugs you encounter on our bug reports forum so we can get them fixed. We will be releasing a v4.4.1 within the next week with any additional bug fixes for issues that crop up, and will continue working on bug fixes until Minecraft 1.13 is released, at which point we will start work on v4.5.0.
+To get it, just click the Download tab at the top and click to download the latest stable Premium version.
+As usual, this version will become available for free once the next "stable" version is released.
+Exciting stuff will be coming when Minecraft 1.13 hits. Stay tuned, and don't forget to join our Discord to discuss the latest updates!
+This version also contains tons of bug fixes. As usual, please report any new (or old) bugs you encounter on our bug reports forum so we can get them fixed. We will be releasing a v4.4.1 within the next week with any additional bug fixes for issues that crop up, and will continue working on bug fixes until Minecraft 1.13 is released, at which point we will start work on v4.5.0.
+To get it, just click the Download tab at the top and click to download the latest stable Premium version.
+As usual, this version will become available for free once the next "stable" version is released.
+Exciting stuff will be coming when Minecraft 1.13 hits. Stay tuned, and don't forget to join our Discord to discuss the latest updates!
+Page 1 of 5
+XenPorta 2 PRO © Jason Axelrod from 8WAYRUN.COM

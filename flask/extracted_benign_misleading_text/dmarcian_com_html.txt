@@ -1,0 +1,33 @@
+Warning
+Error
+Access/bookmark this inspection at
+Did you mean
+?
+Is your domain protected?
+Check my domain
+Monitor and control your DMARC process with dmarcian.
+Warning
+Error
+Access/bookmark this inspection at
+Did you mean
+?
+Is your domain protected?
+Check my domain
+Allow our application to process and visualize DMARC data in ways that expose authentication gaps (SPF/DKIM) and unauthorized use of your domains.
+Recommended for organizations of all sizes and
+DMARC needs.
+Have confidence and expedite your DMARC project timeline by allowing our Deployment Managers to take you through our project-based approach.
+Ideal for organizations new to DMARC or ones needing assistance bringing about change.
+Get on-demand support when needs arise. We can help you manage DMARC-related incidents, regular data reviews, ongoing compliance, and embedding DMARC into daily operations.
+Best for organizations that need incident-response assurances or intermittent support.
+Security
+Prevent unauthorized use of your email domain to protect people from spam, fraud, and phishing.
+Visibility
+dmarcian’s tools shows you who and what across the Internet is sending email using your email domain.
+Delivery
+dmarcian gives you access to the same modern plumbing that mega companies use to deliver email.
+Identity
+Make your email easy to identify across the huge and growing footprint of DMARC – capable receivers.
+Founded in 2012 by one of the primary authors of the DMARC specification, dmarcian is dedicated to upgrading the entire world’s email by making DMARC accessible to all. dmarcian brings together thousands of senders, vendors, and operators in a common effort to build DMARC into the email ecosystem. Our customers range from banks and top internet properties to governments, marketing agencies, telecoms, nonprofits and commercial enterprises of all sizes.
+Your email is a key factor in your online identity. Not only does email connect workers, partners and customers together, it is part of your brand and represents your organization to the outside world. Email is an important resource that needs to be safeguarded and secured. At dmarcian, we see email security and authentication as cornerstones of the Internet. We believe email is worth fixing.
+dmarcian is the leading full service provider of DMARC.

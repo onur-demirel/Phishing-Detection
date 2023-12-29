@@ -1,0 +1,49 @@
+LimeSurvey - The No.1 of open source survey tools
+LimeSurvey is the tool to use for your online surveys.
+Whether you are conducting simple questionnaires with just a couple of questions or advanced assessments with conditionals and quota management, LimeSurvey has got you covered.
+LimeSurvey is 100% open source and will always be transparently developed.
+We can help you reach your goals.
+Features tailored to your every need.
+Explore the vast possibilities you have to create your survey professionally with LimeSurvey.
+Starting with the inbuilt template editor through to advanced scripting abilities inside of the question editor and the mighty expression manager.
+However, if some feature you need is missing, you may also submit a feature request.
+Hosting locations
+Hosting locations in Germany, Canada, USA, Australia and the United Kingdom
+All of your survey data will be securely held on servers in the chosen country.
+Multilingual
+Supporting more than 80 languages
+Unlimited administrators
+Give administrative access to colleagues or friends
+28 different question types
+We have them all!
+What you see is what you get
+Simple editing of your HTML content
+Quota management
+Control your target group participation by quotas
+Skip logic / branching
+Set conditions for your questions based on previous answers
+Reuse survey content
+Copy questions, answers or complete surveys
+Analyze your surveys easier
+Use assessment scores to analyze survey site.
+Invite and remind
+Invite your participant using LimeSurvey
+Anonymized responses - protected participants
+Invite participants by email and anonymize their responses
+Open and closed surveys
+Create invite-only, open or public surveys
+Design your survey appearance
+Individual design of your survey
+Offline functionality
+Printable version and manual data entry
+Visualize your response data
+Create statistics and graphs inside the application
+Export your responses
+Export to all common formats and applications
+Dynamic questions
+Create questions based on previous answers
+LimeSurvey has a lot more features. Try it for free by creating an account now or convince yourself in our online demo.
+Profit from our vibrant community.
+The main force of LimeSurvey is that it is transparent as well as publicly accessible. Open source is essentially the product of a community.
+It pools the power of many coders in order to achieve bigger things.
+Our community is our foundation. Thanks to the continuous feedback and the fresh ideas, we can constantly advance LimeSurvey. We control the flow of ideas to ensure that LimeSurvey is always a stable and reliable solution for your business.

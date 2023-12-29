@@ -1,0 +1,8 @@
+Updates to sign in with Google
+Updates to sign in with Facebook
+What is Changing?
+Starting 26th February 2020, sign in with Google will not be supported
+Starting 26th February 2020, sign in with Facebook will not be supported
+How will I sign in?
+You can simply sign in using the same email or mobile you use to sign in to Google
+You can simply sign in using the same email or mobile you use to sign in to Facebook

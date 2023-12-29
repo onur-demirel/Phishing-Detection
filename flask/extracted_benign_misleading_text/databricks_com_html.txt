@@ -1,0 +1,587 @@
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|__cf_bm
+|app-ab27.marketo.com
+|This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+|1 day
+|HTTP
+|__cfduid [x4]
+|app-ab27.marketo.com
+databrickssaleshelp.zendesk.com
+maxmind.com
+zdassets.com
+|Used by the content network, Cloudflare, to identify trusted web traffic.
+|1 year
+|HTTP
+|__zlcstore
+|databricks.com
+|This cookie is necessary for the chat-box function on the website to function.
+|Persistent
+|HTML
+|CookieConsent
+|databricks.com
+|Stores the user's cookie consent state for the current domain
+|1 year
+|HTTP
+|oribi_cookie_test
+|databricks.com
+|This cookie determines whether the browser accepts cookies.
+|Session
+|HTTP
+|ZD-suid
+|databricks.com
+|Unique id that identifies the user's session.
+|Persistent
+|HTML
+|__cfruid
+|databrickssaleshelp.zendesk.com
+|This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
+|Session
+|HTTP
+|uc_session
+|dropboxusercontent.com
+|Determines whether the visitor has accepted the cookie consent box.
+|Session
+|HTTP
+|bcookie [x2]
+|slideshare.net
+linkedin.com
+|This cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their LinkedIn application for example.
+|2 years
+|HTTP
+|language
+|slideshare.net
+|Saves the user's preferred language on the website.
+|Session
+|HTTP
+|SERVERID
+|slideshare.net
+|This cookie is used to assign the visitor to a specific server - this function is necessary for the functionality of the website.
+|Session
+|HTTP
+|AWSALB
+|zopim.com
+|Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+|6 days
+|HTTP
+|SSESS#
+|databricks.com
+|Pending
+|Session
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|lang [x3]
+|ads.linkedin.com
+linkedin.com
+slideshare.net
+|Remembers the user's selected language version of a website
+|Session
+|HTTP
+|ZD-settings
+|databricks.com
+|Arbitrary and anonymous settings for the user's preferences when browsing a Zendesk knowledge base.
+|Persistent
+|HTML
+|ZD-store
+|databricks.com
+|Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user.
+|Persistent
+|HTML
+|locale
+|dropbox.com
+|The cookie determines the preferred language and country-setting of the visitor - This allows the website to show content most relevant to that region and language.
+|5 years
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|_ga
+|databricks.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|2 years
+|HTTP
+|_gat
+|databricks.com
+|Used by Google Analytics to throttle request rate
+|1 day
+|HTTP
+|_gid
+|databricks.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|1 day
+|HTTP
+|_hp2_id
+|databricks.com
+|stores user_id, identity, other ids
+|2 years
+|HTTP
+|_vis_opt_s
+|databricks.com
+|Used by Visual Website Optimizer to determine if the visitor is participating in a design experiment.
+|99 days
+|HTTP
+|_vis_opt_test_cookie
+|databricks.com
+|Used to check if the user's browser supports cookies.
+|Session
+|HTTP
+|_vwo_uuid_v2
+|databricks.com
+|This cookie is set to make split-tests on the website, which optimizes the website's relevance towards the visitor – the cookie can also be set to improve the visitor's experience on a website.
+|1 year
+|HTTP
+|omVisits
+|databricks.com
+|This cookie is used to identify the frequency of visits and how long the visitor is on the website. The cookie is also used to determine how many and which subpages the visitor visits on a website – this information can be used by the website to optimize the domain and its subpages.
+|Persistent
+|HTML
+|omVisitsFirst
+|databricks.com
+|This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.
+|Persistent
+|HTML
+|vwoSn
+|databricks.com
+|This cookie is set to make split-tests on the website, which optimizes the website's relevance towards the visitor – the cookie can also be set to improve the visitor's experience on a website.
+|Persistent
+|HTML
+|ZD-buid
+|databricks.com
+|Unique id that identifies the user on recurring visits.
+|Persistent
+|HTML
+|ZD-currentTime
+|databricks.com
+|Registers the date and time for the user's latest visit to the website.
+|Session
+|HTML
+|S
+|docs.google.com
+|Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+|1 day
+|HTTP
+|UIDR
+|scorecardresearch.com
+|Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.
+|2 years
+|HTTP
+|__utma
+|slideshare.net
+|Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+|2 years
+|HTTP
+|__utm.gif
+|google-analytics.com
+|Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+|Session
+|Pixel
+|collect
+|google-analytics.com
+|Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+|Session
+|Pixel
+|UID
+|scorecardresearch.com
+|Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.
+|2 years
+|HTTP
+|__utmb
+|slideshare.net
+|Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+|1 day
+|HTTP
+|__utmc
+|slideshare.net
+|Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+|Session
+|HTTP
+|__utmt
+|slideshare.net
+|Used to throttle the speed of requests to the server.
+|1 day
+|HTTP
+|__utmz
+|slideshare.net
+|Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+|6 months
+|HTTP
+|_uv_id
+|slideshare.net
+|Collects data on the user's visits to the website, such as which pages have been read.
+|2 years
+|HTTP
+|slideshare.experiments
+|slideshare.net
+|Used by SlideShare to determine if the visitor is participating in a design experiment.
+|Persistent
+|HTML
+|personalization_id
+|twitter.com
+|This cookie is set by Twitter. The cookie allows the visitor to share content from the website on his/her Twitter profile.
+|2 years
+|HTTP
+|v.gif
+|visualwebsiteoptimizer.com
+|This cookie is set to make split-tests on the website, which optimizes the website's relevance towards the visitor – the cookie can also be set to improve the visitor's experience on a website.
+|Session
+|Pixel
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|BIGipServer#
+|app-ab27.marketo.com
+|Used to distribute traffic to the website on several servers in order to optimise response times.
+|Session
+|HTTP
+|AA003
+|atdmt.com
+|Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.
+|3 months
+|HTTP
+|ATN
+|atdmt.com
+|Targets ads based on behavioural profiling and geographical location.
+|2 years
+|HTTP
+|https://cx.atdmt.com/
+|atdmt.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|Session
+|Pixel
+|__zlcmid
+|databricks.com
+|Preserves users states across page requests.
+|1 year
+|HTTP
+|_fbp
+|databricks.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|_mkto_trk
+|databricks.com
+|Contains data on visitor behaviour and website interaction. This is used in context with the email marketing service Marketo.com, which allows the website to target visitors via email.
+|2 years
+|HTTP
+|_omappvp
+|databricks.com
+|Used by the lead generation platform OptinMonster to determine if the visitor is returning and has visited the website before.
+|11 years
+|HTTP
+|_omappvs
+|databricks.com
+|Used by the lead generation platform OptinMonster to determine if the visitor is visiting the website for the first time.
+|1 day
+|HTTP
+|google_experiment_mod
+|databricks.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|Persistent
+|HTML
+|google_experiment_mod5
+|databricks.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|Persistent
+|HTML
+|google_experiment_mod6
+|databricks.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|Persistent
+|HTML
+|google_experiment_mod7
+|databricks.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|Persistent
+|HTML
+|google_experiment_mod8
+|databricks.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|Persistent
+|HTML
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|test_cookie
+|doubleclick.net
+|Used to check if the user's browser supports cookies.
+|1 day
+|HTTP
+|fr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|tr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|Session
+|Pixel
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+|NID
+|google.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|6 months
+|HTTP
+|rc::c
+|google.com
+|This cookie is used to distinguish between humans and bots.
+|Session
+|HTML
+|h
+|heapanalytics.com
+|Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.
+|Session
+|Pixel
+|bscookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|lidc
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|1 day
+|HTTP
+|UserMatchHistory
+|linkedin.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|29 days
+|HTTP
+|images/1x1.gif
+|public.slidesharecdn.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|Session
+|Pixel
+|i/adsct
+|t.co
+|The cookie is used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content.
+|Session
+|Pixel
+|GPS
+|youtube.com
+|Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+|1 day
+|HTTP
+|PREF
+|youtube.com
+|Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+|8 months
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+|179 days
+|HTTP
+|YSC
+|youtube.com
+|Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|pagead/1p-user-list/#
+|google.com
+|Pending
+|Session
+|Pixel
+|bridge_sid_XzE5MDExNzE4MTk
+|oribi.io
+|Pending
+|1 day
+|HTTP
+|bridge_uid_XzE5MDExNzE4MTk
+|oribi.io
+|Pending
+|1 year
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|6suuid
+|6sc.co
+|Pending
+|2 years
+|HTTP
+|google_experiment_mod13
+|databricks.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod14
+|databricks.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod15
+|databricks.com
+|Pending
+|Persistent
+|HTML
+|v1/beacon/img.gif
+|b.6sc.co
+|Pending
+|Session
+|Pixel
+|_gd_session
+|databricks.com
+|Pending
+|1 day
+|HTTP
+|_gd_svisitor
+|databricks.com
+|Pending
+|20 years
+|HTTP
+|_gd_visitor
+|databricks.com
+|Pending
+|20 years
+|HTTP
+|_hp2_hld#.undefined
+|databricks.com
+|Pending
+|Session
+|HTTP
+|_hp2_id.#
+|databricks.com
+|Pending
+|2 years
+|HTTP
+|_hp2_ses_props.3428506230
+|databricks.com
+|Pending
+|1 day
+|HTTP
+|google_experiment_mod10
+|databricks.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod11
+|databricks.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod12
+|databricks.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod16
+|databricks.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod17
+|databricks.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod18
+|databricks.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod19
+|databricks.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod4
+|databricks.com
+|Pending
+|Persistent
+|HTML
+|google_experiment_mod9
+|databricks.com
+|Pending
+|Persistent
+|HTML
+|google_pem_mod
+|databricks.com
+|Pending
+|Persistent
+|HTML
+|oribi_session
+|databricks.com
+|Pending
+|1 day
+|HTTP
+|oribi_user_guid
+|databricks.com
+|Pending
+|1 year
+|HTTP
+|__Host-js_csrf
+|dropbox.com
+|Pending
+|3 years
+|HTTP
+|__Host-ss
+|dropbox.com
+|Pending
+|3 years
+|HTTP
+|gvc
+|dropbox.com
+|Pending
+|5 years
+|HTTP
+|t
+|dropbox.com
+|Pending
+|3 years
+|HTTP
+One cloud platform for massive scale data engineering and collaborative data science
+Increases the reliability, quality,and performance of data lakes
+Enables collaborative data scienceand machine learning on all your data
+Delivers actionable insights andpredictions to the business
+“Databricks’ unified platform has helped foster collaboration across our data science and engineering teams which has impacted innovation and productivity.”
+- John Landry, Distinguished Technologist at HP, Inc.

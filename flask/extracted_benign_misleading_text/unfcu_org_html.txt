@@ -1,0 +1,20 @@
+Please enter your Digital Banking username.
+If you are not sure what to enter, view our two minute webinar.
+Not yet enrolled in Digital Banking?
+Enroll to start banking online.
+Please enter your username that you created when you enrolled in Digital Banking.
+Not yet enrolled in Digital Banking?
+Enroll to start banking online.
+|
+Digital Banking
+Username:
+This looks like a member number.
+Please enter your Digital Banking username.
+Not yet enrolled in Digital Banking?
+This looks like an email address.
+Please enter your username that you created when you enrolled in Digital Banking.
+Not yet enrolled in Digital Banking?
+|Remember me
+|
+ABA/Routing Number
+2260-7860-9

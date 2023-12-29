@@ -1,0 +1,32 @@
+Build servers build, Octopus deploys.
+Octopus is the deployment automation server for your entire team, designed to make it easy to orchestrate releases and deploy applications, whether on-premises or in the cloud.
+Promote releases between environments
+Octopus takes care of your dev, QA, acceptance testing and production deployments. Limit who can deploy to production, ensure releases have been tested first, schedule deployments for later tonight, or block promotion of broken releases.
+Repeatable & reliable deployments
+For each release, you'll build your binaries once, but deploy and promote them many times, ensuring that what goes to production is exactly what you just tested. The way we model your deployment process ensures that deployments are as consistent as possible between environments, so that when you're ready to go to production, you'll be confident that it will Just Work™
+Complex deployments made easy
+High level deployment steps for .NET, Java and other platforms, the ability to run custom scripts, management of sensitive variables, and advanced deployment patterns means Octopus can simplify even the most complicated application deployments.
+Intuitive, easy to use dashboard
+Tired of being asked what version of the app is in test today, or not sure if last night's staging deployment was successful? Octopus radiates information, telling your team at a glance what's deployed where.
+Easy to get started
+No consultants needed. Use Octopus Cloud to get started with a hosted Octopus instance immediately or download Octopus Server and within minutes you'll be set up, and within an hour you'll have automated a successful deployment. Octopus is intuitive to use and comes with a ton of useful documentation and training videos if you get stuck.
+First class platform support
+Octopus comes bundled with built-in conventions for deploying different types of applications, handling configuration files, and calling scripting languages of your choice. And our community library provides over 200 steps that you can reuse.
+Versatile integration with your existing build pipeline
+Octopus doesn't replace your existing continuous integration solution - it complements it. Command line tooling plus first-class plugins for the most common CI servers means you can trigger deployments to dev or test environments as soon as a successful build completes.
+Automate your deployments to the cloud or on-premises
+Octopus provides an agent called Tentacle that supports deployment to virtual machines - whether they're on-premises or hosted in AWS EC2 or Azure VMs. Octopus also speaks SSH, and has first class support for various cloud vendor specific deployment targets.
+For real-world deployments
+We didn't build Octopus for "publish to production from your IDE" demos - we built it for the real world. Whether you need to be PCI compliant, have an air gap between your dev environment and production, or need to involve humans in the deployment process, Octopus has you covered.
+Consistent deployments, Enterprise scale
+Octopus isn't just for small projects and teams; real organizations like Accenture, NASA, ASOS and Commonwealth Bank of Australia have made Octopus their enterprise-wide standard.
+Extensibility & REST API
+The Octopus UI is built over a REST API, so anything the UI does, you can do too
+- 22,000+
+- Customers
+- 18,000,000+
+- Deployments to date
+- 120,000+
+- Octopus server users
+- 289,000+
+- Machines running Tentacle

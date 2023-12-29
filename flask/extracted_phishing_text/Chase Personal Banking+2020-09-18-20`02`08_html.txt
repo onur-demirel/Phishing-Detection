@@ -1,0 +1,6 @@
+Please tell us your username and password.
+Remember me
+Use token
+Sign in
+Forget username/password?
+Not enrolled? Sign up now.

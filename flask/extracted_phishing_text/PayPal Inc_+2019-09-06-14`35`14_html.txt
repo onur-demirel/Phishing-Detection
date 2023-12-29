@@ -1,0 +1,11 @@
+<p class="nonjsAlert" role="alert">NOTE: Many features on the PayPal Web site require Javascript and cookies.</p>
+PayPal
+Log in to your PayPal account
+Email
+Required
+That email format isn't right
+Password
+Required
+Log In
+Having trouble logging in?
+Sign Up

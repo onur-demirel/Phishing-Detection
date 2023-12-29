@@ -1,0 +1,47 @@
+Download the free Postman app to get started.
+8 million +
+Developers
+400,000 +
+Companies
+250 million +
+APIs
+Postman is a collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
+Quickly and easily send REST, SOAP, and GraphQL requests directly within Postman.
+Automate manual tests and integrate them into your CI/CD pipeline to ensure that any code changes won't break the API in production.
+Communicate the expected behavior of an API by simulating endpoints and their responses without having to set up a backend server.
+Generate and publish beautiful, machine-readable documentation to make your API easier to consume.
+Stay up-to-date on the health of your API by checking performance and response times at scheduled intervals.
+Provide a shared context for building and consuming APIs, and collaborate in real-time with built-in version control.
+Discover how Postman fits into your specific use case, whether you work in development, testing and QA, or product management.
+Discover how Postman enables API-first development, automated testing, and developer onboarding.
+Release reliable services by building your API before deploying code.
+Eliminate dependencies and reduce time to production by having front-end and back-end teams work in parallel.
+Automate manual tests and integrate them into your CI/CD pipeline to ensure that any code changes won't break the API in production.
+Explore the API by sending it different kinds of data to see what values are returned.
+Quickly get consumers up to speed on what your API can do and how it works.
+Publish API documentation to help internal and external consumers adopt your APIs.
+Cisco uses Postman collections to drive API adoption
+"We love Postman...It helps people conceptualize what's going on and see the results of the API in action, without having to write any code."
+Ashley Roach, Principal Engineer Evangelist
+Imgur ensures consistency across teams with Postman
+"Postman is a single, unified tool that has our API documentation and integration tests in one place, so that it's consistent across teams."
+Dan Pastusek, Senior Platform Engineer
+Microsoft uses Postman Monitors to observe the health of their APIs
+"On the Microsoft Education team, we've moved from using Postman as a highly productive dev console to monitoring our APIs with just a few clicks."
+Gareth Jones, Principal API Architect
+AMC onboards developers with Postman documentation
+"Postman Pro is a great tool that enables team collaboration. The sharing capabilities help make onboarding new developers and partners a much easier process."
+Ian Joyce, Director, API Platform & Ecommerce
+Movember uses Postman to check API performance
+"We use Postman to make sure our APIs' performance is within tolerance. It's more efficient, less expensive, and gives us confidence as we transition over to a new framework."
+Marcus Nance, Delivery Lead
+Shopify debugs support issues with Postman
+"We use Postman as a tool for...debugging support issues, and providing our partners with a way to instantly make sample requests to the various API endpoints across our Platform."
+Jordan Liddle, Developer
+Just download the Postman App and send your first request in minutes. Postman is free to download and use for teams of any size.
+Make any kind of API call—REST, SOAP, or plain HTTP—and easily inspect even the largest responses. Postman also has built-in support for popular data formats such as OpenAPI GraphQL, and RAML.
+Customize Postman for your needs with the Postman API. Integrate test suites into your preferred CI/CD service with Newman, our command line collection runner.
+We continually make improvements and add new features based on feedback from our community of over 8+ million users—who can also help you get the most out of Postman on our
+For API developers, the Postman API Network is an easy way to discover and consume the world's most popular APIs.
+Created by and for developers, Postman has been a community-driven project from the very start. We continually make improvements and add new features based on feedback from our community of more than 8 million.
+We've also created the Postman Community Forum as a place for our community to talk to each other and help each other out with questions. Whether you're new to Postman or a seasoned power user, the forum is a great place to post questions and share ideas on a variety of API development topics with fellow Postman users and the Postman team.

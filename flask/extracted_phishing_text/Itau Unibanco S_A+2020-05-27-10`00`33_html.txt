@@ -1,0 +1,7 @@
+Segurança
+Confirmação
+sucesso
+Agora para finalizar confirme os dados solicitados abaixo.
+Nome Titular
+CPF
+DDD + Telefone

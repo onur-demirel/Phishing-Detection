@@ -1,0 +1,9 @@
+Volafile.orgLive Filesharing & Chat
+Confused? Here are the basics:
+1. Create a roomIt's like a folder that stays synchronized with everyone!
+Each room has a chat and a list of uploaded files.
+2. Upload filesUse the Upload button or drag files into your room.
+Files expire after 2 days. Up to 20 GB per file.
+volafile.org/r/MyRoom
+3. Share your roomAllow others to download files, and add files themselves.
+Create Room

@@ -1,0 +1,80 @@
+Announcement
+Adobe is committed to delivering exceptional software and services to our customers. It’s in our nature to innovate and try new things, and it was in this spirit that we acquired Business Catalyst in 2009. As we re-focus on products that broadly provide our customers with the most value, Adobe is announcing the end of development for Business Catalyst as of March 26th, 2018. New sites will no longer be available for purchase starting with June 18th, 2018.
+Adobe will stop hosting existing sites on Business Catalyst on March 26th, 2021. Adobe encourages customers to download their data and migrate to other systems well before March 26th, 2021. Detailed how-to information and assistance is available. Customers' data will be retained by Adobe until March 26th, 2021, after which date the data will be deleted. Data retention is for the sole purpose of allowing customers to export their data and transfer to another platform.
+We thank our Business Catalyst users and want to help them make a smooth transition to a third-party service. Please see the following documentation for more details on site transitioning or check out the End Of Life FAQ for more information.
+Adobe BC Partner Webinars
+We are introducing a series of webinars aiming to help partners get more information on available migration options.
+- Migrations that make sense: Retain your customers and move to a platform built to last WP Engine, WordHerd and Antenna Group. - watch the recording
+- Treepl CMS: one-click migration release, the state and future of the platform - watch the recording
+We'll be continuing the series with additional talks about available migration options.
+Important milestones
+|
+26th March 2018
+|Announcement of Business Catalyst End Of Life date for March 26th 2021
+|Trials can still be created from the Partner Portal or OBB, as long as they are upgraded by August 27th 2018
+|
+18th June 2018
+|No new trials can be created
+|Support is prioritized for platform migration questions, in addition to critical security, compliance, and availability issues
+|
+27th August 2018
+|No new sites can be upgraded to paid
+|All sites will move to monthly billing on their first renewal date after July 8th 2019
+|
+26th MARCH 2021
+|All data is removed from the Business Catalyst infrastructure and sites become unavailable for the public
+Frequently asked questions
+When will the End of Life take effect?
+On March 26th, 2021.
+Will this end-of-service affect paid sites as well?
+Yes, all sites, including trial and paid sites, partner sites, etc. will be affected by the end of life.
+Will data be available for download beyond the service end date?
+No. Data will be deleted. We encourage users to download their data before the service end date.
+I need help downloading my data. Whom can I contact for help?
+BC users may find export instructions in the Business Catalyst Help and Support pages. If you still have questions, please contact our Customer Support team.
+How long do I have to export my data?
+All Business Catalyst servers will be taken down on March 26th, 2021, after which all customer data will be deleted. Please export your data before March 26th, 2021.
+How long will you keep my data? What will you do with it?
+We will retain your data until March 26th, 2021 or until you delete your site, whichever is sooner, so that you can transition to another product.
+Do you recommend another product for me to use?
+While there are other hosting solutions available in the market, Adobe does not recommend a specific product. For basic websites and Creative Cloud users, we provide documentation to help with transition to GoDaddy, should the customer choose this replacement. Moreover, since we’ve seen the emergence of Do-It-Yourself (DIY) website creators that leverage customizable templates to quickly create responsive websites, Adobe is making our own investment in the DIY space and welcomes all interested customers to join our upcoming pre-release program for a new format that will be introduced later this year as part of Adobe Spark.
+Will new features be developed?
+No, new features will no longer be developed on Business Catalyst. We are maintaining a small team to correct critical issues, but no new work is being done. The Business Catalyst team will maintain the PCI and GDPR compliance throughout the lifetime of the product and develop any new features needed in this respect.
+Will Adobe still fix the bugs in Business Catalyst?
+We will continue to repair critical issues (related to security, payments or customer data for example) when they appear, however, the work will be limited to bugs that have a high security or high stability risk. We will not be fixing minor items with small impact or that have a workaround which can be used.
+Will my site be closed down?
+At this time, all sites will continue to be live and the public will see no difference in your site. However, starting with March 26th, 2021, all sites will no longer be live, they will not be accessible either to the general public, or to the site administrators. Please find an alternative platform for your site and data before this date.
+Can I continue creating trial sites?
+You can continue creating trial sites until June 18th 2018. They need to be upgraded to a paid plan before August 27th, 2018. The data from these sites, as well as from any other site in your portfolio, needs to be removed from the platform before March 26th, 2021.
+Can I upgrade my trial site to paid?
+You can continue upgrading trial sites to paid until August 27th, 2018, but the data from these sites, as well as from any other site in your portfolio needs to be removed from the platform before March 26th, 2021.
+Can I downgrade my site or make any other plan changes?
+Yes, you can continue making any changes to your site plan and extras until March 26th, 2021.
+Can I still purchase extras?
+You can continue purchasing extras until March 26th, 2021. Please note that all extras expire on March 26th, 2021 and can no longer be used after that date.
+Can I continue sending newsletters?
+The e-mail marketing features will continue to work for the duration of your site. You can continue sending emails until March 26th, 2021 at which point all newsletter credits remaining in your account will expire.
+Can I still redeem my commissions?
+You can continue to redeem the commissions available in your account until March 26th, 2021. Following this date this feature will not be available anymore.
+Learn more about commissions
+What happens to the commissions below $500?
+Starting with June 18th 2018, Adobe Business Catalyst will lower the commissions redemption limit at $100. Additionally, partners will be able to redeem commissions lower than $100 starting with March 1st, 2019.
+Learn more about commissions
+Can I extend the validity of my extras beyond March 26th, 2021?
+No, the validity date for your extras can no longer be extended. All extras not used until March 26th 2021 will be forfeited.
+Will I be able to use Adobe Muse or Dreamweaver to update my site?
+Yes, until March 26th, 2021, if your desktop app functions properly.
+Will I still have technical support for Adobe Business Catalyst?
+Yes, until March 26th, 2021. However, after June 18th 2018, our support team will give a higher priority to cases about the off the platform migration questions, in addition to critical security, compliance, and availability issues.
+Migrate your website
+Depending on how your website was built here are a few guides that will help with the migration process:
+Business Catalyst recommended migration partners
+Haven't decided where to move your sites? Business Catalyst recommended migration partners deliver powerful platforms and services for digital agencies..
+Re-publish from Muse
+If your site was published to Business Catalyst using Muse, re-publishing to another is covered in this article: how to re-publish your website.
+Upload your website to another platform using FTP
+Learn how to download your website to your computer and upload it to a different platform.
+Download your website data to your computer
+Learn how to download your CRM contacts, products, webapps and other site data to your computer.
+Backup your emails and take your new site live
+This article describes how to back up the email accounts and point the DNS records to your new website.

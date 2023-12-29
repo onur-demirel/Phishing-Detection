@@ -1,0 +1,8 @@
+Your Visa/Debit card is temporarily LOCKED due to several unsuccessful login attempts!
+For your security, Wells Fargo safeguards your account when there is a possibility that someone else than you is attempting to sign on.
+To reactivate your card, please login and reconfirm your information !
+https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&error=yes&destination=AccountRestore
+We apologize for any inconvenience this may cause, and appreciate your support in helping us maintaining the integrity of the entire Wells Fargo System.
+Thank you,
+Wells Fargo Security Advisor.
+Copyright 1999 - 2020 Wells Fargo. All rights reserved.

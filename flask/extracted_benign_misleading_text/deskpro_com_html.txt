@@ -1,0 +1,80 @@
+Deliver great customer service with our powerful and flexible helpdesk software.
+Try Deskpro for free. No credit card required. 30 second signup.
+Want an On-Premise Helpdesk Deployment?
+Arm your team with the tools they need to resolve any issue, together.
+Users can interact with your organization in whichever way suits them best.
+Help users help themselves with a fully-integrated knowledgebase software and 24/7 self-service portal, customized to fit each of your brands. Pick and choose the configuration of content types that works for your organization.Learn more about the Portal
+Migrate from your legacy helpdesk software to Deskpro with ease using our super-simple and secure importer tools. You'll be up and running in no-time.Learn more about migrating to Deskpro
+Say goodbye to confusing price plans. You get access to all Deskpro features for the same price, now and in the future.View pricing
+Support every product, region, and audience with a single helpdesk.
+Our agile, flexible and robust platform is easily tailored to fit your specific needs.
+Bring a 21st century customer experience to your phone support, using our built in call center software.
+A helpdesk that grows with you. Support your customers in different countries, languages & time-zones.learn more
+Save your support team hours of time by levearging automations for effective and efficient support.learn more
+Integrate with 1000+ other software applications, or build your own app on our platform.learn more
+All the best helpdesk features, from almost any mobile device with iOS & Android apps.learn more
+Organizations of all shapes and sizes use Deskpro to provide excellent support every day. See how they take advantage of powerful helpdesk features to nurture better and more meaningful relationships.
+University of Pennsylvania needed to provide a multitude of complex IT support services; whilst maintaining a low-cost, frictionless experience for ...Read their story
+Your helpdesk, your way. With Deskpro, you can deploy your helpdesk on your own server infrastructure or use our Cloud Service.Compare On-Premise and Cloud
+Deskpro has changed the name of the current “feedback” area to “community” – at the moment, the changes are entirely visual, and the functionality of the section remains the same. This is getting us ready to build a full...
+You don't just need to use your helpdesk for support, and increasing number of clients use Deskpro for change, workflow and task management. A common example we see in HR and Recruitment would be a set of tasks to complete when a new employ...
+What's Happening?We have upgraded the Swiftmailer version used on on our on-premise servers in version 2019.7. This allows support for encrypted connections over TLS versions 1.1 and 1.2 when connecting into external mail accounts. This wou...
+It is important to know who is actually involved in your email conversations. Support tickets are extremely versatile, and while you can see the current recipients involved in an overall conversation with ease, it is less clear who your end users are...
+“Deskpro is a great product and has helped us to improve the support we provide our customers, which in turn has helped us sell more.“
+Brandon Farrell
+IT Team Lead
+“There weren’t many options when it came to looking at On-Premise help desk software that had the level of features that we needed, but Deskpro was top of our list.“
+Eric Van Tol
+Director of Engineering and Support, Atlantech
+“Seriously the best helpdesk software, and I have evaluated just about all of them. Deskpro is simple to setup, easy to manage, powerful and really really flexible!“
+Brian Polakoff
+VP Sales, VAIRKKO
+“The user interface is simple to use and our agents and users appreciate the levels of uptime offered by Deskpro. The support is fantastic, personalized to us and responsive.“
+Anthony Irving
+Solution Architect, The Laptop Company
+“Great product, awesome and affordable. Implementation was quick and easy to implement.“
+Steve Lam Hang
+Technical Support Manager, Randstad
+“Deskpro provides us with maximum functionality at minimal cost. The system is intuitive, easy-to-use, and has evolved with us to meet our ever-changing business demands.“
+Ron Woody
+Director of Engineering and Support, Xerox
+“It’s the perfect environment to ensure our customers and agents are satisfied - all at fantastic value, too. Ten out of ten.“
+Jason Voice
+IT Helpdesk Leader
+“We can now provide customer support at speed, scale - and with the highest level of quality.“
+Janay Pyfrom-Symonette
+Chief Marketing Officer
+“Nothing falls through the cracks. We’ve greatly increased our response times, accountability, and quality of student support.“
+John Sparado
+Chief Information Officer
+“Deskpro is a great product and has helped us to improve the support we provide our customers, which in turn has helped us sell more.“
+Brandon Farrell
+IT Team Lead
+“There weren’t many options when it came to looking at On-Premise help desk software that had the level of features that we needed, but Deskpro was top of our list.“
+Eric Van Tol
+Director of Engineering and Support, Atlantech
+“Seriously the best helpdesk software, and I have evaluated just about all of them. Deskpro is simple to setup, easy to manage, powerful and really really flexible!“
+Brian Polakoff
+VP Sales, VAIRKKO
+“The user interface is simple to use and our agents and users appreciate the levels of uptime offered by Deskpro. The support is fantastic, personalized to us and responsive.“
+Anthony Irving
+Solution Architect, The Laptop Company
+“Great product, awesome and affordable. Implementation was quick and easy to implement.“
+Steve Lam Hang
+Technical Support Manager, Randstad
+“Deskpro provides us with maximum functionality at minimal cost. The system is intuitive, easy-to-use, and has evolved with us to meet our ever-changing business demands.“
+Ron Woody
+Director of Engineering and Support, Xerox
+“It’s the perfect environment to ensure our customers and agents are satisfied - all at fantastic value, too. Ten out of ten.“
+Jason Voice
+IT Helpdesk Leader
+“We can now provide customer support at speed, scale - and with the highest level of quality.“
+Janay Pyfrom-Symonette
+Chief Marketing Officer
+“Nothing falls through the cracks. We’ve greatly increased our response times, accountability, and quality of student support.“
+John Sparado
+Chief Information Officer
+“Deskpro is a great product and has helped us to improve the support we provide our customers, which in turn has helped us sell more.“
+Brandon Farrell
+IT Team Lead
+Try Deskpro for free. No credit card required. 30 second signup.

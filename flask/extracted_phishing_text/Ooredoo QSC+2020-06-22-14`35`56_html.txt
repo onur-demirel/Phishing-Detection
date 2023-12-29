@@ -1,0 +1,8 @@
+Ooredoo Webmail
+Welcome to Ooredoo Webmail
+User name
+Password
+Sign in
+Copyright © 2015, Ooredoo Q.S.C. and/or its affiliates. All rights reserved. Use is subject to license terms.
+</ iframe</div> <div class="copyright"> Copyright © 2013, Ooredoo Q.S.C. and/or its affiliates. All rights reserved. Use is subject to license terms. </div> </div> <div id="overlay" class="login"> <div class="centered"> <div class="logo"></div> <div id="progress"></div> </div> </div> <iframe name="picCache" id="picCache" src="" width=0 height=0 frameborder=0>
+</ iframe> <noscript> <div style="width:50%; margin-top: 5%; margin-left:auto; margin-right:auto"> <iframe src="noscript.html" frameborder=0 width=100%" /> </div> </noscript> </body> </html>

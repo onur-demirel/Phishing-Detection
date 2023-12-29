@@ -1,0 +1,8 @@
+Seu site se adaptará a todos os tamanhos de tela.
+Pesonalise menus, módulos e títulos como desejar.
+Interação com facebook
+Altere o posicionamento e cores dos módulos na home do site.
+Mostre ao ouvinte qual programa e locutor que está ao vivo naquele momento no site.
+Configure um e-mail para receber pedidos músicais realizados pelo site.
+Os ouvintes poderão interagir no site comentando no mural de recados.
+Cadastre e gerêncie noticias e destaques dentro do site.

@@ -1,0 +1,463 @@
+Aktuelle Zeit: 24.10.2019, 10:10
+-
+- Themen
+- Beiträge
+- Letzter Beitrag
+-
+Bewertung: 70.95%
+-
+Informationen zum HomeMatic-Forum
+Allgemeine Informationen und Ankündigungen zum HomeMatic-Forum
+Moderator: Co-AdministratorenThemen: 155
+- 155 Themen
+- 2653 Beiträge
+-
+Letzter Beitrag
+Re: Google Maps Karte aller U…
+von Markus1973 Neuester Beitrag
+23.10.2019, 07:29
+-
+-
+Bewertung: 17.32%
+-
+Neubau - Renovierung - Planung
+Allgemeine Fragen zum Thema Hausautomation bei Neubau und Renovierung, die (noch) nicht produktspezifisch sind
+Moderator: Co-AdministratorenThemen: 237
+- 237 Themen
+- 3868 Beiträge
+-
+Letzter Beitrag
+Re: Neubau, Fußbodenheizung, …
+von joersch Neuester Beitrag
+23.10.2019, 23:21
+-
+-
+Bewertung: 28.49%
+-
+Projektvorstellungen
+User stellen ihre Haussteuerung vor
+Moderator: Co-AdministratorenThemen: 417
+- 417 Themen
+- 12203 Beiträge
+-
+Letzter Beitrag
+Re: HM-LevelSensor: Ultrascha…
+von Wurzeldoktor Neuester Beitrag
+24.10.2019, 05:29
+-
+-
+Bewertung: 3.91%
+-
+Usertreffen und Stammtische
+Treffpunkt für lokale Aktivitäten
+Moderator: Co-AdministratorenThemen: 85
+- 85 Themen
+- 2081 Beiträge
+-
+Letzter Beitrag
+Re: Usertreffen in Stuttgart?
+von drake10 Neuester Beitrag
+24.10.2019, 07:11
+-
+-
+Bewertung: 11.73%
+-
+OffTopic
+Themen, die in keine andere Kategorie passen
+Moderator: Co-AdministratorenThemen: 670
+- 670 Themen
+- 6636 Beiträge
+-
+Letzter Beitrag
+Re: Problem mit Telegram
+von dtp Neuester Beitrag
+24.10.2019, 08:12
+-
+-
+- Themen
+- Beiträge
+- Letzter Beitrag
+-
+Bewertung: 60.89%
+-
+HomeMatic allgemein
+Allgemeines zur HomeMatic Haussteuerung
+Moderator: Co-AdministratorenThemen: 9419
+- 9419 Themen
+- 91887 Beiträge
+-
+Letzter Beitrag
+Re: Korrekter Einsatz des LAN…
+von dtp Neuester Beitrag
+24.10.2019, 08:06
+-
+-
+Bewertung: 88.27%
+-
+HomeMatic Tipps & Tricks - keine Fragen!
+Problemlösungen und Hinweise von allgemeinem Interesse zur Haussteuerung mit HomeMatic
+Moderator: Co-AdministratorenThemen: 694
+- 694 Themen
+- 29481 Beiträge
+-
+Letzter Beitrag
+Re: Howto - zentrales Beschat…
+von dtp Neuester Beitrag
+24.10.2019, 07:32
+-
+-
+Bewertung: 60.34%
+-
+HomeMatic Zentrale (CCU / CCU2 / CCU3 / Charly)
+Einrichtung, Anschluss und Programmierung der HomeMatic CCU
+Moderator: Co-AdministratorenThemen: 7671
+- 7671 Themen
+- 82664 Beiträge
+-
+Letzter Beitrag
+Re: CCU3 Firmware 3.47.22 ist…
+von alchy Neuester Beitrag
+24.10.2019, 09:48
+-
+-
+-
+HomeMatic OCCU
+Open Central Control Unit - HomeMatic-Zentrale auf anderer Hardware (Raspberry Pi, x86, Cubietruck etc.)
+Unterforen: Allgemeines zur OCCU, OCCU Entwicklung, debmatic, piVCCU, RaspberryMatic, x86-CCU, YAHMThemen: 2430
+- 2430 Themen
+- 32974 Beiträge
+-
+Letzter Beitrag
+Re: piVCCU Update 3.47.22
+von klassisch Neuester Beitrag
+24.10.2019, 02:40
+-
+-
+Bewertung: 50.84%
+-
+HomeMatic Aktoren und Sensoren
+Kabellose und kabelgebundene Sender und Empfänger der Serie Homematic "classic"
+Moderator: Co-AdministratorenThemen: 10891
+- 10891 Themen
+- 99620 Beiträge
+-
+Letzter Beitrag
+Re: HMIP BSL - Farbe aus Prog…
+von Sven_A Neuester Beitrag
+24.10.2019, 07:39
+-
+-
+Bewertung: 45.25%
+-
+HomeMatic IP Aktoren und Sensoren
+HMIP Sender und Empfänger der Serie Homematic IP
+Moderator: Co-AdministratorenThemen: 1378
+- 1378 Themen
+- 10566 Beiträge
+-
+Letzter Beitrag
+Re: HmIP-FALMOT-C12 - erste E…
+von dtp Neuester Beitrag
+24.10.2019, 08:16
+-
+-
+Bewertung: 6.15%
+-
+HomeMatic IP wired Aktoren und Sensoren
+Kabelgebundene Sender und Empfänger aus der Serie Homematic IP wired
+Moderator: Co-AdministratorenThemen: 128
+- 128 Themen
+- 1239 Beiträge
+-
+Letzter Beitrag
+Re: Programm gibt falsche Mel…
+von dtp Neuester Beitrag
+23.10.2019, 12:30
+-
+-
+Bewertung: 10.61%
+-
+HomeMatic IP mit Access Point
+HMIP Installation - Server im Internet
+Moderator: Co-AdministratorenThemen: 945
+- 945 Themen
+- 7662 Beiträge
+-
+Letzter Beitrag
+Re: Automatisch Hüllschutz ak…
+von Dalishuz Neuester Beitrag
+23.10.2019, 23:42
+-
+-
+Bewertung: 21.23%
+-
+HomeMatic IP mit CCU
+HMIP lokale Installation
+Moderator: Co-AdministratorenThemen: 830
+- 830 Themen
+- 6459 Beiträge
+-
+Letzter Beitrag
+Re: HM IP Bewegungsmelder an …
+von Sven_A Neuester Beitrag
+24.10.2019, 09:51
+-
+-
+Bewertung: 2.23%
+-
+HomeMatic - bekannte Bugs
+Fehler in Firmware und WebUI & Workarounds
+Moderator: Co-AdministratorenThemen: 205
+- 205 Themen
+- 2171 Beiträge
+-
+Letzter Beitrag
+Re: Neue IP-Geräte nach CCU2 …
+von alchy Neuester Beitrag
+24.10.2019, 09:44
+-
+-
+-
+HomeMatic Addons
+CCU-Zusatzsoftware, externe Tools, Weboberflächen etc.
+Unterforen: CCU-Historian, CCU.IO, CloudMatic, CUxD, RedMatic, WebMatic, Sonstige AddonsThemen: 5036
+- 5036 Themen
+- 56202 Beiträge
+-
+Letzter Beitrag
+Re: shomy Webinterface
+von Fonzo Neuester Beitrag
+23.10.2019, 21:38
+-
+-
+-
+HomeMatic Entwicklung
+HomeMatic Entwicklung: Softwareentwicklung für die HomeMatic CCU und zur Nutzung der CCU Schnittstellen in externen Applikationen
+Unterforen: Softwareentwicklung für die HomeMatic CCU, Softwareentwicklung von externen Applikationen, Hardwareentwicklung und Selbstbau von Aktoren und SensorenThemen: 825
+- 825 Themen
+- 12394 Beiträge
+-
+Letzter Beitrag
+Re: [gelöst] Komisches Schalt…
+von pafra Neuester Beitrag
+24.10.2019, 07:26
+-
+-
+Bewertung: 3.91%
+-
+HomeMatic Apps und Desktop-Anwendungen
+Apps für Mobilgeräte (Smartphones, Tablets) wie Android, Apple iOS, Windows Phone etc. sowie Desktop-Betriebssysteme (Windows, Linux, OS X etc.)
+Moderator: Co-Administratoren
+Unterforum: TinyMaticThemen: 536
+- 536 Themen
+- 7805 Beiträge
+-
+Letzter Beitrag
+Re: PUSH-Nachrichten über Poc…
+von deetee Neuester Beitrag
+22.10.2019, 08:22
+-
+-
+-
+Externe Steuerungen und Visualisierungen
+Hausautomationssteuerungen und -visualisierungen, die auch Homematic ansprechen können
+Unterforen: homeputer CL, IP-Symcon, mediola, openHAB, SonstigesThemen: 3056
+- 3056 Themen
+- 23995 Beiträge
+-
+Letzter Beitrag
+Re: Automation Manager :Gesch…
+von Daniel-Hannover Neuester Beitrag
+23.10.2019, 15:19
+-
+-
+Bewertung: 4.47%
+-
+HomeMatic - english
+Support for our english speaking visitors
+Moderator: Co-AdministratorenThemen: 154
+- 154 Themen
+- 977 Beiträge
+-
+Letzter Beitrag
+Re: App Beta Test: HmIP Acces…
+von tomi_cc16 Neuester Beitrag
+18.10.2019, 12:29
+-
+-
+- Themen
+- Beiträge
+- Letzter Beitrag
+-
+-
+ELV FHZ Funk-Hauszentralen
+FHZ 1000, FHZ 1000 PC, FHZ 1000 FW, FHZ 1300 PC, FHZ 1300 PC WLan, FHZ 1350 PC, FHZ 2000 etc.
+Moderator: Co-AdministratorenThemen: 417
+- 417 Themen
+- 2818 Beiträge
+-
+Letzter Beitrag
+Re: CCU2 erkennt FHZ2000 nich…
+von Cooper57 Neuester Beitrag
+18.11.2018, 17:53
+-
+-
+Bewertung: 0.56%
+-
+ELV FS20 Sender, Empfänger und Aktoren
+AVS 5, FS20 AMS, FS20 AS1, FS20 AS4, FS20 DAP3, FS20 DAV4, FS20 DCRC, FS20 DH20, FS20 DI, FS20 DI10, FS20 DI20-2, FS20 DI20-3, FS20 DI22-2, FS20 DT, FS20 DU, FS20 EAM, FS20 ES1, FS20 ESH, FS20 FG, FS20 FMS, FS20 HGS, FS20 IRP, FS20 KSE, FS20 LD, FS20 LED, FS20 MS-2, FS20 PIRA, FS20 PIRI-2, FS20 PIRI-2 HR, FS20 RBM, FS20 RPT, FS20 RST, FS20 S20, FS20 S20-, FS20 S4, FS20 S4M, FS20 S4U, FS20 S4UB, FS20 S8, FS20 SA, FS20 SA4, FS20 SD, FS20 SH, FS20 SIG, FS20 SM4, FS20 SN, FS20 SPC, FS20 SPIR, FS20 SR, FS20 SS, FS20 ST, FS20 STR, FS20 SU, FS20 SV, FS20 SW, FS20 TC6, FS20 TFK, FS20 TK, FS20 TKS, FS20 TS, FS20 USR1, FS20 UTS, FS20 ZE, FS20 ZPS
+Moderator: Co-AdministratorenThemen: 687
+- 687 Themen
+- 3827 Beiträge
+-
+Letzter Beitrag
+Re: FS 20 HMS 100 T auf 868,3…
+von dondaik Neuester Beitrag
+18.09.2019, 20:40
+-
+-
+-
+ELV HMS-Alarm Sensoren und Aktoren
+HMS100 CO, HMS100 FIT, HMS100 MG, HMS100 PH, HMS100 T, HMS100 TF, HMS100 TFK, HMS100 W, HMS100 WD, HMS100 Zentrale, RM100-2 Uni-S, RM100-3 BiDi-S
+Moderator: Co-AdministratorenThemen: 72
+- 72 Themen
+- 363 Beiträge
+-
+Letzter Beitrag
+Funk Rauchmelder KD-101LA und…
+von jbla Neuester Beitrag
+17.03.2019, 11:33
+-
+-
+-
+ELV FHT-Komponenten
+Funkthermostate und -stellantriebe für Heizkörper:
+FHT 8, FHT 80B, FHT 80TF, FHT 8I, FHT 8V
+Moderator: Co-AdministratorenThemen: 286
+- 286 Themen
+- 1556 Beiträge
+-
+Letzter Beitrag
+Re: Defektes Funkmodul TRX1-T…
+von stan23 Neuester Beitrag
+21.12.2018, 14:35
+-
+-
+-
+ELV Wettersensoren / Wetterstationen
+KS 300, WS 300, Wetter Willi
+Moderator: Co-AdministratorenThemen: 63
+- 63 Themen
+- 435 Beiträge
+-
+Letzter Beitrag
+Re: Wettersensor Plus öffnen …
+von rolae71 Neuester Beitrag
+23.04.2019, 22:09
+-
+-
+-
+ELV KeyMatic Funk-Codeschloss & Türschlossantrieb
+KeyMatic CAC, KeyMatic IQ+, KeyMatic HM, AW 50, KM 300 TI, Abus Profilzylinder
+Moderator: Co-AdministratorenThemen: 116
+- 116 Themen
+- 670 Beiträge
+-
+Letzter Beitrag
+Re: Ersatz für Fernbedienung …
+von Paulschn Neuester Beitrag
+23.07.2019, 19:35
+-
+-
+-
+Sonstige Hardware (Vellemann USB-Board, IRTrans, ALLNET)
+Selbstbauten, IRTrans, Vellemann K8055 / VM110, ALLNET Ethernet System:
+ALLNET ALL3006, ALL3015, ALL3028, ALL3029, ALL3075, ALL3076, ALL4000, ALL4039
+Moderator: Co-AdministratorenThemen: 194
+- 194 Themen
+- 1350 Beiträge
+-
+Letzter Beitrag
+Re: Tradfri Farbe einstellen
+von Jfreak1980 Neuester Beitrag
+19.09.2019, 17:15
+-
+-
+- Themen
+- Beiträge
+- Letzter Beitrag
+-
+-
+homeputer Studio / Standard: allgemeine Fragen
+Betrieb der FHZ-Zentralen mit contronics homeputer Standard / homeputer Studio & WEB-Server
+Moderator: Co-AdministratorenThemen: 726
+- 726 Themen
+- 4398 Beiträge
+-
+Letzter Beitrag
+Re: CL-Studio und HmIPW Kompo…
+von dv-20 Neuester Beitrag
+16.04.2019, 11:09
+-
+-
+-
+homeputer Studio / Standard: Programmierbeispiele
+Programmierung der FHZ-Zentralen mit contronics homeputer Standard / homeputer Studio & WEB-Server
+Moderator: Co-AdministratorenThemen: 354
+- 354 Themen
+- 2997 Beiträge
+-
+Letzter Beitrag
+Re: homeputer CL Studio - Lam…
+von guido666 Neuester Beitrag
+03.03.2019, 03:33
+-
+-
+-
+homeputer Studio / Standard: Bugs & Updatewünsche
+Bugreports und Updatewünsche an die Firma contronics
+Keine allgemeinen Fragen!
+Moderator: Co-AdministratorenThemen: 301
+- 301 Themen
+- 1624 Beiträge
+-
+Letzter Beitrag
+Re: HM-Sen-SC-12-DR Eigenscha…
+von shartelt Neuester Beitrag
+17.01.2019, 12:54
+-
+-
+-
+FHZ unter Linux / MacOSX
+Ansteuerung der FHZ unter Linux und MacOSX
+Moderator: Co-AdministratorenThemen: 25
+- 25 Themen
+- 89 Beiträge
+-
+Letzter Beitrag
+Re: Homeputer unter MAc Virtu…
+von stevewilliam007 Neuester Beitrag
+19.04.2019, 06:58
+-
+-
+- Themen
+- Beiträge
+- Letzter Beitrag
+-
+-
+Private Kleinanzeigen
+Gebrauchtmarkt für Hard- und Software rund um das HomeMatic-, FHZ- und FS20-System.
+Moderator: Co-AdministratorenThemen: 45
+- 45 Themen
+- 105 Beiträge
+-
+Letzter Beitrag
+Verkaufe Platinen "AskSin_Uni…
+von pafra Neuester Beitrag
+24.10.2019, 06:49
+-
+Wer ist online?
+Insgesamt sind 99 Besucher online :: 9 sichtbare Mitglieder, 3 unsichtbare Mitglieder und 87 Gäste (basierend auf den aktiven Besuchern der letzten 5 Minuten)
+Der Besucherrekord liegt bei 1335 Besuchern, die am 08.01.2017, 18:12 gleichzeitig online waren.
+Statistik
+Beiträge insgesamt 514871 • Themen insgesamt 48701 • Mitglieder insgesamt 22860 • Unser neuestes Mitglied: mc@ey

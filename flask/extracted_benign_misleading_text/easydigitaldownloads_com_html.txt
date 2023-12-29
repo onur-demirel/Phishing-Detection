@@ -1,0 +1,52 @@
+Designed to meet your online business needs
+Discount codes
+Easily create discount codes to encourage customers to buy more. Discounts can be offered at flat or percentage rates and include settings for expiration, maximum uses, and more.
+Full shopping cart
+Allow your customers to purchase multiple downloads at once using the shopping cart system. With minimum page loads and cleanly designed cart elements, the shopping cart feels seamless.
+Unlimited file downloads
+There are no limitations when it comes to distributing your digital products. Allow customers to download their purchased files endlessly or restrict file downloads by time and/or attempt.
+File access control
+All product files are restricted to authorized customers only. No configurations is required. You may also set the file download limit and download link expiration.
+Customer account page
+Through the use of a single shortcode, output an entire purchase history table that is only viewable by logged in customers. Unauthorized users will not have access.
+Download activity tracking
+Monitor all there is to know about how your product files are being downloaded by your customers. Easily track date, time, and even IP address of all purchased and downloaded files.
+REST API
+Developers and external applications can take advantage of a complete RESTful API that provides easy access to sales and product information in either jSON or XML format.
+Full data reporting
+No business is complete without detailed bookkeeping. Easy Digital Downloads has a built-in reporting platform for easily viewing stats, making custom reports, and much more.
+Integrations with your favorite services
+Active community of users and developers
+Additional functionality, affordable prices
+Personal Pass
+Everything needed to get started with Easy Digital Downloads!
+- Email marketing tools
+- Perfect for beginners
+- Email support included
+- Updates included
+- Single site license
+Extended Pass
+Improve customer experience with extended functionality.
+- Sell subscriptions
+- Includes payment gateways
+- Email support included
+- Updates included
+- Single site license
+Professional Pass
+Transform your business model with our most popular extensions.
+- Premium extensions
+- Marketplace functionality
+- Email support included
+- Updates included
+- Single site license
+All Access Pass
+Agencies and freelancers, this option is perfect for client work!
+- Access to all extensions
+- Thousands of $$$ in savings
+- Email support included
+- Updates included
+- Unlimited sites license
+Can I purchase individual extensions?
+Absolutely. If you don't see a pass that fits your needs, or perhaps you'd like to add specific functionality to your business, purchase individual extensions that meet your needs. Visit our extensions catalogue.
+Do I have to purchase extensions?
+No. Extensions are entirely optional but do help to dramatically extend the functionality of your eCommerce store. If you just want to download the Easy Digital Downloads base plugin, click here.

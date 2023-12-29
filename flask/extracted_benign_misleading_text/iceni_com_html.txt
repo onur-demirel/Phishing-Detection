@@ -1,0 +1,4 @@
+We engineer software from the simplicity of Infix, our desktop PDF editor, to the power of InfixServer for powering websites and asset management systems that need to manipulate PDF documents, we’ve got your PDF editing & management needs covered!.
+Our TransPDF service works with your existing tools to offer seamless PDF translation, producing a finished document of the highest quality!
+Infix enables anyone to edit PDF documents, including advanced features such as spellcheck, find & replace and translation within the Infix environment. Now in its 10th year, Infix was the first PDF editor with a familiar word processor feel.
+Version 7 continues to innovate with new features to make PDF editing easier and quicker.

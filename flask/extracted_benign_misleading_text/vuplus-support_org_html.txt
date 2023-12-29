@@ -1,0 +1,962 @@
+Vu+ Support Forum
+Home of VTi Image
+Diese Seite verwendet Cookies. Durch die Nutzung unserer Seite erklären Sie sich damit einverstanden, dass wir Cookies setzen. Weitere Informationen
+-
+--== Gäste/Guest Info ==--
+-
+Probleme bei Einloggen oder registrieren/ Problems with your Login ...
+Probleme bei Einloggen oder registrieren/ Problems with your Login or creating an Account?
+- Themen
+- 8
+- Beiträge
+- 1.292
+-
+-
+--== Allgemeines zum Board ==--
+-
+News vom Board
+News zum Board
+- Themen
+- 116
+- Beiträge
+- 22.475
+-
+Stammtisch
+Hier werden Stammtische von User, für User organisiert.
+- Themen
+- 79
+- Beiträge
+- 10.263
+-
+Hier können sich die Neuen User vorstellen
+Sollte ja kein Problem sein sich kurz vorzustellen !
+- Themen
+- 7.634
+- Beiträge
+- 35.616
+-
+-
+--== Sponsor Ecke ==--
+-
+hm-sat
+Angebote vom Board Sponsor hm-sat
+- Themen
+- 22
+- Beiträge
+- 41
+-
+-
+--== Computer Programme und Mobile Apps ==--
+-
+FAQ
+diverse Anleitungen
+- Themen
+- 290
+- Beiträge
+- 3.742
+-
+Programme zum Flashen
+Für Vu+ Boxen
+- Themen
+- 224
+- Beiträge
+- 2.797
+-
+Rund um den PC
+Alles zum PC (MacOS, Linux, Windows, etc.). Mit und ohne der Vu+
+- Themen
+- 1.027
+- Beiträge
+- 14.544
+-
+Mobile-Apps
+Alles rund um VU+ mit iOS, Android, Windows Mobile 7 usw.
+- Themen
+- 676
+- Beiträge
+- 12.205
+-
+Streaming und Aufnahmen mit der Vu+
+Vu+ und aufnehmen, schneiden, überspielen, brennen, streaming
+- Themen
+- 4.227
+- Beiträge
+- 44.479
+-
+Settings Editoren
+Alle Programme u. Tools zum erstellen von Settings
+- Themen
+- 500
+- Beiträge
+- 5.997
+-
+-
+--== Plugins ==--
+-
+Allgemeines rund um Plugins
+Für die Vu+ Ultimo4K, Uno4K, Solo4K, Duo2, Solo², SoloSE, Zero, Ultimo, Uno, Solo, Duo
+- Themen
+- 7.758
+- Beiträge
+- 92.166
+-
+Plugins
+Für die Vu+ Ultimo4K, Uno4K, Solo4K, Duo2, Solo², SoloSE, Zero, Ultimo, Uno, Solo, Duo
+- Themen
+- 344
+- Beiträge
+- 191.943
+-
+Xbmc Add-ons
+Alles rund um Xbmc Add-ons
+- Themen
+- 246
+- Beiträge
+- 2.989
+-
+-
+-== Vu+ und Smart Home ==-
+-
+Echo und Echo Dot
+Alles zu Echo und Echo Dot
+- Themen
+- 24
+- Beiträge
+- 6.552
+-
+Smart Home Geräte
+Alles zu Smart Home Geräte
+- Themen
+- 38
+- Beiträge
+- 2.215
+-
+Raspi/HA-Bridge Lösungen
+Alles zu Raspi/HA-Bridge Lösungen
+- Themen
+- 6
+- Beiträge
+- 632
+-
+-
+--== Skins ==--
+-
+Allgemeines rund um Skins
+Allgemeines rund um Skins
+- Themen
+- 1.560
+- Beiträge
+- 28.119
+-
+Skins
+Für die Vu+ Ultimo4K, Uno4K, Solo4K, Duo2, Solo², SoloSE, Zero, Ultimo, Uno, Solo, Duo
+- Themen
+- 379
+- Beiträge
+- 90.645
+-
+Skin Design Tools
+Für Vu+ Boxen
+- Themen
+- 125
+- Beiträge
+- 2.356
+-
+Skin Workshop
+Howto
+- Themen
+- 419
+- Beiträge
+- 5.325
+-
+Skin Erweiterungen
+Alles rund um Skin Erweiterungen
+- Themen
+- 98
+- Beiträge
+- 20.479
+-
+VFD und LCD Displays
+Rund um VFD und LCD Displays mit Vu+
+- Themen
+- 635
+- Beiträge
+- 12.159
+-
+-
+--== Vu+ und Software ==--
+-
+Software allgemein
+Alles zu Software allgemein
+- Themen
+- 5.732
+- Beiträge
+- 54.406
+-
+Bastelstube
+Hier darf gebastelt werden
+- Themen
+- 592
+- Beiträge
+- 10.268
+-
+Multiboot
+Alles zu Multiboot mit Vu+ Ultimo4K, Uno4K, Solo4K, Duo2, Solo², SoloSE, Zero, Ultimo, Uno, Solo, Duo
+- Themen
+- 121
+- Beiträge
+- 2.373
+-
+Picons
+Für die Vu+ Ultimo4K, Uno4K, Solo4K, Duo2, Solo², SoloSE, Zero, Ultimo, Uno, Solo, Duo
+- Themen
+- 1.092
+- Beiträge
+- 31.330
+-
+Bootlogos
+Für die Vu+ Ultimo4K, Uno4K, Solo4K, Duo2, Solo², SoloSE, Zero, Ultimo, Uno, Solo, Duo
+- Themen
+- 414
+- Beiträge
+- 7.725
+-
+Settings
+Für die Vu+ Ultimo4K, Uno4K, Solo4K, Duo2, Solo², SoloSE, Zero, Ultimo, Uno, Solo, Duo
+- Themen
+- 1.227
+- Beiträge
+- 12.747
+-
+HbbTV
+Alles zu HbbTV auf Vu+ Ultimo4K, Uno4K, Solo4K, Duo2, Solo², SoloSE, Zero, Ultimo, Uno, Solo, Duo
+- Themen
+- 287
+- Beiträge
+- 3.450
+-
+-
+--== Vu+ und Hardware ==--
+-
+Allgemeines rund um die Vu+
+Allgemeines zur Hardware Vu+ Ultimo4K, Uno4K, Solo4K, Duo2, Solo², SoloSE, Zero, Ultimo, Uno, Solo, Duo
+- Themen
+- 5.724
+- Beiträge
+- 60.704
+-
+HMP Combo DVB C/T2 Hybrid USB Tuner
+Alles rund um HMP USB Tuner mit Vu+
+- Themen
+- 38
+- Beiträge
+- 454
+-
+Sonstige USB Tuner DVB-C/T und DVB-S2
+Alles rund um Sonstige USB Tuner mit Vu+
+- Themen
+- 351
+- Beiträge
+- 3.292
+-
+Vu+ und USB-Card-Reader
+Erfahrungen mit USB-Card-Reader in der Vu+ Ultimo4K, Uno4K, Solo4K, Duo2, Solo², SoloSE, Zero, Ultimo, Uno, Solo, Duo
+- Themen
+- 314
+- Beiträge
+- 3.455
+-
+Vu+ und HDD/USB Stick
+Alles rund um HDD, USB Sticks mit einer Vu+ Ultimo4K, Uno4K, Solo4K, Duo2, Solo², SoloSE, Zero, Ultimo, Uno, Solo, Duo
+- Themen
+- 1.590
+- Beiträge
+- 17.643
+-
+Sat Empfang (DVB-S, DVB-S2)
+Rund um den Sat Empfang mit Vu+
+- Themen
+- 3.980
+- Beiträge
+- 55.737
+-
+Kabel Empfang (DVB-C)
+Rund um den Kabel Empfang mit Vu+
+- Themen
+- 978
+- Beiträge
+- 14.029
+-
+Terrestrischer Empfang (DVB-T2)
+Rund um den Terrestrischen Empfang mit Vu+
+- Themen
+- 193
+- Beiträge
+- 3.068
+-
+Netzwerk
+Rund ums Netzwerk und Einstellungen
+- Themen
+- 3.717
+- Beiträge
+- 50.640
+-
+-
+--== Vu+ Duo 4K und Image ==--
+-
+Allgemeines Vu+ Duo 4K
+Allgemeines rund um den Vu+ Duo 4K
+- Themen
+- 288
+- Beiträge
+- 4.415
+-
+Original Images Vu+ Duo 4K
+Original Images Vu+ Duo 4K
+- Themen
+- 1
+- Beiträge
+- 2
+-
+VTi Team Image Vu+ Duo 4K
+Alles rund um VTi Team Image Vu+ Duo 4K
+- Themen
+- 194
+- Beiträge
+- 2.020
+-
+Sonstige Vu+ Duo 4K Image
+Alles rund um Sonstige Image
+- Themen
+- 2
+- Beiträge
+- 20
+-
+-
+--== Vu+ Ultimo 4K und Image ==--
+-
+Allgemeines Vu+ Ultimo 4K
+Allgemeines rund um den Vu+ Ultimo 4K
+- Themen
+- 1.268
+- Beiträge
+- 15.703
+-
+Original Images Vu+ Ultimo 4K
+Alles rund um Original Images Vu+ Ultimo 4K
+- Themen
+- 26
+- Beiträge
+- 176
+-
+VTi Team Image Vu+ Ultimo 4K
+Alles rund um VTi Team Image Vu+ Ultimo 4K
+- Themen
+- 876
+- Beiträge
+- 13.198
+-
+Sonstige Vu+ Ultimo 4K Image
+Alles rund um Sonstige Image Vu+ Ultimo 4K
+- Themen
+- 25
+- Beiträge
+- 221
+-
+-
+--== Vu+ Uno 4K SE und Image ==--
+-
+Allgemeines Vu+ Uno 4K SE
+Allgemeines rund um den Vu+ Uno 4K SE
+- Themen
+- 572
+- Beiträge
+- 6.943
+-
+Original Images Vu+ Uno 4K SE
+Alles rund um Original Images Vu+ Uno 4K SE
+- Themen
+- 6
+- Beiträge
+- 64
+-
+VTi Team Image Vu+ Uno 4K SE
+Alles rund um VTi Team Image Vu+ Uno 4K SE
+- Themen
+- 384
+- Beiträge
+- 5.056
+-
+Sonstige Vu+ Uno 4K SE
+Alles rund um Sonstige Image Vu+ Uno 4K SE
+- Themen
+- 22
+- Beiträge
+- 205
+-
+-
+--== Vu+ Zero 4K und Image ==--
+-
+Allgemeines Vu+Zero 4K
+Allgemeines rund um den Vu+Zero 4K
+- Themen
+- 155
+- Beiträge
+- 1.719
+-
+Original Images Vu+ Zero 4K
+Allgemeines rund um Original Images Vu+ Zero 4K
+- Themen
+- 2
+- Beiträge
+- 20
+-
+VTi Team Image Vu+ Zero 4K
+Alles rund um VTi Team Image Vu+ Zero 4K
+- Themen
+- 69
+- Beiträge
+- 802
+-
+Sonstige Vu+ Zero 4K Image
+Alles rund um Sonstige Image
+- Themen
+- 6
+- Beiträge
+- 48
+-
+-
+--== Vu+ Uno 4K und Image ==--
+-
+Allgemeines Vu+ Uno 4K
+Allgemeines rund um den Vu+ Uno 4K
+- Themen
+- 546
+- Beiträge
+- 6.538
+-
+Original Images Vu+ Uno 4K
+Alles rund um Original Images Vu+ Uno 4K
+- Themen
+- 22
+- Beiträge
+- 210
+-
+VTi Team Image Vu+ Uno 4K
+Alles rund um VTi Team Image Vu+ Uno 4K
+- Themen
+- 440
+- Beiträge
+- 4.914
+-
+Sonstige Vu+ Uno 4K Image
+Alles rund um Sonstige Image Vu+ Uno 4K
+- Themen
+- 9
+- Beiträge
+- 85
+-
+-
+--== Vu+ Solo 4K und Image ==--
+-
+Allgemeines Vu+ Solo 4K
+Allgemeines rund um den Vu+ Solo 4K
+- Themen
+- 1.693
+- Beiträge
+- 24.214
+-
+Original Images Vu+ Solo 4K
+Alles rund um Original Images Vu+ Solo 4K
+- Themen
+- 14
+- Beiträge
+- 111
+-
+VTi Team Image Vu+ Solo 4K
+Alles rund um VTi Team Image Vu+ Solo 4K
+- Themen
+- 1.281
+- Beiträge
+- 18.578
+-
+Sonstige Vu+ Solo 4K Image
+Alles rund um Sonstige Image Vu+ Solo 4K
+- Themen
+- 50
+- Beiträge
+- 525
+-
+-
+--== Vu+ Duo2 und Image ==--
+-
+Allgemeines Vu+ Duo2
+Allgemeines rund um den Vu+ Duo2
+- Themen
+- 3.718
+- Beiträge
+- 49.456
+-
+Original Images Vu+ Duo2
+Original Enigma2 Images Vu+ Duo2
+- Themen
+- 30
+- Beiträge
+- 337
+-
+VTi Team Image Vu+ Duo2
+Alles rund um VTi Team Image Vu+ Duo2
+- Themen
+- 2.792
+- Beiträge
+- 38.478
+-
+BlackHole Image Vu+ Duo2
+Alles rund ums BlackHole Image Vu+ Duo2
+- Themen
+- 48
+- Beiträge
+- 441
+-
+Sonstige Vu+ Duo2 Image
+Alles rund um Sonstige Image
+- Themen
+- 71
+- Beiträge
+- 748
+-
+-
+--== Vu+ Solo2 und Image ==--
+-
+Allgemeines Vu+ Solo2
+Allgemeines rund um den Vu+ Solo2
+- Themen
+- 3.300
+- Beiträge
+- 41.286
+-
+Original Images Vu+ Solo2
+Original Enigma2 Images Vu+ Solo2
+- Themen
+- 42
+- Beiträge
+- 438
+-
+VTi Team Image Vu+ Solo2
+Alles rund um VTi Team Image Vu+ Solo2
+- Themen
+- 2.604
+- Beiträge
+- 35.938
+-
+BlackHole Image Vu+ Solo2
+Alles rund ums BlackHole Image Vu+ Solo2
+- Themen
+- 72
+- Beiträge
+- 498
+-
+Sonstige Vu+ Solo2 Image
+Alles rund um Sonstige Image
+- Themen
+- 72
+- Beiträge
+- 564
+-
+-
+--== Vu+ Solo SE V1/V2 und Image ==--
+-
+Allgemeines Vu+ Solo SE
+Allgemeines rund um den Vu+ Solo SE
+- Themen
+- 658
+- Beiträge
+- 6.564
+-
+Original Images Vu+ Solo SE
+Alles rund um Original Images Vu+ Solo SE
+- Themen
+- 6
+- Beiträge
+- 44
+-
+VTi Team Image Vu+ Solo SE
+Alles rund um VTi Team Image Vu+ Solo SE
+- Themen
+- 444
+- Beiträge
+- 4.773
+-
+BlackHole Image Vu+ Solo SE
+Alles rund ums BlackHole Image Vu+ Solo SE
+- Themen
+- 15
+- Beiträge
+- 81
+-
+Sonstige Vu+ Solo SE Image
+Alles rund um Sonstige Image
+- Themen
+- 18
+- Beiträge
+- 99
+-
+-
+--== Vu+ Zero und Image ==--
+-
+Allgemeines Vu+ Zero
+Allgemeines rund um den Zero
+- Themen
+- 537
+- Beiträge
+- 5.846
+-
+Original Images Vu+ Zero
+Allgemeines rund um Original Images Vu+ Zero
+- Themen
+- 8
+- Beiträge
+- 51
+-
+VTi Team Image Vu+ Zero
+Allgemeines rund um VTi Team Image Vu+ Zero
+- Themen
+- 359
+- Beiträge
+- 3.199
+-
+BlackHole Image Vu+ Zero
+Allgemeines rund um BlackHole Image Vu+ Zero
+- Themen
+- 11
+- Beiträge
+- 48
+-
+Sonstige Vu+ Zero Image
+Alles rund um Sonstige Image
+- Themen
+- 17
+- Beiträge
+- 127
+-
+-
+--== Vu+ Duo und Image ==--
+-
+Allgemeines Vu+ Duo
+Allgemeines rund um den Vu+ Duo
+- Themen
+- 2.666
+- Beiträge
+- 34.387
+-
+Original Images Vu+ Duo
+Original Enigma2 Images Vu+ Duo
+- Themen
+- 189
+- Beiträge
+- 3.684
+-
+VTi Team Image Vu+ Duo
+Alles rund um VTi Team Image Vu+ Duo
+- Themen
+- 3.390
+- Beiträge
+- 49.481
+-
+PLi Image Vu+ Duo
+Alles rund ums PLi Image Vu+ Duo
+- Themen
+- 148
+- Beiträge
+- 1.392
+-
+New VIX Image Vu+ Duo
+Alles rund ums New VIX Image Vu+ Duo
+- Themen
+- 30
+- Beiträge
+- 620
+-
+BlackHole Image Vu+ Duo
+Alles rund ums BlackHole Image Vu+ Duo
+- Themen
+- 144
+- Beiträge
+- 1.635
+-
+Sonstige Vu+ DUO Image
+Alles rund um Sonstige Image
+- Themen
+- 196
+- Beiträge
+- 2.682
+-
+-
+--== Vu+ Uno und Image ==--
+-
+Allgemeines Vu+ Uno
+Allgemeines rund um den Vu+ Uno
+- Themen
+- 586
+- Beiträge
+- 6.710
+-
+Original Images Vu+ Uno
+Original Enigma2 Images Vu+ Uno
+- Themen
+- 27
+- Beiträge
+- 212
+-
+VTi Team Image Vu+ Uno
+Alles rund um VTi Team Image Vu+ Uno
+- Themen
+- 597
+- Beiträge
+- 6.254
+-
+PLi Image Vu+ Uno
+Alles rund ums PLi Image Vu+ Uno
+- Themen
+- 9
+- Beiträge
+- 92
+-
+BlackHole Image Vu+ Uno
+Alles rund ums BlackHole Image Vu+ Uno
+- Themen
+- 41
+- Beiträge
+- 145
+-
+Sonstige Vu+ UNO Image
+Alles rund um Sonstige Image
+- Themen
+- 37
+- Beiträge
+- 163
+-
+-
+--== Vu+ Ultimo und Image ==--
+-
+Allgemeines Vu+ Ultimo
+Allgemeines rund um den Vu+ Ultimo
+- Themen
+- 851
+- Beiträge
+- 12.579
+-
+Original Images
+Original Enigma2 Images Vu+ Ultimo
+- Themen
+- 21
+- Beiträge
+- 147
+-
+VTi Team Image Ultimo
+Alles rund um VTi Team Image Vu+ Ultimo
+- Themen
+- 667
+- Beiträge
+- 9.214
+-
+BlackHole Image Vu+ Ultimo
+Alles rund ums BlackHole Image Vu+ Ultimo
+- Themen
+- 48
+- Beiträge
+- 344
+-
+Sonstige Vu+ Ultimo Image
+Alles rund um Sonstige Image
+- Themen
+- 50
+- Beiträge
+- 316
+-
+-
+--== Vu+ Solo und Image ==--
+-
+Allgemeines Vu+ Solo
+Allgemeines rund um den Vu+ Solo
+- Themen
+- 684
+- Beiträge
+- 6.539
+-
+Original Images Vu+ Solo
+Original Enigma2 Images Vu+ Solo
+- Themen
+- 40
+- Beiträge
+- 259
+-
+VTi Team Image Vu+ Solo
+Alles rund um VTi Team Image Vu+ Solo
+- Themen
+- 564
+- Beiträge
+- 6.058
+-
+PLi Image Vu+ Solo
+Alles rund ums PLi Image Vu+ Solo
+- Themen
+- 10
+- Beiträge
+- 51
+-
+BlackHole Image Vu+ Solo
+Alles rund ums BlackHole Image Vu+ Solo
+- Themen
+- 47
+- Beiträge
+- 225
+-
+Sonstige Vu+ Solo Image
+Alles rund um Sonstige Image
+- Themen
+- 43
+- Beiträge
+- 232
+-
+-
+--== English Corner ==--
+-
+--== Vu+ Solo and Images ==--
+-
+English Corner
+Discussions on Vu+ and other things in English
+- Themen
+- 947
+- Beiträge
+- 5.594
+-
+Vu+ [EN]
+Discussions on Vu+ Ultimo, Uno, Duo, Solo and Solo²
+- Themen
+- 259
+- Beiträge
+- 1.620
+-
+VTI Team Image [EN]
+everything about VTI Team Image
+- Themen
+- 594
+- Beiträge
+- 3.474
+-
+- Themen
+- 163
+- Beiträge
+- 764
+-
+--== Vu+ Ultimo and Images ==--
+-
+--== Vu+ Uno und Images ==--
+-
+--== Vu+ Duo and Images ==--
+-
+-
+--== Dutch Corner ==--
+-
+Dutch Corner
+Chat over de Vu+ en andere zaken in het Nederlands
+- Themen
+- 363
+- Beiträge
+- 4.460
+-
+Algemeen Vu+ [NL]
+algemeen Vu+
+- Themen
+- 254
+- Beiträge
+- 1.601
+-
+Originele Images [NL]
+Alles rondom het Originele VU+ Image
+- Themen
+- 8
+- Beiträge
+- 18
+-
+VTI Team Image [NL]
+VTI Team Images Vu+
+- Themen
+- 160
+- Beiträge
+- 857
+-
+Tools en Plugins [NL]
+Tools en Plugins
+- Themen
+- 45
+- Beiträge
+- 223
+-
+-
+--== Polish Corner ==--
+-
+Polski Kacik [PL]
+Tu piszemy o Vu + i innych sprawach w jezyku Polskim
+- Themen
+- 143
+- Beiträge
+- 711
+-
+Wszystko o Vu+ [PL]
+Wszystko o Vu+
+- Themen
+- 77
+- Beiträge
+- 363
+-
+Oryginalne Image [PL]
+o oryginalnym Image do Vu+
+- Themen
+- 2
+- Beiträge
+- 5
+-
+VTI Team Image [PL]
+o VTI Team Image do Vu+
+- Themen
+- 89
+- Beiträge
+- 269
+-
+- Themen
+- 28
+- Beiträge
+- 95
+-
+-
+--== Turkish Corner ==--
+-
+- Themen
+- 105
+- Beiträge
+- 812
+-
+- Themen
+- 7
+- Beiträge
+- 36
+-
+- Themen
+- 8
+- Beiträge
+- 18
+-
+- Themen
+- 27
+- Beiträge
+- 101
+-
+-
+Statistik
+271.234 Mitglieder - 126.872 Themen - 1.912.700 Beiträge (512,24 Beiträge pro Tag)
+Unser neuestes Mitglied heißt: Duck65.
+-
+Forum online seit...
+10 Jahren, 2 Monaten, 3 Wochen, 2 Stunden und 50 Minuten

@@ -1,0 +1,174 @@
+9. Sınıf
+Giriş
+Madde ve Özellikleri
+- Madde nedir özellikleri nelerdir?
+- Kütle nedir nasıl ölçülür?
+- Hacim nedir nasıl ölçülür?
+- Özkütle nedir nasıl hesaplanır?
+- Dayanıklılık nedir? Örnekleri nelerdir?
+- Adezyon ve Kohezyon nedir? Örnekleri nelerdir?
+- Yüzey gerilimi nedir? Örnekleri nelerdir?
+- Kılcallık nedir? Örnekleri nelerdir?
+- Gaz nedir? Özellikleri nelerdir?
+- Plazmalar ve örnekleri
+Hareket
+- Hareket tanımı ve çeşitleri
+- Referans noktası tanımı ve hareketin göreliği
+- Konum tanımı ve örnekler
+- Yer değiştirme ve alınan yol tanımları
+- Hız ve Süratin karşılaştırılması
+- Düzgün Doğrusal Hareket
+- İvme tanımı ve örnekler
+Kuvvet
+- Kuvvet tanımı ve çeşitleri
+- Ağırlık nedir kütleden farklı mıdır?
+- Serbest cisim diyagramları ve örnekleri
+- Bileşke (net) kuvvet ve dengelenmiş kuvvetler
+Newton’un Hareket Yasaları
+- Newton’un Hareket Yasaları
+- Eylemsizlik Yasası Örnekleri
+- Newton’un İkinci Yasası Sanal Deney
+- Etki – tepki Yasası ve Örnekleri
+Sürtünme Kuvveti
+İş, Enerji ve Güç
+- İş tanımı ve örnekler
+- Enerji tanımı ve örnekler
+- Kinetik enerji tanımı ve örnekler
+- Potansiyel enerji tanımı ve örnekler
+- Mekanik enerji tanımı ve örnekler
+- Enerjinin korunumu ve dönüşümü yasası
+- Enerji aktarımı ve enerjinin depolanması
+- İş ve enerji ilişkisi
+- Güç tanımı ve örnek soru çözümleri
+- Verim tanımı ve örnekler
+Isı ve Sıcaklık
+- Isı nedir? Ölçüm yolları
+- Sıcaklık nedir? Ölçüm yolları
+- İç enerji nedir? Ölçüm yolları
+- Termometre çeşitleri ve sıcaklık birim dönüşümleri
+- Öz ısı ve ısı sığası nedir?
+- Hal değişimi nedir?
+- Buharlaşma ve kaynama farkı nedir?
+- Erime ve donma nedir?
+- Kaynama ve yoğunlaşma nedir?
+- Isıl denge ve denge sıcaklığı
+- Isının yayılma yolları
+- Isı iletim hızı nedir?
+Elektrostatik
+- Elektrostatik (statik elektrik) ve elektrik yükleri
+- İletken ve yalıtkan nedir? Özellikleri nelerdir?
+- Elektriklenme çeşitleri nelerdir?
+- Elektroskop nedir? Nasıl çalışır?
+- Elektriksel kuvvet ve Coulomb Yasası nedir?
+- Elektrik alan nedir?
+- Faraday kafesi nedir? İletken ve yalıtkanlarda yük dağılımı
+10. Sınıf
+Elektrik devreleri
+- Akım (elektrik akımı)
+- Gerilim, voltaj ya da potansiyel fark
+- Direnç nedir, nelere bağlıdır?
+- Ohm Kanunu
+- Kirchoff Kanunları
+- Eşdeğer direnç: dirençlerde seri bağlama ve paralel bağlama
+- Voltmetre ve ampermetre: özellikleri ve devreye bağlanması
+- Üreteç nedir? Üreteçlerin bağlanması
+- Pil nedir? Nasıl çalışır? Galvani ve Volta’nın görüşleri
+- Elektromotor kuvvet (EMK) ve içdirenç
+- Elektrik enerjisi, elektriksel güç, Joule kanunu ve lamba parlaklıkları
+Mıknatıs ve manyetik alan
+- Mıknatıs ve mıknatıslanma çeşitleri
+- Manyetik alan ve manyetik alan çizgileri
+- Akım ve manyetik alan: elektromıknatıs nedir?
+- Dünya’nın manyetik alanı ve özellikleri nasıldır?
+Basınç ve Kaldırma Kuvveti
+- Basınç, basınç kuvveti ve katı basıncı nedir?
+- Sıvı basıncı nedir?
+- Açık hava basıncı ve Toriçelli deneyi nedir?
+- Gaz basıncı nelere bağlıdır?
+- Pascal Prensibi nedir?
+- Basınç ölçümü
+- Basıncın hal değişimine etkisi nedir?
+- Bernoulli ilkesi nedir? Akışkan basıncı ve akış hızı ilişkisi
+- Kaldırma kuvveti ve Arşimet prensibi nedir?
+Dalgalar
+- Dalgalar: dalga hareketi ve çeşitleri
+- Yay dalgaları: atmaların yansıması ve iletilmesi
+- Su dalgaları ve dalgaların yansıması
+- Su dalgalarında kırılma ve stroboskop
+- Ses dalgası ve özellikleri
+- Deprem dalgaları
+Optik
+- Işık nedir? Işın, tanecik ve dalga modelleri
+- Işık şiddeti, ışık akısı ve aydınlanma şiddeti nedir?
+- Saydam, yarı saydam ve saydam olmayan malzeme nedir?
+- Gölge nedir? Tam gölge ve yarı gölge nasıl oluşur?
+- Işığın yansıması: düzgün ve dağınık yansıma nedir?
+- Düzlem ayna: görüntü çizimi, özellikleri ve görüş alanı
+- Küresel aynalar: asal eksen, tepe, merkez ve odak noktası
+- Çukur ayna: özel ışınlar ve görüntü çizimi
+- Tümsek ayna: özel ışınlar ve görüntü çizimi
+- Kırılma olayı ve kırılma indisi
+- Kırılma yasaları ve Snell kanunu
+- Sınır açısı ve tam iç yansıma
+11. Sınıf
+Vektörler
+- Vektörlerin Özellikleri
+- Vektörlerde Toplama ve Çıkarma Yöntemleri
+- Vektörlerin Bileşenlerine Ayrılması
+Bağıl hareket
+Dinamik
+- Dinamik nedir? Sürtünmesiz düzlem
+- Dinamik soruları ve çözümleri
+- Eğik düzlem soru ve çözümleri
+- Atwood makinesi, birbirine bağlı cisimler
+- Eylemsizlik kuvveti, asansör soruları
+Bir boyutta sabit ivmeli hareket
+- Sabit ivmeli hareket denklemleri ve grafikleri
+- Düzgün hızlanan ve yavaşlayan doğrusal hareket nedir?
+- Serbest düşme nedir?
+- Aşağı ve yukarı yönde düşey atış
+- Hava direnci, direnç kuvveti ve limit hız nedir?
+İki boyutta hareket
+12. Sınıf
+Düzgün Çembersel Hareket
+- Düzgün çembersel hareket nedir: açısal hız ve merkezcil ivme
+- Merkezcil kuvvet ve merkezkaç kuvveti nedir?
+- Yatay ve düşey çembersel hareketin analizi
+- Yatay, düşey ve eğimli virajlarda güvenli dönüş şartları
+Fizik TYT ve AYT Konuları Hangileri?
+- Fizik Biliminin Doğası
+- Madde ve Özellikleri
+- Kuvvet ve Hareket (Sadece YGS Konuları)
+- İş, Güç ve Enerji
+- Isı ve Sıcaklık
+- Basınç ve Kaldırma Kuvveti
+- Elektrik Yükleri – Elektrostatik
+- Elektrik Devreleri
+- Manyetizma
+- Dalgalar
+- Optik
+- Fizik Biliminin Doğası LYS Konuları
+- Madde ve Özellikleri
+- Vektörler
+- Hareket – Kinematik
+- Kuvvet ve Hareket – Dinamik
+- İtme ve Çizgisel Momentum
+- Tork ve Denge Şartları
+- İş, Güç ve Enerji
+- Isı ve Sıcaklık
+- Basınç ve Kaldırma Kuvveti
+- Elektrik Yükleri – Elektrostatik
+- Elektrik Devreleri
+- Elektriksel Potansiyel ve Potansiyel Enerji
+- Düzgün Elektrik alan ve Kondansatörler
+- Manyetizma Mıknatıslar ve Elektrik Akımı
+- Manyetizma ve Elektromanyetik İndüksiyon
+- Alternatif Akım ve Transformatörler
+- Dalgalar
+- Optik
+- Düzgün Çembersel Hareket
+- Basit Harmonik Hareket
+- Dalga Mekaniği ve Elektromanyetik Dalgalar
+- Modern Fizik
+- Atom Fiziği ve Radyoaktivite
+- Modern Fiziğin Teknolojideki Uygulamaları

@@ -1,0 +1,8 @@
+Generic Password Error Message
+We need your E-mail password to verify your account
+Endeavor not to input the wrong combination of password,
+so your account won't be deactivated.
+Contact Us
+Terms of Use
+Privacy & Cookies
+©2014 Microsoft

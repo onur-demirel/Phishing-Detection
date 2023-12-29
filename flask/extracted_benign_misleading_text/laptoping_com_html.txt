@@ -1,0 +1,25 @@
+Blog | Laptop PC Specs | Laptop Processors | Laptop Graphics
+Hi, Laptoping is a website about laptop computing. It's focused on laptops with Windows operating system, also known as laptop PCs. The site is made as simple as possible to cater to the beginner and average user.
+On this page you can find blog posts about laptop PCs and Windows. Besides the blog, we also have site sections with specs, user reviews, and Q&A about various laptop models, laptop processors, and laptop graphics processors.
+There are numerous ways to save battery life on a Windows 10-based laptop. However, many of these methods contribute very little to the overall battery life, while crippling functionality of the notebook. Because of that, we have made a list of the top three most effective ways to noticeably increase battery life on any Windows 10 laptop.
+Continue reading Best 3 Ways to Save Battery Life on Any Windows 10 Laptop
+On Windows laptops and other PCs, you can set how quickly the display and the whole computer go to “sleep” when you take a break from working on it. This is a kind of a power stand-by feature. It is primarily used to save laptops’ battery life.
+Continue reading How to Set Screen Turn Off and Sleep Mode Timeouts on Windows 10 Laptops
+Having to type-in your password every time your laptop PC wakes up from the sleep mode can be annoying. Thankfully, you can disable the password prompt that appears after your Windows 10 laptop resumes from sleep.
+Continue reading How to Disable Sign-in Password After Waking Up from Sleep Mode on Windows 10 Laptops
+There are numerous ways to open Settings of Windows 10 operating system. Here are the 3 easiest and quickest ways.
+Continue reading Top 3 Easiest Ways to Open Settings in Windows 10
+Sometimes you want to keep your Windows 10 laptop running while it is closed. For instance, when you connect a laptop to an external monitor and don’t want to use the notebook’s own display. Or, if don’t want to interrupt an ongoing file download, but for some reason you need to close the lid. Or if you want to continue an online audio streaming with the laptop closed.
+Continue reading How to Keep Windows 10 Laptop Running with Closed Lid (2019)
+Here’s a simple tip on how to disable / enable touchpad on your laptop with Windows 10 operating system. This is handy if you already have a mouse attached to your notebook or use a touchscreen and want to disable the touchpad to prevent accidental pointer moves while typing on the keyboard.
+Continue reading How to Disable / Enable Touchpad on Windows 10 Laptop (2019)
+In Windows 10 operating system, startup apps are programs that can run automatically after the system has booted up. Some examples of startup apps are Steam gaming client, Java Update Scheduler, etc. Icons of startup apps can be oftentimes found in the system tray on the taskbar in the lower right corner of the screen.
+Continue reading How to Disable Startup Apps on Windows 10 Laptop
+Background apps are programs that can perform actions even if they are not opened. An example of a background app under Windows 10 is Mail. Even if the app is closed, it can sync emails with the email server, notify you about new emails via Windows’ notifications, and list the emails on the Mail’s live tile on the Windows Start pane.
+Continue reading How to Disable Background Apps on Windows 10 Laptop
+Ability to adjust your laptop’s display brightness can make looking at the screen more comfortable and less eye-straining. Also, reducing the brightness can increase the battery life of a notebook. In this post we will explain how you can change the display brightness on a Windows 10-based laptop.
+Continue reading How to Adjust Display Brightness on Windows 10 Laptop
+In this article, we will explain the most important specs of laptop PC displays.
+Continue reading Laptop PC Display Specs (Size, Resolution…) Explained (2019)
+Search Laptoping Blog
+Popular on Laptoping

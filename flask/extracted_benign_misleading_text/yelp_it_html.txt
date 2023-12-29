@@ -1,0 +1,43 @@
+Innanzitutto prova a caricare nuovamente la pagina e a cliccare di nuovo su Posizione attuale. Assicurati di cliccare su Consenti o Dai l'autorizzazione se il tuo browser ti chiede di identificare la tua posizione. Se il tuo browser non te lo chiede, prova a seguire queste istruzioni:
+- Nelle finestra di Chrome, in alto, accanto all'indirizzo del sito, clicca sul simbolo del lucchetto verde con accanto la scritta "Sicuro".
+- Nella finestra che si apre, assicurati che per il parametro Posizione sia impostata la modalità Chiedi o Consenti.
+- Fatto! Carica nuovamente questa pagina Yelp e prova a cercare di nuovo.
+Se continui ad avere problemi leggi questa pagina di assistenza di Google.
+Prova anche a cercare nei dintorni di una città di un posto o di un indirizzo.
+- Nella finestra di Opera, in alto, accanto all'indirizzo del sito, dovresti vedere un puntatore grigio. Cliccaci su.
+- Nella finestra che si apre, clicca su Cancella questa impostazione
+- Fatto! Carica nuovamente questa pagina Yelp e prova a cercare di nuovo.
+Se continui ad avere problemi leggi la pagina di assistenza di Opera.
+Prova anche a cercare nei dintorni di una città di un posto o di un indirizzo.
+- Clicca su Safari nella barra del menù nella parte alta dello schermo e poi su Preferenze.
+- Clicca su Privacy.
+- Nella sezione Accesso dei siti web ai servizi di localizzazione, clicca Per ogni sito web richiedi una volta ogni giorno o Per ogni sito web richiedi una volta soltanto.
+- Se MacOS ora ti chiede di abilitare i servizi di localizzazione, segui le istruzioni per abilitare tali servizi in Safari.
+- Chiudi il menù "Privacy" e carica nuovamente la pagina. Prova a usare di nuovo la ricerca Posizione attuale. Se funziona, perfetto! Altrimenti continua a leggere per avere ulteriori istruzioni.
+- Nella finestra di dialogo Privacy, clicca su Gestisci dati siti web… e digita yelp.it nella barra di ricerca.
+- Clicca su yelp.it e poi su Elimina.
+- Fatto! Chiudi la sezione delle Impostazioni, carica nuovamente questa pagina Yelp e prova a fare di nuovo la ricerca.
+Se continui ad avere problemi leggi questa pagina di assistenza di Safari.
+Prova anche a cercare nei dintorni di una città di un posto o di un indirizzo.
+- Nella finestra di Firefox, in alto, a sinistra dell'indirizzo del sito, dovresti vedere un lucchetto verde. Cliccaci su.
+- Nella finestra che si apre, accanto alla funzionalità Accesso alla tua posizione dovresti vedere Bloccato o Temporaneamente bloccato. Clicca sulla x in corrispondenza di questa riga.
+- Fatto! Carica nuovamente questa pagina Yelp e prova a fare di nuovo la tua ricerca.
+Se continui ad avere problemi leggi questa pagina di assistenza di Firefox.
+Prova anche a cercare nei dintorni di una città di un posto o di un indirizzo.
+- Nell'angolo in alto a destra della finestra, clicca sull'icona a forma di ingranaggio, poi clicca su Opzioni Internet.
+- Nella nuova finestra clicca su Privacy.
+- Se la casella accanto a Non consentire mai ai siti Web di richiedere la posizione dell'utente è spuntata, togli il segno di spunta.
+- Clicca sul pulsante Cancella i siti.
+- Fatto! Clicca su OK, carica nuovamente questa pagina Yelp e prova a cercare di nuovo.
+Prova anche a cercare nei dintorni di una città di un posto o di un indirizzo.
+- Nell'angolo in alto a destra della finestra, clicca il pulsante con sopra i tre puntini, poi clicca su Impostazioni.
+- In Cancella dati delle esplorazioni clicca su Scegli gli elementi da cancellare.
+- Clicca su Mostra di più, poi assicurati che solo la casella accanto a Autorizzazione per la posizione sia spuntata.
+- Clicca su Cancella.
+- Fatto! Carica nuovamente questa pagina Yelp e prova a fare di nuovo la tua ricerca.
+Prova anche a cercare nei dintorni di una città di un posto o di un indirizzo.
+Non riconosciamo il browser che stai usando. Prova a controllare il menù di assistenza del browser o cerca sul web le istruzioni per attivare la geolocalizzazione HTML5 per il tuo browser.
+Prova anche a cercare nei dintorni di una città di un posto o di un indirizzo.
+Si è verificato un problema sconosciuto. Ti preghiamo di riprovare più tardi o di cercare di nuovo nei dintorni di una città, di un posto o di un indirizzo.
+Non siamo riusciti a trovarti abbastanza velocemente! Riprova più tardi o fai una ricerca nei dintorni di una città, di un posto o di un indirizzo.
+Non siamo riusciti a trovare una posizione accurata. Se stai usando un un computer portatile o un tablet, prova a spostarlo in un altro punto e riprova. Oppure fai una ricerca nei dintorni di una città, di un posto o di un indirizzo.

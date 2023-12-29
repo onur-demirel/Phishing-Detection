@@ -1,0 +1,30 @@
+最新上传资源
+[其他] RRWM_release_v1.22说明：经典的图匹配算法，基于亲和矩阵的随机游走图像匹配算法。(random walk,affinity matrix)
+发布日期：2019-10-27 | 大小：34816 | 提供者：展 | 下载：0
+[Windows编程] 基于sift的图像拼接算法说明：基于sift的图像拼接算法，应用sift算法匹配，ransac算法进行提出错误匹配点，亲测可用(sift image matching ransac)
+发布日期：2019-10-27 | 大小：1182720 | 提供者：展 | 下载：0
+[数值算法/人工智能] 基于MFCC的GMM的语音识别说明：实现了基于MFCC的GMM语音识别功能，使用的是Matlab语言(GMM speech recognition for MFCC)
+发布日期：2019-10-27 | 大小：1506304 | 提供者：胡不往矣 | 下载：0
+[matlab例程] DMC1216说明：动态矩阵控制，实现算法优化运行，属于模型预测控制中一种(DMC control ,model predictive control)
+发布日期：2019-10-27 | 大小：7168 | 提供者：bimqstampinv | 下载：0
+[统计分析] SeriesARIMA-PythonCode-RunOK说明：学习时间序列分析的实战代码；这个Project是在IDE开发环境PyCharm2019.1.1(Professional Editon)中建立的，系统解释核心程序版本是python3.7.4,管理环境是Anaconda3,经debug后完全正常运行，运行结果包括时间序列分析预测的7种方法。(Learn the practical code of time series analysis; this project is establis
+发布日期：2019-10-27 | 大小：125952 | 提供者：laoxuesheng | 下载：0
+[其他] RC-cryptography-master说明：RC5 encryption algorithm class C# RC5 block cipher algorithm in 1994 by Professor Ronald L. Rivest Massachusetts Institute of Technology invention, RSA by laboratory analysis. It is a variable parameter block cipher algo
+发布日期：2019-10-27 | 大小：30720 | 提供者：satoglu | 下载：0
+[单片机开发] WiPy-master说明：PyRIC (is a Linux only) library providing wireless developers and pentesters the ability to identify, enumerate and manipulate their system's wireless cards programmatically in Python
+发布日期：2019-10-27 | 大小：1164288 | 提供者：jstjep00 | 下载：0
+[图片显示] JPEG-PNG-Metadata-master说明：Memory Safe JPEG/PNG Metadata parser
+发布日期：2019-10-27 | 大小：745472 | 提供者：jstjep00 | 下载：0
+[单片机(51,AVR,MSP430等)] 2.4G半双工通讯说明：实现不切换状态的双工通讯，即利用应答信号返回数据，携带信息。(Duplex communication without switching state)
+发布日期：2019-10-27 | 大小：159744 | 提供者：雷劈哥 | 下载：0
+[物联网] MATLAB_source_code_for_U-SPEC_and_U-SENC说明：是用来实现文章Ultra-Scalable Spectral Clustering and Ensemble Clustering的代码(The code used to implement Article Ultra-Scalable Spectral Clustering and Ensemble Clustering)
+发布日期：2019-10-27 | 大小：23159808 | 提供者：hyxue | 下载：0
+[网络编程] 傅里叶变换（连续、离散）说明：傅里叶变换matlab实现，包括连续和离散，仅供参考(Fourier transform matlab implementation, including continuous and discrete, for reference only)
+发布日期：2019-10-27 | 大小：1024 | 提供者：梦yaya | 下载：0
+最新会员需求
+ssip_cj@163.com 发表于 10-05dmiedit，DMIEDIT_utility (0积分)
+我下载的dmiedit，DMIEDIT_utility软件为什么都不能用？有没有能用的dmiedit，DMIEDIT_utility软件下载？
+LoveLab 发表于 06-28Abaqus CDP (1积分)
+Abaqus CDP模型参数插件
+2016888111 发表于 06-09梦幻脚本更新开发 (500积分)
+场景按键类脚本开发 易语言类脚本更新数据基质

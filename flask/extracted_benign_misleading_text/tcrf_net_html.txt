@@ -1,0 +1,24 @@
+The Cutting Room Floor
+The Cutting Room Floor is a site dedicated to unearthing and researching unused and cut content from video games. From debug menus, to unused music, graphics, enemies, or levels, many games have content never meant to be seen by anybody but the developers — or even meant for everybody, but cut due to time/budget constraints.
+Feel free to browse our collection of games and start reading. Up for research? Try looking at some stubs and see if you can help us out. Just have some faint memory of some unused menu/level you saw years ago but can't remember how to access it? Feel free to start a page with what you saw and we'll take a look. If you want to help keep this site running and help further research into games, feel free to donate.
+Featured Article
+The Legend of Zelda: Ocarina of Time
+Developer: Nintendo
+Publisher: Nintendo
+Released: 1998, Nintendo 64
+The Legend of Zelda: Ocarina of Time was the long awaited three-dimensional Zelda adventure, and the first Nintendo 64 Zelda game. It had a development time of three years, and the only limiting factor in its development were the limitations of the Nintendo 64 console, which forced them to cut out lots of things.
+The in-game cutscenes hide some canned ideas and suggestions which are normally hidden to the player, and the large game script also has some surprises hidden inside. These tell a lot about what the developers originally had in mind...
+Did You Know...
+- ...that Gremlins: Unleashed and Kirikou have a variety of hidden images and messages from the developers, including rants about crappy Windows dev environments?
+- ...that there's text in Perfect Dark for Game Boy Camera support?
+- ...that The Legend of Zelda: A Link Between Worlds contains recreations of areas from A Link to the Past?
+- ...that the NES port of Donkey Kong has unused graphics for a bonus item that doesn't appear in any other version?
+- ...that MTV Sports: T.J. Lavin's Ultimate BMX on the Game Boy Color contains a historical e-mail relating to a No$GMB update?
+- ...that Kirby was supposed to have a Mini ability as early as Kirby's Adventure?
+Contributing
+Want to contribute? Not sure where to begin? Visit the Help page for everything you need to get started, including...
+- Instructions for creating and editing articles
+- Guides that will help you find debug modes, unused graphics, hidden levels, and more
+- A list of what needs to be done
+- Common things that can be found in hundreds of different games
+We also have a sizable list of games that either don't have pages yet, or whose pages are in serious need of expansion. Check it out!

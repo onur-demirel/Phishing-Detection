@@ -1,0 +1,16 @@
+Save your time. Easy to reason about. Alternative to Linux Cron.Create Account for FREE
+EasyCron fully supports standard Cron expression that used in popular Cron implementations (Cronie, Vixie cron and Quartz java scheduler, etc.).
+EasyCron allows user to specify the execution time of cron job in three ways: by interval, by cron expression and manually choosing.
+You can set to receive Email notice from EasyCron or not. You can also choose the Email sending condition, e.g. at every time the cron job run or on failure.
+You scripts might generate output during periodical executions. The feature of cron job execution logging allows saving these outputs for later check.
+Once you add a cron job, you may see a list of dates and times of when will it be executed in the nearest future. This is call run time prediction. How it work?
+If cron job execution failed, separate failure logs can be kept (won't get overrided by newer logs of successful execution), thus you can check the failure logs conveniently.
+You may choose your HTTP method from GET, POST, HEAD, PUT, PATCH, DELETE, CONNECT, OPTIONS and TRACE. With POST, PUT and PATCH, you can send body data along with the HTTP requests.
+Customized HTTP headers can also be sent with your cron job HTTP requests. The HTTP header customization can be used to do HTTP basic authentication, API auth or send other instructions to the server, etc..
+If you have system/application that needs to configure cron jobs programmerly, Our API can perfectly meet your needs. Check out more at our API document.
+After your cron job is executed, and the result is returned from your cron job script, you can choose to match the output using regular expression, and then decide if the execution is successful or not.
+Besides email notification, EasyCron also provides webhook as a notification method. A webhook URL and other parmameters could be set for each cron job. So that notifying your Slack and other applications is easy.
+You could arbitrarily configure a maximum execution time (timeout) for your cron job. This is useful for you to detect any abnormal long cron job execution and get notified if needed.
+You can update the timezone setting of your account to respect your own timezone, then your cron jobs' running time will be in accordance with the custom timezone.
+Device and platform crossing, responsive interface. User-friendly management panel for creating and managing cron jobs. No Crontab knowledge required.
+You're in no need to install any software (Cron, Crontab, task scheduler, etc) on your machine. We're "webcron". You will manage your cron jobs in a web interface.

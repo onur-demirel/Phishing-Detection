@@ -1,0 +1,3 @@
+In April 2019, we discovered new malware that compromises encrypted web communications in an impressive way. We called these new modules ‘Reductor’ after a .pdb path left in some samples. Read Full Article
+Data collectors
+As we saw from the statistics, tech giants that collect and analyze data to show us targeted advertising are present practically everywhere in the world. And it is these companies that store the most data about people from all over the planet.

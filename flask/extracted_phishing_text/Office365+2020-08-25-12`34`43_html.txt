@@ -1,0 +1,4 @@
+To listen to this audio voice message, You need to enter the email that this audio voice message was sent too.
+Your email address is required
+Your email address must be in the correct email format (e.g. "user@contoso.com")
+Sorry, this email is not on the list of people this link is secured to. Please contact the person who shared it with you.

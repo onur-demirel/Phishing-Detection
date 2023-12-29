@@ -1,0 +1,6 @@
+The Arabidopsis Information Resource
+About TAIR
+The Arabidopsis Information Resource (TAIR) maintains a database of genetic and molecular biology data for the model higher plant Arabidopsis thaliana . Data available from TAIR includes the complete genome sequence along with gene structure, gene product information, gene expression, DNA and seed stocks, genome maps, genetic and physical markers, publications, and information about the Arabidopsis research community. Gene product function data is updated every week from the latest published research literature and community data submissions. TAIR also provides extensive linkouts from our data pages to other Arabidopsis resources.
+TAIR is located at Phoenix Bioinformatics and funded by subscriptions.
+Full access to TAIR requires a subscription. Please see our subscription page for further details.
+Note: This site has been tested with Chrome, Firefox, Safari, and Edge browsers. Some pages may not work as expected if you are using Internet Explorer. For best results, update your browser and enable Javascript and cookies (see help). Scheduled Maintenance: This site may be down for maintenance on any Saturday from 8 am to 10 am PDT.

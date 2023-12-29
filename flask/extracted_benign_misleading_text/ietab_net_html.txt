@@ -1,0 +1,18 @@
+Run Internet Explorer Inside Chrome
+The robust and secure solution with more than 4 million users worldwide
+Why Use IE Tab?
+Run Legacy Web Apps
+Sharepoint? ActiveX? Silverlight? Java? IE Tab runs them all in Chrome seamlessly and transparently, no more browser switching.
+Use IE Securely
+Running old versions of IE is risky, but IE Tab can be locked down so it is only used on the sites that need it. Use Chrome with IE Tab as a guard against those Zero-Day IE bugs.
+GPO Deployment
+Full support for Group Policy deployment. Set the URLs you need to open with IE Tab and deploy them with Group Policy.
+Our Customers
+Our customers include Fortune 500 companies, government organizations, non-profits, schools, and more. Users from around the world use IE Tab every day to do their jobs.
+Auto URL Filters
+Provide filters for the URLs that need to be opened in IE Tab and IE Tab will open them for you automatically. Seamless integration!
+Group Policy Support
+Use our ADMX templates to configure the Auto URL filters and lock down other user features.
+Ready to give IE Tab a try?
+Get it now! from the Chrome Web Store
+Learn more about what IE Tab can do for you

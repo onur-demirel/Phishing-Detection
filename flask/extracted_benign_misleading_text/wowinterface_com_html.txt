@@ -1,0 +1,157 @@
+Files: 292Addons for WoW Classic
+Files: 5,622Stand-Alone Addons
+Action Bar Mods
+225 files
+225 files
+Auction House & Vendors
+97 files
+97 files
+Bags, Bank, Inventory
+317 files
+317 files
+Buff, Debuff, Spell
+303 files
+303 files
+Casting Bars, Cooldowns
+120 files
+120 files
+Character Advancement
+364 files
+364 files
+Chat Mods
+379 files
+379 files
+Class & Role Specific
+sub-categories
+sub-categories
+Combat Mods
+433 files
+433 files
+Data Mods
+120 files
+120 files
+Garrisons
+36 files
+36 files
+Graphic UI Mods
+387 files
+387 files
+Group, Guild & Friends
+201 files
+201 files
+Info, Plug-in Bars
+sub-categories
+sub-categories
+Map, Coords, Compasses
+250 files
+250 files
+40 files
+Mini Games, ROFL
+104 files
+104 files
+Mounts & Pets
+108 files
+108 files
+PvP, Arena, BattleGrounds
+240 files
+240 files
+Raid Mods
+368 files
+368 files
+RolePlay, Music Mods
+157 files
+157 files
+Suites
+25 files
+25 files
+TradeSkill Mods
+157 files
+157 files
+ToolTip
+213 files
+213 files
+UI Media
+329 files
+329 files
+Unit Mods
+213 files
+213 files
+Miscellaneous
+705 files
+705 files
+Utility Mods
+122 files
+122 files
+Files: 250Featured AddOns
+Carbonite
+7 files
+7 files
+Iriel's Castle
+13 files
+13 files
+Leatrix Projects
+2 files
+2 files
+Norganna's AddOns
+5 files
+5 files
+OpenRDX
+sub-categories
+sub-categories
+oUF
+sub-categories
+sub-categories
+Tekkub's Emporium of Random Crap
+55 files
+55 files
+Files: 1,245Compilations
+Graphical Compilations
+408 files
+408 files
+Minimalistic Compilations
+415 files
+415 files
+Class Compilations
+227 files
+227 files
+Guild Compilations
+19 files
+19 files
+DPS Compilations
+219 files
+219 files
+Healer Compilations
+169 files
+169 files
+Tank Compilations
+101 files
+101 files
+Generic Compilations
+356 files
+356 files
+nUI
+sub-categories
+sub-categories
+Files: 296Utilities
+Libraries
+119 files
+119 files
+Developer Utilities
+75 files
+75 files
+WoW Tools & Utilities
+94 files
+94 files
+Files: 4,447Optional
+Battle for Azeroth Beta
+61 files
+61 files
+Beta-version AddOns
+60 files
+60 files
+Plug-Ins & Patches
+687 files
+687 files
+Discontinued and Outdated Mods
+3,797 files
+3,797 files

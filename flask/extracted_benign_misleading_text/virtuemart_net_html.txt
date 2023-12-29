@@ -1,0 +1,5 @@
+DOWNLOAD VM 3.6 NOW VirtueMart 3.6 component (core and AIO)
+More than 10000 commits later
+With this version VirtueMart has exceeded the 10 000 code commits mark and approximately 150 commits have been integrated into VirtueMart since we released the last stable version of VirtueMart 3.4.x a while ago. In the meantime we have released some development and release candidate versions. Among the many improvements and small bug fixes, here are some of the more noteworthy changes:
+For Shop Owners
+Enhancing...

@@ -1,0 +1,7 @@
+|
+Remote Desktop Access
+|You can connect to the server in the Dynamics Container Host by following this link. If connections to RDP fails, you might need to add an incoming rule to the networksecurity group allowing port 3389 for IP address 137.132.219.137.
+|Connect
+Installation NOT complete
+|You can view the installation status by following this link.
+|View Installation Status

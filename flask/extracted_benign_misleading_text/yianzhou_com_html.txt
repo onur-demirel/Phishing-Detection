@@ -1,0 +1,12 @@
+快速开始
+遇到没有 /usr/bin 权限的问题：
+sudo gem install -n /usr/local/bin bundler jekyll
+快速开始：https://jekyllrb.com/docs/quickstart/
+# Build the site on the preview server
+bundle exec jekyll serve
+# preview drafts
+bundle exec jekyll serve --drafts
+当前主题:
+bundle show minima
+The github-pages gem is what’s constraining you from update to latest Jekyll version. Use this instead:
+bundle update github-pages

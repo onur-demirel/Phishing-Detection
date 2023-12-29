@@ -1,0 +1,26 @@
+Download Seo Panel
+Take care of running Seo Panel yourself by installing it on your own server. There is no cost for Seo Panel itself but you need a server and update Seo Panel & your server regularly to keep it fast and secure.
+Download Seo Panel 4.1.0
+Installation Guide
+See what’s new in this release
+Cloud Hosted Seo Panel
+Take away the hassle of running Seo Panel yourself and skip the technical setup, the maintenance work and server cost by getting Seo Panel on our reliable and secure Cloud. You also get support directly from the makers of Seo Panel.
+Major Features Seo Panel Software
+Automatic Directory Submission Tool
+Automatic directory submission tool help us to submit our websites into to major free and paid internet directories. We can also track the status of each submision through periodical check using submission status checker script.
+Site Auditor
+Site Auditor will audit all SEO factors of each pages of a site and will give a detailed report about each page. This will help us to create XML,HTML,TEXT sitemap files of our website for submit to search engines.
+MOZ Rank Checker
+It will find MOZ page rank, Domain Authority, Page Authority and Backlinks of our websites and stores it in the system. In rank reports section, we can see the daily MOZ rank of each website by detailed reports.
+Keyword Position Checker
+Keyword position checker will find the search engine position of targetted keywords of your website and stores it in the system. In keyword position reports section, we can see the daily positions of keywords in different search engines by beautiful graphs and detailed reports.
+Search Engine Saturation Checker
+Search Engine Saturation checker will find number of indexed pages of our websites in different search engines like google, yahoo, msn etc and stores it in the system.
+PageSpeed Insights
+Page Speed Checker checker will find Desktop Speed, Mobile Speed and Mobile Usability of our websites and stores it in the system.
+Google and Alexa Rank Checker
+Google and alexa rank checker will find google pagerank and alexa rank of our websites and stores it in the system. In rank reports section, we can see the daily google and alexa rank of each website by detailed reports.
+Webmaster Tools
+Webmaster Tools will find search clicks, impression and position of our websites and keywords and stores it in the system.In rank reports section, we can see the daily statistics of each website by detailed reports.
+Backlinks Checker
+Backlinks checker will find number of backlinks of our websites in different search engines like google, yahoo, msn etc and stores it in the system. In backlink reports section, we can see the daily backlinks count of each website by detailed reports.

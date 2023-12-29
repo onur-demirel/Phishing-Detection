@@ -1,0 +1,49 @@
+The latest news
+Applying Graph Analytics to Game of Thrones
+12 June 2019, Amy Hodler & Mark Needham, Neo4j (guest author)
+New options in the DB-Engines ranking for multi-model DBMS
+19 February 2019, Paul Andlinger, Matthias Gelbmann
+PostgreSQL is the DBMS of the Year 2018
+2 January 2019, Paul Andlinger, Matthias Gelbmann
+The most popular database management systems
+|October 2019
+|Score
+|1.
+|Oracle
+|1356
+|2.
+|MySQL
+|1283
+|3.
+|Microsoft SQL Server
+|1095
+|4.
+|PostgreSQL
+|484
+|5.
+|MongoDB
+|412
+DB-Engines
+DB-Engines is an initiative to collect and present information on database management systems (DBMS). In addition to established relational DBMS, systems and concepts of the growing NoSQL area are emphasized.
+The DB-Engines Ranking is a list of DBMS ranked by their current popularity. The list is updated monthly.
+The most important properties of numerous systems are shown in the overview of database management systems. You can examine the properties for each system, and you can compare them side by side.
+In the database encyclopedia terms and concepts on this topic are explained.
+DB-Engines has been created and is maintained by solid IT.
+If you have suggestions, questions or general feedback, we would appreciate to get a message from you.
+Recent DB-Engines citations in the news
+Move aside, RDBMS, NoSQL owns the future
+TimescaleDB Delivers Another Option for Time-Series Analytics
+Percona packages PostgreSQL alongside existing MySQL and MongoDB products
+Redis Cloud Gets Easier with Fully Managed Hosting on Azure at ScaleGrid
+provided by Google News
+Upcoming Events
+|» more DBMS events
+|IBM Db2 event
+IDUG Db2 Tech Conference Europe 2019
+Rotterdam, Netherlands
+29-24 October 2019
+|Microsoft SQL Server event
+PASS Summit 2019
+Seattle, Washington, USA
+5-8 November 2019
+Despite careful research, we can assume no liability for the information presented here to be complete and accurate.

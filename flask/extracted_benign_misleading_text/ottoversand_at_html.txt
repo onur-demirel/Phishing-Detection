@@ -1,0 +1,30 @@
+In unserem System ist ein technischer Fehler aufgetreten. Wir bitten um Entschuldigung.
+{{#data.error}}
+{{^flags.Hidden}}
+{{#description}}
+<li>{{{description}}}</li>
+{{/description}}
+{{/flags.Hidden}}
+{{/data.error}}
+{{#data.errors}}
+{{^flags.Hidden}}
+{{#description}}
+<li>{{{description}}}</li>
+{{/description}}
+{{/flags.Hidden}}
+{{#flags.RedemptionCodes}}
+<span class="RedemptionCheck"></span>
+{{/flags.RedemptionCodes}}
+{{/data.errors}}
+{{#data.warnings}}
+{{#warnings}}
+{{^flags.Hidden}}
+{{#description}}
+<li>{{{description}}}</li>
+{{/description}}
+{{/flags.Hidden}}
+{{/warnings}}
+{{/data.warnings}}
+{{#data.hints}}
+<li>{{{.}}}</li>
+{{/data.hints}}

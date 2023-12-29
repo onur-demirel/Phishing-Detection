@@ -1,0 +1,4 @@
+Price Tracking made easy.
+Costify lets you know when your favorite items are on sale.
+Supported Websites
+© 2020 Costify.ga

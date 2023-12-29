@@ -1,0 +1,251 @@
+Saab uses cookies and related technologies to improve the way our site functions for you as a visitor. A cookie is a text file that is stored on your device. We use these text files for functionality such as to analyze our traffic or to personalize content.
+You can easily control how we use cookies on your device by adjusting the settings below, and you may also change those settings at any time by visiting our cookie policy page.
+Remember, if you do disable or delete cookies, you will not have access to the full functionality of our website.
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|PHPSESSID [x2]
+|api.creo.se
+saab-seminar.creo.se
+|Preserves user session state across page requests.
+|Session
+|HTTP
+|collect
+|google-analytics.com
+|Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+|Session
+|Pixel
+|_dc_gtm_UA-# [x2]
+|saabgroup.com
+saab.com
+|Used by Google Tag Manager to control the loading of a Google Analytics script tag.
+|1 day
+|HTTP
+|_ga [x2]
+|saabgroup.com
+saab.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|2 years
+|HTTP
+|_gat [x2]
+|saabgroup.com
+saab.com
+|Used by Google Analytics to throttle request rate
+|1 day
+|HTTP
+|_gid [x2]
+|saabgroup.com
+saab.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|1 day
+|HTTP
+|ASP.NET_SessionId [x2]
+|saabgroup.com
+saab.com
+|Preserves the visitor's session state across page requests.
+|Session
+|HTTP
+|CookieConsent [x2]
+|saabgroup.com
+saab.com
+|Stores the user's cookie consent state for the current domain
+|1 year
+|HTTP
+|LastMRH_Session
+|image.saabgroup.com
+|Pending
+|Session
+|HTTP
+|MRHSession
+|image.saabgroup.com
+|Pending
+|Session
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|lang [x2]
+|ads.linkedin.com
+linkedin.com
+|Remembers the user's selected language version of a website
+|Session
+|HTTP
+|CookieConsentBulkSetting-#
+|consentcdn.cookiebot.com
+|Enables cookie consent across multiple websites
+|Persistent
+|HTML
+|CookieConsentBulkTicket
+|cookiebot.com
+|Enables cookie consent across multiple websites
+|1 year
+|HTTP
+|jwplayerLocalId
+|saab-seminar.creo.se
+|Used to determine the optimal video quality based on the visitor's device and network settings.
+|Persistent
+|HTML
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+|179 days
+|HTTP
+|volume
+|csp.screen9.com
+|Used by video players to remember the user's preferred sound volume.
+|Persistent
+|HTML
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+|personalization_id
+|twitter.com
+|This cookie is set by Twitter. The cookie allows the visitor to share content from the website on his/her Twitter profile.
+|2 years
+|HTTP
+|GPS
+|youtube.com
+|Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+|1 day
+|HTTP
+|PREF
+|youtube.com
+|Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+|8 months
+|HTTP
+|YSC
+|youtube.com
+|Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+|Session
+|HTTP
+|screen9_user_session [x2]
+|csp.screen9.com
+saabgroup.com
+|Pending
+|1 year
+|HTTP
+|00/00/0000 00:00:00 [x2]
+|saabgroup.com
+saab.com
+|Pending
+|1 day
+|HTTP
+|EPi_NumberOfVisits [x2]
+|saabgroup.com
+saab.com
+|Pending
+|1 year
+|HTTP
+|NID
+|google.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|6 months
+|HTTP
+|vuid
+|vimeo.com
+|Collects data on the user's visits to the website, such as which pages have been read.
+|2 years
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|test_cookie
+|doubleclick.net
+|Used to check if the user's browser supports cookies.
+|1 day
+|HTTP
+|fr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|tr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|Session
+|Pixel
+|bcookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|bscookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|lidc
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|1 day
+|HTTP
+|UserMatchHistory
+|linkedin.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|29 days
+|HTTP
+|_fbp [x2]
+|saabgroup.com
+saab.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|i/adsct
+|t.co
+|The cookie is used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content.
+|Session
+|Pixel
+|yt-remote-cast-installed
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|pagead/1p-user-list/#
+|google.com
+|Pending
+|Session
+|Pixel
+|We do not use cookies of this type

@@ -1,0 +1,9 @@
+1 Impasse de l’Aurore
+85800 Givrand
+Téléphone : 02 51 55 46 55
+Votre nom (obligatoire)
+Votre adresse de messagerie (obligatoire)
+Objet
+Votre message
+J’ai pris connaissance et accepte les conditions de collecte et traitement des données personnelles.
+[recaptcha]

@@ -1,0 +1,19 @@
+Física y Química: Ejercicios, Apuntes y VÍDEOS
+Ejercicios Resueltos, Apuntes y VÍDEOS de Física y Química para Secundaria y Bachillerato
+-
+Aceleraciones de un camión que circula por un tramo de carretera23 de octubre, por F_y_Q
+Un camión que circula a encuentra una pendiente del . A partir de ahí, las señales de tráfico le indican a qué velocidad puede ir. A 2,0 km de iniciar la pendiente debe haber reducido la velocidad un . Después, durante 3,0 km debe variar uniformemente su velocidad hasta el valor . A continuación, debe aumentar su velocidad durante 5,0 km hasta los . Calcula la aceleración en cada tramo.
+-
+Desplazamiento angular de un carrete para una longitud de 2 m23 de octubre, por F_y_Q
+Un cable está enrollado en torno de un carrete de 80 cm de diámetro. ¿Cuántas revoluciones de este carrete se requieren para que un objeto atado al cable recorra una distancia rectilínea de 2 m? ¿Cuál es el desplazamiento angular?
+-
+Fuerza motriz para equilibrar una palanca22 de octubre, por F_y_Q
+Se quiere equilibrar un peso de 60 N con una palanca de 3 m de largo apoyada a un metro del punto de aplicación a la resistencia. Calcula la fuerza motriz necesaria.
+-
+Trabajo realizado por el peso en un péndulo y velocidad en una posición dada22 de octubre, por F_y_Q
+Una esfera sólida de masa 16 kg, se suspende de un punto fijo, mediante una cuerda ligera, cuya longitud al centro de masa es de 1 m. La esfera se eleva y se libera desde el reposo con una posición angular inicial con respecto a la horizontal. Halla el trabajo total realizado por las fuerzas que interactúan sobre la partícula una vez haya descrito un arco de . ¿Cuál es la magnitud y dirección de la velocidad en ese instante?
+-
+Velocidad de un objeto que tiene velocidad inicial y aceleración22 de octubre, por F_y_Q
+Calcula la velocidad de un objeto 20 s después de empezar a moverse a , si acelera a razón de .
+- ← Página anterior
+- Página siguiente →

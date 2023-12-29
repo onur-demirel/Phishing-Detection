@@ -1,0 +1,23 @@
+Utilisez exclusivement le navigateur Safari.
+Ouvrez l’URL https://app.belswing.com/app
+Lorsque la page appelée s’affiche, un pop-up apparaitra dans le bas de celle-ci (voir image).
+Cliquez sur l’icône de partage.
+Dans les choix proposés, cliquez sur « Sur l’écran d’accueil »
+Sur l’écran suivant, cliquez simplement sur le bouton « Terminé » et la WebApp sera installée sur l’écran d’accueil.
+Utilisez exclusivement le navigateur Chrome pour Android.
+Vérifiez au préalable la version afin de disposer de la version la plus récente.
+Pour vérifier la version de votre navigateur Chrome :
+1- Lancer chrome
+2- Taper dans la barre d’adresse : chrome://version
+La page suivante s’ouvre.
+Assurez-vous de disposer d’une version récente. La version la plus récente est : 69.0.3497
+Dans Chrome, ouvrez l’URL https://app.belswing.com/app
+Deux comportements sont possibles en fonction de la version de votre Android et de Chrome. Si vous n’avez pas l’affichage d’un pop-up automatique vous proposant l’ajout de la WebApp sur votre écran d’accueil, sautez le point suivant pour suivre la seconde procédure.
+La page s’affiche et dans le bas de celle-ci, un message vous propose d’ajouter la WebApp sur votre écran d’accueil.
+Cliquez sur le message « Ajouter BelSwing à l’écran d’accueil » , ne cliquez PAS sur la croix.
+Un pop-up s’ouvre, cliquez sur « Ajouter » pour confirmer.
+Un message apparaît ensuite vous indiquant l’ajout de la WebApp.
+Lorsque la page s’est ouverte, cliquez sur le menu supérieur droit.
+Dans le menu qui apparaît, cliquez sur « Ajouter à l’écran d’accueil ».
+Un message apparaît ensuite vous indiquant l’ajout de la WebApp.
+Lorsque les opérations décrites ci-dessus ont été effectuées correctement, la WebApp BelSwing se retrouve sur votre écran d’accueil et aussi dans vos app ; Android. Il suffit ensuite de cliquer dessus pour lancer l’application.

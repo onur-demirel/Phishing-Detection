@@ -1,0 +1,387 @@
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|ASPSESSIONID#
+|acr.informz.net
+|Preserves users states across page requests.
+|Session
+|HTTP
+|__RequestVerificationToken
+|acr.org
+|Helps prevent Cross-Site Request Forgery (CSRF) attacks.
+|Session
+|HTTP
+|__sharethis_cookie_test__
+|acr.org
+|This cookie determines whether the browser accepts cookies.
+|Session
+|HTTP
+|ASP.NET_SessionId
+|acr.org
+|Preserves the visitor's session state across page requests.
+|Session
+|HTTP
+|CookieConsent
+|acr.org
+|Stores the user's cookie consent state for the current domain
+|1 year
+|HTTP
+|SERVERID [x2]
+|acr.org
+cortex.acr.org
+|This cookie is used to assign the visitor to a specific server - this function is necessary for the functionality of the website.
+|Session
+|HTTP
+|__cfduid [x5]
+|cloudflare.com
+crazyegg.com
+theroamingboomers.com
+licensebuttons.net
+podbean.com
+|Used by the content network, Cloudflare, to identify trusted web traffic.
+|1 year
+|HTTP
+|JSESSIONID
+|nr-data.net
+|Preserves users states across page requests.
+|Session
+|HTTP
+|AWSELB [x3]
+|sample-api-v2.crazyegg.com
+podbean.com
+radiologyleaders.podbean.com
+|Used to distribute traffic to the website on several servers in order to optimise response times.
+|Session
+|HTTP
+|local_storage_support_test
+|twitter.com
+|The cookie is used in context with the local-storage function in the browser. This function allows the website to load faster by pre-loading certain procedures.
+|Persistent
+|HTML
+|AnonumousTimssCMSUser
+|acr.org
+|Pending
+|Session
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|lang [x3]
+|ads.linkedin.com
+linkedin.com
+cdn.syndication.twimg.com
+|Remembers the user's selected language version of a website
+|Session
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|_dc_gtm_UA-#
+|acr.org
+|Used by Google Tag Manager to control the loading of a Google Analytics script tag.
+|1 day
+|HTTP
+|_ga
+|acr.org
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|2 years
+|HTTP
+|_gat
+|acr.org
+|Used by Google Analytics to throttle request rate
+|1 day
+|HTTP
+|_gid
+|acr.org
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|1 day
+|HTTP
+|SC_ANALYTICS_GLOBAL_COOKIE
+|acr.org
+|Used by Sitecore Engagement Analytics to identify the visitor on repeat visits to the website.
+|10 years
+|HTTP
+|collect
+|google-analytics.com
+|Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+|Session
+|Pixel
+|_at.hist.#
+|podbean.com
+|Used by the social sharing platform AddThis to store the user's usage history of the AddThis sharing widget
+|Persistent
+|HTML
+|personalization_id
+|twitter.com
+|This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+|2 years
+|HTTP
+|p.gif
+|typekit.net
+|Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+|Session
+|Pixel
+|__coveo.analytics.history
+|acr.org
+|Pending
+|Persistent
+|HTML
+|coveo_visitorId
+|acr.org
+|Pending
+|9999 days
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|NSC_#
+|acr.informz.net
+|Used to distribute traffic to the website on several servers in order to optimise response times.
+|1 day
+|HTTP
+|_fbp
+|acr.org
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|_gcl_au
+|acr.org
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|3 months
+|HTTP
+|_mkto_trk
+|acr.org
+|Contains data on visitor behaviour and website interaction. This is used in context with the email marketing service Marketo.com, which allows the website to target visitors via email.
+|2 years
+|HTTP
+|loc
+|addthis.com
+|Geolocation, which is used to help providers determine how users who share information with each other are geographically located (state level).
+|13 months
+|HTTP
+|uvc
+|addthis.com
+|Detects how often the social sharing service, AddThis, encounters the same user.
+|13 months
+|HTTP
+|xtc
+|addthis.com
+|Registers the user's sharing of content via social media.
+|13 months
+|HTTP
+|track/evnt
+|adsrvr.org
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|test_cookie
+|doubleclick.net
+|Used to check if the user's browser supports cookies.
+|1 day
+|HTTP
+|fr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|tr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|Session
+|Pixel
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+|NID
+|google.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|6 months
+|HTTP
+|rc::c
+|google.com
+|This cookie is used to distinguish between humans and bots.
+|Session
+|HTML
+|bcookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|bscookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|lidc
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|1 day
+|HTTP
+|UserMatchHistory
+|linkedin.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|29 days
+|HTTP
+|__atuvc
+|podbean.com
+|Updates the counter of a website's social sharing features.
+|13 months
+|HTTP
+|__atuvs
+|podbean.com
+|Ensures that the updated counter is displayed to the user if a page is shared with the social sharing service, AddThis.
+|1 day
+|HTTP
+|_at.cww
+|podbean.com
+|Used by the social sharing platform AddThis
+|Persistent
+|HTML
+|at-lojson-cache-#
+|podbean.com
+|Used by the social sharing platform AddThis
+|Persistent
+|HTML
+|at-rand
+|podbean.com
+|Used by the social sharing platform AddThis
+|Persistent
+|HTML
+|i/adsct
+|t.co
+|The cookie is used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content.
+|Session
+|Pixel
+|GPS
+|youtube.com
+|Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+|1 day
+|HTTP
+|PREF
+|youtube.com
+|Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+|8 months
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+|179 days
+|HTTP
+|YSC
+|youtube.com
+|Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|_sp_id.3014
+|acr.org
+|Pending
+|2 years
+|HTTP
+|_sp_ses.3014
+|acr.org
+|Pending
+|1 day
+|HTTP
+|snowplowOutQueue_informz_trk_infz_get
+|acr.org
+|Pending
+|Persistent
+|HTML
+|visitor
+|acr.org
+|Pending
+|999 days
+|HTTP
+|pagead/1p-user-list/#
+|google.com
+|Pending
+|Session
+|Pixel
+|PBSECURESUSID
+|podbean.com
+|Pending
+|Session
+|HTTP
+|__ab12#
+|sharethis.com
+|Pending
+|1 year
+|HTTP
+|__widgetsettings
+|twitter.com
+|Pending
+|Persistent
+|HTML
+|i/jot/syndication
+|twitter.com
+|Pending
+|Session
+|Pixel
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|dp/chz/12992
+|cs.choozle.com
+|Pending
+|Session
+|Pixel
+|dp/chz/12994
+|cs.choozle.com
+|Pending
+|Session
+|Pixel
+|cYBh1hfMvFy2chhC6iyRkE6vYsUgx8MYVs/FtYicsjOcWgjA
+|netforumpro.com
+|Pending
+|Session
+|HTTP
+Commenting is open on draft Practice Parameters & Technical Standards for the fourth field review cycle.Comment by Nov. 8 »
+Commenting is open on draft Practice Parameters & Technical Standards for the fourth field review cycle.Comment by Nov. 8 »
+Test your clinical knowledge with the daily Case in Point program, which gives you the opportunity each weekday to work through a subspecialty case.

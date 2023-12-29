@@ -1,0 +1,7 @@
+Let us continue with my Lightning Flow, ‘Getting Started’, series. A few months ago, I published an article to help you better understand Flow screen elements by taking a real-time example. In that blog, we discussed how to create a static Flow screen – A Static Flow screen always displays previously added fields.
+If you didn’t get a chance to read it yet, do it now! It will significantly improve your knowledge of Lightning Flow.
+- Getting Started with Lightning Flow Designer – Part 2 (Do You Know How Screen Element Bestows Power on Lightning Flow Builder?!)
+Let us take our knowledge of Flow a notch up! Let us learn how to create a dynamic Flow screen.
+Business Use Case
+Edward Backhouse is working as a System administrator at GurukulOnCloud. Edward’s Manager requested him to create a form that looks like the following screenshot:
+Edward has to accommodate one more requirement – display a ‘Street’ field whenever the City is Mumbai; or else, don’t display the ‘Street’ field. Read the rest of this entry!

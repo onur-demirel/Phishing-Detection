@@ -1,0 +1,2 @@
+It appears you've added a quantity which exceeds our current In-Store inventory for this item. In order to continue checking out, we'll need to ship your items to your selected store, which may take more time.
+Switching stores will empty the cart. Are you sure you want to do this?

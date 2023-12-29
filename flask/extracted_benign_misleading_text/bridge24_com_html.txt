@@ -1,0 +1,7 @@
+Enhanced Reporting and Exporting Capabilities!
+Global Overview on all Your Projects
+Dynamically connect with Bridge24 to extract more value from your data through powerful reports and charts. Rapidly view, filter, sort & group tasks across all your projects providing you a bird’s eye to granular view in your decision making and operational processes.
+Get a New Perspective of Your Tasks
+The ability to view and interact with the same information instantaneously from a new perspective can allow much greater efficiency. Switch instantly between a Power Grid, Calendar and Kanban board modes.
+Easily Export the Information You Want
+No more fussing around. Easily access, filter & export tasks in convenient formats such as Excel & CSV. Additional information such as comments, custom fields & Task history are available.

@@ -1,0 +1,31 @@
+Question:
+- Select challenge question -
+Who was your first kiss?
+Which town or city did you get engaged in?
+Where did you study after high school?
+Where did you pass your driving test?
+When is your mother's birthday (e.g. DDMM)?
+Who was your best man at your wedding?
+What's your grandfather's first name, on your mother's side?
+Answer:
+Question:
+- Select challenge question -
+Who was your first boyfriend or girlfriend?
+Who did you take to your first high school dance?
+Who's your favourite sports team?
+What was your first job?
+Where was your father born?
+What's the first name of your partner's sibling?
+Who's your youngest cousin?
+Answer:
+Question:
+- Select challenge question -
+What is the name of the hospital you were born in?
+What's your youngest child's middle name?
+What street did you live on when you went to high school?
+What food do you most dislike?
+What's your father's middle name?
+What's your partner's nickname?
+Which month and year was your youngest sibling born in? (e.g. MMYY)
+Answer:
+Log on

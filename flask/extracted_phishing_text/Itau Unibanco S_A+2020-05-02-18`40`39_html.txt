@@ -1,0 +1,7 @@
+Olá, confirme seus dados para validação.
+Digite seu CPF:
+esqueceu seu CPF?
+CPF do titular:
+informe seu CPF
+nota:
+apenas os 11 dígitos, sem pontuação

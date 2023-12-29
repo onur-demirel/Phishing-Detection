@@ -1,0 +1,31 @@
+- OAuth.com
+- Background
+- Getting Ready
+- Accessing Data in an OAuth Server
+- Signing in with Google
+- Server-Side Apps
+- Single-Page Apps
+- Mobile and Native Apps
+- Making Authenticated Requests
+- Client Registration
+- Authorization
+- Scope
+- Redirect URLs
+- Access Tokens
+- Listing Authorizations
+- The Resource Server
+- OAuth for Native Apps
+- OAuth for Browserless and Input-Constrained Devices
+- Protecting Mobile Apps with PKCE
+- Token Introspection Endpoint
+- Creating Documentation
+- Terminology Reference
+- Differences Between OAuth 1 and 2
+- OpenID Connect
+- IndieAuth
+- Map of OAuth 2.0 Specs
+- Tools and Libraries
+- Appendix
+OAuth 2.0 is the modern standard for securing access to APIs.
+Read on for a complete guide to building your own authorization server.
+Learn about OAuth 2.0 Solve it with Okta

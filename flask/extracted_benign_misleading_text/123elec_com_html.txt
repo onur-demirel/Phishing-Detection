@@ -1,0 +1,296 @@
+Votre référence en matériel électrique
+Mon compte Accès PROS
+Votre panier est vide.
+Nous sommes ravis de votre visite
+Livraison offertedès 250€ TTC de commande
+Les grandes marquesau meilleur prix
+Plus de 3000 articlesen stock permanent
+|Nom
+|Fournisseur
+|Finalité
+|Expiration
+|Type
+|CookieConsent [x2]
+|blog.123elec.com
+123elec.com
+|Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur
+|1 année
+|HTTP
+|PHPSESSID
+|blog.123elec.com
+|Conserve la configuration des paramètres des utilisateurs à travers les demandes de page.
+|Session
+|HTTP
+|SERVERID# [x2]
+|blog.123elec.com
+phaseneutre.fr
+|En attente
+|Session
+|HTTP
+|external_no_cache
+|123elec.com
+|Ce cookie est installé pour déterminer si le cache est activé ou non – un cache est utilisé par le site pour optimiser le temps de réponse entre le visiteur et le site. Le cache est généralement enregistré dans le navigateur du visiteur.
+|1 jour
+|HTTP
+|frontend
+|123elec.com
+|Stocke un ID aléatoire qui garantit qu'un utilisateur peut être identifié de manière unique en tant que visiteur ou utilisateur connecté. Des fonctions telles que "Derniers éléments consultés" ou la conservation de l'état connecté sont liées à ce cookie.
+|1 jour
+|HTTP
+|frontend_cid
+|123elec.com
+|Stocke un ID aléatoire qui garantit qu'un utilisateur peut être identifié de manière unique en tant qu'invité ou utilisateur connecté. Des fonctions telles que "Derniers éléments consultés" ou la conservation de l'état connecté sont liées à ce cookie.
+|1 jour
+|HTTP
+|incap_ses_#
+|123elec.com
+|Conserve la configuration des paramètres des utilisateurs à travers les demandes de page.
+|Session
+|HTTP
+|visid_incap_#
+|123elec.com
+|Conserve la configuration des paramètres des utilisateurs à travers les demandes de page.
+|1 année
+|HTTP
+|JSESSIONID
+|nr-data.net
+|Conserve la configuration des paramètres des utilisateurs à travers les demandes de page.
+|Session
+|HTTP
+|Nom
+|Fournisseur
+|Finalité
+|Expiration
+|Type
+|CookieConsentBulkSetting-#
+|consentcdn.cookiebot.com
+|Active le consentement aux cookies sur plusieurs sites
+|Persistent
+|HTML
+|CookieConsentBulkTicket
+|cookiebot.com
+|Active le consentement aux cookies sur plusieurs sites
+|1 année
+|HTTP
+|Nom
+|Fournisseur
+|Finalité
+|Expiration
+|Type
+|__utma
+|blog.123elec.com
+|Recueille des données sur le nombre de fois qu'un utilisateur a visité le site web ainsi que les dates de la première et de la plus récente visite. Utilisé par Google Analytics.
+|2 années
+|HTTP
+|__utmb
+|blog.123elec.com
+|Enregistre un horodatage du moment exact de l'accès au site par l'utilisateur. Utilisé par Google Analytics pour calculer la durée d'une visite d’un site web.
+|1 jour
+|HTTP
+|__utmc
+|blog.123elec.com
+|Enregistre un horodatage du moment exact de la sortie du site par l'utilisateur. Utilisé par Google Analytics pour calculer la durée d'une visite d’un site web.
+|Session
+|HTTP
+|__utmt
+|blog.123elec.com
+|Utilisé pour ralentir la vitesse des requêtes envoyées au serveur.
+|1 jour
+|HTTP
+|__utmv
+|blog.123elec.com
+|Enregistre les paramètres de suivi définis par l'utilisateur pour une utilisation dans Google Analytics.
+|1 jour
+|HTTP
+|__utmz
+|blog.123elec.com
+|Recueille des données sur la provenance de l'utilisateur, le moteur de recherche, le lien cliqué et le critère de recherche utilisés. Utilisé par Google Analytics.
+|6 mois
+|HTTP
+|__utm.gif
+|google-analytics.com
+|Ce cookie est utilisé pour déterminer quel type d'appareil ou de navigateur le visiteur utilise ; cela permet au site d'être formaté en conséquence.
+|Session
+|Pixel
+|_ga
+|123elec.com
+|Enregistre un identifiant unique utilisé pour générer des données statistiques sur la façon dont le visiteur utilise le site.
+|Session
+|HTTP
+|_gat
+|123elec.com
+|Utilisé par Google Analytics pour diminuer radicalement le taux de requêtes
+|1 jour
+|HTTP
+|_gid
+|123elec.com
+|Enregistre un identifiant unique utilisé pour générer des données statistiques sur la façon dont le visiteur utilise le site.
+|1 jour
+|HTTP
+|OTZ
+|google.com
+|Ce cookie est installé par l'outil Google+. Il est nécessaire pour l'intégration du plug-in Google+. L'outil Google+ est une plateforme sociale basée sur le compte Google.
+|29 jours
+|HTTP
+|ec_GUID{32}_ec_details
+|123elec.com
+|En attente
+|Persistent
+|HTML
+|Nom
+|Fournisseur
+|Finalité
+|Expiration
+|Type
+|IDE
+|doubleclick.net
+|Utilisé par Google DoubleClick pour enregistrer et signaler les actions de l'utilisateur du site après qu'il ait vu ou cliqué sur une des pubs de l'annonceur dans le but de mesurer l'efficacité et de présenter des annonces publicitaires ciblées à l'utilisateur.
+|1 année
+|HTTP
+|test_cookie
+|doubleclick.net
+|Utilisé pour vérifier si le navigateur de l'utilisateur accepte les cookies.
+|1 jour
+|HTTP
+|NID
+|google.com
+|Enregistre un identifiant qui identifie l'appareil de l'utilisateur récurrent. Cet identifiant est utilisé pour des annonces ciblées.
+|6 mois
+|HTTP
+|rc::a
+|google.com
+|Ce cookie est utilisé pour distinguer les humains des robots. Ceci est bénéfique pour le site web afin de créer des rapports valides sur l'utilisation du leur site.
+|Persistent
+|HTML
+|rc::b
+|google.com
+|Ce cookie est utilisé pour distinguer les humains des robots.
+|Session
+|HTML
+|rc::c
+|google.com
+|Utilisé dans le contexte de la publicité vidéo. Le cookie limite le nombre de fois qu'un même visiteur a le même contenu publicitaire. Le cookie est également utilisé pour assurer la pertinence de la publicité vidéo pour le visiteur spécifique.
+|Session
+|HTML
+|GPS
+|youtube.com
+|Enregistre un identifiant unique sur les appareils mobiles pour permettre le suivi basé sur la localisation géographique GPS.
+|1 jour
+|HTTP
+|PREF
+|youtube.com
+|Enregistre un identifiant unique utilisé par Google pour conserver des statistiques sur la façon dont le visiteur utilise des vidéos YouTube dans différents sites web.
+|8 mois
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tente d'estimer la bande passante des utilisateurs sur des pages avec des vidéos YouTube intégrées.
+|179 jours
+|HTTP
+|YSC
+|youtube.com
+|Enregistre un identifiant unique pour conserver des statistiques sur les vidéos de YouTube vues par l'utilisateur.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées
+|Session
+|HTML
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+|_gcl_au
+|123elec.com
+|Utilisé par Google AdSense pour expérimenter l'efficacité de la publicité sur de divers sites Web en utilisant leurs services.
+|3 mois
+|HTTP
+|pagead/1p-user-list/#
+|google.com
+|En attente
+|Session
+|Pixel
+|Nom
+|Fournisseur
+|Finalité
+|Expiration
+|Type
+|___utmvbcEuZkNXB
+|123elec.com
+|En attente
+|1 jour
+|HTTP
+|___utmvboNuZkNXB
+|123elec.com
+|En attente
+|1 jour
+|HTTP
+|___utmvbZEuZkNXB
+|123elec.com
+|En attente
+|1 jour
+|HTTP
+|___utmvmcEuZkNXB
+|123elec.com
+|En attente
+|1 jour
+|HTTP
+|___utmvmoNuZkNXB
+|123elec.com
+|En attente
+|1 jour
+|HTTP
+|___utmvmZEuZkNXB
+|123elec.com
+|En attente
+|1 jour
+|HTTP
+|123ELECLB
+|123elec.com
+|En attente
+|1 jour
+|HTTP
+|experiment
+|123elec.com
+|En attente
+|Session
+|HTTP
+|trackingMarket
+|123elec.com
+|En attente
+|Session
+|HTML
+|trackingStats
+|123elec.com
+|En attente
+|Session
+|HTML
+Votre panier est vide.
+Chargement en cours...

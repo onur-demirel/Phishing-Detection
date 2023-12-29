@@ -1,0 +1,32 @@
+August 15th, 2018 by Mr.Mouse
+A little belated message here on the front page, but on July 25th I shipped Batch 2 of FM-YAM to their new owners! If you don’t know what an FM-YAM is, it is a sound expansion for the Commodore 64 that will add the OPL2 audio chip (YM3812) via the expansion port. Read more about it at our dedicated page here! To date more than 200 cartridges have been sold! Still want one?
+There’s a few left.
+Posted in Commodore 64, FM-YAM | Comments Off
+June 7th, 2018 by Mr.Mouse
+Awesome news! Within less than one week we got enough paid reservations to start the production of a second batch of 120 FM-YAM units! The parts have been ordered! Of course, there will need to be a cap on the number of reservations that can be done to 100 first. We never know if all parts will work as expected and have to account for some faulty ones. But I am exited we can move ahead and to the second batch !
+Posted in FM-YAM | Comments Off
+April 6th, 2018 by Mr.Mouse
+The first batch of 100(!) FM-YAM units shipped on the 16th of March 2018! A historical milestone! There are 20 more in an extended batch, of which only 10 are left. Those 10 people that reserved one in the range of reservation numbers 122 – 131 are in luck and got an email to purchase one of the last 10!
+Posted in FM-YAM, General | Comments Off
+February 25th, 2018 by Mr.Mouse
+FM-YAM units are assembled the coming weeks and then ready for shipment! We changed the colour of the 3D printed cartridge cases to red, which is a lovely colour. So, FM-YAM is still set for a Q1 2018 release! Also, you can still reserve a unit, if I get sufficient reservations, I think I’ll do a second batch.
+Posted in FM-YAM | Comments Off
+December 12th, 2017 by Mr.Mouse
+Over the course of just 1 week we’ve passed 100 reservations of FM-YAM! This is great news! The next step is the manufacturing of the units. If you reserved a unit, you will be receiving a payment notification as soon as it is ready to ship.
+Posted in FM-YAM | Comments Off
+December 5th, 2017 by Mr.Mouse
+FM-YAM update! Reservations are now open ! Manufacturing of the first batch of 100 units will commence once we hit enough interest in the community.
+Please visit this page to reserve a unit today!
+Posted in FM-YAM | Comments Off
+August 14th, 2017 by Mr.Mouse
+Hi everyone! Just a small announcement of our latest project, an FM music cartridge for the Commodore 64. If you wish to read up on it, please visit this dedicated page.
+Posted in FM-YAM | Comments Off
+January 17th, 2017 by Mr.Mouse
+The USHSC YouTube channel reached a new milestone, with 600 subscribers and 225.000 views! Be sure to subscribe if you wish to follow the latest SID tunes!
+Posted in Commodore 64, Unepic High Stoned SID Collection | Comments Off
+July 10th, 2016 by Mr.Mouse
+Yesterday marked the completion of the fully automated upload of more than 50.000 Commodore 64 SID tunes to a single YouTube channel, check my VLOG of it. I started this project at the end of April 2016, and coded the program that would automate the upload. See this picture here to see the number of uploads per day! It took 66 days from first upload to finish. Effectively, there were 57 days of non-stop uploading, day and night (since I went on a holiday in between). Here’s a link to the readme.txt of the tool I coded to do the job. Phase 2 will be expanding the channel, checking/fixing tunes, and much more. Stay “tuned” for new updates. To keep track of it all, go to the USHSC Facebook page and like it!
+Posted in Unepic High Stoned SID Collection | Comments Off
+May 13th, 2016 by Mr.Mouse
+I recently started a new project, unrelated to game research. Wait what? Then it has got to do with Commodore 64 right? Indeed. I used to compose SID tunes actively on the C64, back in the day. In this day and age, I still try to release at least a few products for that machine each year. It’s hard to find any time though, but I get by I guess. However, the love for SID and her composers will not die. I love to listen to the works of all SID composers, and I really want t honour them. Let;’s combine the two – listening and honouring – and create a gargantuan YouTube playlist with tunes by ALL composers. Not those few that the majority of people will know. No, ALL of them, as there are some brilliant compositions in there that we all should know. They deserve it. So check out this playlist and YouTube Channel. Be sure to subscribe if you wish to keep track of the uploads. Play the list while doing whatever, or just play to listen. You will discover some real gems, I’m sure. And you will never run out of new SID tunes to listen to.
+Posted in Commodore 64, Unepic High Stoned SID Collection | Comments Off

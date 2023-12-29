@@ -1,0 +1,459 @@
+Save money and be efficient with video management
+Save money and be efficient with video management
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|ASP.NET_SessionId [x2]
+|corpredirect.intel.com
+milestonesys.com
+|Preserves the visitor's session state across page requests.
+|Session
+|HTTP
+|__cfduid [x2]
+|datatables.net
+siteimproveanalytics.com
+|Used by the content network, Cloudflare, to identify trusted web traffic.
+|1 year
+|HTTP
+|__RequestVerificationToken
+|milestonesys.com
+|Helps prevent Cross-Site Request Forgery (CSRF) attacks.
+|Session
+|HTTP
+|AI_buffer
+|milestonesys.com
+|Used in context with the "AI_sentBuffer" in order to limit the number of data-server-updates (Azure). This synergy also allows the website to detect any duplicate data-server-updates.
+|Session
+|HTML
+|AI_sentBuffer
+|milestonesys.com
+|Used in context with the "AI_buffer" in order to limit the number of data-server-updates (Azure). This synergy also allows the website to detect any duplicate data-server-updates.
+|Session
+|HTML
+|ai_session
+|milestonesys.com
+|Preserves users states across page requests.
+|1 day
+|HTTP
+|ai_user
+|milestonesys.com
+|Used by Microsoft Application Insights software to collect statistical usage and telemetry information. The cookie stores a unique identifier to recognize users on returning visits over time.
+|1 year
+|HTTP
+|ARRAffinity
+|milestonesys.com
+|Used to distribute traffic to the website on several servers in order to optimise response times.
+|Session
+|HTTP
+|CookieConsent
+|milestonesys.com
+|Stores the user's cookie consent state for the current domain
+|1 year
+|HTTP
+|jwplayerLocalId
+|milestonesys.com
+|This cookie is associated with jwplayer library, which provides video playback capability. (Used to determine the optimal video quality based on the visitor's device and network settings.)
+|Persistent
+|HTML
+|liveagent_oref
+|milestonesys.com
+|This cookie name is associated with technology from LiveAgent, which provides online chat and customer support functionality.
+|10 years
+|HTTP
+|liveagent_ptid
+|milestonesys.com
+|This cookie name is associated with technology from LiveAgent, which provides online chat and customer support functionality.
+|10 years
+|HTTP
+|liveagent_sid
+|milestonesys.com
+|This cookie name is associated with technology from LiveAgent, which provides online chat and customer support functionality.
+|Session
+|HTTP
+|liveagent_vc
+|milestonesys.com
+|This cookie name is associated with technology from LiveAgent, which provides online chat and customer support functionality.
+|10 years
+|HTTP
+|liveAgentPage_#
+|milestonesys.com
+|This cookie name is associated with technology from LiveAgent, which provides online chat and customer support functionality.
+|Persistent
+|HTML
+|liveAgentPageTime_#
+|milestonesys.com
+|This cookie name is associated with technology from LiveAgent, which provides online chat and customer support functionality.
+|Persistent
+|HTML
+|liveAgentPc
+|milestonesys.com
+|This cookie name is associated with technology from LiveAgent, which provides online chat and customer support functionality.
+|Persistent
+|HTML
+|liveAgentSid
+|milestonesys.com
+|This cookie name is associated with technology from LiveAgent, which provides online chat and customer support functionality.
+|Persistent
+|HTML
+|liveAgentStart
+|milestonesys.com
+|This cookie name is associated with technology from LiveAgent, which provides online chat and customer support functionality.
+|Persistent
+|HTML
+|t3D
+|milestonesys.com
+|Internal configuration for tiny slider plugin
+|Persistent
+|HTML
+|tADe
+|milestonesys.com
+|Internal configuration for tiny slider plugin
+|Persistent
+|HTML
+|tADu
+|milestonesys.com
+|Internal configuration for tiny slider plugin
+|Persistent
+|HTML
+|tAE
+|milestonesys.com
+|Internal configuration for tiny slider plugin
+|Persistent
+|HTML
+|tC
+|milestonesys.com
+|Internal configuration for tiny slider plugin
+|Persistent
+|HTML
+|tMQ
+|milestonesys.com
+|Internal configuration for tiny slider plugin
+|Persistent
+|HTML
+|tnsApp
+|milestonesys.com
+|Internal configuration for tiny slider plugin
+|Persistent
+|HTML
+|tPL
+|milestonesys.com
+|Internal configuration for tiny slider plugin
+|Persistent
+|HTML
+|tTDe
+|milestonesys.com
+|Internal configuration for tiny slider plugin
+|Persistent
+|HTML
+|tTDu
+|milestonesys.com
+|Internal configuration for tiny slider plugin
+|Persistent
+|HTML
+|tTE
+|milestonesys.com
+|Internal configuration for tiny slider plugin
+|Persistent
+|HTML
+|tTf
+|milestonesys.com
+|Internal configuration for tiny slider plugin
+|Persistent
+|HTML
+|lpv53942
+|pardot.com
+|This domain is owned by Pardot, a marketing automation platform which provides lead generation services to businesses.
+|1 day
+|HTTP
+|pardot [x2]
+|pardot.com
+pardot.milestonesys.com
+|Used to identify the visitor across visits and devices. This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|HTTP
+|visitor_id# [x3]
+|pardot.com
+milestonesys.com
+pardot.milestonesys.com
+|This domain is owned by Pardot, a marketing automation platform which provides lead generation services to businesses. This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes.
+|10 years
+|HTTP
+|visitor_id#-hash [x3]
+|pardot.com
+milestonesys.com
+pardot.milestonesys.com
+|This domain is owned by Pardot, a marketing automation platform which provides lead generation services to businesses. This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes.
+|10 years
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|lang [x2]
+|linkedin.com
+ads.linkedin.com
+|Set by LinkedIn when a web page contains an embedded "Follow us" panel.
+|Session
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|responseToken
+|getfeedback.com
+|This cookie name is associated with technology from getfeedback.com, which provides survey tools.
+|Session
+|HTTP
+|AWSELB
+|global.siteimproveanalytics.io
+|Used to distribute traffic to the website on several servers in order to optimise response times.
+|Session
+|HTTP
+|image.aspx
+|global.siteimproveanalytics.io
+|Registers statistical data on visitors' behaviour on the website. Used for internal analytics by the website operator.
+|Session
+|Pixel
+|siteimproveses
+|global.siteimproveanalytics.io
+|Registers statistical data on visitors' behaviour on the website. Used for internal analytics by the website operator.
+|Session
+|HTTP
+|_ga
+|milestonesys.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|2 years
+|HTTP
+|_gat
+|milestonesys.com
+|Used by Google Analytics to throttle request rate
+|1 day
+|HTTP
+|_gid
+|milestonesys.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|1 day
+|HTTP
+|_sp_id.8042
+|milestonesys.com
+|This cookie is used for visitor statistics and linking events. The cookie registers for each visitor; a randomly generated ID, number of visits, time of first visit, last visit and current visit.
+|2 years
+|HTTP
+|_sp_ses.8042
+|milestonesys.com
+|This cookie is used for visitor statistics. The cookie is only used to register if the usage has visited the page within the last 30 minutes.
+|1 day
+|HTTP
+|nmstat
+|milestonesys.com
+|This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.
+|999 days
+|HTTP
+|snowplowOutQueue__ot_sp_clj_get
+|milestonesys.com
+|This cookie name is associated with technology from snowplowanalytics.com
+|Persistent
+|HTML
+|GPS
+|youtube.com
+|Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+|1 day
+|HTTP
+|PREF
+|youtube.com
+|Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+|8 months
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+|179 days
+|HTTP
+|YSC
+|youtube.com
+|Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+|Session
+|HTTP
+|yt-player-headers-readable
+|youtube.com
+|Used to determine the optimal video quality based on the visitor's device and network settings.
+|Persistent
+|HTML
+|yt-remote-cast-installed
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|rc::b
+|google.com
+|This cookie is used to distinguish between humans and bots.
+|Session
+|HTML
+|i
+|collector.ontame.io
+|This is an tracking pixel from ontame.io, which helps measure performance while improving the experience for job ads and recruitment campaigns.
+|Session
+|Pixel
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|test_cookie
+|doubleclick.net
+|Used to check if the user's browser supports cookies.
+|1 day
+|HTTP
+|fr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|tr
+|facebook.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|Session
+|Pixel
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+|NID
+|google.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|6 months
+|HTTP
+|pagead/1p-user-list/#
+|google.com
+|Generated by Google pagead dynamic marketing to track events such as conversions or other meaningful user interactions
+|Session
+|Pixel
+|rc::a
+|google.com
+|This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+|Persistent
+|HTML
+|rc::c
+|google.com
+|This cookie is used to distinguish between humans and bots.
+|Session
+|HTML
+|bcookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|bscookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|lidc
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|1 day
+|HTTP
+|UserMatchHistory
+|linkedin.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|29 days
+|HTTP
+|_fbp
+|milestonesys.com
+|Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+|3 months
+|HTTP
+|sp
+|ontame.io
+|Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.
+|1 year
+|HTTP
+|X-Salesforce-CHAT
+|salesforceliveagent.com
+|Cookie set by Salesforce required for chat functionality.
+|Session
+|HTTP
+|i/adsct
+|t.co
+|The cookie is used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content.
+|Session
+|Pixel
+|personalization_id
+|twitter.com
+|This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+|2 years
+|HTTP
+|We do not use cookies of this type
+Milestone Systems owns and operates the following websites:
+Milestone Systems
+Banemarksvej 50C, DK-2605 Brøndby,Denmark
+Phone: +45 88 300 300
+Mail: privacy@milestonesys.com
+How we use cookies
+Cookies are essential for you to get the best out of our websites. Milestone Systems uses cookies to store your preferences and other information that helps us improve our websites, however cookies cannot identify you personally.
+Use of Cookies
+Cookies are used by almost all websites. A cookie is a small data file that is stored in users’ web browsers in order to recognize their computers. A web browser is a computer program used to download and display web pages, such as Internet Explorer, Mozilla Firefox or Google Chrome.
+A cookie is a passive file and cannot collect information from users’ computers or spread computer viruses or other malicious programs. Cookies can, among other things, be used to prepare statistics of users' use of the site. Cookies are used to recognize computers in the event of subsequent visits. No personal information, such as name, address or similar, is stored in our cookies. Some cookies collect IP-addresses which is personal identifiable data according to the GDPR, General Data Protection Regulative.
+Preferences/Statistics/Marketing: This data processing is necessary for the purpose of our legitimate interest to carry out analyses in order to improve our website and our products, and to advertise our products on the Internet in a customized and efficient way (Legal basis: point (f) of Article 6(1) GDPR).
+Storage period for a cookie
+All cookies delete themselves after a given number of days, weeks or months; the time may vary according to purpose. It should be noted that a cookie is renewed at each visit and the storage period is reset.
+Personal data
+Milestone Systems do not collect personal identifiable data unless you have applied these data yourself.
+We never share these data without your specific consent.
+Protection of personal data
+According to EU’s General Data Protection Regulation (GDPR) all your personal identifiable data must be stored and handled safely and confidentially.
+We store your data on servers with limited access, placed in controlled facilities and we adjust our security measures all the time to secure that we handle your information lawfully.
+Due to the nature of the internet we cannot guarantee 100% security when data is being transferred via the internet. This means that others might unrightfully retrieve the data, when the data is sent.
+Contact concerning personal data
+If you would like to know what kind of personal data, that has been stored at Milestone Systems, you should contact privacy@milestonesys.com.
+If any data is wrong or you have any objections you can also contact this email address. You have the right to have wrong data adjusted, deleted or blocked.
+You can also get insight into what kind of data that has been stored about you, how they can be connected to you, and how you can object to the registration according to the GPDR.
+You also have the right to object to the use of your personal data. And you can at any time revoke your consent.
+Furthermore, you have the right be forgotten in and to be erased from our databases.
+If you want to complain about the way Milestone Systems treats your data, you should submit your complaint to the local data authority.
+Delete or block cookies (Browser settings)
+If you do not wish to receive cookies you can set your web browser to disable cookies. Note that most browsers offer different levels of privacy, such as allowing first party cookies but blocking third party cookies or notifying you each time a website wants to install a cookie. Be aware that disabling cookies in this way will prevent new cookies from being set but will not stop previously set cookies from operating on your device unless you delete all cookies in your browser settings. The instructions for managing cookies in your browser can usually be found via the browser’s Help function or in a smartphone manual.
+If you wish to delete cookies, this is done using your web browser settings. You can find the most commonly used web browsers’ help/support via the following links:
+Microsoft Internet Explorer: http://windows.microsoft.com/en-US/internet-explorer/internet-explorer-help#internet-explorer=top-solutions
+Google Chrome: http://support.google.com/chrome/?hl=en Mozilla
+Firefox: https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored
+Apple Safari: http://www.apple.com/support/safari/
+More information
+You can read more about cookies at: http://www.allaboutcookies.org.
+Whether you want to protect your store from vandalism or you want to manage a multi-site, high security installation, our XProtect VMS portfolio makes it possible.
+Milestone XProtect video management software (VMS) is powerful and easy to use with a wide array of features for basic to advanced surveillance needs.

@@ -1,0 +1,8 @@
+PR:BF2 v1.6/WW2 Status Update March 2019
+First of all, a late welcome to 2019! It will hopefully be another good year for PR:BF2.
+Last year saw the release of v1.5 with the Polish forces and also this year we plan a big release! We are still hard at work at v1.6 and it's highly anticipated inclusion of the WW2 factions and maps. We know it's been a long development cycle and while it will take a bit longer still, we wanted to give you all a peak at what's in store for the next release. Not only with work done on the WW2 factions and maps, but also other content additions to PR in general.
+Without further delay, here's an updated look of what we've recently finished or are still working on for the release of PR:BF2 v1.6 with WW2 implemented. However, this is by no means all that we have been working on, and only a small sample of what's in store for v1.6! Do note that all of this is still a work in progress and might change before release.
+Vehicles
+Originally created by the Battlegroup42 mod (BF1942 mod team) and brought to the BF2 engine by Anthony and General Bradly, is the M4A3 Sherman tank for the US Forces.
+The ubiquitous M4 Sherman medium tank evolved from the M3 Lee medium tank pressed into service as a stop-gap model in 1941. The M4 entered service in late 1942, outperforming its older sibling in every aspect, the Sherman went on to become one of the most widely produced armored fighting vehicles of World War II. It was well armored, relatively fast, and cheap...
+Read Full Article Comments - 128

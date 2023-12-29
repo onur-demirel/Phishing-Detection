@@ -1,0 +1,81 @@
+(Sunday is a full day industry expo)
+NeurIPS 2019 ScheduleTutorials » Accepted Papers » Workshops »
+Registration
+To register using access to reserved tickets, you must be logged in.
+- General Admission Lottery
+If you are not an author, workshop organizer, tutorial speaker or invited speaker, then you should join the registraiton lottery. You have until Sept 25th to join the lottery. Read about the lottery here. Information about applying for a visa is here. Check your lottery status here.
+- Workshop Participants
+If you have submitted a paper to a workshop, you should join the lottery by clicking the green registration above. All workshop presenters must register for the workshops to gain entrance into the convention center. Workshop organizers will have a limited number of reserve tickets to give to workshop presenters, and getting your ticket through the lottery would reduce the need for an organizer to consume their reserved tickets. Joining the lottery does not prevent a workshop organizer from giving you access to their pool of reserved tickets.
+-Expo
+The Expo is a one-day industry day with talks, panels, demos and workshops from our sponsors. It takes place on Sunday Dec 8th. If you plan to ONLY attend the expo, then please visit Expo Only Registration » otherwise you may register for the expo as you register for the main conference.
+- Child Care
+NeurIPS 2019 is providing free onsite child care. For more information, please follow the link.
+NeurIPS 2019 Organization
+Press
+Press releases are avilable at the link below. In order to attend the conference, press must be accredited. Apply below.Press Releases» Apply for Press Pass»
+New In 2019
+New In ML
+In 2019, NeurIPS has its first Forum for Newcomers to ML »
+Socials
+Please see the call for social events »
+Meetups
+Please see the call for meetups »
+Important Dates
+|Expo (Industry) Day
+|Sun Dec. 8th
+|Tutorials
+|Mon Dec 9th
+|Conference Sessions
+|Tue Dec 10th through Thu the 12th
+|Workshops
+|Fri Dec 13th through Sat the 14th
+|Paper Submission Deadline
+|May 23, 2019, 3 p.m. *
+|00 weeks 00 days 00:00:00
+|Workshop Application Deadline
+|June 3, 2019, 6 p.m. *
+|00 weeks 00 days 00:00:00
+|Tutorial Application Deadline
+|June 11, 2019, 4:59 p.m. *
+|00 weeks 00 days 00:00:00
+|Volunteer and Travel Applications Open
+|Sept. 6, 2019, 8 a.m. *
+|00 weeks 00 days 00:00:00
+|Registration Opens
+|Sept. 6, 2019, 8 a.m. *
+|00 weeks 00 days 00:00:00
+|Author Registration Opens - Authors on conference accepted papers gain access to reserved tickets.
+|Sept. 7, 2019, 6 p.m. *
+|Call for Music Submission Deadline
+|Sept. 14, 2019, 3:59 a.m. *
+|00 weeks 00 days 00:00:00
+|Expo Calls for Talks, Demonstrations, and Workshops Close
+|Sept. 18, 2019, 4 p.m. *
+|00 weeks 00 days 00:00:00
+|Demonstration Proposal Deadline
+|Sept. 19, 2019, 4:59 p.m. *
+|00 weeks 00 days 00:00:00
+|AuthorRegistrationCloses - Authors on conference accepted papers lose access to reserved tickets
+|Sept. 27, 2019, 6 a.m. *
+|Workshop Organizers Announce Decisions
+|Oct. 1, 2019, 6 p.m. *
+|00 weeks 00 days 00:00:00
+|Volunteer and Travel Application Deadline
+|Oct. 3, 2019, 11:59 p.m. *
+|00 weeks 00 days 00:00:00
+|Deadline to Apply for Travel Support
+|Oct. 3, 2019, 11:59 p.m. *
+|00 weeks 00 days 00:00:00
+|Demonstration Notifications
+|Oct. 11, 2019, 6 p.m. *
+|00 weeks 00 days 00:00:00
+|Child Care Registration Deadline
+|Nov. 11, 2019, 11:59 p.m. *
+|02 weeks 05 days 04:42:57
+|Last Chance for Registration Refund
+|Nov. 28, 2019, 11:59 p.m. *
+|05 weeks 01 days 04:42:57
+|All dates »
+|* Dates above are in pacific time
+About NeurIPS
+The purpose of the Neural Information Processing Systems annual meeting is to foster the exchange of research on neural information processing systems in their biological, technological, mathematical, and theoretical aspects. The core focus is peer-reviewed novel research which is presented and discussed in the general session, along with invited talks by leaders in their field. On Sunday is an Expo, where our top industry sponsors give talks, panels, demos, and workshops on topics that are of academic interest. On Monday are tutorials, which cover a broad background on current lines of inquiry, affinity group meetings, and the opening talk & reception. The general sessions are held Tuesday - Thursday, and include talks, posters, and demonstrations. Friday - Saturday are the workshops, which are smaller meetings focused on current topics, and provide an informal, cutting edge venue for discussion.

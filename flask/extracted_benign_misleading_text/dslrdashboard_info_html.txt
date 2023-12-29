@@ -1,0 +1,36 @@
+Released qDslrDashboard V3.5.9 and ControlMyCamera 1.0.2 today
+most notable changes:
+– ability to capture in RAW format and have quick image review using the camera JPG preview image. Only works with the ‘quick image review’ option. Only works with Nikon cameras
+– ability to capture in RAW format in LRTimelapse screen and have the camera JPG preview image used for analysis and display. You can enable this in settings with the ‘Allow RAW only in LRTimelapse-mode (Nikon) option. This only works with Nikon cameras.
+– added a master/slave option if 2 or more cameras are connected. With this the master camera shutter/ISO/aperture property changes are copied to slave camera(s). To use this option you first need to define the ‘master/slave’ in the bottom right part. To copy the current shutter/ISO/aperture values long press the ‘slave’ button. This only works with Nikon cameras
+– added the ability to manually enter the GPS coordinates for the ‘Suncalc’ dialog
+– you can open the ‘Suncalc’ dialog from LRTimelapse screen by long pressing the ‘Auto NTC’ button
+– fixes for the Canon R and RP cameras
+– fixed the image sharing on Android that caused a crash
+– added a standby button for Nikon Z6/Z7 cameras that can be used to wake up the camera. The button is only visible if the camera goes into deep sleep. This will only happen if the built in wireless is used and the c3 option ‘Standby timer’ is other then ‘No limit’
+– other small fixes
+Desktop versions (Windows, Linux, macOS) and Raspberry Pi will be available in the upcoming days.
+A new tutorial from Gunther Wegner on using the LrTimelapse screen in qDslrDashboard/ControlMyCamera to achive a ‘Holy Grail’ Timelapse.
+English version: https://lrtimelapse.com/dslrdashboard/
+German version: https://gwegner.de/know-how/zeitraffer-holy-grail/
+Updated qDslrDashboard to V3.5.7 on Android and iOS.
+If you already purchased qDslrDashboard on iOS you can update it to the latest version V3.5.7 by first uninstalling it and then following the instructions here: https://support.apple.com/en-ca/HT201272
+The qDslrDashboard desktop versions (Windows, Linux, macOS) will be updated in the upcoming days.
+Released ControlMyCamera V1.0.0 for iOS that replaces qDslrDashboard.
+A detailed ‘cheat sheet’ from a qDslrDashboard user: Cheat sheet
+Thank you
+In downloads now available a build for Raspberry Pi Raspbian Stretch.
+Installation instructions
+Please note that the new TP-Link MR3020 V3 has a new CPU and it is not yet supported by the OpenWrt project ( https://wiki.openwrt.org/toh/tp-link/tl-mr3020 ) and the firmware available here is not working with it.
+qDslrDashboard V3.5.3 desktop version downloads now available for:
+Windows x64 and x86
+OSX x64
+Linux x64
+and for
+Raspberry PI
+qDslrDashboard V3.5.3 is now available for iOS and Android.
+The V3.5.3 for Linux, OSX, Windows and Raspberry Pi will be available in the upcoming days.
+Updated the site and the forum to the latest version and also to secure https:// connection.
+If you having problems with the forum display then do a hard refresh in your browser (CTRL+F5 in Windows)
+The fixed iOS version that solves the connection and image view crash is now available.
+There is a version numbering change, the leading ‘0.’ is dropped from the version number. This way in future I can better track the various builds.

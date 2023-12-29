@@ -1,0 +1,13 @@
+Message d'erreur
+Veuillez vérifier que vous avez saisi correctement votre adresse email et votre mot de passe. Si vous ne parvenez toujours pas à vous connecter, consultez les Conseils pour la résolution des problèmes ci-dessous.
+Conseils pour la résolution des problèmes
+- Mot de passe oublié ?
+- - Votre mot de passe doit comporter au moins huit (8) caractères.
+- - Le mot de passe respecte les majuscules/minuscules. Vérifiez que la touche de verrouillage des majuscules est désactivée.
+- Adresse email oubliée ?
+- - Identifiez l'adresse email utilisée pour ouvrir votre compte PayPal.
+- Nouvelle adresse email ?
+- - Connectez-vous à l'aide de votre ancienne adresse email et accédez à vos Préférences pour la mettre à jour.
+- Problème de connexion ?
+- - Vous avez peut-être fait trop de tentatives. Réessayez dans 2 heures ou contactez-nous pour obtenir de l'aide.
+- - Vous devrez peut-être activer les cookies dans votre navigateur Web.

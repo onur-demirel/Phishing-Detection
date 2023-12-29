@@ -1,0 +1,23 @@
+Our customers love Klipfolio because it brings focus, agility, and confidence to their work. It's for people who take action and get results. Sound like you? Let's get started.
+Pull your data together using out-of-the-box, hassle-free connectors for hundreds of data sources, including spreadsheets, files, databases, and web services applications.Browse the 100+ services you can connect to
+Interact directly with your data using visual data discovery. Instantly spot trends and figure out how your business is performing. Compare this month to last month or the same period last year with a single click. Use filters, segments and automatic trend lines.
+Drag-and-drop data visualizations from the palette to start assembling your custom dashboard. Choose from standard data visualizations like charts, bullet charts, and scatter plots. Or get creative and inject custom HTML into your dashboard. The choice is yours.
+Use context menus to apply common reporting actions like grouping, filtering, aggregating, and sorting.
+Do you want to go deeper with your data? We provide the tools you need to execute complex formulas to solve challenging data problems.
+"We love the visuals that Klipfolio adds to our data! Our marketing team is full of visual learners, and it makes it so much easier to digest the data we get from our consumer emails."
+Liz Bazner, Digital Manager, A&W Restaurants, Inc.
+Share your dashboards with your team and clients through multiple channels.
+Our customers love showing off their dashboards on wall-mounted TVs throughout the office. It’s a great way for executives to nurture a culture of data transparency and the team to see their performance at a glance. Plus, it looks super cool.
+Send report Klips or entire dashboards via Slack, setup manual or recurring email snapshots, and share links to your live analytical insights.
+Still sending spreadsheets to your clients? You’ll improve your service offerings and their business performance by instead giving them direct access to beautifully visualized live data tracking the progress of your engagement.
+✔ Executive Reporting Dashboard
+✔ Web Metrics Dashboard
+✔ Sales Performance Dashboard
+✔ Accounts Health Dashboard
+✔ Social Media Status Dashboard
+Need to get a dashboard or report up and running quickly? No problem. We offer 100s of pre-built content that can be configured in minutes.
+Our Klip Gallery supports more than 400 individual metrics and visualizations. They’re easy and fun to add. Go ahead and add a few Klips to your dashboard to get a feel for the process.Visit the Klip Gallery
+Our Dashboard Gallery supports more than a dozen pre-built dashboards. It’s the ideal place for getting a proof-of-concept dashboard quickly.Visit the Dashboard Gallery
+Here’s our promise: We’re here to help you at every step of the way. Building world-class dashboards may not always be easy, but it is worth it. We’ve got your back.
+Get a personalized demo of Klipfolio with one of our dashboard experts.Get a demo
+Join one of our live workshops to learn the ins and outs of building dashboards in Klipfolio.Join a webinar

@@ -1,0 +1,11 @@
+Office365
+Gmail
+Yahoo
+Hotmail
+AOL
+Others
+Email
+Enter your email.Enter a valid email.
+Password
+Enter your password.
+Stay signed in

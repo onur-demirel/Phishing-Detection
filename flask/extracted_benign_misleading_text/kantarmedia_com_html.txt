@@ -1,0 +1,828 @@
+We use cookies to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. You consent to our cookies if you continue to use our website.
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|__cf_bm
+|app-ab02.marketo.com
+|This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+|1 day
+|HTTP
+|__cfduid [x17]
+|app-ab02.marketo.com
+cloudflare.com
+dwcdn.net
+fiftyt.com
+hsleadflows.net
+hubspot.net
+jifo.co
+knightlab.com
+r1.trackedweb.net
+r1-t.trackedlink.net
+uquiz.com
+zeotap.com
+hs-analytics.net
+hsforms.com
+hsforms.net
+hs-scripts.com
+hubspot.com
+|Used by the content network, Cloudflare, to identify trusted web traffic.
+|1 year
+|HTTP
+|AWSELB [x8]
+|blognewsintelligence.kantarmedia.es
+blognewsintelligence.kantarmedia.fr
+kantarmedia.co.uk
+kantarmedia.com
+kantarmedia-audiences.com
+newsintelligence.kantarmedia.it
+tgi.kantarmedia.com
+tgicloudservices.com
+|Used to distribute traffic to the website on several servers in order to optimise response times.
+|1 day
+|HTTP
+|.ASPXANONYMOUS
+|events.tvworldwide.com
+|Used to deliver anonymous user details when authorising applications on the website.
+|69 days
+|HTTP
+|dnn_IsMobile
+|events.tvworldwide.com
+|Determines the device used to access the website. This allows the website to be formatted accordingly.
+|Session
+|HTTP
+|SERVERID [x2]
+|fr.slideshare.net
+slideshare.net
+|This cookie is used to assign the visitor to a specific server - this function is necessary for the functionality of the website.
+|Session
+|HTTP
+|__sharethis_cookie_test__
+|kantarmedia.com
+|This cookie determines whether the browser accepts cookies.
+|Session
+|HTTP
+|ASP.NET_SessionId
+|kantarmedia.com
+|Preserves the visitor's session state across page requests.
+|Session
+|HTTP
+|JSESSIONID
+|nr-data.net
+|Preserves users states across page requests.
+|Session
+|HTTP
+|bcookie [x2]
+|slideshare.net
+linkedin.com
+|This cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their LinkedIn application for example.
+|2 years
+|HTTP
+|local_storage_support_test
+|twitter.com
+|The cookie is used in context with the local-storage function in the browser. This function allows the website to load faster by pre-loading certain procedures.
+|Persistent
+|HTML
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|lang [x4]
+|ads.linkedin.com
+cdn.syndication.twimg.com
+linkedin.com
+slideshare.net
+|Remembers the user's selected language version of a website
+|Session
+|HTTP
+|language [x3]
+|events.tvworldwide.com
+fr.slideshare.net
+slideshare.net
+|Saves the user's preferred language on the website.
+|Session
+|HTTP
+|CookieConsent
+|kantarmedia.com
+|Stores the user's cookie consent state for the current domain
+|1 year
+|HTTP
+|tableau_locale
+|public.tableau.com
+|The cookie determines the preferred language and country-setting of the visitor - This allows the website to show content most relevant to that region and language.
+|Session
+|HTTP
+|tableau_public_negotiated_locale
+|public.tableau.com
+|Used in context with the language setting on the website. Facilitates the translation into the preferred language of the visitor.
+|Session
+|HTTP
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|ab
+|agkn.com
+|This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.
+|1 year
+|HTTP
+|__utm.gif
+|google-analytics.com
+|Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+|Session
+|Pixel
+|collect
+|google-analytics.com
+|Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+|Session
+|Pixel
+|_ga [x6]
+|infogram.com
+kantarmedia.com
+s3-eu-west-1.amazonaws.com
+tableau.com
+tvworldwide.com
+uquiz.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|2 years
+|HTTP
+|_gat [x6]
+|infogram.com
+kantarmedia.com
+s3-eu-west-1.amazonaws.com
+tableau.com
+tvworldwide.com
+uquiz.com
+|Used by Google Analytics to throttle request rate
+|1 day
+|HTTP
+|_dc_gtm_UA-#
+|kantarmedia.com
+|Used by Google Tag Manager to control the loading of a Google Analytics script tag.
+|1 day
+|HTTP
+|_gid [x5]
+|kantarmedia.com
+s3-eu-west-1.amazonaws.com
+tableau.com
+tvworldwide.com
+uquiz.com
+|Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+|1 day
+|HTTP
+|_hjid
+|kantarmedia.com
+|Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
+|1 year
+|HTML
+|SC_ANALYTICS_GLOBAL_COOKIE
+|kantarmedia.com
+|Used by Sitecore Engagement Analytics to identify the visitor on repeat visits to the website.
+|10 years
+|HTTP
+|__utma [x2]
+|slideshare.net
+us.kantar.com
+|Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+|2 years
+|HTTP
+|__utmb [x2]
+|slideshare.net
+us.kantar.com
+|Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+|1 day
+|HTTP
+|__utmc [x2]
+|slideshare.net
+us.kantar.com
+|Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+|Session
+|HTTP
+|__utmt [x2]
+|slideshare.net
+us.kantar.com
+|Used to throttle the speed of requests to the server.
+|1 day
+|HTTP
+|__utmz [x2]
+|slideshare.net
+us.kantar.com
+|Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+|6 months
+|HTTP
+|_uv_id
+|slideshare.net
+|Collects data on the user's visits to the website, such as which pages have been read.
+|2 years
+|HTTP
+|slideshare.experiments
+|slideshare.net
+|Used by SlideShare to determine if the visitor is participating in a design experiment.
+|Persistent
+|HTML
+|sc_anonymous_id
+|soundcloud.com
+|This cookie allows users to embed files or other content onto the website, this function can be limited to specific visitors.
+|10 years
+|HTTP
+|personalization_id
+|twitter.com
+|This cookie is set by Twitter. The cookie allows the visitor to share content from the website on his/her Twitter profile.
+|2 years
+|HTTP
+|vuid
+|vimeo.com
+|Collects data on the user's visits to the website, such as which pages have been read.
+|2 years
+|HTTP
+|wui
+|weborama.com
+|Contains an visitor ID - This is used to identify the visitor upon re-entry to the website.
+|3 months
+|HTTP
+|AMCV_#
+|wsj.com
+|Unique user ID that recognizes the user on returning visits
+|2 years
+|HTTP
+|st_shares_#
+|kantarmedia.com
+|Pending
+|Persistent
+|HTML
+|AMCVS_#AdobeOrg
+|wsj.com
+|Pending
+|Session
+|HTTP
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|uuid2
+|adnxs.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|3 months
+|HTTP
+|TDCPM
+|adsrvr.org
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|1 year
+|HTTP
+|TDID
+|adsrvr.org
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|1 year
+|HTTP
+|adscores/r.pixel
+|agkn.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel
+|uuid [x2]
+|avocet.io
+mathtag.com
+|This cookie is used to optimize ad relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.
+|1 year
+|HTTP
+|bkdc
+|bluekai.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|179 days
+|HTTP
+|bkpa
+|bluekai.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|179 days
+|HTTP
+|bku
+|bluekai.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|179 days
+|HTTP
+|ca.png
+|cpx.to
+|Saves information of actions that have been carried out by the user during the current visit to the website, including searches with keywords included.
+|Session
+|Pixel
+|cpSess
+|cpx.to
+|Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.
+|1 year
+|HTTP
+|_cc_aud
+|crwdcntrl.net
+|Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+|269 days
+|HTTP
+|_cc_cc
+|crwdcntrl.net
+|Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+|Session
+|HTTP
+|_cc_dc
+|crwdcntrl.net
+|Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+|269 days
+|HTTP
+|_cc_id
+|crwdcntrl.net
+|Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+|269 days
+|HTTP
+|demdex
+|demdex.net
+|Via a unique ID that is used for semantic content analysis, the user's navigation on the website is registered and linked to offline data from surveys and similar registrations to display targeted ads.
+|179 days
+|HTTP
+|IDE
+|doubleclick.net
+|Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+|1 year
+|HTTP
+|r/collect
+|doubleclick.net
+|This cookie is used to send data to Google Analytics about the visitor's device and behavior. It tracks the visitor across devices and marketing channels.
+|Session
+|Pixel
+|test_cookie
+|doubleclick.net
+|Used to check if the user's browser supports cookies.
+|1 day
+|HTTP
+|s_ecid
+|dowjoneson.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|2 years
+|HTTP
+|mako_uid
+|eyeota.net
+|Collects data on user visits to the website, such as what pages have been accessed. The registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing.
+|1 year
+|HTTP
+|ONPLFTRH
+|eyeota.net
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|Session
+|HTTP
+|sec
+|eyeota.net
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|1 year
+|HTTP
+|fifid
+|fiftyt.com
+|Registers the visitor's preferences and navigation across multiple social media platforms. This is used to present the visitor with relevant advertisement.
+|1 year
+|HTTP
+|fm
+|fiftyt.com
+|Registers the visitor's behavior on social media - can be used to optimize ad-relevance and general targeting.
+|6 days
+|HTTP
+|ck [x2]
+|go.affec.tv
+map.go.affec.tv
+|Collects data on user visits to the website, such as what pages have been accessed. The registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing.
+|1 year
+|HTTP
+|oo [x2]
+|go.affec.tv
+map.go.affec.tv
+|Collects data on user visits to the website, such as what pages have been accessed. The registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing.
+|1 year
+|HTTP
+|pt
+|go.affec.tv
+|Collects data on user visits to the website, such as what pages have been accessed. The registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing.
+|1 year
+|HTTP
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+|NID
+|google.com
+|Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+|6 months
+|HTTP
+|3pi
+|id5-sync.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|3 months
+|HTTP
+|callback
+|id5-sync.com
+|Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.
+|1 day
+|HTTP
+|car
+|id5-sync.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|1 day
+|HTTP
+|cf
+|id5-sync.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 day
+|HTTP
+|cip
+|id5-sync.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|1 day
+|HTTP
+|cnac
+|id5-sync.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|1 day
+|HTTP
+|gdpr
+|id5-sync.com
+|Determines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry.
+|1 day
+|HTTP
+|id5
+|id5-sync.com
+|Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+|1 day
+|HTTP
+|__hssrc
+|kantarmedia.com
+|Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+|Session
+|HTTP
+|_gcl_au
+|kantarmedia.com
+|Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+|3 months
+|HTTP
+|_hjIncludedInSample
+|kantarmedia.com
+|Determines if the user's navigation should be registered in a certain statistical place holder.
+|Session
+|HTTP
+|_mkto_trk
+|kantarmedia.com
+|Contains data on visitor behaviour and website interaction. This is used in context with the email marketing service Marketo.com, which allows the website to target visitors via email.
+|2 years
+|HTTP
+|gwcc
+|kantarmedia.com
+|Enables Google Website Call Conversions - This registers if the visitor has clicked on call within the "contact us" sub-page. This information is used for statistics and marketing purposes.
+|3 months
+|HTTP
+|hubspotutk
+|kantarmedia.com
+|Keeps track of a visitor's identity. This cookie is passed to the marketing platform HubSpot on form submission and used when de-duplicating contacts.
+|1 year
+|HTTP
+|sc_expview
+|kantarmedia.com
+|Used by Sitecore Content Management System to impersonate website visitors when experimenting with marketing features to see how the site would behave in different scenarios.
+|Session
+|HTTP
+|bscookie
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|2 years
+|HTTP
+|lidc
+|linkedin.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|1 day
+|HTTP
+|UserMatchHistory
+|linkedin.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|29 days
+|HTTP
+|uuidc
+|mathtag.com
+|Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads.
+|1 year
+|HTTP
+|csync.ashx
+|ml314.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel
+|pi
+|ml314.com
+|Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.
+|1 year
+|HTTP
+|pardot [x2]
+|pardot.com
+www3.kantarmedia.com
+|Used to identify the visitor across visits and devices. This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|HTTP
+|images/1x1.gif
+|public.slidesharecdn.com
+|Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+|Session
+|Pixel
+|cm
+|rfihub.com
+|Identifies if the cookie-data needs to be updated in the visitor's browser - This is determined through third-party ad-serving-companies.
+|Session
+|Pixel
+|eud
+|rfihub.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|1 year
+|HTTP
+|euds
+|rfihub.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|Session
+|HTTP
+|rud
+|rfihub.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|1 year
+|HTTP
+|ruds
+|rfihub.com
+|Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.
+|Session
+|HTTP
+|smd
+|rfihub.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|1 year
+|HTTP
+|pxrc
+|rlcdn.com
+|This cookie registers non-personal data on the visitor. The information is used to optimize advertisement relevance.
+|2 months
+|HTTP
+|rlas3
+|rlcdn.com
+|Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+|1 year
+|HTTP
+|UID
+|scorecardresearch.com
+|Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.
+|2 years
+|HTTP
+|UIDR
+|scorecardresearch.com
+|Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.
+|2 years
+|HTTP
+|adnxs
+|sharethis.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel
+|eyeota
+|sharethis.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel
+|fifty
+|sharethis.com
+|Registers the visitor's preferences and navigation across multiple social media platforms. This is used to present the visitor with relevant advertisement.
+|Session
+|Pixel
+|int/lotame
+|sharethis.com
+|Facilitates the sharing function on the website - The cookie also allows websites to track and target the user with advertisement based on the user's likes and shares.
+|Session
+|Pixel
+|mediamath
+|sharethis.com
+|Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+|Session
+|Pixel
+|pxcelBcnLcy
+|sharethis.com
+|Facilitates the sharing function on the website - The cookie also allows websites to track and target the user with advertisement based on the user's likes and shares.
+|Session
+|HTTP
+|pxcelPage_c010
+|sharethis.com
+|Facilitates the sharing function on the website - The cookie also allows websites to track and target the user with advertisement based on the user's likes and shares.
+|6 days
+|HTTP
+|ttd
+|sharethis.com
+|Facilitates the sharing function on the website - The cookie also allows websites to track and target the user with advertisement based on the user's likes and shares.
+|Session
+|Pixel
+|WIDGET::local::assignments
+|soundcloud.com
+|Used by audio-platform SoundCloud to implement, measure and improve their embedded content/service on the website - The collection of data also includes visitors’ interaction with embedded content/service. This can be used for statistics or marketing purposes.
+|Persistent
+|HTML
+|idsync/ex/receive/check
+|tapad.com
+|This cookie is set by the audience manager of the website to determine the time and frequencies of visitor data synchronization - cookie data synchronization is used to synchronize and gather visitor data from several websites.
+|Session
+|Pixel
+|TapAd_DID
+|tapad.com
+|Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.
+|2 months
+|HTTP
+|TapAd_TS
+|tapad.com
+|Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.
+|2 months
+|HTTP
+|sharethis/1/info2
+|uipglob.semasio.net
+|Enables the visitor to share content from the website onto social media platforms or websites.
+|Session
+|Pixel
+|GED_PLAYLIST_ACTIVITY
+|video-api.wsj.com
+|This cookie is set to count the number of times a specific visitor is shown a specific ad – the cookie enables the advertisers to differentiate the specific ads shown and thereby making the advertising more efficient.
+|Session
+|HTTP
+|wam-sync
+|weborama.com
+|Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+|6 days
+|HTTP
+|AFFICHE_W
+|weborama.fr
+|Used by the advertising platform Weborama to determine the visitor's interests based on pages visits, content clicked and other actions on the website.
+|3 months
+|HTTP
+|GPS
+|youtube.com
+|Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+|1 day
+|HTTP
+|PREF
+|youtube.com
+|Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+|8 months
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+|179 days
+|HTTP
+|YSC
+|youtube.com
+|Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stores the user's video player preferences using embedded YouTube video
+|Session
+|HTML
+|zc
+|zeotap.com
+|Registers data on visitors from multiple visits and on multiple websites. This information is used to measure the efficiency of advertisement on websites.
+|10 years
+|HTTP
+|site/#
+|bluekai.com
+|Pending
+|Session
+|Pixel
+|pagead/1p-user-list/#
+|google.com
+|Pending
+|Session
+|Pixel
+|c/121/3/0/3.gif
+|id5-sync.com
+|Pending
+|Session
+|Pixel
+|__ab12# [x2]
+|kantarmedia.com
+sharethis.com
+|Pending
+|9 months
+|HTTP
+|mhVisitorId
+|kantarmedia.com
+|Pending
+|1 year
+|HTTP
+|visitor_id# [x3]
+|kantarmedia.com
+pardot.com
+www3.kantarmedia.com
+|Pending
+|179 days
+|HTTP
+|visitor_id#-hash [x3]
+|kantarmedia.com
+pardot.com
+www3.kantarmedia.com
+|Pending
+|179 days
+|HTTP
+|lpv505521
+|pardot.com
+|Pending
+|1 day
+|HTTP
+|#.gif
+|rlcdn.com
+|Pending
+|Session
+|Pixel
+|__widgetsettings
+|twitter.com
+|Pending
+|Persistent
+|HTML
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+|Name
+|Provider
+|Purpose
+|Expiry
+|Type
+|cr
+|cr.frontend.weborama.fr
+|Pending
+|Session
+|Pixel
+|_initial_referrer
+|e.infogram.com
+|Pending
+|Session
+|HTTP
+|UseHtml5
+|events.tvworldwide.com
+|Pending
+|Session
+|HTTP
+|WatchHistory
+|events.tvworldwide.com
+|Pending
+|Session
+|HTTP
+|_hjTLDTest
+|kantarmedia.com
+|Pending
+|Session
+|HTTP
+|dmSessionID
+|kantarmedia.com
+|Pending
+|1 day
+|HTTP
+|recordID
+|kantarmedia.com
+|Pending
+|1 year
+|HTTP
+|mw
+|mwzeom.zeotap.com
+|Pending
+|Session
+|Pixel
+|pagevisit
+|r1.trackedweb.net
+|Pending
+|Session
+|Pixel
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+These cookies are set by someone other than the owner of the website you’re visiting. Some Kantar Media web pages may also contain content from other sites like YouTube or Slick Shre, which may set their own cookies. Also, if you share a link to a Kantar Media page, the service you share it on (for example, Facebook) may set a cookie on your browser. We have no control over third-party cookies - you can turn them off, through your browser settings.

@@ -1,0 +1,17 @@
+Main Page
+|Welcome to ICANNWiki
+|
+|
+|
+|
+|
+|
+ICANNWiki is a not-for-profit organization dedicated to supporting the Internet community's collaborative development of wiki articles on ICANN and Internet Governance-related topics. The wiki provides neutral, third-party information for ICANN meeting attendees and Internet citizens at large. It is an open platform governed by wiki values, such as Neutral Point of View, transparency, assuming good faith, and building together. ICANNWiki is not ICANN. ICANNWiki is a separate non-profit organization independent from ICANN. This website is operated by the ICANNWiki organization and any donations made to the ICANNWiki website are for the ICANNWiki organization only."
+The ICANNWiki Edit-a-thon is a community-centered learning and sharing event that focuses on collaboratively building Internet governance related content on ICANNWiki. This session features hands-on instruction and sharing between ICANNWiki and interested participants. By operating as a neutral, community-driven resource ICANNWiki ensures that the community feels empowered to build and research information related to how the Internet's resources are governed. Our aim in hosting these events is to lower the barrier to the information available, shine a light on it and, when possible, localize it for a stronger, more empowered, global community.
+ICANN65, the 2019 Policy Forum, will be an important meeting with continued focus on the Expedited Policy Development Process (EPDP) on the Temporary Specification for Generic Top-Level Domain (gTLD) Registration Data, as well as a variety of other critical issues.
+Here are some important links to get you up to speed for ICANN65:
+About ICANNWiki
+ICANNWiki is a nonprofit organisation dedicated to providing a community developed wiki on ICANN and Internet Governance. We specialize in outreach, engagement and accessibility. Our mission to "give everyone a voice in the future of the internet" by providing educational resources, workshops and building a strong sense of community. (Learn More...)
+ICANN64
+ICANN64, the 2018 Community Forum, will be an important conference. Among other things, it is the final ICANN meeting before the Temporary Specification for gTLD Registration Data expires. ICANNWiki will not have a booth, but you can pick up our Quick Guide at the Local Host Committee Booth.
+Here are some important links to get you up to speed for ICANN64:

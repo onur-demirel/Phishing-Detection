@@ -1,0 +1,22 @@
+DE
+FR
+IT
+EN
+Willkommen zu eService
+Benutzername
+*
+Benutzername vergessen?
+Passwort
+*
+Passwort vergessen?
+Login
+Noch nicht registriert?
+Mit * gekennzeichnete Felder sind Pflichtfelder.
+Hilfe
+|
+Online-Sicherheit
+|
+Datenschutzrichtlinien
+|
+Allgemeine Geschäftsbedingungen
+Ihre Anfrage wird verarbeitet

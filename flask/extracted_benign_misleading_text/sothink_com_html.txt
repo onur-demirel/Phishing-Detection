@@ -1,0 +1,11 @@
+Sothink SWF Decompiler
+*Convert SWF to FLA, FLEX, HTML5
+*View and extract all SWF elements
+*Decompile and export AS
+*Simple edit SWF shapes directly
+*Free logo templates
+*Redy-made logo effect
+*Abundant logo resources
+*Export in high quality
+Sothink is a trademark of SourceTec Software Co., LTD.
+Flash is a trademark of Adobe.

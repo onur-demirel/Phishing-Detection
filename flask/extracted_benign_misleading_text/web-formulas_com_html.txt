@@ -1,0 +1,45 @@
+Welcome to Web-Formulas.com version 2.0
+The goal of this website is to provide you with formulas and examples for mathematics, physics and chemistry as well as other useful formulas.
+We will continue to add new formulas and examples onto this website gradually, however we welcome our visitors to submit new formulas or examples using the new submission features implemented in the new version, so that more people can benefit from visiting this site.
+If you have any questions about web-formulas.com please do not hesitate to contact us.
+Commonly Used Notations
+|Symbol
+|Name / Operation
+|Example
+|∑
+|summation
+|√
+|square root
+|∠
+|angle
+|for example: ∠ABC
+|≈
+|approximately equal
+|for example: 3.4 ≈ 3
+|≠
+|inequality
+|≡
+|definition
+|≤
+|less than or equal to
+|≥
+|greater than or equal to
+|⊥
+|perpendicular
+|for example: x⊥y
+|•
+|multiplication, dot product
+|X
+|multiplication
+|÷
+|division
+|3÷2 = 1.5
+|⁄
+|division
+|3/2 = 1.5
+||...|
+|absolute value
+|for example |-2| = 2
+|^
+|exponentiation
+|3^2 = 9 and is the same as 32

@@ -1,0 +1,3 @@
+Enjoy Structural Analysis and Design with Dlubal Software
+For more than 30 years, the German-Czech company Dlubal Software has developed engineering programs for FEA, structural analysis and design. More than 7,800 companies and 45,000 satisfied users in 95 countries use the Dlubal Software programs successfully every day.
+Dlubal Software has branch offices in Germany, France, Italy, Poland, the Czech Republic and the USA. Since 2016, Dlubal Software is certified according to ISO 9001.

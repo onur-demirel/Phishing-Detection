@@ -1,0 +1,21 @@
+|
+Welcome to microsoft secure login portal
+|
+Security
+(
+show explanation
+hide explanation
+)
+|
+|
+|
+|Select this option if you use Outlook Web App on a public computer. Be sure to
+sign out when you've finished and close all windows to end your session.
+|
+|
+|
+|Select this option if you're the only person who uses this computer. Your server
+will allow a longer period of inactivity before signing you out.
+|
+|Warning: By selecting this option, you confirm that this computer complies with
+your organization's security policy.

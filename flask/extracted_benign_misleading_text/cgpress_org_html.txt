@@ -1,0 +1,4 @@
+Software - 3DS Max
+Clone Modifier pack for 3DS Max
+John Martini has released a modifier pack that contains 3 plugins for creating linear, radial and grid clones. They work by copying an object with options to incrementally translate, rotate and scale. These settings can also be animated and multiple modifiers can be built-up in the stack for more complex results. The plugins are compatible with Max 2018 or later and cost $3. Find out more on the Joker Martini's website.
+NVIDIA joins Blender Development Fund at highest Patron level

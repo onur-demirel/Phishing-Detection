@@ -1,0 +1,9 @@
+If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
+Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
+* If you need High speed and Protection - the right choice is to use ClouDNS’ Anycast DNS network!
+Suggested article from our blog: "What is Anycast DNS and how does it work?"
+When we are talking about Anycast DNS, there are two different types we should check.
+The first is the traditional Network Layer Anycast, which focuses on the closest route. All the servers will have the same IP, and the user’s request will get resolved from the nearest possible DNS server from the Anycast network.
+The second is the Application Layer Anycast. This one takes into account many more factors like the number of connections, time to response, and availability of servers. It uses a monitor to check and decide the route.
+The second option is more intelligent and has a greater array of settings for more specific needs.
+Both will be able to boost the speed significantly and provide better performance. Anycast has a lot of advantages like providing redundancy and even resist DNS flood DDoS attacks!

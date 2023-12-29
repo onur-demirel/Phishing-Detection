@@ -1,0 +1,32 @@
+Use Flickriver Badge Creator to create a badge linking to your photos, your group or any other Flickriver view.
+You can place your badge on your Flickr profile, Blog or Website.
+Flickriver widget for iGoogle or Netvibes can display almost any Flickriver view - most interesting today, by user, by group, by tag etc. Once added to your personalized homepage, just edit widget settings to select your desired view.
+Clickr on one of the buttons below to install:
+To embed this view, Copy and Paste the following HTML code:
+Black background (preview):
+White background (preview):
+Adds a 'Flickriver' button to your browser. While viewing any Flickr photos page, click on this button to open the same view on Flickriver.
+Add 'Search on Flickriver' to your browser's search box. Works with Firefox and Internet Explorer. Install search plugin
+A Greasemonkey script that adds Flickriver links to various Flickr photo pages - user photos, favorites, pools etc, allowing to quickly open the corresponding Flickriver view.
+Also, allows quickly viewing any Flickr photo on black background in large size.
+While viewing any Flickr photos page, click on the bookmarklet to open the same view on Flickriver.
+To install: drag and drop the following link to your Bookmarks toolbar.
+IE users - add the link to your Favorites under the Links folder
+preview: Flickriver - A new way to view Flickr photos and more...
+Use Flickriver Badge Creator to create a badge linking to any Flickriver view
+Use Flickriver Badge Creator to create a badge linking to your photos, your group or any other Flickriver view.
+You can place your badge on your Flickr profile, Blog or Website.
+Flickriver widget for iGoogle or Netvibes can display almost any Flickriver view - most interesting today, by user, by group, by tag etc. Once added to your personalized homepage, just edit widget settings to select your desired view.
+Clickr on one of the buttons below to install:
+To embed this view, Copy and Paste the following HTML code:
+Black background (preview):
+White background (preview):
+Adds a 'Flickriver' button to your browser. While viewing any Flickr photos page, click on this button to open the same view on Flickriver.
+Add 'Search on Flickriver' to your browser's search box. Works with Firefox and Internet Explorer. Install search plugin
+A Greasemonkey script that adds Flickriver links to various Flickr photo pages - user photos, favorites, pools etc, allowing to quickly open the corresponding Flickriver view.
+Also, allows quickly viewing any Flickr photo on black background in large size.
+While viewing any Flickr photos page, click on the bookmarklet to open the same view on Flickriver.
+To install: drag and drop the following link to your Bookmarks toolbar.
+IE users - add the link to your Favorites under the Links folder
+preview: Flickriver - A new way to view Flickr photos and more...
+Use Flickriver Badge Creator to create a badge linking to any Flickriver view

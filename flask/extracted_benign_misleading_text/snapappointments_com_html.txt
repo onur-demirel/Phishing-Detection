@@ -1,0 +1,16 @@
+Online appointment scheduling, client management, business reports, automated appointment reminders, and more.
+Extensible and infinitely scalable appointment solution able to accommodate businesses and organizations of all sizes.
+Powerful features and an elegant user interface seamlessly combined with enterprise-grade security, reliability, and performance.
+Business locations with separate or shared services, hours, and staff.
+Staff can each be assigned specific schedules, roles, and permissions.
+Your clients can access real time availability and book appointments.
+Access detailed appointment, staff, and client reports for your business.
+Automated reminders via email, SMS, and/or phone call assist in eliminating missed appointments. The content, layout, and timing of notifications & reminders are fully customizable.
+SnapAppointments meets the safety, privacy, and security standards established by the Health Insurance Portability and Accountability Act* and can enter into a Business Associate Agreement (BAA).
+Store client records complete with appointment history, chronological notes, and limitless custom fields. SnapAppointments is a complete CRM solution backed by enterprise database technology.
+PCI Compliant capture, storage, management, and processing of customer payments. Charge or simply store credit cards at the time of scheduling.
+Upload and store images, forms, receipts, executed contracts, documents, and any other files associated with customers and contacts.
+SnapAppointments supports multiple business locations per account† with each location configurable to any time zone in the world.
+Embeddable appointment scheduling options allow your clients to schedule appointments in style without leaving your website.
+SnapAppointments offers multiple public scheduling pages, each fully customizable and included in our directory.
+Powered by full CalDAV servers, optionally sync your calendar with Microsoft Outlook, Google Calendar, Apple Calendar, and more.

@@ -1,0 +1,2 @@
+Firefox 70 Release full of API Updates
+Firefox 70.0 is here and stable. Along with a host of bug fixes, and feature updates; Firefox 70 includes many API changes. Specifically, the DOM; Workers/service workers; Media, WebAudio, and WebRTC; and Canvas and WebGL APIs were all updated with bug fixes, changes, and new features.

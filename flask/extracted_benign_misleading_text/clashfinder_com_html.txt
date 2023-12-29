@@ -1,0 +1,117 @@
+Free, printable event timetables
+A clashfinder is a free, printable timetable for an event like a music festival or conference.
+Clashfinders are created by the community for the community.
+Find a clashfinder for an event by searching the clashfinder list.
+If you can't find a clashfinder for your event, you can create your own.
+(You'll need the line-up, though.)
+Site News
+Spotify Playlists
+13th April 2019
+You can now build a Spotify playlist from the acts on a clashfinder.
+Go to the clashfinder and select Data > Build Spotify Playlist.
+On mobile it's Gear Icon > Spotify Playlist.
+You have to be logged in to a clashifnder account for the menu options to appear. If you don't have an account, it's free and easy to create one (click here).
+Site Facelift
+5th December 2018
+It was long overdue but I've fianlly given this site a little facelift to make it more usable on modern screens. Fonts are larger, icons are higher resolution. It looks better on my screen; I hope it looks better on yours.
+I know it's been a long time since anything has been posted here but there have been lots of minor tweaks since 2015. Some ought to have been mentioned here but when you've got no time, this is the first thing that gets dropped :(.
+How to Make a Popular Clashfinder
+10th November 2015
+There are a few simple steps to ensuring that as many people as possible use your clashfinder:
+- Create your clashfinder early. It doesn't matter if you don't have much information at this point — just fill in what you know. Create a clashfinder here.
+- Request core status for your clashfinder by clicking the Core Clashfinder tab on the edit page. Only one clashfinder for each festival gets core status. Check whether one already exists here; core clashfinders are starred.
+- Come back later and fill in the details when they become available.
+Premium User Accounts
+1st June 2015
+In the course of adding features to this site, I occasionally have to drop ideas because they're too processor-heavy and will cost to much in hosting fees. Obviously this isn't fair on the people who donate and pay for the hosting fees.
+Anyone who donates at least 50p (0.50 GBP) will now get their user account upgraded to a premium account, which will allow access to the processor-heavy features as and when they get dreamed up. The first premium feature is access to the statistics for any clashfinder. The statistics page will tell you the visit counts, the number of edits made by each editor, the web referral pages and the number of times each act has been highlighted.
+To access a stats page, visit a clashfinder and click Premium > Visitor Stats.
+If you're thinking of donating, create a user account first because the premium status will be linked to that user account.
+The premium status will last for one day for every penny (0.01 GBP) donated. You have to donate a minimum of 50p because below that PayPal keep a big share of the donation. Donations will stack — if you donate £1 twice in quick succession, you'll get have premium status for 200 days.
+Undo/Redo
+31st March 2015
+I've added undo and redo buttons to the clashfinder editing page. The undo button will undo up to 20 changes you've made since you last submitted your edits.
+As ever, if you want to reset your edits back to the saved clashfinder, refresh the page (F5). If you need to roll-back an edit you've submitted, go to the landing page and use the Revert button in the revision history.
+Compare tool
+23rd January 2015
+The tool to compare clashfinder revisions has been poshed-up a bit -- it will now compare the structure of the two clashfinders rather than showing the difference between the plain-text inputs. You can compare two revisions of a clashfinder by visiting its landing page and clicking one of the compare buttons in the revision history. You can only compare versions if you have editing rights to the clashfinder (that means you have to be logged in to a user account and the clashfinder owner must have allowed edits by other users).
+Edit 2015-04-01: it's been poshed-up a bit more now. The acts look like acts, stages like stages and days like days. Hopefully that'll make it a bit easier to read.
+Mobile highlighting
+20th January 2015
+I've finally got around to adding highlighting to the mobile version of the clashfinder. In the clashfinder view, tap an act to choose a highlight colour. Long-press an act to highlight it.
+You need to to be logged in to a user account to set highlights this way. Click here to create an account.
+Temporarily show all stages
+19th June 2014
+If you visit a clashfinder that has stages and/or days hidden (whether you've hidden them yourself or they're hidden by default), you'll now get a link at the top of the page that allows you to temporarily unhide everything. If you click the link, the page will reload showing all days and stages. You can highlight all the acts you want to see and then click the link to hide the stages again. All the stages that were hidden will be hidden again apart from any that now have highlights on (unless you've unticked the "Always display stages with highlighted acts" box in Customise > Stages).
+This is definitely something I should have done years ago.
+Act info boxes
+12th June 2014
+I've added some information boxes to the clashfinder acts. If you hover over an act, you'll get a pop-up box with act information and (if you're lucky) a photo. For information about an act to be available, the act needs to have been tagged with an ID from the MusicBrainz Database and have a wikipedia entry for it in the database. You can add or edit the MusicBrainz IDs by clicking the link at the bottom of the information box, although you'll need to be logged in to do so.
+Notifications
+24th January 2014
+I've made a bit of a change to the way email notifications are handled. Previously you got an email if someone edited or commented on a clashfinder you created. You had the option to turn off the notifications in the clashfinder settings.
+Now you get the same notifications for clashfinders you've created but you also get notifications if you've commented on or edited a clashfinder and someone else comments on or edits it. The notification settings are set on your Account Settings page (you need to be logged in for that link to work).
+Because I've moved the settings from the clashfinder setup to the account setup, anyone who'd previously opted out of email notifcations will find themselves opted back in. Sorry about that. Just go to your account settings and opt out again.
+Multiple admins
+23rd January 2014
+On the back of the core clashfinder changes, I've made it possible to have multiple admins for a clashfinder. If you create a new clashfinder, you can give admin rights to other users by using the "Other Admins" box in the clashfinder setup. The people you make admins will get full editing access except for the ability to add or remove admins.
+If there's a core clashfinder that you think has been abandoned by its creator and you want to take it over, send me an email with your username and I'll grant you access.
+Collaborative editing
+17th January 2014
+Sorry for not updating this for a while. I've been tinkering with the site quite a bit but haven't made the time to update this part.
+I'm in the process of making a bit of a shift in the way clashfinders are created, owned and edited. I made a change over a year ago to allow anyone with an account to edit any clashfinder (unless the creator of the clashfinder has specifically disallowed it). This has generally worked well but, despite the change, loads of duplicate clashfinders are created (for example: 32 were created for Reading 2013). That's not a problem in itself, but there is a problem when someone creates a clashfinder, half-fills it with data and then abandons it: people end up using second-rate clashfinders when much better ones are available.
+I don't want to inhibit the creation of new clashfinders in any way -- you're still welcome to create them for any purpose you want -- so to try to counteract the problem, I've tried to come up with a method of highlighting one clashfinder for each festival in the hope that people will be nudged towards editing an existing clashfinder rather than starting from scratch. That's where the concept of "core" clashfinders comes in.
+From now on, one clashfinder per festival can be given core status. To qualify for core status, a clashfinder must be editable by any user (although the owner of the clashfinder is still allowed to name specific users who can't make edits). Core clashfinders are given preference in the clashfinder list, so they will be easier to find by other people and ranked higher in search engine results. A clashfinder will only be added to the recommended list if it's core.
+Because there are limitations on core clashfinders (like they have to be open to edits by other users), you'll normally have to ask for core status for your clashfinder. To do this, go to its editing page and click the "Core Clashfinder" tab. In some cases a clashfinder may get core status without a request. You can use the same form to request the removal of core status.
+The JSON lists only show core clashfinders. For a list of all clashfinders, use https://clashfinder.com/data/events/all.json.
+Clashfinder lists
+4th March 2012
+To complement the clashfinder data exports, I've made the lists of available clashfinders accessible in JSON format. Use https://clashfinder.com/data/events/events.json for the full list of clashfinders and https://clashfinder.com/data/events/recommended.json for the list of recommended clashfinders.
+User accounts
+16th October 2011
+I've finally got around to adding user accounts to the site. If you create an account your highlights will be saved to the account, so you can edit them on any computer or phone by logging in.
+Setting up an account will mean you get your user name in the share address of your saved clashfinders, like this: clashfinder.com/s/g2010/?user=yourName.
+The Linking function has been removed because the user accounts allow the same functionality.
+If you don't want to create an account, you can still use the site as before. You'll need to have an account to create a clashfinder because the editing privileges will be tied to your account. If you've previously created a clashfinder, you can transfer the editing privileges to your account by visiting the old edit address and following the link in the Transfer Privileges box at the top.
+To create an account, visit the new user account page.
+Selectable styles
+11th August 2011
+As suggested by John Morrison, you can now select different visual styles for clashfinders. To change style, click the down arrow in the Controls hover box and use the Style dropdown menu. The styles are limited to colours and fonts, rather than actual layout changes. The list is a bit sparse at the moment but I'll add more when (if) I get around to it.
+If you know css and fancy a go at designing your own scheme, grab a copy of standard.css and start editing. To test it, change the Style dropdown menu to 'Other' and you can enter the location of your modified file.
+If you're happy with what you've made, email it to halvin@clashfinder.com. I'll include the good ones in the available styles. Don't forget to send me any images linked in the stylesheet. You'll get a credit at the bottom of the page when someone uses your stylesheet.
+Change of address
+19th April 2011
+A very kind donor has given us the domain name clashfinder.com. If you follow any old clashfindergeneral.co.uk links, you'll be automatically bounced to the new address. If you find that you can't restore your saved highlights, your user ID cookie might not have been transferred from the old site. Try clicking this link. You'll end up back on this page and hopefully your user ID will have been transferred to this domain.
+Thanks Russ!
+Clashfinder and User Data
+7th March 2011
+Due to popular demand (well, three people), I've added a method for downloading the data for the clashfinders in JSON, XML or iCalendar format. To access the data, visit a clashfinder and click the 'Export' link in the top menu.
+You can also access the saved data for a user. For this you'll need the short User ID (UID), which can be found in the 'Sharing' box on any clashfinder page. Once you've got the UID, go to http://clashfinder.com/data/user/[UID].json, replacing [UID] with the user ID.
+Clashfinder T-shirts
+28th September 2010
+Feel like wearing a clashfinder on your chest? Go here to find out how to make DIY clashfinder t-shirts.
+Table of Recommended Clashfinders
+16th September 2010
+As this site's grown, it's become increasingly difficult to see which festivals have clashfinders and which ones don't. To alleviate the problem I've created a table of available clashfinders and put it on the right-hand column of most pages (including this one, look over there -->).
+I'll only add a clashfinder to the table if I think it's of interest to a sufficient number of people. It's a manual process so, if you create a clashfinder, it may take a few days for it to appear in the table. If you think I've forgotten to add your clashfinder, send me an email -- there's a link at the bottom of the page.
+If you're thinking about setting up a clashfinder you should still look at the clashfinder list (link in the menu at the top) because that's an automatically generated list and it's guaranteed to be up-to-date.
+Page Scaling
+3rd August 2010
+I've added a feature and taken one away.
+The clashfinders will now automatically adjust the number of pages based on the number of stages being displayed. Where there are fewer stages, you'll get more than one day on each page -- often the whole document will fit on a single page. For clashfinders with lots of stages, each day will split over several pages.
+Because it now happens automatically, the single-page clashfinder option has been removed. If you want a three-day single-page clashfinder, click Customise followed by the Stages tab and reduce the number of stages to 8 or fewer.
+Mobile Clashfinder
+13th July 2010
+I've created a clashfinder skin for mobile devices. If you visit a clashfinder with a mobile device like an iPhone, you get a message box near the top that gives you the address of the mobile version. If you want to type the address, replace /s/ with /m/ in the address of any clashfinder any you'll get the mobile version.
+I should probably admit that the mobile version isn't really a clashfinder, just a list of acts, because the structure's broken down to fit on the screen. It's got a quick search function -- just type the first three or four letters of an act in the box at the top, hit enter and only the acts with the search text will be shown. Clear the text box to return to the full list. To allow easier scrolling, you can collapse the list by tapping on a day or stage title. Tap a title again to restore the full list.
+Clashfinder Listing
+7th April 2010
+I've created a list of all the current clashfinders on the site. Note that this doesn't include the Glasto 2007 and 2008 clashfinders because they're the old-style pdf versions.
+At the bottom of that page, there's a link that will allow you to create clashfinders for other festivals. All that you'll need to create one is a set list for the festival (preferably with times, although you can make them up) and a bit of nerdiness.
+Old Clashfinders
+17th November 2009
+I've moved my old Glastonbury clashfinders to the new site:
+Open for business
+9th September 2009
+It's probably about time to go live with this brand-new clashfinder website. I expect there'll be a few teething problems at the start but it's off-season so hopefully no one will be around to notice.
+Sharing

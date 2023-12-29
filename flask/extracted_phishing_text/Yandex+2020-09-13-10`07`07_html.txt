@@ -1,0 +1,7 @@
+Username
+Password
+Don't remember me
+Sign in
+Or sign in with a social network
+Can't sign in?
+Registration

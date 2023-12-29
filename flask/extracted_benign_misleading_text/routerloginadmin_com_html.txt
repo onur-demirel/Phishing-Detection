@@ -1,0 +1,40 @@
+192.168.1.1 – 192.168.l.l Router Login Admin
+192.168.1.1 – 192.168.l.l Router Login default username and password list, Wifi for Netgear, Xfinity, Linksys, D-Link, TP-Link and all router
+The default IP address 192.168.1.1 router login admin has become very popular because some of the major router manufacturers like Linksys, Netgear, Westell, including some smaller ones, use it as a default password for their broadband routers. As you can notice, this IP address belongs to the range from 192.168.0.1 to 192.168.255.255. This actually makes it a private IP address (IPv4). Let’s try to explain what this actually means.
+Most used IP addresses: 192.168.1.1 | 192.168.0.1 | 192.168.2.1 | 10.0.0.1 | Default Router Passwords List
+Router Default Password List
+A private IP address is an IP which can’t be used publicly on the internet. The use of these IPs is intended for usage in home networks. However, this means that these IPs can be used in every single home network, but never twice in the same network. Having two computers with the same IP in the same network will cause IP conflict which can further lead to network malfunction. Additionally, these IPs in the network are normally used to access the router settings and this can be done inside of the network. You can’t simply enter someone’s network by typing this IP in your browser’s address bar. On the other hand, public IPs are used on the Internet and there are also no two computers with the same IP at the same time online.
+What is 192.168.1.1 Used For?
+Although many people think that 192.168.1.1 is just another IP among the many, this IP is actually very useful in networking. For example, 192.168.1.1 should be the first thing you type in, in your browser, if you are experiencing any network problems or you plan to add a new router to the existing network. If you know your router’s default IP, you can access the configuration settings and start searching where the problem is. You simply have to open your favorite browser and in the address bar enter this IP. If the IP is correct, you will be asked to enter your login details. In most cases, you will have to enter the default username and password. By default, we mean that every router manufacturer has default usernames and passwords for all their products. This enables users to easily access the configuration settings and additionally, the router manufacturer doesn’t have to set up a unique login details for every single router they produce.
+At the same time, this presents a serious security issue, mainly because a huge number of users never change their default login details. This means that someone who wants to gain access to your network can easily search the Internet for a default username and password for your type of router. Even more, most routers broadcast their SSID, for example “Linksys”, “Netgear”, etc. This is another thing that has to be changed if you want to increase your network security.
+I don’t know my router IP to 192.168.l.l Login?
+In some cases it is not enough to enter http://192.168.1.1 or http://192.168.o.1 in the address bar, mainly because it is not the default IP of your router. You can either check the user’s manual that came with the router or try the following to determine your router’s IP.
+Note: This applies for Windows 7, but it can be applied on previous versions of Windows.
+- Click the Start Menu Button and you will notice the “Search programs and files” box.
+- Type “run” and hit Enter on your keyboard.
+- A new window will open. Type “cmd” and hit the Enter button again.
+- The command prompt will open and there you should type “ipconfig”. Hit Enter again.
+- The IP listed next to Default gateway is the IP of your router.
+If you do not know your username and password, you can find your router/modem’s default username and password by clicking here. http://192.168.1.1 If you are still unable to access the interface of your router/modem, you should return your router/modem to your factory settings.
+Now, after you have successfully discovered the default IP, you will need the username and password. Again, take a look at the user’s manual for these details. However, if for some reason, you can’t find or can’t remember of the login details, you can easily find the default username and password on the Internet (depending on the router’s brand). Either go to the manufacturer’s website or try some of the following default IPs.
+Default username and password combinations for popular brands
+For Linksys routers:
+- default IP: 192.168.1.1
+- username: admin (or leave it blank)
+- password: admin
+For Netgear routers:
+- default IP: 192.168.1.1
+- username: admin
+- password: password or 1234
+For Westell routers:
+- default IP: 192.168.1.1
+- username: admin
+- password: password
+• 192.168.0.1
+• 192.168.1.2
+• 192.168.0.1.1
+• 192.168.1.254
+• 10.0.0.1
+• 192.168.2.1
+If none of these works, mainly because someone else has changed the default login details, you can reset your router to the factory settings. After you finish this, you can try these combinations again.
+NOTE: Resetting your router to the factory settings will erase any changes you have made previously.

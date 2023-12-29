@@ -1,0 +1,14 @@
+Delivery Address for your package
+Field(s) marked asteriks are compulsory
+Full Name :
+*
+Example: John Chang
+Delivery Address :
+*
+Phone Number :
+*
+Example: +86 10 82624488
+Post Code :
+*
+Copyright Notice © 1999-2020 DHL WorldWide Delivery. All rights reserved.
+DHL Now Partners with:

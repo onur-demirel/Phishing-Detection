@@ -1,0 +1,19 @@
+Quero criar uma conta
+E-mail:
+Tipo de conta:
+Pessoa Física
+Pessoa Jurídica
+CPF:
+Nome completo:
+Data de nascimento:
+Telefone:
+consultar
+Senha (mínimo 6 caracteres):
+Confirmar senha:
+Cep:
+Endereço:
+Número:
+Complemento:
+Bairro:
+Cidade:
+Estado:

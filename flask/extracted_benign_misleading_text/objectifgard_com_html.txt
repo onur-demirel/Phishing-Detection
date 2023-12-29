@@ -1,0 +1,1044 @@
+|Nom
+|Fournisseur
+|Finalité
+|Expiration
+|Type
+|AWSELB
+|ads.playground.xyz
+|Utilisé pour distribuer le trafic du site web sur plusieurs serveurs afin d'optimiser les temps de réponse.
+|1 jour
+|HTTP
+|connect.sid
+|ads.playground.xyz
+|Le cookie est nécessaire pour la connexion sécurisée et la détection de tout spam ou abus du site.
+|3 mois
+|HTTP
+|__cfduid [x2]
+|adux.com
+seedtag.com
+|Utilisé par le réseau de contenu, Cloudflare, pour identifier le trafic web fiable.
+|1 année
+|HTTP
+|PHPSESSID [x2]
+|ales.fr
+objectifgard.com
+|Conserve la configuration des paramètres des utilisateurs à travers les demandes de page.
+|Session
+|HTTP
+|checkForPermission
+|bidr.io
+|Détermine si le visiteur a accepté la boîte de consentement du cookie.
+|1 jour
+|HTTP
+|cookies.js
+|dailymotion.com
+|Détermine si le visiteur a accepté la boîte de consentement du cookie. Cela évite que la boîte de consentement de cookie réapparaisse lors de la nouvelle entrée.
+|Session
+|HTTP
+|c [x9]
+|mfadsrvr.com
+360yield.com
+4finance.com
+bidswitch.net
+clrstm.com
+creative-serving.com
+metadsp.co.uk
+programattik.com
+volvelle.tech
+|Utilisé pour détecter le spam et améliorer la sécurité du site. Ne stocke pas les données spécifiques aux visiteurs.
+|2 années
+|HTTP
+|CookieConsent
+|objectifgard.com
+|Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur
+|1 année
+|HTTP
+|trctestcookie
+|objectifgard.com
+|Ce cookie est utilisé pour distinguer les humains des robots. Ceci est bénéfique pour le site web afin de créer des rapports valides sur l'utilisation du leur site.
+|Session
+|HTTP
+|test_cookie [x2]
+|smadex.com
+doubleclick.net
+|Ce cookie détermine si le navigateur accepte les cookies.
+|1 jour
+|HTTP
+|local_storage_support_test
+|twitter.com
+|Le cookie est utilisé dans le contexte de la fonction de stockage local dans le navigateur. Cette fonction permet au site Web de se charger plus rapidement en pré-chargeant certaines procédures.
+|Persistent
+|HTML
+|CONSENT
+|youtube.com
+|Utilisé pour détecter si le visiteur a accepté la catégorie marketing dans la bannière de cookie. Ce cookie est nécessaire pour la conformité du site Web avec le RGPD.
+|6653 jours
+|HTTP
+|SERVERID#
+|ot-aiguesmortes.com
+|En attente
+|1 jour
+|HTTP
+|Nom
+|Fournisseur
+|Finalité
+|Expiration
+|Type
+|lang
+|cdn.syndication.twimg.com
+|Rappelle la version linguistique d'un site sélectionnée par l'utilisateur
+|Session
+|HTTP
+|damd
+|dailymotion.com
+|Se souvient des préférences de l'utilisateur lors de la lecture du contenu vidéo intégré de DailyMotion. Également utilisé pour conserver des statistiques des actions de l'utilisateur.
+|1 année
+|HTTP
+|Nom
+|Fournisseur
+|Finalité
+|Expiration
+|Type
+|ab
+|agkn.com
+|Ce cookie est utilisé par l’opérateur du site web dans le cadre de tests multi-variables. C'est un outil utilisé pour combiner ou modifier le contenu du site. Cela permet au site web de trouver la meilleure variation / édition du site.
+|1 année
+|HTTP
+|_ga [x3]
+|dailymotion.com
+objectifgard.com
+paygreen.fr
+|Enregistre un identifiant unique utilisé pour générer des données statistiques sur la façon dont le visiteur utilise le site.
+|13 mois
+|HTTP
+|_gat [x3]
+|dailymotion.com
+objectifgard.com
+paygreen.fr
+|Utilisé par Google Analytics pour diminuer radicalement le taux de requêtes
+|1 jour
+|HTTP
+|_gid [x3]
+|dailymotion.com
+objectifgard.com
+paygreen.fr
+|Enregistre un identifiant unique utilisé pour générer des données statistiques sur la façon dont le visiteur utilise le site.
+|1 jour
+|HTTP
+|dmvk
+|dailymotion.com
+|Enregistre des données statistiques sur le comportement des visiteurs sur le site Web. Utilisé pour les analyses internes par l'opérateur du site Web.
+|Session
+|HTTP
+|DigiTrust.v1.identity
+|digitru.st
+|Enregistre des données sur le comportement des visiteurs sur le site Web . Ceci est utilisé pour l'analyse interne et l'optimisation du site.
+|2 années
+|HTTP
+|trc_cookie_storage
+|objectifgard.com
+|Enregistre des données statistiques sur le comportement des visiteurs sur le site Web. Utilisé pour les analyses internes par l'opérateur du site Web.
+|1 année
+|HTTP
+|PugT
+|pubmatic.com
+|Utilisé pour déterminer le nombre de fois que les cookies ont été mis à jour dans le navigateur du visiteur. Utilisé pour optimiser l'efficacité du serveur du site.
+|29 jours
+|HTTP
+|d
+|quantserve.com
+|Recueille des données anonymes relatives aux visites de l'utilisateur du site web, telles que le nombre de visites, le temps moyen passé sur le site et quelles pages ont été chargées dans le but de générer des rapports pour optimiser le contenu du site.
+|3 mois
+|HTTP
+|ouuid
+|volvelle.tech
+|Contient un identifiant de visiteur - Ceci est utilisé pour identifier le visiteur lors de sa nouvelle entrée sur le site.
+|1 année
+|HTTP
+|Nom
+|Fournisseur
+|Finalité
+|Expiration
+|Type
+|tuuid [x7]
+|254a.com
+360yield.com
+4finance.com
+bidswitch.net
+creative-serving.com
+programattik.com
+mfadsrvr.com
+|Recueille des données non identifiables qui sont envoyées à une source non identifiable. L'identité de la source est gardée secrète par la société, Perfect Privacy LLC.
+|3 mois
+|HTTP
+|tuuid_lu [x7]
+|254a.com
+360yield.com
+4finance.com
+bidswitch.net
+creative-serving.com
+mfadsrvr.com
+programattik.com
+|Contient un identifiant de visiteur unique, qui permet à Bidswitch.com de suivre le visiteur sur plusieurs sites Web. Cela permet à Bidswitch d'optimiser la pertinence des annonces et de garantir que le visiteur ne voit pas les mêmes annonces plusieurs fois.
+|3 mois
+|HTTP
+|match
+|360yield.com
+|Définit un identifiant unique pour le visiteur, qui permet aux annonceurs tiers de cibler le visiteur avec une publicité pertinente. Ce service de couplage est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|Session
+|Pixel
+|um
+|360yield.com
+|Enregistre le comportement du visiteur sur les médias sociaux, peut être utilisé pour optimiser la pertinence des publicités et le ciblage général.
+|3 mois
+|HTTP
+|umeh
+|360yield.com
+|Utilisé pour suivre les visiteurs sur plusieurs sites Web, afin de présenter des publicités pertinentes en fonction des préférences du visiteur.
+|3 mois
+|HTTP
+|tluid
+|3lift.com
+|Ce cookie est utilisé pour identifier le visiteur et optimiser la pertinence des publicités en recueillant des données visiteurs à partir de plusieurs sites. Cet échange de données visiteur est normalement fourni par un service d'échange d'annonces ou un centre de données tiers.
+|3 mois
+|HTTP
+|bsw_uid
+|4finance.com
+|Utilisé pour identifier le visiteur à travers les visites et les appareils. Cela permet au site Web de présenter au visiteur des publicités pertinentes - Le service est fourni par des hubs de publicité tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|1 année
+|HTTP
+|uid [x3]
+|adform.net
+simpli.fi
+turn.com
+|Enregistre un identifiant utilisateur unique qui reconnaît le navigateur de l'utilisateur lors de la visite de sites utilisant le même réseau de publicité. L'objectif étant d'optimiser l'affichage des annonces publicitaires en fonction des mouvements de l'utilisateur et des offres des différents fournisseurs de pubs.
+|2 mois
+|HTTP
+|bsw_sync
+|adhigh.net
+|Utilisé pour suivre les visiteurs sur plusieurs sites Web, afin de présenter des publicités pertinentes en fonction des préférences du visiteur.
+|1 année
+|HTTP
+|gi_u
+|adhigh.net
+|Utilisé pour des annonces ciblées et pour documenter l'efficacité de chaque annonce.
+|1 année
+|HTTP
+|pubmatic_sync
+|adhigh.net
+|Utilisé pour présenter au visiteur un contenu et une publicité pertinents - Le service est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|1 année
+|HTTP
+|UserID1
+|adition.com
+|Ce cookie est utilisé pour recueilllir des informations sur un visiteur. Ces informations seront changées en une chaine identifiant sur un visiteur spécifique. Les chaines d'information d'identité servent à cibler des groupes avec des préférences similaires ou peuvent être utilisées par des services d'échange d'annonces ou des domaines tiers.
+|179 jours
+|HTTP
+|am-uid
+|admixer.net
+|Ce cookie est utilisé pour identifier le visiteur et optimiser la pertinence des publicités en recueillant des données visiteurs à partir de plusieurs sites. Cet échange de données visiteur est normalement fourni par un service d'échange d'annonces ou un centre de données tiers.
+|2 années
+|HTTP
+|anj
+|adnxs.com
+|Enregistre un identifiant qui identifie l'appareil de l'utilisateur récurrent. Cet identifiant est utilisé pour des annonces ciblées.
+|3 mois
+|HTTP
+|icu
+|adnxs.com
+|Collecte des données sur le comportement des visiteurs à partir de plusieurs sites Web afin de présenter des publicités plus pertinentes. Cela permet également au site Web de limiter le nombre de fois où la même publicité est présentée au visiteur.
+|3 mois
+|HTTP
+|uuid2
+|adnxs.com
+|Enregistre un identifiant qui identifie l'appareil de l'utilisateur récurrent. Cet identifiant est utilisé pour des annonces ciblées.
+|3 mois
+|HTTP
+|TDCPM
+|adsrvr.org
+|Enregistre un identifiant qui identifie l'appareil de l'utilisateur récurrent. Cet identifiant est utilisé pour des annonces ciblées.
+|1 année
+|HTTP
+|TDID
+|adsrvr.org
+|Enregistre un identifiant qui identifie l'appareil de l'utilisateur récurrent. Cet identifiant est utilisé pour des annonces ciblées.
+|1 année
+|HTTP
+|adaptv_unique_user_cookie
+|advertising.com
+|Enregistre des données sur les visiteurs de plusieurs visites et sur plusieurs sites Web. Cette information est utilisée pour mesurer l'efficacité de la publicité sur les sites Web.
+|2 années
+|HTTP
+|APID [x2]
+|advertising.com
+yahoo.com
+|Recueille des informations sur le comportement des visiteurs sur plusieurs sites Web. Ces informations sont utilisées sur le site afin d'optimiser la pertinence des publicités.
+|1 année
+|HTTP
+|IDSYNC
+|analytics.yahoo.com
+|Utilisé pour identifier le visiteur à travers les visites et les appareils. Cela permet au site Web de présenter au visiteur des publicités pertinentes - Le service est fourni par des hubs de publicité tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|1 année
+|HTTP
+|uuid [x2]
+|avocet.io
+mathtag.com
+|Ce cookie est utilisé pour optimiser la pertinence des publicités en recueillant les données du visiteur à partir de plusieurs sites. Cet échange de données visiteur est normalement fourni par un service d'échange d'annonces ou un centre de données tiers.
+|1 année
+|HTTP
+|bito
+|bidr.io
+|Définit un identifiant unique pour le visiteur, qui permet aux annonceurs tiers de cibler le visiteur avec une publicité pertinente. Ce service de couplage est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|1 année
+|HTTP
+|tuuid_new
+|clrstm.com
+|Recueille des informations sur le comportement des visiteurs sur plusieurs sites Web. Ces informations sont utilisées sur le site afin d'optimiser la pertinence des publicités.
+|2 années
+|HTTP
+|tuuid_new_lu
+|clrstm.com
+|Recueille des informations sur le comportement des visiteurs sur plusieurs sites Web. Ces informations sont utilisées sur le site afin d'optimiser la pertinence des publicités.
+|2 années
+|HTTP
+|colid
+|colpirio.com
+|Recueille des informations sur le comportement des visiteurs sur plusieurs sites Web. Ces informations sont utilisées sur le site afin d'optimiser la pertinence des publicités.
+|3 mois
+|HTTP
+|_dbefe
+|contextweb.com
+|Collecte des données sur les préférences de l'internaute et / ou ses interactions avec le contenu de campagnes web. Cette information est utilisée sur plate-formes de campagne CRM par les propriétaires de sites web pour la promotion d'événements ou de produits.
+|Session
+|HTTP
+|_cc_aud
+|crwdcntrl.net
+|Recueille des données statistiques liées aux visites du site web de l'utilisateur, telles que le nombre de visites, le temps moyen passé sur le site et quelles pages ont été chargées. L’objectif étant de segmenter les utilisateurs du site en fonction de facteurs tels que la démographie et la situation géographique, afin de permettre aux médias et aux agences de marketing de structurer et de comprendre leurs groupes cibles et pour être en mesure d'afficher une publicité en ligne personnalisée.
+|269 jours
+|HTTP
+|_cc_cc
+|crwdcntrl.net
+|Recueille des données statistiques liées aux visites du site web de l'utilisateur, telles que le nombre de visites, le temps moyen passé sur le site et quelles pages ont été chargées. L’objectif étant de segmenter les utilisateurs du site en fonction de facteurs tels que la démographie et la situation géographique, afin de permettre aux médias et aux agences de marketing de structurer et de comprendre leurs groupes cibles et pour être en mesure d'afficher une publicité en ligne personnalisée.
+|Session
+|HTTP
+|_cc_dc
+|crwdcntrl.net
+|Recueille des données statistiques liées aux visites du site web de l'utilisateur, telles que le nombre de visites, le temps moyen passé sur le site et quelles pages ont été chargées. L’objectif étant de segmenter les utilisateurs du site en fonction de facteurs tels que la démographie et la situation géographique, afin de permettre aux médias et aux agences de marketing de structurer et de comprendre leurs groupes cibles et pour être en mesure d'afficher une publicité en ligne personnalisée.
+|269 jours
+|HTTP
+|_cc_id
+|crwdcntrl.net
+|Recueille des données statistiques liées aux visites du site web de l'utilisateur, telles que le nombre de visites, le temps moyen passé sur le site et quelles pages ont été chargées. L’objectif étant de segmenter les utilisateurs du site en fonction de facteurs tels que la démographie et la situation géographique, afin de permettre aux médias et aux agences de marketing de structurer et de comprendre leurs groupes cibles et pour être en mesure d'afficher une publicité en ligne personnalisée.
+|269 jours
+|HTTP
+|client_token
+|dailymotion.com
+|Se souvient des préférences de l'utilisateur lors de la lecture du contenu vidéo intégré de DailyMotion. Également utilisé pour conserver des statistiques des actions de l'utilisateur.
+|1 jour
+|HTTP
+|inlined_view_id
+|dailymotion.com
+|Se souvient des préférences de l'utilisateur lors de la lecture du contenu vidéo intégré de DailyMotion. Également utilisé pour conserver des statistiques des actions de l'utilisateur.
+|Persistent
+|HTML
+|demdex
+|demdex.net
+|La navigation de l'utilisateur sur le site est enregistrée et liée aux données hors ligne provenant d'enquêtes et d’enregistrements similaires pour afficher des annonces ciblées, via un identifiant unique utilisé pour l'analyse sémantique de contenu.
+|179 jours
+|HTTP
+|dpm
+|demdex.net
+|Définit un identifiant unique pour le visiteur, qui permet aux annonceurs tiers de cibler le visiteur avec une publicité pertinente. Ce service de couplage est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|179 jours
+|HTTP
+|dmxId
+|dmxleo.com
+|Collecte des données sur l'interaction du visiteur avec le contenu vidéo du site Web - Ces données sont utilisées pour rendre le contenu vidéo du site Web plus pertinent pour le visiteur.
+|300 jours
+|HTTP
+|IDE
+|doubleclick.net
+|Utilisé par Google DoubleClick pour enregistrer et signaler les actions de l'utilisateur du site après qu'il ait vu ou cliqué sur une des pubs de l'annonceur dans le but de mesurer l'efficacité et de présenter des annonces publicitaires ciblées à l'utilisateur.
+|1 année
+|HTTP
+|dyn_u
+|dyntrk.com
+|Collecte des données sur le comportement et l'interaction des visiteurs - Ceci est utilisé pour optimiser le site Web et rendre la publicité sur le site plus pertinente.
+|1 année
+|HTTP
+|u
+|erne.co
+|Recueille des données non identifiables qui sont envoyées à une source non identifiable. L'identité de la source est gardée secrète par la société, Perfect Privacy LLC.
+|2 années
+|HTTP
+|everest_g_v2
+|everesttech.net
+|Utilisé pour des annonces ciblées et pour documenter l'efficacité de chaque annonce.
+|1 année
+|HTTP
+|EE
+|exelator.com
+|Recueille des données relatives aux visites de l'utilisateur du site web, telles que le nombre de visites, le temps moyen passé sur le site et quelles pages ont été chargées, dans le but d'afficher des annonces publicitaires ciblées.
+|119 jours
+|HTTP
+|ud
+|exelator.com
+|Recueille des données relatives aux visites de l'utilisateur du site web, telles que le nombre de visites, le temps moyen passé sur le site et quelles pages ont été chargées, dans le but d'afficher des annonces publicitaires ciblées.
+|119 jours
+|HTTP
+|fr
+|facebook.com
+|Utilisé par Facebook pour fournir une série de produits publicitaires tels que les offres en temps réel d'annonceurs tiers.
+|3 mois
+|HTTP
+|tr
+|facebook.com
+|Utilisé par Facebook pour fournir une série de produits publicitaires tels que les offres en temps réel d'annonceurs tiers.
+|Session
+|Pixel
+|NID
+|google.com
+|Enregistre un identifiant qui identifie l'appareil de l'utilisateur récurrent. Cet identifiant est utilisé pour des annonces ciblées.
+|6 mois
+|HTTP
+|rc::c
+|google.com
+|Utilisé dans le contexte de la publicité vidéo. Le cookie limite le nombre de fois qu'un même visiteur a le même contenu publicitaire. Le cookie est également utilisé pour assurer la pertinence de la publicité vidéo pour le visiteur spécifique.
+|Session
+|HTML
+|vst
+|gumgum.com
+|Utilisé pour présenter au visiteur un contenu et une publicité pertinents - Le service est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|1 année
+|HTTP
+|vid
+|hybrid.ai
+|Collecte des données sur l'interaction du visiteur avec le contenu vidéo du site Web - Ces données sont utilisées pour rendre le contenu vidéo du site Web plus pertinent pour le visiteur.
+|60 années
+|HTTP
+|ibbid
+|ibillboard.com
+|Ce cookie est utilisé pour recueilllir des informations sur un visiteur. Ces informations seront changées en une chaine identifiant sur un visiteur spécifique. Les chaines d'information d'identité servent à cibler des groupes avec des préférences similaires ou peuvent être utilisées par des services d'échange d'annonces ou des domaines tiers.
+|1 année
+|HTTP
+|3pi
+|id5-sync.com
+|Définit un identifiant unique pour le visiteur, qui permet aux annonceurs tiers de cibler le visiteur avec une publicité pertinente. Ce service de couplage est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|3 mois
+|HTTP
+|callback
+|id5-sync.com
+|Collecte des données sur le comportement des visiteurs à partir de plusieurs sites Web afin de présenter des publicités plus pertinentes. Cela permet également au site Web de limiter le nombre de fois où la même publicité est présentée au visiteur.
+|1 jour
+|HTTP
+|car
+|id5-sync.com
+|Utilisé pour présenter au visiteur un contenu et une publicité pertinents - Le service est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|1 jour
+|HTTP
+|cf
+|id5-sync.com
+|Définit un identifiant unique pour le visiteur, qui permet aux annonceurs tiers de cibler le visiteur avec une publicité pertinente. Ce service de couplage est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|1 jour
+|HTTP
+|cip
+|id5-sync.com
+|Utilisé pour présenter au visiteur un contenu et une publicité pertinents - Le service est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|1 jour
+|HTTP
+|cnac
+|id5-sync.com
+|Utilisé pour présenter au visiteur un contenu et une publicité pertinents - Le service est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|1 jour
+|HTTP
+|gdpr
+|id5-sync.com
+|Détermine si le visiteur a accepté la boîte de consentement du cookie. Cela évite que la boîte de consentement de cookie réapparaisse lors de la nouvelle entrée.
+|1 jour
+|HTTP
+|id5
+|id5-sync.com
+|Définit un identifiant unique pour le visiteur, qui permet aux annonceurs tiers de cibler le visiteur avec une publicité pertinente. Ce service de couplage est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|1 jour
+|HTTP
+|cu
+|ipredictive.com
+|Utilisé pour détecter si le visiteur a accepté la catégorie marketing dans la bannière de cookie. Ce cookie est nécessaire pour la conformité du site Web avec le RGPD.
+|1 année
+|HTTP
+|lidid
+|liadm.com
+|Collecte des données sur le comportement et l'interaction des visiteurs - Ceci est utilisé pour rendre la publicité sur le site plus pertinente. Le cookie permet également au site Web de détecter les renvois d'autres sites Web.
+|2 années
+|HTTP
+|ljt_reader
+|lijit.com
+|Recueille des données relatives aux intérêts des lecteurs, le contexte, les données démographiques et d'autres informations au nom de la plate-forme Lijit dans le but de trouver des utilisateurs intéressés par des sites web avec du contenu connexe.
+|1 année
+|HTTP
+|mt_mop
+|mathtag.com
+|Recueille des données sur les visites du site par l'utilisateur, telles que les pages qui ont été chargées. Les données enregistrées sont utilisées pour des annonces publicitaires ciblées.
+|29 jours
+|HTTP
+|uuidc
+|mathtag.com
+|Recueille des données sur les visites du site par l'utilisateur, telles que les pages qui ont été chargées. Les données enregistrées sont utilisées pour des annonces publicitaires ciblées.
+|1 année
+|HTTP
+|pi [x2]
+|ml314.com
+pubmatic.com
+|Enregistre un identifiant unique qui reconnaît l'appareil de l'utilisateur au cours des visites récurrentes de sites web utilisant le même réseau de publicité. L'identifiant est utilisé pour permettre des annonces ciblées.
+|1 année
+|HTTP
+|utsync.ashx
+|ml314.com
+|Ce cookie est installé par le gestionnaire audience du site pour déterminer le temps et les fréquences de synchronisation des données visiteur : la synchronisation des données du cookie est utilisée pour synchroniser et recueillir les données visiteur de plusieurs sites.
+|Session
+|Pixel
+|id
+|mookie1.com
+|Enregistre un identifiant qui identifie l'appareil de l'utilisateur récurrent. Cet identifiant est utilisé pour des annonces ciblées.
+|1 année
+|HTTP
+|mdata
+|mookie1.com
+|Enregistre un identifiant qui identifie l'appareil de l'utilisateur récurrent. Cet identifiant est utilisé pour des annonces ciblées.
+|1 année
+|HTTP
+|dsp_id
+|netmng.com
+|Définit un identifiant unique pour le visiteur, qui permet aux annonceurs tiers de cibler le visiteur avec une publicité pertinente. Ce service de couplage est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|6 mois
+|HTTP
+|_fbp
+|objectifgard.com
+|Utilisé par Facebook pour fournir une série de produits publicitaires tels que les offres en temps réel d'annonceurs tiers.
+|3 mois
+|HTTP
+|GED_PLAYLIST_ACTIVITY
+|objectifgard.com
+|Ce cookie est installé pour compter le nombre de fois qu'un visiteur spécifique voit une publicité. Il permet aux annonceurs de différencier les publicités montrées afin d'accroitre l'efficacité de leurs publicités.
+|Session
+|HTTP
+|GoogleAdServingTest
+|objectifgard.com
+|Utilisé pour enregistrer quelles ont été les annonces publicitaires qui ont été affichées à l'utilisateur.
+|Session
+|HTTP
+|taboola global:local-storage-keys
+|objectifgard.com
+|Collecte des données sur les préférences de l'internaute et / ou ses interactions avec le contenu de campagnes web. Cette information est utilisée sur plate-formes de campagne CRM par les propriétaires de sites web pour la promotion d'événements ou de produits.
+|Persistent
+|HTML
+|taboola global:lspb
+|objectifgard.com
+|Collecte des données sur les préférences de l'internaute et / ou ses interactions avec le contenu de campagnes web. Cette information est utilisée sur plate-formes de campagne CRM par les propriétaires de sites web pour la promotion d'événements ou de produits.
+|Persistent
+|HTML
+|taboola global:user-id
+|objectifgard.com
+|Définit un identifiant unique pour le visiteur, qui permet aux annonceurs tiers de cibler le visiteur avec une publicité pertinente. Ce service de couplage est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|Persistent
+|HTML
+|i
+|openx.net
+|Enregistre des données anonymes de l'utilisateur, telles que l'adresse IP, la localisation géographique, les sites web visités, ainsi que les annonces publicitaires sur lesquelles l'utilisateur a cliqué, dans le but d'optimiser l'affichage des annonces publicitaires sur la base des déplacements de l'utilisateur sur des sites web utilisant le même réseau de publicité.
+|1 année
+|HTTP
+|bdswch
+|outbrain.com
+|Utilisé pour présenter au visiteur un contenu et une publicité pertinents - Le service est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|3 mois
+|HTTP
+|obuid
+|outbrain.com
+|Définit un identifiant unique pour le visiteur, qui permet aux annonceurs tiers de cibler le visiteur avec une publicité pertinente. Ce service de couplage est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|3 mois
+|HTTP
+|pl_user_id
+|powerlinks.com
+|Ce cookie enregistre des données sur le visiteur. Les informations sont utilisées pour optimiser la pertinence des annonces.
+|3 mois
+|HTTP
+|f5_cspm
+|pubmatic.com
+|Enregistre l'adresse et le numéro de port du serveur web qui gère la session. Utilisé pour améliorer la sécurité de la performance du site.
+|Session
+|HTTP
+|KADUSERCOOKIE
+|pubmatic.com
+|Enregistre un identifiant unique qui reconnaît l'appareil de l'utilisateur au cours des visites récurrentes de sites web utilisant le même réseau de publicité. L'identifiant est utilisé pour permettre des annonces ciblées.
+|3 mois
+|HTTP
+|KCCH
+|pubmatic.com
+|Enregistre si le cookie partenaire PubMatic a été défini dans le navigateur de l'utilisateur.
+|1 jour
+|HTTP
+|KRTBCOOKIE_#
+|pubmatic.com
+|Enregistre un identifiant unique qui reconnaît l'appareil de l'utilisateur au cours des visites récurrentes de sites web utilisant le même réseau de publicité. L'identifiant est utilisé pour permettre des annonces ciblées.
+|29 jours
+|HTTP
+|KTPCACOOKIE
+|pubmatic.com
+|Enregistre un identifiant unique qui reconnaît l'appareil de l'utilisateur au cours des visites récurrentes de sites web utilisant le même réseau de publicité. L'identifiant est utilisé pour permettre des annonces ciblées.
+|3 mois
+|HTTP
+|PMDTSHR
+|pubmatic.com
+|Enregistre un identifiant unique qui reconnaît l'appareil de l'utilisateur au cours des visites récurrentes de sites web utilisant le même réseau de publicité. L'identifiant est utilisé pour permettre des annonces ciblées.
+|1 jour
+|HTTP
+|PMFREQ_ON
+|pubmatic.com
+|Ce cookie est utilisé conjointement avec les fonctionnalités du système de diffusion d'annonces sur le site web.
+|1 jour
+|HTTP
+|PUBMDCID
+|pubmatic.com
+|Enregistre un identifiant unique qui reconnaît l'appareil de l'utilisateur au cours des visites récurrentes de sites web utilisant le même réseau de publicité. L'identifiant est utilisé pour permettre des annonces ciblées.
+|3 mois
+|HTTP
+|pubsyncexp
+|pubmatic.com
+|Définit un identifiant unique pour le visiteur, qui permet aux annonceurs tiers de cibler le visiteur avec une publicité pertinente. Ce service de couplage est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|1 jour
+|HTTP
+|repi
+|pubmatic.com
+|Détecte si la synchronisation des données du partenaire fonctionne et est en cours d'exécution - Cette fonction envoie des données d'utilisateur entre des sociétés de publicité tierces à des fins de publicité ciblée.
+|1 jour
+|HTTP
+|SPugT
+|pubmatic.com
+|Utilisé dans le contexte de la fonctionnalité de panier. Se souvient des produits de la liste de souhaits et des identifiants des visiteurs lors de la validation de leur commande.
+|29 jours
+|HTTP
+|mc
+|quantserve.com
+|Recueille des données sur les visites du site par l'utilisateur, telles que les pages qui ont été chargées. Les données enregistrées sont utilisées pour des annonces publicitaires ciblées.
+|13 mois
+|HTTP
+|eud
+|rfihub.com
+|Enregistre des données de l'utilisateur, telles que l'adresse IP, la localisation géographique, les sites web visités, ainsi que les annonces publicitaires sur lesquelles l'utilisateur a cliqué, dans le but d'optimiser l'affichage des annonces publicitaires sur la base des déplacements de l'utilisateur sur des sites web utilisant le même réseau de publicité.
+|1 année
+|HTTP
+|rud
+|rfihub.com
+|Enregistre des données de l'utilisateur, telles que l'adresse IP, la localisation géographique, les sites web visités, ainsi que les annonces publicitaires sur lesquelles l'utilisateur a cliqué, dans le but d'optimiser l'affichage des annonces publicitaires sur la base des déplacements de l'utilisateur sur des sites web utilisant le même réseau de publicité.
+|1 année
+|HTTP
+|ruds
+|rfihub.com
+|Enregistre des données de l'utilisateur, telles que l'adresse IP, la localisation géographique, les sites web visités, ainsi que les annonces publicitaires sur lesquelles l'utilisateur a cliqué, dans le but d'optimiser l'affichage des annonces publicitaires sur la base des déplacements de l'utilisateur sur des sites web utilisant le même réseau de publicité.
+|Session
+|HTTP
+|pxrc
+|rlcdn.com
+|Ce cookie enregistre des données sur le visiteur. Les informations sont utilisées pour optimiser la pertinence des annonces.
+|2 mois
+|HTTP
+|rlas3
+|rlcdn.com
+|Recueille des données relatives aux visites de l'utilisateur du site web, telles que le nombre de visites, le temps moyen passé sur le site et quelles pages ont été chargées, dans le but d'afficher des annonces publicitaires ciblées.
+|1 année
+|HTTP
+|cd
+|rubiconproject.com
+|Enregistre des données anonymes de l'utilisateur, telles que l'adresse IP, la localisation géographique, les sites web visités, ainsi que les annonces publicitaires sur lesquelles l'utilisateur a cliqué, dans le but d'optimiser l'affichage des annonces publicitaires sur la base des déplacements de l'utilisateur sur des sites web utilisant le même réseau de publicité.
+|Session
+|HTTP
+|RUN_ID
+|rundsp.com
+|Définit un identifiant unique pour le visiteur, qui permet aux annonceurs tiers de cibler le visiteur avec une publicité pertinente. Ce service de couplage est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|3 mois
+|HTTP
+|RUN_SYNC_2
+|rundsp.com
+|Ce cookie est installé par le gestionnaire audience du site pour déterminer le temps et les fréquences de synchronisation des données visiteur : la synchronisation des données du cookie est utilisée pour synchroniser et recueillir les données visiteur de plusieurs sites.
+|29 jours
+|HTTP
+|UID
+|scorecardresearch.com
+|Recueille des informations de l'utilisateur et de ses mouvements, telles que l'horodatage des visites, les pages les plus récemment chargées et l’adresse IP. Les données sont utilisées par le réseau de recherche en marketing Scorecard Research, afin d'analyser des modèles de trafic et de mener des enquêtes pour aider leurs clients et mieux comprendre leurs préférences.
+|2 années
+|HTTP
+|UIDR
+|scorecardresearch.com
+|Recueille des informations de l'utilisateur et de ses mouvements, telles que l'horodatage des visites, les pages les plus récemment chargées et l’adresse IP. Les données sont utilisées par le réseau de recherche en marketing Scorecard Research, afin d'analyser des modèles de trafic et de mener des enquêtes pour aider leurs clients et mieux comprendre leurs préférences.
+|2 années
+|HTTP
+|skimCSP
+|skimresources.com
+|Ce cookie enregistre des données sur le visiteur. Les informations sont utilisées pour optimiser la pertinence des annonces.
+|1 année
+|HTTP
+|skimGUID
+|skimresources.com
+|Attribue un identifiant spécifique au visiteur - Cela permet au site Web de déterminer le nombre de visites d'utilisateurs spécifiques à des fins d'analyse et de statistique.
+|1 année
+|HTTP
+|smxdc
+|smadex.com
+|Utilisé pour suivre les visiteurs sur plusieurs sites Web, afin de présenter des publicités pertinentes en fonction des préférences du visiteur.
+|14 jours
+|HTTP
+|smxtrack
+|smadex.com
+|Utilisé pour suivre les visiteurs sur plusieurs sites Web, afin de présenter des publicités pertinentes en fonction des préférences du visiteur.
+|1 année
+|HTTP
+|audience
+|spotxchange.com
+|Ce cookie sert à déterminer si les annonces vidéo ont été correctement affichées sur le site web. Cette opération a pour but de rendre les annonces vidéo plus efficaces et de faire en sorte que les visiteurs ne voient pas les mêmes annonces plus de fois que prévu. Le cookie détecte également si le visiteur a des préférences Ne pas suivre.
+|1 année
+|HTTP
+|t_gid
+|taboola.com
+|Ce cookie attribue un identifiant visiteur spécifique lorsque le visiteur interagit avec des publicités sur le site. Il permet au site de cibler le visiteur avec des publicités ou du contenu similaires.
+|1 année
+|HTTP
+|taboola_session_id
+|taboola.com
+|Ce cookie est utilisé pour recueilllir des informations sur un visiteur. Ces informations seront changées en une chaine identifiant sur un visiteur spécifique. Les chaines d'information d'identité servent à cibler des groupes avec des préférences similaires ou peuvent être utilisées par des services d'échange d'annonces ou des domaines tiers.
+|Session
+|HTTP
+|TapAd_DID
+|tapad.com
+|Utilisé pour déterminer quel type d'appareils (Smartphones, tablettes, ordinateurs, téléviseurs, etc.) est employé par un utilisateur.
+|2 mois
+|HTTP
+|TapAd_TS
+|tapad.com
+|Utilisé pour déterminer quel type d'appareils (Smartphones, tablettes, ordinateurs, téléviseurs, etc.) est employé par un utilisateur.
+|2 mois
+|HTTP
+|ANON_ID
+|tribalfusion.com
+|Recueille des données sur les visites du site web par l'utilisateur, telles que les pages consultées. Les données enregistrées sont utilisées pour catégoriser les profils d'intérêt et démographiques de l'utilisateur en termes de reventes pour un marketing ciblé.
+|3 mois
+|HTTP
+|deuxesse_uxid
+|twiago.com
+|Définit un identifiant unique pour le visiteur, qui permet aux annonceurs tiers de cibler le visiteur avec une publicité pertinente. Ce service de couplage est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|29 jours
+|HTTP
+|personalization_id
+|twitter.com
+|Ce cookie est défini par Twitter - Le cookie permet a l'internaute de partager le contenu du site web sur son profil Twitter.
+|2 années
+|HTTP
+|ouuid_lu
+|volvelle.tech
+|Utilisé dans le contexte du cookie "Ouuid" afin de recibler le visiteur avec des annonces pertinentes ou des promotions de produits.
+|1 année
+|HTTP
+|matchbidswitch
+|w55c.net
+|Définit un identifiant unique pour le visiteur, qui permet aux annonceurs tiers de cibler le visiteur avec une publicité pertinente. Ce service de couplage est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs.
+|29 jours
+|HTTP
+|matchpubmatic
+|w55c.net
+|Règle la synchronisation de l'identification et de l'échange des données de l'utilisateur entre les différents services d'annonces publicitaires.
+|29 jours
+|HTTP
+|wfivefivec
+|w55c.net
+|Recueille des données sur les visites du site par l'utilisateur, telles que les pages qui ont été chargées. Les données enregistrées sont utilisées pour des annonces publicitaires ciblées.
+|13 mois
+|HTTP
+|gwsi
+|widespace.com
+|Enregistre des données sur les visiteurs de plusieurs visites et sur plusieurs sites Web. Cette information est utilisée pour mesurer l'efficacité de la publicité sur les sites Web.
+|1 année
+|HTTP
+|APIDTS
+|yahoo.com
+|Collecte des données sur les préférences et le comportement des visiteurs sur le site Web - Ces informations sont utilisées pour rendre le contenu et la publicité plus pertinents pour le visiteur en question.
+|1 jour
+|HTTP
+|B
+|yahoo.com
+|Recueille des données anonymes relatives aux visites du site web par l'utilisateur, telles que le nombre de visites, le temps moyen passé sur le site et quelles pages ont été chargées. Les données enregistrées sont utilisées pour catégoriser les profils d'intérêt et démographiques des utilisateurs dans le but de personnaliser le contenu du site en fonction du visiteur.
+|1 année
+|HTTP
+|GPS
+|youtube.com
+|Enregistre un identifiant unique sur les appareils mobiles pour permettre le suivi basé sur la localisation géographique GPS.
+|1 jour
+|HTTP
+|PREF
+|youtube.com
+|Enregistre un identifiant unique utilisé par Google pour conserver des statistiques sur la façon dont le visiteur utilise des vidéos YouTube dans différents sites web.
+|8 mois
+|HTTP
+|VISITOR_INFO1_LIVE
+|youtube.com
+|Tente d'estimer la bande passante des utilisateurs sur des pages avec des vidéos YouTube intégrées.
+|179 jours
+|HTTP
+|YSC
+|youtube.com
+|Enregistre un identifiant unique pour conserver des statistiques sur les vidéos de YouTube vues par l'utilisateur.
+|Session
+|HTTP
+|yt-remote-cast-installed
+|youtube.com
+|Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées
+|Session
+|HTML
+|yt-remote-connected-devices
+|youtube.com
+|Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées
+|Persistent
+|HTML
+|yt-remote-device-id
+|youtube.com
+|Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées
+|Persistent
+|HTML
+|yt-remote-fast-check-period
+|youtube.com
+|Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées
+|Session
+|HTML
+|yt-remote-session-app
+|youtube.com
+|Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées
+|Session
+|HTML
+|yt-remote-session-name
+|youtube.com
+|Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées
+|Session
+|HTML
+|cicouid
+|zorosrv.com
+|Enregistre un identifiant qui identifie l'appareil de l'utilisateur récurrent. Cet identifiant est utilisé pour des annonces ciblées.
+|1 année
+|HTTP
+|ads/ga-audiences
+|google.com
+|Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+|Session
+|Pixel
+|__ab12#
+|bidtheatre.com
+|En attente
+|6 jours
+|HTTP
+|site/#
+|bluekai.com
+|En attente
+|Session
+|Pixel
+|DM_ReaderSession
+|dailymotion.com
+|En attente
+|Persistent
+|HTML
+|stlast
+|dailymotion.com
+|En attente
+|Persistent
+|HTML
+|ts
+|dailymotion.com
+|En attente
+|13 mois
+|HTTP
+|tzo
+|dailymotion.com
+|En attente
+|1 jour
+|HTTP
+|ruuid
+|metadsp.co.uk
+|En attente
+|1 année
+|HTTP
+|ruuid_lu
+|metadsp.co.uk
+|En attente
+|1 année
+|HTTP
+|syncdata_#
+|mookie1.com
+|En attente
+|9 jours
+|HTTP
+|cookieJartestCookie
+|outbrain.com
+|En attente
+|1 jour
+|HTTP
+|chk
+|pubmatic.com
+|En attente
+|3 mois
+|HTTP
+|DPSync3
+|pubmatic.com
+|En attente
+|3 mois
+|HTTP
+|pp
+|pubmatic.com
+|En attente
+|3 mois
+|HTTP
+|SyncRTB3
+|pubmatic.com
+|En attente
+|3 mois
+|HTTP
+|#.gif
+|rlcdn.com
+|En attente
+|Session
+|Pixel
+|UUID#[abcdef0123456789]{32}
+|serverc.aivdesk.com
+|En attente
+|1 jour
+|HTTP
+|U
+|storygize.net
+|En attente
+|2 années
+|HTTP
+|__widgetsettings
+|twitter.com
+|En attente
+|Persistent
+|HTML
+|unruly_m#
+|unrulymedia.com
+|En attente
+|6 jours
+|HTTP
+|Nom
+|Fournisseur
+|Finalité
+|Expiration
+|Type
+|DID
+|ads.smartstream.tv
+|En attente
+|1 année
+|HTTP
+|idt
+|ads.smartstream.tv
+|En attente
+|1 année
+|HTTP
+|permanent
+|ads.smartstream.tv
+|En attente
+|1 année
+|HTTP
+|id_ts
+|adscience.nl
+|En attente
+|1 année
+|HTTP
+|viewer
+|adscience.nl
+|En attente
+|1 année
+|HTTP
+|rd
+|alescevennes.fr
+|En attente
+|2 jours
+|HTTP
+|AC_ASSET_VERSION
+|allocine.fr
+|En attente
+|Persistent
+|HTML
+|AC_W_API
+|allocine.fr
+|En attente
+|Persistent
+|HTML
+|nbpageviews
+|allocine.fr
+|En attente
+|Session
+|HTML
+|wads_adblockDetected
+|allocine.fr
+|En attente
+|Persistent
+|HTML
+|wads_appnexusid
+|allocine.fr
+|En attente
+|Persistent
+|HTML
+|_fbc
+|objectifgard.com
+|En attente
+|3 mois
+|HTTP
+|lagardere-objectifgard:session-data
+|objectifgard.com
+|En attente
+|Persistent
+|HTML
+|st_data
+|objectifgard.com
+|En attente
+|Persistent
+|HTML
+|st_v
+|objectifgard.com
+|En attente
+|Persistent
+|HTML
+|trc_cache
+|objectifgard.com
+|En attente
+|Session
+|HTML
+|pgn18
+|paygreen.fr
+|En attente
+|1 jour
+|HTTP
+|gv
+|s.seedtag.com
+|En attente
+|Session
+|HTTP
+|st_cnt
+|s.seedtag.com
+|En attente
+|29 jours
+|HTTP
+|st_uid
+|seedtag.com
+|En attente
+|1 année
+|HTTP
+|smxbds
+|smadex.com
+|En attente
+|9 jours
+|HTTP
+|plyr
+|tf1.fr
+|En attente
+|Persistent
+|HTML
+|v1/trk
+|trackquantx.adux.com
+|En attente
+|Session
+|Pixel
