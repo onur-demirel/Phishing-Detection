@@ -5,7 +5,8 @@
 
 
 # import trafilatura as tr
-from transformers import XLMRobertaModel, XLMRobertaTokenizer, ElectraModel, ElectraTokenizer, AutoTokenizer, AutoModel
+from sentence_transformers import SentenceTransformer
+from transformers import XLMRobertaModel, XLMRobertaTokenizer,  AutoTokenizer, AutoModel, ElectraModel, ElectraTokenizer
 import torch
 import numpy as np
 import os
@@ -15,6 +16,7 @@ import time
 import pickle
 import json
 import sys
+from googletrans import Translator
 
 
 # def extract_text():
@@ -82,6 +84,62 @@ def create_embeddings():
     """
     create_xlm_roberta_embeddings()
 
+def translate_text(files, path, chunk_size=5000, dest_language='en'):
+
+    translator = Translator()
+    print('-' * 50, "translate_text", '-' * 50)
+    for file in files:
+
+        with open(path + "/" + file, 'r', encoding="utf-8") as f:
+            text = f.read()
+
+            print(path + "/" + file)
+
+            chunks = [text[i:i+chunk_size] for i in range(0, len(text), chunk_size)]
+            translated_chunks = []
+            for chunk in chunks:
+                translated = translator.translate(chunk, dest=dest_language)
+                translated_chunks.append(translated.text)
+            translated_text = ' '.join(translated_chunks)
+            with open('translated_text/' + path + "/" + file[:-4] + '.txt', 'w+', encoding="utf-8") as f:
+                f.write(translated_text)
+
+def create_translated_text():
+    benign_mislead_path = sys.argv[1] # extracted_benign_misleading_text
+    benign_mislead_files = os.listdir(benign_mislead_path)
+    phishing_path = sys.argv[2] # extracted_phishing_text
+    phishing_files = os.listdir(phishing_path)
+    os.makedirs('translated_text/' + benign_mislead_path, exist_ok=True)
+    os.makedirs('translated_text/' + phishing_path, exist_ok=True)
+
+    translate_text(benign_mislead_files, benign_mislead_path)
+    translate_text(phishing_files, phishing_path)
+
+
+def generate_sbert_embeddings_arrays(files, path):
+
+    model = SentenceTransformer('sentence-transformers/bert-base-nli-mean-tokens')
+    sentence_bert_embeddings = np.array([]).reshape(0, 768)
+    sentence_bert_embeddings_labels = np.array([]).reshape(0, 1)
+    print("-" * 50, "Sentence BERT", "-" * 50)
+    for file in files:
+        with open('translated_text/' + path + "/" + file, 'r', encoding="utf-8") as f:
+            text = f.read()
+        print(path + "/" + file)
+        sentence_embeddings = model.encode(text)
+        sentence_embeddings = sentence_embeddings.reshape(1, -1)
+        sentence_bert_embeddings = np.concatenate((sentence_bert_embeddings, sentence_embeddings))
+
+        if path == sys.argv[1]:
+            sentence_bert_embeddings_labels = np.concatenate(
+                (sentence_bert_embeddings_labels, np.zeros((len(sentence_embeddings), 1))))
+
+        else:
+            sentence_bert_embeddings_labels = np.concatenate(
+                (sentence_bert_embeddings_labels, np.ones((len(sentence_embeddings), 1))))
+
+    result = np.concatenate((sentence_bert_embeddings, sentence_bert_embeddings_labels), axis=1)
+    return result, sentence_bert_embeddings_labels
 
 def generate_xlm_roberta_embeddings_arrays(files, path):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -94,7 +152,7 @@ def generate_xlm_roberta_embeddings_arrays(files, path):
     xlm_roberta_embeddings = np.array([]).reshape(0, 768)
     xlm_roberta_embeddings_labels = np.array([]).reshape(0, 1)
 
-    print("-" * 100)
+    print("-" * 50, "XLM-Roberta", "-" * 50)
     for file in files:
         print(path + "/" + file)
         try:
@@ -119,6 +177,38 @@ def generate_xlm_roberta_embeddings_arrays(files, path):
 
     result = np.concatenate((xlm_roberta_embeddings, xlm_roberta_embeddings_labels), axis=1)
     return result, xlm_roberta_embeddings_labels
+
+def create_transformers_embeddings(transformers_name):
+    benign_mislead_path = sys.argv[3]
+    benign_mislead_files = os.listdir(benign_mislead_path)
+    phishing_path = sys.argv[4]
+    phishing_files = os.listdir(phishing_path)
+    os.makedirs('embeddings', exist_ok=True)
+    
+    if transformers_name == "xlm-roberta":
+        result_legitimate, label_leg = generate_xlm_embeddings_arrays(benign_mislead_files, benign_mislead_path)
+        # print("result_legitimate shape", result_legitimate.shape)
+
+        result_phishing, label_phis = generate_xlm_embeddings_arrays(phishing_files, phishing_path)
+        # print("result_phishing shape", result_phishing.shape)
+
+        result = np.concatenate((result_legitimate, result_phishing), axis=0)
+        # print("result shape", result.shape)
+        # print("result labels", result[:-1, :])
+        with open('embeddings/' + 'xlm-roberta.pkl', 'wb') as file:
+            pickle.dump(result, file)
+
+    elif transformers_name == "sbert":
+        result_legitimate, label_leg = generate_sbert_embeddings_arrays(benign_mislead_files, benign_mislead_path)
+
+        result_phishing, label_phis = generate_sbert_embeddings_arrays(phishing_files, phishing_path)
+
+        result = np.concatenate((result_legitimate, result_phishing), axis=0)
+        # print("result shape", result.shape)
+        # print("result labels", result[:-1, :])
+        with open('embeddings/' + 'sbert.pkl', 'wb') as file:
+            pickle.dump(result, file)
+            
 def create_xlm_roberta_embeddings():
     """
     Get the XLM-Roberta embeddings for the extracted text
@@ -163,7 +253,10 @@ if __name__ == '__main__':
     # 3. Path to the extracted benign and misleading text files
     # 4. Path to the extracted phishing text files
     # extract_text()
-    create_embeddings()
+    # create_embeddings()
+    create_translated_text()
+    create_transformers_embeddings("xlm-roberta")
+    create_transformers_embeddings("sbert")
     # XLM Roberta Results:
     # result shape(49492, 769)
     # result[[-0.01027331 - 0.00268482 - 0.01249031...  0.07113912  0.10873187
