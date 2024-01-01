@@ -84,22 +84,29 @@ def create_embeddings():
 
 
 def generate_xlm_roberta_embeddings_arrays(files, path):
-    model = XLMRobertaModel.from_pretrained('xlm-roberta-base')
-    tokenizer = XLMRobertaTokenizer.from_pretrained('xlm-roberta-base')
-    model.eval()
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    print("device", device, torch.cuda.get_device_name(0))
+    model_name = 'xlm-roberta-base'
+    tokenizer = XLMRobertaTokenizer.from_pretrained(model_name)
+    model = XLMRobertaModel.from_pretrained(model_name).to(device)
+    model.eval().to(device)
 
     xlm_roberta_embeddings = np.array([]).reshape(0, 768)
     xlm_roberta_embeddings_labels = np.array([]).reshape(0, 1)
 
     print("-" * 100)
     for file in files:
-        with open(path + "/" + file, 'r', encoding="utf-8") as f:
-            text = f.read()
-        #print(path + "/" + file)
+        print(path + "/" + file)
+        try:
+            with open(path + "/" + file, 'r', encoding="utf-8") as f:
+                text = f.read()
+        except UnicodeDecodeError:
+            with open(path + "/" + file, 'r', encoding="windows-1256") as f:
+                text = f.read()
         encoded_input = tokenizer(text, padding=True, truncation=True, return_tensors='pt')
         with torch.no_grad():
-            model_output = model(**encoded_input)
-            sentence_embeddings = mean_pooling(model_output, encoded_input['attention_mask'])
+            model_output = model(**encoded_input.to(device))
+            sentence_embeddings = mean_pooling(model_output, encoded_input['attention_mask']).to(device)
             xlm_roberta_embeddings = np.concatenate((xlm_roberta_embeddings, sentence_embeddings.cpu().numpy()))
             if path == sys.argv[1]:
                 xlm_roberta_embeddings_labels = np.concatenate(
@@ -118,11 +125,12 @@ def create_xlm_roberta_embeddings():
     :return: None
     """
     # Get the extracted text from the benign and phishing folders
-    benign_mislead_path = sys.argv[1]
+    benign_mislead_path = sys.argv[3]
     benign_mislead_files = os.listdir(benign_mislead_path)
-    phishing_path = sys.argv[2]
+    phishing_path = sys.argv[4]
     phishing_files = os.listdir(phishing_path)
     os.makedirs('embeddings', exist_ok=True)
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
     result_legitimate, label_leg = generate_xlm_roberta_embeddings_arrays(
@@ -149,5 +157,10 @@ def mean_pooling(model_output, attention_mask):
     return torch.sum(token_embeddings * input_mask_expanded, 1) / torch.clamp(input_mask_expanded.sum(1), min=1e-9)
 
 if __name__ == '__main__':
+    # Parameters:
+    # 1. Path to the benign and misleading html files
+    # 2. Path to the phishing html files
+    # 3. Path to the extracted benign and misleading text files
+    # 4. Path to the extracted phishing text files
     # extract_text()
     create_embeddings()
