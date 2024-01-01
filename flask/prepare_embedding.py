@@ -99,9 +99,9 @@ def translate_text(files, path, chunk_size=5000, dest_language='en'):
 
 
 def create_translated_text():
-    benign_mislead_path = sys.argv[1]  # extracted_benign_misleading_text
+    benign_mislead_path = sys.argv[3]  # extracted_benign_misleading_text
     benign_mislead_files = os.listdir(benign_mislead_path)
-    phishing_path = sys.argv[2]  # extracted_phishing_text
+    phishing_path = sys.argv[4]  # extracted_phishing_text
     phishing_files = os.listdir(phishing_path)
     os.makedirs('translated_text/' + benign_mislead_path, exist_ok=True)
     os.makedirs('translated_text/' + phishing_path, exist_ok=True)
@@ -134,6 +134,34 @@ def generate_sbert_embeddings_arrays(files, path):
 
     result = np.concatenate((sentence_bert_embeddings, sentence_bert_embeddings_labels), axis=1)
     return result, sentence_bert_embeddings_labels
+
+def generate_xlm_roberta_embeddings_arrays_without_mean_pooling(files, path):
+    model = SentenceTransformer('aditeyabaral/sentencetransformer-xlm-roberta-base')
+    xlm_roberta_embeddings = np.array([]).reshape(0, 768)
+    xlm_roberta_embeddings_labels = np.array([]).reshape(0, 1)
+    print("-" * 50, "XLM-Roberta-Without-Mean-Pooling", "-" * 50)
+    for file in files:
+        try:
+            with open(path + "/" + file, 'r', encoding="utf-8") as f:
+                text = f.read()
+        except UnicodeDecodeError:
+            with open(path + "/" + file, 'r', encoding="windows-1256") as f:
+                text = f.read()
+        print(path + "/" + file)
+        sentence_embeddings = model.encode(text)
+        sentence_embeddings = sentence_embeddings.reshape(1, -1)
+        xlm_roberta_embeddings = np.concatenate((xlm_roberta_embeddings, sentence_embeddings))
+
+        if path == sys.argv[3]:
+            xlm_roberta_embeddings_labels = np.concatenate(
+                (xlm_roberta_embeddings_labels, np.zeros((len(sentence_embeddings), 1))))
+
+        elif path == sys.argv[4]:
+            xlm_roberta_embeddings_labels = np.concatenate(
+                (xlm_roberta_embeddings_labels, np.ones((len(sentence_embeddings), 1))))
+
+    result = np.concatenate((xlm_roberta_embeddings, xlm_roberta_embeddings_labels), axis=1)
+    return result, xlm_roberta_embeddings_labels
 
 
 def generate_xlm_roberta_embeddings_arrays(files, path):
@@ -192,6 +220,13 @@ def create_transformers_embeddings(transformers_name):
         # print("result labels", result[:-1, :])
         with open('embeddings/' + 'xlm-roberta.pkl', 'wb') as file:
             pickle.dump(result, file)
+            
+    elif transformers_name == "xlm-roberta-without-mean-pooling":
+        result_legitimate, label_leg = generate_xlm_roberta_embeddings_arrays_without_mean_pooling(benign_mislead_files, benign_mislead_path)
+        result_phishing, label_phis = generate_xlm_roberta_embeddings_arrays_without_mean_pooling(phishing_files, phishing_path)
+        result = np.concatenate((result_legitimate, result_phishing), axis=0)
+        with open('embeddings/' + 'xlm-roberta-without-mean-pooling.pkl', 'wb') as file:
+            pickle.dump(result, file)
 
     elif transformers_name == "sbert":
         result_legitimate, label_leg = generate_sbert_embeddings_arrays(benign_mislead_files, benign_mislead_path)
@@ -219,7 +254,8 @@ if __name__ == '__main__':
     # 4. Path to the extracted phishing text files
     # extract_text()
     # create_translated_text()
-    create_transformers_embeddings("xlm-roberta")
+    create_transformers_embeddings("xlm-roberta-without-mean-pooling")
+    # create_transformers_embeddings("xlm-roberta")
     # create_transformers_embeddings("sbert")
     # XLM Roberta Results:
     # result shape(49492, 769)
