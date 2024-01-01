@@ -5,4 +5,4 @@ phish_sample_30k/*
 flask/benign_mislead/*
 flask/phishing/*
 *.rar
-flask/embeddings/legitimate_embeddings-xlm-roberta.pkl
+*.pkl

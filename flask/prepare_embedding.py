@@ -19,63 +19,63 @@ import sys
 from googletrans import Translator
 
 
-# def extract_text():
-#     """
-#     Extract the text from the html files in the benign and phishing folders
-#     :return: None
-#     """
-#     # Get the html files from the benign and phishing folders
-#     benign_mislead_path = sys.argv[1]
-#     benign_mislead_files = os.listdir(benign_mislead_path)
-#     phishing_path = sys.argv[2]
-#     phishing_files = os.listdir(phishing_path)
-#     os.makedirs('extracted_benign_misleading_text', exist_ok=True)
-#     os.makedirs('extracted_phishing_text', exist_ok=True)
-#
-#     print("*****benign_mislead_files*****", len(benign_mislead_files))
-#
-#     # Get the text from the benign and misleading html files
-#     for file in benign_mislead_files:
-#         try:
-#             with open(benign_mislead_path + "/" + file, 'r', encoding="utf-8") as f:
-#                 html = f.read()
-#                 text = tr.extract(html)
-#                 if text is None:
-#                     continue
-#                 with open('extracted_benign_misleading_text/' + file[:-4] + '.txt', 'w+', encoding="utf-8") as f:
-#                     print("utf-8 ---", file[:-4])
-#                     f.write(text)
-#         except UnicodeDecodeError:
-#             with open(benign_mislead_path + "/" + file, 'r', encoding="windows-1256") as f:
-#                 html = f.read()
-#                 text = tr.extract(html)
-#                 if text is None:
-#                     continue
-#                 with open('extracted_benign_misleading_text/' + file[:-4] + '.txt', 'w+', encoding="utf-8") as f:
-#                     print("windows-1256 ---", file[:-4])
-#                     f.write(text)
-#
-#     print("*****phishing_files*****", len(phishing_files))
-#     # Get the text from the phishing html files
-#     for file in phishing_files:
-#         try:
-#             with open(phishing_path + "/" + file, 'r', encoding="utf-8") as f:
-#                 html = f.read()
-#                 text = tr.extract(html)
-#                 if text is None:
-#                     continue
-#                 with open('extracted_phishing_text/' + file[:-4] + '.txt', 'w+', encoding="utf-8") as f:
-#                     print("utf-8 ---", file[:-4])
-#                     f.write(text)
-#         except UnicodeDecodeError:
-#             with open(phishing_path + "/" + file, 'r', encoding="windows-1256") as f:
-#                 html = f.read()
-#                 text = tr.extract(html)
-#                 if text is None:
-#                     continue
-#                 with open('extracted_phishing_text/' + file[:-4] + '.txt', 'w+', encoding="windows-1256") as f:
-#                     print("windows-1256 ---", file[:-4])
-#                     f.write(text)
+def extract_text():
+    """
+    Extract the text from the html files in the benign and phishing folders
+    :return: None
+    """
+    # Get the html files from the benign and phishing folders
+    benign_mislead_path = sys.argv[1]
+    benign_mislead_files = os.listdir(benign_mislead_path)
+    phishing_path = sys.argv[2]
+    phishing_files = os.listdir(phishing_path)
+    os.makedirs('extracted_benign_misleading_text', exist_ok=True)
+    os.makedirs('extracted_phishing_text', exist_ok=True)
+
+    print("*****benign_mislead_files*****", len(benign_mislead_files))
+
+    # Get the text from the benign and misleading html files
+    for file in benign_mislead_files:
+        try:
+            with open(benign_mislead_path + "/" + file, 'r', encoding="utf-8") as f:
+                html = f.read()
+                text = tr.extract(html)
+                if text is None:
+                    continue
+                with open('extracted_benign_misleading_text/' + file[:-4] + '.txt', 'w+', encoding="utf-8") as f:
+                    print("utf-8 ---", file[:-4])
+                    f.write(text)
+        except UnicodeDecodeError:
+            with open(benign_mislead_path + "/" + file, 'r', encoding="windows-1256") as f:
+                html = f.read()
+                text = tr.extract(html)
+                if text is None:
+                    continue
+                with open('extracted_benign_misleading_text/' + file[:-4] + '.txt', 'w+', encoding="utf-8") as f:
+                    print("windows-1256 ---", file[:-4])
+                    f.write(text)
+
+    print("*****phishing_files*****", len(phishing_files))
+    # Get the text from the phishing html files
+    for file in phishing_files:
+        try:
+            with open(phishing_path + "/" + file, 'r', encoding="utf-8") as f:
+                html = f.read()
+                text = tr.extract(html)
+                if text is None:
+                    continue
+                with open('extracted_phishing_text/' + file[:-4] + '.txt', 'w+', encoding="utf-8") as f:
+                    print("utf-8 ---", file[:-4])
+                    f.write(text)
+        except UnicodeDecodeError:
+            with open(phishing_path + "/" + file, 'r', encoding="windows-1256") as f:
+                html = f.read()
+                text = tr.extract(html)
+                if text is None:
+                    continue
+                with open('extracted_phishing_text/' + file[:-4] + '.txt', 'w+', encoding="windows-1256") as f:
+                    print("windows-1256 ---", file[:-4])
+                    f.write(text)
 
 
 def translate_text(files, path, chunk_size=5000, dest_language='en'):
@@ -136,7 +136,8 @@ def generate_sbert_embeddings_arrays(files, path):
     return result, sentence_bert_embeddings_labels
 
 def generate_xlm_roberta_embeddings_arrays_without_mean_pooling(files, path):
-    model = SentenceTransformer('aditeyabaral/sentencetransformer-xlm-roberta-base')
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model = SentenceTransformer('aditeyabaral/sentencetransformer-xlm-roberta-base').to(device)
     xlm_roberta_embeddings = np.array([]).reshape(0, 768)
     xlm_roberta_embeddings_labels = np.array([]).reshape(0, 1)
     print("-" * 50, "XLM-Roberta-Without-Mean-Pooling", "-" * 50)
@@ -148,7 +149,7 @@ def generate_xlm_roberta_embeddings_arrays_without_mean_pooling(files, path):
             with open(path + "/" + file, 'r', encoding="windows-1256") as f:
                 text = f.read()
         print(path + "/" + file)
-        sentence_embeddings = model.encode(text)
+        sentence_embeddings = model.to(device).encode(text)
         sentence_embeddings = sentence_embeddings.reshape(1, -1)
         xlm_roberta_embeddings = np.concatenate((xlm_roberta_embeddings, sentence_embeddings))
 
@@ -218,14 +219,14 @@ def create_transformers_embeddings(transformers_name):
         result = np.concatenate((result_legitimate, result_phishing), axis=0)
         # print("result shape", result.shape)
         # print("result labels", result[:-1, :])
-        with open('embeddings/' + 'xlm-roberta.pkl', 'wb') as file:
+        with open('embeddings/' + 'embeddings-xlm-roberta.pkl', 'wb') as file:
             pickle.dump(result, file)
             
     elif transformers_name == "xlm-roberta-without-mean-pooling":
         result_legitimate, label_leg = generate_xlm_roberta_embeddings_arrays_without_mean_pooling(benign_mislead_files, benign_mislead_path)
         result_phishing, label_phis = generate_xlm_roberta_embeddings_arrays_without_mean_pooling(phishing_files, phishing_path)
         result = np.concatenate((result_legitimate, result_phishing), axis=0)
-        with open('embeddings/' + 'xlm-roberta-without-mean-pooling.pkl', 'wb') as file:
+        with open('embeddings/' + 'embeddings-xlm-roberta.pkl', 'wb') as file:
             pickle.dump(result, file)
 
     elif transformers_name == "sbert":
@@ -236,7 +237,7 @@ def create_transformers_embeddings(transformers_name):
         result = np.concatenate((result_legitimate, result_phishing), axis=0)
         # print("result shape", result.shape)
         # print("result labels", result[:-1, :])
-        with open('embeddings/' + 'sbert.pkl', 'wb') as file:
+        with open('embeddings/' + 'embeddings-sbert.pkl', 'wb') as file:
             pickle.dump(result, file)
 
 
