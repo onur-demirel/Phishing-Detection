@@ -1,9 +1,7 @@
-# Browse all folders in benign, phishing and misleading folders and combine benign and misleading html.txt files into one folder and phishing html.txt files into another folder
 import os
 import shutil
 import sys
 
-# Path to the folder containing all the folders of benign, phishing and misleading
 path = sys.argv[1] # Where the dataset folders are located
 phishing_data_path = path + "\\" + sys.argv[2] # Where the phishing data is located
 benign_data_path = path + "\\" + sys.argv[3] # Where the benign data is located

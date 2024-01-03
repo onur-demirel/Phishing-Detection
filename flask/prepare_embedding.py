@@ -1,20 +1,10 @@
-# Run all txt files in the benign and phishing folders through Trafilatura to extract the text from the html files
-# Run extracted text through XLM-Roberta to get the embeddings
-# Run extracted text first through Google Translate to translate to English and then through Sentence BERT to get the embeddings
-# Run extracted and translated text through Electra to get the embeddings
-
-
-# import trafilatura as tr
+import trafilatura as tr
 from sentence_transformers import SentenceTransformer
 from transformers import XLMRobertaModel, XLMRobertaTokenizer, AutoTokenizer, AutoModel, ElectraModel, ElectraTokenizer
 import torch
 import numpy as np
 import os
-import re
-import string
-import time
 import pickle
-import json
 import sys
 from googletrans import Translator
 
@@ -78,24 +68,33 @@ def extract_text():
                     f.write(text)
 
 
-def translate_text(files, path, chunk_size=5000, dest_language='en'):
+def translate_text(files, path, chunk_size=4000, dest_language='en'):
     translator = Translator()
     print('-' * 50, "translate_text", '-' * 50)
     for file in files:
-
-        with open(path + "/" + file, 'r', encoding="utf-8") as f:
-            text = f.read()
-
-            print(path + "/" + file)
-
-            chunks = [text[i:i + chunk_size] for i in range(0, len(text), chunk_size)]
-            translated_chunks = []
-            for chunk in chunks:
-                translated = translator.translate(chunk, dest=dest_language)
+        try:
+            with open(path + "/" + file, 'r', encoding="utf-8") as f:
+                text = f.read()
+        except UnicodeDecodeError:
+            with open(path + "/" + file, 'r', encoding="windows-1256") as f:
+                text = f.read()
+        print(path + "/" + file, end=" ")
+        chunks = [text[i:(i + chunk_size if i + chunk_size < len(text) else len(text) - 1)] for i in
+                  range(0, len(text), chunk_size)]
+        translated_chunks = []
+        for chunk in chunks:
+            # print("chunk", chunk)
+            try:
+                if chunk == "" or chunk == " " or chunk == "\n" or chunk == "\t" or chunk == "\r":
+                    continue
+                translated = translator.translate(chunk.strip(), dest=dest_language)
                 translated_chunks.append(translated.text)
-            translated_text = ' '.join(translated_chunks)
-            with open('translated_text/' + path + "/" + file[:-4] + '.txt', 'w+', encoding="utf-8") as f:
-                f.write(translated_text)
+            except:
+                continue
+        translated_text = ' '.join(translated_chunks)
+        with open('translated_text/' + path + "/" + file[:-4] + '.txt', 'w+', encoding="utf-8") as f:
+            print("---> translated_text" + path + "/" + file[:-4] + '.txt')
+            f.write(translated_text)
 
 
 def create_translated_text():
@@ -116,11 +115,15 @@ def generate_sbert_embeddings_arrays(files, path):
     sentence_bert_embeddings = np.array([]).reshape(0, 768)
     sentence_bert_embeddings_labels = np.array([]).reshape(0, 1)
     print("-" * 50, "Sentence BERT", "-" * 50)
+    if path == sys.argv[4]:
+        translator = Translator()
     for file in files:
         with open('translated_text/' + path + "/" + file, 'r', encoding="utf-8") as f:
             text = f.read()
+        if len(text) == 0 or text == " " or text == "\n" or text == "\t" or text == "\r":
+            continue
         print(path + "/" + file)
-        sentence_embeddings = model.encode(text).to(device)
+        sentence_embeddings = model.to(device).encode(text)
         sentence_embeddings = sentence_embeddings.reshape(1, -1)
         sentence_bert_embeddings = np.concatenate((sentence_bert_embeddings, sentence_embeddings))
 
@@ -134,6 +137,7 @@ def generate_sbert_embeddings_arrays(files, path):
 
     result = np.concatenate((sentence_bert_embeddings, sentence_bert_embeddings_labels), axis=1)
     return result, sentence_bert_embeddings_labels
+
 
 def generate_xlm_roberta_embeddings_arrays_without_mean_pooling(files, path):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -221,10 +225,12 @@ def create_transformers_embeddings(transformers_name):
         # print("result labels", result[:-1, :])
         with open('embeddings/' + 'embeddings-xlm-roberta.pkl', 'wb') as file:
             pickle.dump(result, file)
-            
+
     elif transformers_name == "xlm-roberta-without-mean-pooling":
-        result_legitimate, label_leg = generate_xlm_roberta_embeddings_arrays_without_mean_pooling(benign_mislead_files, benign_mislead_path)
-        result_phishing, label_phis = generate_xlm_roberta_embeddings_arrays_without_mean_pooling(phishing_files, phishing_path)
+        result_legitimate, label_leg = generate_xlm_roberta_embeddings_arrays_without_mean_pooling(benign_mislead_files,
+                                                                                                   benign_mislead_path)
+        result_phishing, label_phis = generate_xlm_roberta_embeddings_arrays_without_mean_pooling(phishing_files,
+                                                                                                  phishing_path)
         result = np.concatenate((result_legitimate, result_phishing), axis=0)
         with open('embeddings/' + 'embeddings-xlm-roberta.pkl', 'wb') as file:
             pickle.dump(result, file)
@@ -253,10 +259,8 @@ if __name__ == '__main__':
     # 2. Path to the phishing html files
     # 3. Path to the extracted benign and misleading text files
     # 4. Path to the extracted phishing text files
-    # extract_text()
-    # create_translated_text()
+    extract_text()
     create_transformers_embeddings("xlm-roberta-without-mean-pooling")
     # create_transformers_embeddings("xlm-roberta")
-    # create_transformers_embeddings("sbert")
-    # XLM Roberta Results:
-    # result shape(49492, 769)
+    create_translated_text()
+    create_transformers_embeddings("sbert")
