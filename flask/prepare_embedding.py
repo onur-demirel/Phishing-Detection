@@ -1,6 +1,6 @@
 import trafilatura as tr
 from sentence_transformers import SentenceTransformer
-from transformers import XLMRobertaModel, XLMRobertaTokenizer, AutoTokenizer, AutoModel, ElectraModel, ElectraTokenizer
+from transformers import XLMRobertaModel, XLMRobertaTokenizer
 import torch
 import numpy as np
 import os
@@ -98,9 +98,9 @@ def translate_text(files, path, chunk_size=4000, dest_language='en'):
 
 
 def create_translated_text():
-    benign_mislead_path = sys.argv[3]  # extracted_benign_misleading_text
+    benign_mislead_path = "extracted_benign_misleading_text/"  # extracted_benign_misleading_text
     benign_mislead_files = os.listdir(benign_mislead_path)
-    phishing_path = sys.argv[4]  # extracted_phishing_text
+    phishing_path = "extracted_phishing_text/"  # extracted_phishing_text
     phishing_files = os.listdir(phishing_path)
     os.makedirs('translated_text/' + benign_mislead_path, exist_ok=True)
     os.makedirs('translated_text/' + phishing_path, exist_ok=True)
@@ -111,11 +111,13 @@ def create_translated_text():
 
 def generate_sbert_embeddings_arrays(files, path):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    if not os.path.exists('translated_text/' + path):
+        create_translated_text()
     model = SentenceTransformer('sentence-transformers/bert-base-nli-mean-tokens').to(device)
     sentence_bert_embeddings = np.array([]).reshape(0, 768)
     sentence_bert_embeddings_labels = np.array([]).reshape(0, 1)
     print("-" * 50, "Sentence BERT", "-" * 50)
-    if path == sys.argv[4]:
+    if path == "extracted_phishing_text/":
         translator = Translator()
     for file in files:
         with open('translated_text/' + path + "/" + file, 'r', encoding="utf-8") as f:
@@ -127,11 +129,11 @@ def generate_sbert_embeddings_arrays(files, path):
         sentence_embeddings = sentence_embeddings.reshape(1, -1)
         sentence_bert_embeddings = np.concatenate((sentence_bert_embeddings, sentence_embeddings))
 
-        if path == sys.argv[3]:
+        if path == "extracted_benign_misleading_text":
             sentence_bert_embeddings_labels = np.concatenate(
                 (sentence_bert_embeddings_labels, np.zeros((len(sentence_embeddings), 1))))
 
-        elif path == sys.argv[4]:
+        elif path == "extracted_phishing_text/":
             sentence_bert_embeddings_labels = np.concatenate(
                 (sentence_bert_embeddings_labels, np.ones((len(sentence_embeddings), 1))))
 
@@ -157,11 +159,11 @@ def generate_xlm_roberta_embeddings_arrays_without_mean_pooling(files, path):
         sentence_embeddings = sentence_embeddings.reshape(1, -1)
         xlm_roberta_embeddings = np.concatenate((xlm_roberta_embeddings, sentence_embeddings))
 
-        if path == sys.argv[3]:
+        if path == "extracted_benign_misleading_text":
             xlm_roberta_embeddings_labels = np.concatenate(
                 (xlm_roberta_embeddings_labels, np.zeros((len(sentence_embeddings), 1))))
 
-        elif path == sys.argv[4]:
+        elif path == "extracted_phishing_text/":
             xlm_roberta_embeddings_labels = np.concatenate(
                 (xlm_roberta_embeddings_labels, np.ones((len(sentence_embeddings), 1))))
 
@@ -194,11 +196,11 @@ def generate_xlm_roberta_embeddings_arrays(files, path):
             model_output = model(**encoded_input.to(device))
             sentence_embeddings = mean_pooling(model_output, encoded_input['attention_mask']).to(device)
             xlm_roberta_embeddings = np.concatenate((xlm_roberta_embeddings, sentence_embeddings.to('cpu').numpy()))
-            if path == sys.argv[3]:
+            if path == "extracted_benign_misleading_text":
                 xlm_roberta_embeddings_labels = np.concatenate(
                     (xlm_roberta_embeddings_labels, np.zeros((len(sentence_embeddings), 1))))
 
-            elif path == sys.argv[4]:
+            elif path == "extracted_phishing_text/":
                 xlm_roberta_embeddings_labels = np.concatenate(
                     (xlm_roberta_embeddings_labels, np.ones((len(sentence_embeddings), 1))))
 
@@ -207,9 +209,11 @@ def generate_xlm_roberta_embeddings_arrays(files, path):
 
 
 def create_transformers_embeddings(transformers_name):
-    benign_mislead_path = sys.argv[3]
+    if not os.path.exists('extracted_benign_misleading_text') or not os.path.exists('extracted_phishing_text'):
+        extract_text()
+    benign_mislead_path = "extracted_benign_misleading_text"
     benign_mislead_files = os.listdir(benign_mislead_path)
-    phishing_path = sys.argv[4]
+    phishing_path = "extracted_phishing_text/"
     phishing_files = os.listdir(phishing_path)
     os.makedirs('embeddings', exist_ok=True)
 
@@ -254,13 +258,14 @@ def mean_pooling(model_output, attention_mask):
 
 
 if __name__ == '__main__':
+    if len(sys.argv) != 3:
+        print(
+            "Usage: python prepare_embedding.py <path to the benign and misleading html files> <path to the phishing html files>")
+        exit(1)
     # Parameters:
     # 1. Path to the benign and misleading html files
     # 2. Path to the phishing html files
-    # 3. Path to the extracted benign and misleading text files
-    # 4. Path to the extracted phishing text files
-    extract_text()
+    # extract_text()
     create_transformers_embeddings("xlm-roberta-without-mean-pooling")
     # create_transformers_embeddings("xlm-roberta")
-    create_translated_text()
-    create_transformers_embeddings("sbert")
+    # create_transformers_embeddings("sbert")

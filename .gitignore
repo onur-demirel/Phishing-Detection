@@ -11,3 +11,4 @@ flask/catboost_info
 flask/model
 flask/translated_text
 
+*.pyc

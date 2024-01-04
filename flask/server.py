@@ -1,14 +1,13 @@
 from flask import Flask, render_template, request
 import xgboost as xgb
-import joblib
-import os
 import trafilatura as trf
 from sentence_transformers import SentenceTransformer
 
 app = Flask(__name__)
 
 # Load your XGBoost model
-model = joblib.load('/model/xgboost_model.pkl')
+model = xgb.XGBClassifier()
+model.load_model('model/xlm-roberta_xgboost_model.json')
 
 @app.route('/')
 def index():
@@ -16,7 +15,7 @@ def index():
 
 @app.route('/predict', methods=['POST'])
 def predict():
-    model = SentenceTransformer('aditeyabaral/sentencetransformer-xlm-roberta-base')
+    transformer = SentenceTransformer('aditeyabaral/sentencetransformer-xlm-roberta-base')
     prediction_result = "Phishing" # or it will be "Legitimate"
     if 'htmlFile' not in request.files:
         return "No file part"
@@ -34,16 +33,31 @@ def predict():
 
     # Perform prediction using the file_path with your XGBoost model
 
-    # END of the business logic here
     try:
         # Parse HTML content with trafilatura
-        html_content = trf.extract(file_path)
+        try:
+            with open(file_path, 'r', encoding='utf-8') as saved_file:
+                saved_content = saved_file.read()
+        except:
+            with open(file_path, 'r', encoding='windows-1256') as saved_file:
+                saved_content = saved_file.read()
+        # txt_content = trf.html2txt(file)
+        html_content = trf.extract(saved_content)
+        print("--------------------HTML CONTENT---------------------")
+        print(html_content)
 
         # Get embeddings of the parsed HTML content
-        embeddings = model.encode(html_content)
+        embeddings = transformer.encode(html_content)
+        print("--------------------EMBEDDINGS---------------------")
+        embeddings = embeddings.reshape(1, -1)
+        print(embeddings)
 
 
         prediction = model.predict(embeddings)
+        print("--------------------PREDICTION---------------------")
+        print(prediction)
+        print(type(prediction))
+        print(prediction.shape)
         if prediction == 0:
             prediction_result = "Legitimate"
         elif prediction == 1:
