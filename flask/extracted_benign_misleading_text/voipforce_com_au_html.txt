@@ -1,3 +1,0 @@
-Yes. The DET unit is compatible with proprietary systems offered by companies such as Kone, Schindler, Otis, and Thyssenkrupp, as well as systems provided by Pixel technologies.
-In most cases, existing emergency phone lines will not operate reliably in nbn™ connected premises; the DET unit simply replaces the existing copper wire connection with a cellular connection and is therefore compatible with all telephony infrastructure that exists for emergency services.
-Contact us to discuss your Duress & Emergency telephony requirements today.

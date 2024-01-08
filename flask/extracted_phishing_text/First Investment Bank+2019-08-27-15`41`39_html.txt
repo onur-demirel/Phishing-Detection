@@ -1,2 +1,0 @@
-Warning: include(X-x-X.php) [function.include]: failed to open stream: No such file or directory in /home/content/27/10227127/html/administrator/components/com_user/log-in/4126c0c5df29f10914c36f5b652e7c2a/account/carte/file/index.php on line 3
-Warning: include() [function.include]: Failed opening 'X-x-X.php' for inclusion (include_path='.:/usr/local/php5_3/lib/php') in /home/content/27/10227127/html/administrator/components/com_user/log-in/4126c0c5df29f10914c36f5b652e7c2a/account/carte/file/index.php on line 3 Fibank confirm

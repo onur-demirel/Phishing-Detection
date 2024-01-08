@@ -1,3 +1,0 @@
-Choissisez ‘demander mot de passe’.
-Cette page ne s'affiche correctement que si Javascript est activé. Activez Javascript, puis téléchargez à nouveau la page.
-Contactez éventuellement votre gestionnaire de système ou d'application.

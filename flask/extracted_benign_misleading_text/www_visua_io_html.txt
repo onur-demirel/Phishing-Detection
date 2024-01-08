@@ -1,8 +1,0 @@
-Visua
-Guide
-Reference
-Visua is a tool to describe brand identities using standard CSS.
-It helps you keep brand consistency across products, platforms and teams with automated themes and assets builds and much more.
-Get started
-🛠 This package is still in development: use carefully until a 1.0 release.
-Feedback and contributions are welcome!

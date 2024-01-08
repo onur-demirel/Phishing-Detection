@@ -1,7 +1,0 @@
-The following error was encountered while trying to retrieve the URL: https://ces.edu.uy/
-Failed to establish a secure connection to 10.200.0.239
-The system returned:
-(71) Protocol error (TLS code: SQUID_ERR_SSL_HANDSHAKE)
-Handshake with SSL server failed: error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol
-This proxy and the remote host failed to negotiate a mutually acceptable security settings for handling your request. It is possible that the remote host does not support secure connections, or the proxy is not satisfied with the host security credentials.
-Your cache administrator is infraestructura@ces.edu.uy.

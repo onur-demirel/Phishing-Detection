@@ -1,6 +1,0 @@
-Note: Many features on the PayPal website require JavaScript and cookies.
-Email address is required
-That email address doesn't look quite right. Please check it and try again.
-Password is required
-Checking your information?
-Just a moment?

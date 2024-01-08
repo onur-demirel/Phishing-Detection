@@ -1,9 +1,0 @@
-If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
-Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
-Do you know why the TTL (time to live) is so crucial for your DNS management?
-Suggested article from our blog: TTL and how to check TTL
-TTL signification:
-T- time, T –to, L – live. Together Time to live or TTL refers to a limit of time that specific data should stay saved before it is removed.
-In the case of DNS, TTL is assigned to each DNS record in the authoritative nameserver. This information later serves the recursive DNS servers and shows them for how long those DNS records are valid. After the TTL, the recursive servers need to update the data.
-You can try and find out the best TTL values for your DNS records. There is not a “right” answer. It depends on your use.
-So, TTL is the time in seconds that shows if the records need to be refreshed.* How to check the TTL?

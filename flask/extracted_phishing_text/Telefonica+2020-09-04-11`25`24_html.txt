@@ -1,4 +1,0 @@
-Anbieter: freenet digital GmbH
-Service: Freenet ojom/WEB-ABO-Handycont
-Abo-Preis: 4,99 Euro (inkl. MwSt.)
-Details: Sie abonnieren diesen Service bis auf Widerruf. Zum Kündigen des Abos wenden Sie sich bitte an den Anbieter.Der Abo-Preis wird pro Woche bis zu 1 mal abgebucht.

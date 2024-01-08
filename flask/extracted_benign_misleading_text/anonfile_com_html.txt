@@ -1,5 +1,0 @@
-Important changes to our API
-We've changed from anonfile.com/api/upload to api.anonfile.com/upload
-Please see the API Documentation for details.
-Upload your files anonymously and free on AnonFiles
-We offer you 20 GB filesize limit and unlimited bandwidth.

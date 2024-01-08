@@ -1,3 +1,0 @@
-Welcome to the LEGATO data portal
-Go to the LEGATO Geoserver
-Go to the LEGATO project homepage

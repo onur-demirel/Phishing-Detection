@@ -1,9 +1,0 @@
-User Integration as a service
-Integrate 35+ social networks with our web-delivered tools. Reunite your existing user data in a state-of-the-art security environment that is 100% compliant with all US & EU data protection laws.
-OneAll is used by more than 300,000 websites worldwide, including small blogs, growing startups and large corporate enterprises. Our User Integration Platform is processing millions of user profiles for tens of thousands of websites and apps. Our customers rely on our services for handling their social network integration and securely storing their user profile data.
-Social Network Integration
-Opt for a cloud-based social network integration to reduce in-house development time and eliminate maintenance costs. We constantly monitor the APIs and technologies of the different social networks and update our services as soon as changes arise. By using OneAll you can integrate 35+ social networks in one go.
-User Engagement Solutions
-Maintain high quality conversations on your content using our LoudVoice comments platform and drive continuous user engagement with our sharing services. Our automatic spam filters and backups eliminate maintenance costs or data recovery issues. A centralized dashboard allows you to track user interactions.
-Customer Identity And Access Management
-Reunite your user information in a state-of-the-art security environment that is 100% compliant with all US & EU data protection laws - GDRP included. With our web-delivered tools you can easily implement an end-to-end login and registration system across your web properties. Integrate using our form builders and interact with the data through a powerful API. The highly available cloud-hosted database is powered by a full fledged REST API allowing you to easily view, edit, update, delete and export your data.

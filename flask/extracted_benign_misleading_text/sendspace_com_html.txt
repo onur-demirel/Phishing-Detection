@@ -1,4 +1,0 @@
-Or Login with
-Have you tried fileDrag and Drop yet?
-Protected files can be only accessed by the file owner and users who know the protection password
-Alert

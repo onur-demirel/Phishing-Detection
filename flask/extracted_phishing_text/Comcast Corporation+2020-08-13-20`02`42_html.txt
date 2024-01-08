@@ -1,3 +1,0 @@
-Why Remember Me?
-When you choose Remember Me on sign in, we will remember who you are and keep you signed in for up to 30 days unless you sign out. This is great if you sign in all the time to check your email or watch TV shows online.
-But be careful: If you share your personal computer with others, they could access and make some changes to your account. You should definitely not use Remember Me in public computers!

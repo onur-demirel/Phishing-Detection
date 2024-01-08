@@ -1,7 +1,0 @@
-"If you're serious about security, Qubes OS is the best OS available today. It's what I use, and free."
-"When I use Qubes I feel like a god. Software thinks that it's in control, that it can do what it wants? It can't. I'm in control."
-"For those willing to put in the effort, Qubes is more secure than almost any other operating system available today."
-"Qubes embodies the new frontier of operating systems, where security and usability take the front seat."
-Qubes brings to your personal computer the security of the Xen hypervisor, the same software relied on by many major hosting providers to isolate websites and services from each other. Learn more
-Can't decide which Linux distribution you prefer? Still need that one Windows program for work? With Qubes, you're not limited to just one OS. Learn more
-With Whonix integrated into Qubes, using the Internet anonymously over the Tor network is safe and easy. Learn more

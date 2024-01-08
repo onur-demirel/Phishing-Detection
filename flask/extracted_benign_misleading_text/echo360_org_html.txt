@@ -1,7 +1,0 @@
-To proceed you must allow cookies and/or cross site tracking. Update your browser settings and reload the page. For details, see
-Enabling Cookies
-.
-Enter email
-Enter your LMS/VLE email or Echo360 login email if you have one.
-Email
-Submit

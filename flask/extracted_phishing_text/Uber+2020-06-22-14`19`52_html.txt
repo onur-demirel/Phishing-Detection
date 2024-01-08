@@ -1,5 +1,0 @@
-Connexion
-Adresse courriel ou numéro de téléphone portable
-Suivant
-Vous n'avez pas de compte ?
-Inscrivez-vous

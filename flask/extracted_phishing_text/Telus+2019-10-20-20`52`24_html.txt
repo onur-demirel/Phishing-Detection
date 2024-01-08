@@ -1,1 +1,0 @@
-JavaScript must be enabled in order to use webmail interface. However, it seems JavaScript is either disabled or not supported by your browser. To use webmail, enable JavaScript by changing your browser options, then try again.

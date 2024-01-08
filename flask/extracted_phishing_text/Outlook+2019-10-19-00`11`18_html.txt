@@ -1,3 +1,0 @@
-Productivity is a great word that people love to use. However, in real world, productivity can be summed up in a simple question: Can i do my job easier or not?
-Productivity is a great word that people love to use. However, in real world, productivity can be summed up in a simple question: Can i do my job easier or not?
-block elements contain an entire large region of content examples: paragraphs, lists, table cells the browser places a margin of whitespace between block elements for separation inline elements affect a small amount of content examples: bold text, code fragments, images the browser allows many inline elements to appear on the same line must be nested inside a block element

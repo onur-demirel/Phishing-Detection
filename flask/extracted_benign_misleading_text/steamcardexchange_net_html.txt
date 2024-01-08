@@ -1,5 +1,0 @@
-|Retry for a live version
-This page (https://steamcardexchange.net/) is currently offline. However, because the site uses Cloudflare's Always Online™ technology you can continue to surf a snapshot of the site. We will keep checking in the background and, as soon as the site comes back, you will automatically be served the live version.
-The origin web server is not reachable.
-Please try again in a few minutes.
-Check your DNS Settings. A 523 error means that Cloudflare could not reach your host web server. The most common cause is that your DNS settings are incorrect. Please contact your hosting provider to confirm your origin IP and then make sure the correct IP is listed for your A record in your Cloudflare DNS Settings page. Additional troubleshooting information here.

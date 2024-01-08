@@ -1,5 +1,0 @@
-Factorio is a game in which you build and maintain factories.
-You will be mining resources, researching technologies, building infrastructure, automating production and fighting enemies. Use your imagination to design your factory, combine simple elements into ingenious structures, apply management skills to keep it working, and protect it from the creatures who don't really like you.
-The game is very stable and optimized for building massive factories. You can create your own maps, write mods in Lua, or play with friends via Multiplayer.
-Factorio has been in development since the spring of 2012. So far over 1,500,000 people have bought the game. You can get it from Steam, GOG, or directly from our shop.
-New to the game? Make sure to checkout our starter page.

@@ -1,8 +1,0 @@
-VISION
-LANGUAGE
-SOUND
-ROBOTICS
-OPTICS
-GENOMICS
-In this work, we have introduced two models for inferring decompositional semantic graph structures from text: a pipeline system and a joint parsing-as-transduction model. The joint parser that we have introduced is comparable to or better than the …
-There aren't more projects

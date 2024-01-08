@@ -1,7 +1,0 @@
-Sign In to Online Banking
-Our Sign in Page has Changed
-We have simplified how you sign in to Online Banking. Now, enter your 16 digit BMO Debit Card or BMO Credit card number and your password on the same page to sign in, just like you would in BMO Mobile Banking or Tablet Banking. You will no longer be required to verify a security image and phrase before you sign in to see your accounts. And you will still be able to choose to remember your card number for future sign-ins, making signing in even easier.
-Register for Online Banking
-Your Security. Our Priority.
-BMO Bank of Montreal will never ask you to divulge personal information such as passwords, account numbers or challenge questions and answers by email, telephone or fax. We encourage you to take a moment to learn how to protect your accounts against email fraud, how to report fraudulent emails and read our 100% Electronic Banking Guarantee.
-We also recommend that you do not allow your browser or other password management service to remember your password, especially on a shared and/or public device. Refer to your browser's Help section for instructions on how to disable this feature.

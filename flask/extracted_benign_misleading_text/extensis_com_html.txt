@@ -1,2 +1,0 @@
-The Air Force Special Operations Command (AFSOC) had a need to compress and reproject over 3 terabytes of imagery and to store data as Oracle GeoRaster objects. This imagery would be used to directly support U.S. warfighters in Iraq and Afghanistan. AFSOC turned to Smartronix, a solutions provider in California, MD, to help with the initiative.Learn More
-No matter what your digital asset management needs might be, Extensis offers a solution.View all products

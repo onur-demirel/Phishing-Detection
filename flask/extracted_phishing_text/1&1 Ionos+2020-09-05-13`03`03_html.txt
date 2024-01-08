@@ -1,8 +1,0 @@
-Tipp: In zwei Schritten Ihren Login vereinfachen
-Loggen Sie sich bitte ab sofort über die Seite login.ionos.de in Ihr IONOS Konto ein. So müssen Sie Ihr Passwort nicht zweimal eingeben. Und so einfach geht’s:
--
-Speichern Sie die neue Login-Seite login.ionos.de als Lesezeichen oder ziehen Sie den Link direkt in die Lesezeichenleiste Ihres Browsers:
-» login.ionos.de
--
-Falls Sie Ihre bisherigen Login-Daten für Ihr 1&1 Konto im Browser gespeichert haben, können Sie die Daten jetzt einfach übernehmen:
-» Gespeicherte Login-Daten übernehmen

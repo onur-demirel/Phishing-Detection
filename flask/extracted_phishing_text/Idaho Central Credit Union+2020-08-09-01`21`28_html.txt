@@ -1,7 +1,0 @@
-Log In to Online Banking
--
--
-Manage your Idaho Central Credit Union accounts simply and securely.
-Our online banking site uses the latest technology and security standards supported by modern browsers. In order to provide a better and more secure online banking experience to our users, we do not support the browser you are using. We apologize for the inconvenience.
-You may update to a newer version of Safari or download one of the supported browsers using the links below. You will be on your way to a better, faster and safer online browsing experience in no time!
-Please keep in mind that there are certain risks associated with using an outdated browser:

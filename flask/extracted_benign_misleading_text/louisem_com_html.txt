@@ -1,4 +1,0 @@
-Got the right Twitter image size?
-In August 2019, the Twitter header changed – for the better!
-In addition, the widely-shared 2:1 aspect ratio for tweeted images is NOT correct. This size will cause images to get cropped in the Twitter feed.
-This post has been updated on October 21, 2019, to include everything you need to know about Twitter images:

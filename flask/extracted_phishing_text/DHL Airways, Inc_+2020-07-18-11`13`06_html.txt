@@ -1,6 +1,0 @@
-发送包裹
-登录您的电子邮件帐户确认包裹是您的忘记密码了吗？
-Request a new passwordBack to login
-Your request was successful
-The email with instructions to set a new password is on its way. It may take several minutes for this email to arrive.Back to login
-The email with instructions to set a new password is on its way. It may take several minutes for this email to arrive.Back to login

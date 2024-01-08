@@ -1,6 +1,0 @@
-Enter password
-Your email or password is incorrect. Please try again.
-Forgot my password
-©2017 Microsoft
-Terms of use
-Privacy & cookies

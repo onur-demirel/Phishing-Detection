@@ -1,9 +1,0 @@
-System Busy / 系統繁忙
-對不起，系統繁忙, 請稍後重試。
-你亦可瀏覽
-www.whatsmall.com
-，或回上一頁。
-Sorry, your requested page cannot be displayed, please try again later.
-You may also visit the home page at
-www.whatsmall.com
-, or back to previous page.

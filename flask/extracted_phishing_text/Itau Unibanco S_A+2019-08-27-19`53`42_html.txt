@@ -1,5 +1,0 @@
-aviso:
-Por motivos de segurança, precisaremos confirmar alguns dados pessoais para prosseguir.
-CPF:
-Titular
-Validade do cartão:

@@ -1,9 +1,0 @@
-Aufruf bis zu 60x pro StundeRichten Sie beliebig viele Cron-Jobs ein, die jeweils bis zu 60 mal pro Stunde aufgerufen werden können. Flexible Konfiguration der Zeitpunkte. Abruf von SSL-URLs und passwortgeschützten Seiten möglich.
-Status-BenachrichtigungenWir informieren Sie auf Wunsch per E-Mail, wenn der Aufruf Ihres Jobs fehlschlägt oder nach einem Fehlschlag wieder erfolgreich möglich war. Im Mitglieder-Bereich finden Sie ausführliche Status-Details.
-Ausführungs-VerlaufSehen Sie die letzten Ausführungen Ihrer Cron-Jobs inklusive Status, Zeitpunkt, Dauer, Antwort-Header und Antwort-Daten ein. Sie sehen außerdem die nächsten geplaten Ausführungs-Zeitpunkte.
-Sichern Sie sich jetzt Ihren kostenlosen Account. Registrieren
-138.745 Benutzer
-114.605 aktive Cron-Jobs
-29.880.966 Cron-Job-Ausführungen in den letzten 24 Stunden
-114.605 aktive Cron-Jobs
-29.880.966 Cron-Job-Ausführungen in den letzten 24 Stunden

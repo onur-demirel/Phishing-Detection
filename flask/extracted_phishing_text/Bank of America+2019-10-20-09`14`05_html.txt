@@ -1,9 +1,0 @@
-For security, sessions end after 10 minutes of inactivity.
-Your session has timed out, and you'll have to start again
-Your Application Will Time Out in 2 Minutes
-For your safety and Protection your Online Banking session is about to be timed out and redirected to the home page if there is no additional activity.
-If you are still working in your Online Banking session simply click OK to continue.
-Please answer your challenge question so we can confirm your identity.
-*Choose your current challenge questions.
-If you forgot the answer to this challenge question, please reset your SiteKey questions and answers. If you would rather have a customer service specialist reset your questions and answers with you, please call 1.800.933.6262 Monday through Friday from 7 a.m. to 10 p.m. local time, or Saturday and Sunday 8 a.m. to 5 p.m. local time.
-If you don’t recognize this challenge question as yours, make sure you entered the right Online Banking ID, as the question you are being asked is tied to the Online Banking ID that you entered.

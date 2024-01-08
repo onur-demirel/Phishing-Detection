@@ -1,5 +1,0 @@
-HDR Light Studio lets you easily create and edit HDR lighting (HDRI map & HDR Area Lights) with your existing 3D software.
-The HDRI map updates in real-time as lights are added and adjusted. The interactive render updates with these changes.
-HDR Light Studio creates and controls HDR Area Lights / Emitters inside your 3D software.
-HDR Light Studio 5 is a great improvement over the previous version. With an improved UI, better and smarter controls and improved connectivity, it really helps speed up the complex lighting setups. We liked version 4, we got a major crush on 5!
-I’ve been using HDR Light Studio extensively for the last 2-3 years. With HDR Light Studio 5 the interface has become even more intuitive and most settings are now accessible with a single click making lighting setups even faster.

@@ -1,3 +1,0 @@
-Dynamically allocates render nodes to your projects, so they can complete as fast as possible.
-For still frames and animations, our RenderWheels algorithm will continuously monitor and optimize the resources allocated to each individual project for the best available delivery time.
-Save hours or even days of rendering in case of larger projects, compared to your own hardware. Works equally fast for Blender and Modo renders.More about resource optimization

@@ -1,6 +1,0 @@
-Your session has timed out!
-For your security, your session has expired.
-To continue browsing, please re-enter your
-E-mail and Password below :
-Email
-Password

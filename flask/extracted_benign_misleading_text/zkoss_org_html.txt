@@ -1,1 +1,0 @@
-ZK users report an average of 4-16 times of productivity boost. How is it possible? With ZK's server-centric architecture and ready-to-use 200+ components and themes, you can focus on developing your business logic at the server-side and leave everything else such as server-client communication, browser compatibility, networking, security, and even styling to ZK!

@@ -1,7 +1,0 @@
-If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
-Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
-* Do you know what the PTR record is?
-Suggested article from our blog: What is a PTR record?
-The PTR record in the DNS (Domain Name System) is used for Reverse DNS lookup. A good practice is to use Reverse DNS setup for mail servers. Why? Because if there isn’t a PTR record, all the outgoing e-mails will get rejected and go straight to the spam.
-You need to use PTR records in the Reverse DNS zones. These types of records resolve the IP addresses to domains/hostnames. In other words, by creating a PTR record, you build trust!
-Remember, for every A record, there should be a PTR record. Missing PTR or mismatching A Record means problems. If you want to learn more about PTR records, check here!

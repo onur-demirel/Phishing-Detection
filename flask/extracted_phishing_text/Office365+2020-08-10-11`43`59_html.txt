@@ -1,5 +1,0 @@
-{"ariaCollectorUrl":"https://browser.pipe.aria.microsoft.com.office.ha-poc-mcafee-o365.homeaffairsstage2ucepoc.myshn.net/Collector/3.0/","ariaTenant":"ea6758984c4b43529f9929667d8d3198-c52d4a8b-47fe-4fdf-99b8-5f897ff4e33b-7365","buildDateUtc":"2020-08-06 03:18:41Z","buildId":"6087d655-ab93-289a-283b-45b5b90f9d96","corpNet":false,"correlationId":"7139a939-0325-4fb5-9397-727e0c2a0607","deploymentEnvironment":"prod","devEnvironment":"ServiceFabric","flights":"cappopup,csslicensing,gotoprovider,templatedime,unauthupsell,leftnavfr,powerpointdocaspx,lntreatment1,powerbienabled,officefeed,pwafreeconsumerfrecf","geoName":"eau","requestOrigin":"Direct","sessionId":"7d1d3bad-83ba-4925-b5d7-c32d763f36b9","testTraffic":false,"cookieConsentRequired":false,"officeMarketLcid":1033,"useMruS2SFlow":false,"useFeedApi":true}
-blobs.officehome.msocdn.com
-{"diskPreloadEnabled":true,"enabled":true,"pilotFlights":[],"serviceWorkerAllowedFlights":["cacheshell","appshell"],"scriptUrl":"/sw","scope":"/"}
-True
-Your place to create, communicate, collaborate, and get great work done.

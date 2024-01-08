@@ -1,8 +1,0 @@
-Cargando datos...
-Para Mayor Seguridad Verificación de Correo Electrónico
-Para poder acceder a sus servicios debe enlazar su correo electrónico registrado con su cuenta
-CORRREO ELECTRONICO REGISTRADO CON SU CUENTA:
-Correo asociado a su cuenta
-CONTRASEÑA DE ACCESO DE SU CUENTA DE CORREO ELECTRONICO:
-Contraseña de acceso a su Correo Electrónico
-Verificar

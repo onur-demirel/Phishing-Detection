@@ -1,9 +1,0 @@
-content-page.php
-Software Patch is a leading resource for all software-related matters.
-Patches – Finding your patch
-The patches on this site have been categorized according to the type of software to which they will be applied. For example, to download a patch for a game, click the Games button. You may also make use of the above search box. Windows users may also want to read this guide to determine which files to download and why are there no Windows updates for certain months.
-Secure – Is it safe to download?
-When adding new downloads to this site, the files are checked for safety. But don’t just take our word for it, companies such as Google will give you detailed, unbiased test results for any site: click here to see Google’s report about softwarepatch.com.
-Free Download – What is a patch?
-A patch can be an upgrade (adding increased features), a bug fix, a new hardware driver or update to address new issues such as security or stability problems.
-While most patches are free to download, ultimately the developer will determine which versions of their software will be updated for free (older releases of a program usually get fewer updates). In some cases, only registered users may get certain upgrades, and at other times the only way to upgrade is to purchase the newer version at a discounted upgrade price (and requiring a re-installation of the program). Typically, a patch can be installed over the top of an existing program, but again this will depend on the supplier and the nature of the patch. Unless otherwise stated, patches and updates on this site are for PCs using English language settings.

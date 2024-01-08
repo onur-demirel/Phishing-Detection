@@ -1,8 +1,0 @@
-Microsoft
-Sign In
-That Microsoft account doesn't exist. Enter a different account
-abc@abc.com
-No account?
-Create one!
-Sign in with a security key
-sign in options

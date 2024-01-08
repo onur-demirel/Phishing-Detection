@@ -1,7 +1,0 @@
-What is EasyChair
-EasyChair is a conference management system that is flexible, easy to
-use, and has many features to make it suitable for various conference
-models. It is currently probably the most commonly used conference
-management system. EasyChair was designed to help conference organisers
-to cope with the complexity of the refereeing
-process... Read more

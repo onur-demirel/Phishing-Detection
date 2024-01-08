@@ -1,6 +1,0 @@
-404 Not Found
-Code: NoSuchBucket
-Message: The specified bucket does not exist
-BucketName: whycall.me
-RequestId: B814CC5285E1F138
-HostId: m/6YJCDJFjCaJ8uG5HfSNb5G68JkUxqe1G9lTG8v37qeexu90k8nQLDMZkNt463dS38QJFdEUm0=

@@ -1,6 +1,0 @@
-Sign In
-Forgot Username?
-Forgot Password?
-Create an account?
-Sorry, the login servers are temporarily unavailable. Please try again later. Check the service status page for more information.
-Please select a region

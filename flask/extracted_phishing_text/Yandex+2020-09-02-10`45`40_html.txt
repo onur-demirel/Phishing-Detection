@@ -1,9 +1,0 @@
-Account not found
-Login or phone number
-Password
-Don't remember me
-Sign in
-Or sign in with a social network
-Can't sign in?
-Registration
-Return to service

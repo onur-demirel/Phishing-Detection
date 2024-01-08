@@ -1,2 +1,0 @@
-macOS Catalina 10.15.0 Supplemental Update
-This week Apple released macOS Catalina Supplemental Update, a major software update to macOS Catalina. Update any supported system using the built-in Software Update functionality through the System Preferences pane or by using the standalone installer available from Apple.com.

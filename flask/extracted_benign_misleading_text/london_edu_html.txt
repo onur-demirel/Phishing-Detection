@@ -1,4 +1,0 @@
-The site gateway.london.edu has now been now decommissioned.
-Remote Access Services are now hosted on https://remote.london.edu
-In the meantime please update any shortcuts or browser bookmarks that you may have to point to the new location
-You should be redirected in 5 seconds.....Click here if auto redirect is not working!

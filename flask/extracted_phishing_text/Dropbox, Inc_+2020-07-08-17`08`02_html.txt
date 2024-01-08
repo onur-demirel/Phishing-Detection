@@ -1,9 +1,0 @@
-Sign in
-Caps lock is currently on
-Single sign-on enabled
-Keep me signed in
-VIEW DOCUMENT
-Continue
-or
-Log in with Dropbox credentials
-Dropbox

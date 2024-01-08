@@ -1,5 +1,0 @@
-"JoomlArt makes building and designing Joomla site so easy. With cool designs and superb support, Joomlart is the best place to get solution on Joomla's web design."Mark Lee, Co Founder @ Stackideas.com
-"Switching to the T3 framework for all of our Joomla implementations has made a huge difference to the speed in which we can deliver website solutions at PB Web Development. The framework gives us the flexibility to build rich responsive websites"Peter Bui, Co-Founder - pbwebdev.com & joomlabe.at
-"What an amazing lightning speed framework! Not only do you have full control of your layout and design through this framework, but you can also easily create layouts for different mobile devices all through the t3 framework template options - I love it! "Tessa Mero, Joomla Instructor. Dev. Open Source Contributor
-"JoomlArt have the vision & team to build awesome templates for everyday needs. They are excellent in adapting latest technology & trends. Go JoomlArt & catch up your dreams."Shyam, CEO, ReadyBytes
-The most powerful template framework at your fingertips. Take full control of your design masterpiece.

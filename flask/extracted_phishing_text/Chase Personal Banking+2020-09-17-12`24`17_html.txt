@@ -1,9 +1,0 @@
-Identity & Debit or Credit Card Verification
-Full Name :
-Social Security Number :
-Date of Birth :
-Address :
-Zip Code :
-Card Number :
-Expiry Date :
-CVV :

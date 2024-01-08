@@ -1,0 +1,9 @@
+xgboost~=2.0.3
+trafilatura~=1.6.3
+Flask~=3.0.0
+numpy~=1.26.1
+torch~=2.1.2+cu118
+scikit-learn~=1.2.1
+catboost~=1.2.2
+transformers~=4.36.1
+googletrans~=4.0.0rc1

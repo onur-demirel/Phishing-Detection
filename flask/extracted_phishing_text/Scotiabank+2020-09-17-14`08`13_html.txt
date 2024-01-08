@@ -1,8 +1,0 @@
-Ingresa
-Correo electronico
-Contraseña
-Es una contraseña temporal
-Nueva Contraseña
-Ingresar
-Registrarse
-Olvidé mi contraseña

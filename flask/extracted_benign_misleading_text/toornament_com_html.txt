@@ -1,8 +1,0 @@
-From communities to game publishers, thousands of organizers trust Toornament to organize their esports tournaments
-Organize, manage & share your competitions with Toornament.
-From brackets to battle royale rankings, pick and combine our formats for up to 4,096 participants.More information
-Gather useful data from your participants, it is yours to export and process at any time.More information
-Share your tournament information thanks to our embeddable widgets and our live TV module.More information
-Leverage our tournament engine to create your own esports universe around your brand: launch your esports platform, automate your event production pipeline or add in-game esports features. Here are a couple of use cases to get your wheels turning:
-Our dashboard gives you full control over the tournament workflow. Open registration to participants, validate their information. Choose the right tournament structure, seed your participants, let the players start their matches and see the evolution of your competition.
-Easily integrate our solution in your projects, thanks to our REST API, that follows the OpenAPI Specification (OAS).View API docs

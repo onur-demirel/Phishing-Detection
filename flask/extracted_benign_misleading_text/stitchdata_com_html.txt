@@ -1,8 +1,0 @@
-“With Stitch we spend more time surfacing valuable insights and less time managing the data pipeline.”
-Simple, extensible ETL built for data teams
-Extend with open source
-Stitch's extensibility features enable support for every data source your team requires.Learn more about extensibility
-Stay compliant
-Stitch gives you the power to secure, analyze, and govern your data by centralizing it into your data infrastructure.Learn more about security
-Track and control your pipeline
-Stitch’s orchestration features bring transparency and control to your data pipeline (and downstream data processing).Learn more about orchestration

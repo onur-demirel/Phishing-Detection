@@ -1,5 +1,0 @@
-By uploading files to Pixeldrain you accept that a cookie will be placed in your web browser. More information on the about page
-Pixeldrain is a file sharing website built for speed and ease of use. Pixeldrain does not cost any money, though donations are appreciated. For donation methods see the about page.
-Files can be uploaded by clicking the big green upload button, or by dragging them onto this page from your file manager. You can not upload directories at this time, only files. The maximum file size you can upload is 10 GB.
-You can also create lists, which are a collection of files. Like a photo album, a music record or a video compilation. To do this you need to upload a bunch of files at once. The files will be saved in the order you upload them in. When all files have finished uploading you click the "Create list with uploaded files" button and you will be asked to enter a name for your list. After picking a name the list will be created and opened in a new window. If your browser blocks the window you can also find a link to the list at the bottom of your uploaded files.
-For more information see the about page.

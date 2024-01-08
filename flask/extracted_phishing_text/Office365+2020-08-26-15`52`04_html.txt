@@ -1,5 +1,0 @@
-{"ariaCollectorUrl":"https://browser.pipe.aria.microsoft.com/Collector/3.0/","ariaTenant":"ea6758984c4b43529f9929667d8d3198-c52d4a8b-47fe-4fdf-99b8-5f897ff4e33b-7365","buildDateUtc":"2020-04-13 20:40:13Z","buildId":"2aee83f4-9022-4675-e421-5cffce9dfe65","corpNet":false,"correlationId":"bdfa18be-072d-44c0-ac80-0b0c1393686e","deploymentEnvironment":"prod","devEnvironment":"ServiceFabric","flights":"projenabled,dimepwav1,csslicensing,altabrandingchanges,cacheshellcf,officefeedcf,dimeoffice,pwacommercialfrecf,templatesmlv3cf,pwadelayedswcf,altachanges,edufrev2cf,pwafreeconsumerfre","geoName":"eus","requestOrigin":"Direct","sessionId":"20321dfa-680d-45bb-86ee-f0436b5f5993","testTraffic":false,"cookieConsentRequired":false,"officeMarketLcid":1033,"useMruS2SFlow":false}
-blobs.officehome.msocdn.com
-{"diskPreloadEnabled":true,"enabled":true,"serviceWorkerAllowedFlights":["cacheshell","appshell"],"scriptUrl":"/sw","scope":"/"}
-True
-Sign back in to access portfolio

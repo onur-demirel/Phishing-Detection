@@ -1,3 +1,0 @@
-tapiriik synchronizes your fitness activities between Garmin Connect, Runkeeper, Strava, TrainingPeaks, SportTracks.mobi, Endomondo, RideWithGPS, TrainAsONE, TrainerRoad, Motivato, Velo Hero, Epson RUNSENSE, Dropbox, Smashrun, BeginnerTriathlete, Pulsstory, Singletracker, and SETIO
-(your heart rate, cadence, power, and temperature data syncs too)
-Your email, password, and fitness data are kept safe - full details on the privacy page.

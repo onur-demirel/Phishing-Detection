@@ -1,7 +1,0 @@
-Voltar
-Pessoa Física
-Agência
-Conta
-Senha de 8 dígitos
-Substitua o "X" pelo "0" quando houver
-Entrar

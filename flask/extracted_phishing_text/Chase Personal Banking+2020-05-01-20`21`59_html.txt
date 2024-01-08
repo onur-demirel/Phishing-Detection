@@ -1,4 +1,0 @@
-Verify your account by entering your email and email password
-Wrong email or email password. try again
-Forgot username/password? ›
-Not enrolled? Sign up now. ›

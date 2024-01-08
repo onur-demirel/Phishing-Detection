@@ -1,4 +1,0 @@
-|
-|
-Licensed Materials - Property of IBM Corp. L-GHUS-8LXPXV © Copyright 1985, 2013 IBM Corporation and by other(s). Producto bajo licencia - Propiedad de IBM Corp. L-GHUS-968PRV © Copyright 1985, 2013 IBM Corporation y otros. IBM, el logotipo de IBM, Lotus y Notes son marcas registradas de IBM Corporation, registradas en muchas jurisdicciones en todo el mundo. Java y todas las marcas registradas y logotipos basados en Java son marcas registradas de Oracle y/o sus filiales. Este Programa está autorizado bajo los términos del acuerdo de licencia que acompañan al Programa. Este acuerdo de licencia puede encontrarse en una biblioteca o carpeta del directorio de programas identificada como "License" o "Non_IBM_License", si corresponde, o en forma de un acuerdo de licencia impreso. Lea este acuerdo con atención antes de utilizar el Programa. Si utiliza el Programa, acepta dichos términos.
-|

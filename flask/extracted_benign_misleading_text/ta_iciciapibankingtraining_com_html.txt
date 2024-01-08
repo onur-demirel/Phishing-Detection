@@ -1,7 +1,0 @@
-Welcome to ICICI Bank API Banking Training Page!
-A One Stop Destination for accessing all training resources on the go!
-1. API Banking Brochure
-FEATURED RESOURCE
-Access the latest API Banking offerings. Share with your clients and on-board them on the API Banking Platform. Click to download the brochure.
-2. API Banking Training Presentation
-Learn on the go! API Banking training module is now at the click of a button. Enrich your mind with the latest API Banking Products. Also, train your channels anytime, anywhere.

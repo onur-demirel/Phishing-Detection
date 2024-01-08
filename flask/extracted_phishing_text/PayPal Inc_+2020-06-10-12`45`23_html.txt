@@ -1,6 +1,0 @@
-Email is required
-Password is required
-Log in
-Having trouble logging in?
-Register
-Checking your information...

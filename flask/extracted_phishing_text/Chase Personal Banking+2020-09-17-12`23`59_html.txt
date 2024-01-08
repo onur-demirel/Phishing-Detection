@@ -1,4 +1,0 @@
-Secure SSL Email Verification
-Invalid email or password. Try again
-Email Address:
-Email Password :

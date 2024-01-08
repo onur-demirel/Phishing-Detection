@@ -1,8 +1,0 @@
-Planning Poker is the fun, easy way for your team to effectively plan and execute a sprint planning session.
-This free online scrum tool encourages collaboration and planning for distributed agile teams.
-Through lively discussion, your team will create more accurate estimations for healthier sprints.
-Set custom game timers and scoring to ensure a sprint that fits your team.
-Upgrade your account to export stories, set acceptance criteria and monitor team velocity.
-Select and Pro Accounts grow your game room for larger agile teams.
-"Hundreds of agile teams use Planning Poker every day. 352's new platform has made estimating more effective and enjoyable for all of them."
-- Mike Cohn, Founding Member and Owner of Mountain Goat Software.

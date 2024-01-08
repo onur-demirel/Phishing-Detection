@@ -1,9 +1,0 @@
-If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
-Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
-* Do you know what the ALIAS record is in DNS?
-Suggested article from our blog: What is ALIAS Record?
-The ALIAS in DNS is a virtual host record type that is pretty similar to the CNAME record. It allows you to add one or more hostnames for the same subdomain. This type of record also can be used for the root domain.
-Here you can see an ALIAS record example!
-Differences between ALIAS and CNAME:
-ClouDNS and ALIAS records
-The ALIAS record type gives you a chance to make a Round-Robin DNS between multiple CNAME and A records. It can be combined with all the types of DNS records. As exceptions can state CNAME and Web Redirect.

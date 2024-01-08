@@ -1,4 +1,0 @@
-Incorrect access detected, this server may be accessed only through "http://www.ekdis.ac.kr" address, sorry.
-Redirect
-Please notify server administrator.
-This page should automatically redirect. If nothing is happening please use the continue link below.Continue

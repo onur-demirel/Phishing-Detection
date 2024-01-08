@@ -1,5 +1,0 @@
-Sign in to view the document
-Email Address
-Must be a valid email address.
-Password
-Your password must be at least 6 characters as well as contain at least one uppercase, one lowercase, and one number.

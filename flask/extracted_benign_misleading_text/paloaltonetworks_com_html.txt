@@ -1,2 +1,0 @@
-Executive Brief - A More Secure Everywhere
-Organizations must demand security solutions that can quickly and effectively scale with changing business needs. Prisma by Palo Alto Networks is the industry’s most complete cloud security offering for today and tomorrow, providing unprecedented visibility into data, assets, and risks across the cloud and delivered with radical simplicity

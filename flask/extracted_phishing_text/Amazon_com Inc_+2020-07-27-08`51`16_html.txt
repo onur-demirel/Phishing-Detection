@@ -1,4 +1,0 @@
-The Shipment has been returned twice to the nearest hub due to the wrong shipping information.
-This is the last time we are asking you to provide a proper delivery address otherwise the shipment will be canceled.
-* You have only 48 hours to reply to this.
-* Our delivery master will contact you regarding delivery.

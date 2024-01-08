@@ -1,8 +1,0 @@
-• Take full-page screenshots across multiple devices and configurations.
-• Visually validate code changes in staging or production.
-• Validate responsive layouts across different resolution breakpoints.
-• Compare screenshots and visual changes with regression testing - highlight historical versions and differences in DOM elements.
-• Sync screenshots automatically with code pushes in GitHub.
-• Easily schedule recurring screenshots daily, weekly, or monthly natively in our interface.
-• Run screenshots after executing Selenium scripts.
-• Easily share screenshots across email, Slack, or JIRA.

@@ -1,9 +1,0 @@
-|
-Klientų savitarna
-Informacija apie nuosavą nekilnojamąjį turtą, įmonių ir organizacijų steigimas internetu, kitos Registrų centro elektroninės paslaugos.
-|
-Atviri duomenys ir statistika
-Nekilnojamojo turto registre sukaupti duomenys apie įregistruotus objektus, Lietuvos ir Baltijos šalių NT sandorius, pirminiai duomenys, klasifikatoriai bei registo statistika.
-|
-Pagalba ir konsultacijos
-Interaktyvios konsultacijos internetu Registrų centro paslaugų vartotojams, paslaugų naudojimo instrukcijos, mokomieji filmai apie Registrų centro elektronines paslaugas.

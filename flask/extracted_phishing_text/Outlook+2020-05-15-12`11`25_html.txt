@@ -1,5 +1,0 @@
-Microsoft
-Sign in to Zoom with your Microsoft 365 account
-abc@abc.com
-Sign in with a security key
-Sign in options

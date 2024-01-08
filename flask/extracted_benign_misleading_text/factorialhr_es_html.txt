@@ -1,4 +1,0 @@
-Funcionalidades
-Factorial Nómina
-Nuestra app para empleados ya está disponible para iOS y Android. Pide ausencias, comprueba quién estará fuera, cumpleaños, aniversarios, y mucho más.
-“Gracias a Factorial, ahora tengo mucho más tiempo para dedicarme a mi equipo.”

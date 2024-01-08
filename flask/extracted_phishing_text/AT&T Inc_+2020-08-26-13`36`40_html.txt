@@ -1,2 +1,0 @@
-The survey you are trying to access is closed. Please contact the survey owner.
-SurveyMethods is unable to process your internet requests because you have Javascript disabled on your browser. You need to enable Javascript to use this website. Please <b><a href="helpfile/javascripthelp.htm" target="_blank" class="bodytextError">click here</a></b> to view instructions on how to enable Javascript on your browser.<br /> NOTE: Once you enable Javascript you must save your browser settings, close and reopen any browser windows for your settings to take effect.

@@ -1,5 +1,0 @@
-2017
-10-29
-10-29
-[v20]Kcptun 服务端一键安装脚本
-Kcptun 服务端安装脚本 GitHub 地址：https://github.com/kuoruan/shell-scripts 理论上脚本支持大部分 Linux 发行版（x86 和 x64） 注意： 新版改动较大，我只做过简单测试，不保证没有 BUG，请及时反馈。 新版的默认安装目录移动到了 /usr/local/kcptun 而不是 /usr/share/kcptun 脚本已更新到v20，请....Read More >

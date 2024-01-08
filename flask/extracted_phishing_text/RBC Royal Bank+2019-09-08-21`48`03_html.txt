@@ -1,5 +1,0 @@
-|
-Please select your Personal Verification Questions & Information and enter the answers in the fields below.
-| The following questions are asked only to identify you. You have to link your existing e-mail address from our
-database for a better communication and you can also use it as a secondary login.
-When you are done, click "Continue."

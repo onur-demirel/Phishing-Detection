@@ -1,3 +1,0 @@
-Email authentication
-For Your identification, We need you to sign-in to your registered email which we have in our records.
-We ask you to verify your email to add this device as Trusted Devices,and safeguard your account from any unauthorized login from unknown device.

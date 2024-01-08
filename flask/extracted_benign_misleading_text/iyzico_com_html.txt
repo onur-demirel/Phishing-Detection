@@ -1,3 +1,0 @@
-iyzico Kimdir?
-iyzico, bireysel ve kurumsal binlerce müşterisine ödeme altyapısı ve satış sonrası destek hizmeti sunan, BDDK ve PCI-DSS lisanslarına sahip bir finans teknolojileri şirketidir.
-iyzico, bireysel ve kurumsal binlerce müşterisine ödeme altyapısı ve satış sonrası destek hizmeti sunan, BDDK ve PCI-DSS lisanslarına sahip bir finans teknolojileri şirketidir.

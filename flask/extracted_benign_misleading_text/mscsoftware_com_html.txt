@@ -1,3 +1,0 @@
-24 Oct
-SimAcademy Webinar: Modal Stress Recovery using Adams Durability & Distributed Loads for Linear Flexible Bodies in Adams
-A Modal Neutral File (MNF) is a conduit to take reduced model information produced via component modes analysis into multibody dynamics (MBD) software... view webinar

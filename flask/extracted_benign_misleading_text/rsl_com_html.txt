@@ -1,8 +1,0 @@
-This is a modal window.
-Beginning of dialog window. Escape will cancel and close the window.
-End of dialog window.
-This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
-Check out RSL's new
-Downtown SLC Team Store
-at 55 E 300 S.
-Follow us on social

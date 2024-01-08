@@ -1,3 +1,0 @@
-High-Performance Java Persistence Workshop
-Based on my book, High-Performance Java Persistence,
-this workshop teaches you various data access performance optimizations from JDBC, to JPA, Hibernate and jOOQ for the major rational database systems (e.g. Oracle, SQL Server, MySQL and PostgreSQL).

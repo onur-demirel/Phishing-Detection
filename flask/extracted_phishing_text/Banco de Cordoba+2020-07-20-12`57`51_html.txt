@@ -1,9 +1,0 @@
-Por razones de seguridad, las sesiones de Banca por Internet de Bancor tienen un límite de tiempo, cuando no se detecta actividad del usuario.
-Extienda la sesión para continuar operando en el sistema.
-Extender la sesión
-Verifique si la transacción fue realizada antes de volver a intentar
-Volver
-Desde el menú podrás acceder a la consulta de productos, realizar operaciones, y actualizar tus datos personales registrados en el Banco
-Acá podrás ver las notificaciones como avisos de vencimiento, transacciones en curso, transacciones realizadas, entre otras
-Acá visualizarás la imagen que elegiste al generar el usuario, importante para tu seguridad
-El ancho de su pantalla es demasiado pequeño para utilizar el sistema, intente girar su dispositivo para ver el contenido.

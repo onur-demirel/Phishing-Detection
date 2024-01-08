@@ -1,2 +1,0 @@
-Choosing a category from one of the menus on the right will display a list of all parts in that category.
-Body text

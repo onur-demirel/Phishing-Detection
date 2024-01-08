@@ -1,7 +1,0 @@
-Email ou numéro de mobile
-Mot de passe
-Afficher
-Connexion
-Vous n'arrivez pas à vous connecter ?
-ou
-Ouvrir un compte

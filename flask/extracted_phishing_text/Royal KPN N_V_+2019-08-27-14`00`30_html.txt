@@ -1,9 +1,0 @@
-Inloggen KPN e-mail
-Login met uw KPN ID voor uw e-mail instellingen.
-E-mailadres
-Wachtwoord
-Login
-Ik weet mijn gebruikersnaam of wachtwoord niet
-Login voor Freeler
-KPN.com
-Klantenservice

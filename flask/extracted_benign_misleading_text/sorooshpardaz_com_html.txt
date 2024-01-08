@@ -1,6 +1,0 @@
-HTML 5 , CSS 3 , ASP.net MVC Framework ,
-PHP 5 , MySql , Responsive Design ,
-Modern Java Script , Adobe Master Collection CS6 ,
-Microsoft SQL Server 2012 , Web branding
-SPA and Cross-Platform Application , Search engine optimization ,
-Content marketing , Social marketing

@@ -1,3 +1,0 @@
-Iris optimizes screen pulsations by controlling the brightness without PWM. You will be able to use your computer for longer without headaches.
-Iris will match your screen brightness to the light around you. Different presets will automatically adjust your screen. Using computers will feel like reading a book.
-Iris will gradually regulate blue light day and night. This will help your body to produce more melatonin at night. You will fall asleep faster and sleep deeper.

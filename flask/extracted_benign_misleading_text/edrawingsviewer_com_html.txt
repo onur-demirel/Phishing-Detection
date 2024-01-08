@@ -1,8 +1,0 @@
-Review 2D & 3D Designs with eDrawings
-The tool that enables anyone to communicate and collaborate using 3D design data to minimize errors and accelerate time to market.
-Collaborate in an AR/VR world with eDrawings Professional
-Take design review and collaboration to the next level with Augmented and Virtual Reality (AR/VR). See your designs in the context of the real world to assess the impact of the environment, and enable exceptional design communication with eDrawings Professional.
-Free design interrogation with eDrawings Viewer
-For anyone who needs to view and interrogate 3D design data. Whether you are involved in commercial manufacture, purchasing, a maker or a student, eDrawings Viewer helps you to communicate, share and collaborate with high fidelity 3D data with an easily shareable lightweight file in its own viewer.
-Communicate within a multiCAD company using eDrawings Publisher
-For companies who need to share design data in a multiCAD environment. With eDrawings Publisher, design teams can publish eDrawings files from many native CAD systems enabling easy collaboration within their supply chain.

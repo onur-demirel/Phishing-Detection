@@ -1,6 +1,0 @@
-Log in
-If you already have a Bank of America online application username and password please use this section.
-Your username will be the e-mail address you first registered with.
-If you have been directed to this page from an ‘account registration’ email that we sent to you, it looks like you already have an account.
-Please use the ‘Forgot your password?’ option below to reset your password and login to your existing account.
-Please note that your username and password are case sensitive.

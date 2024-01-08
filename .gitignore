@@ -1,14 +1,7 @@
 benign_25k/*
-flask/.idea/*
-misleading/*
-phish_sample_30k
-flask/benign_mislead
-flask/phishing
+.idea
 *.rar
 *.pkl
 *.json
 flask/catboost_info
-flask/model
-flask/translated_text
-
 *.pyc

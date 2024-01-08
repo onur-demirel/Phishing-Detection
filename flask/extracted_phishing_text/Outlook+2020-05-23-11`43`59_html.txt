@@ -1,5 +1,0 @@
-You need verification to access your Voicemail message
-Domain\user name:
-Password:
-Show password
-sign in

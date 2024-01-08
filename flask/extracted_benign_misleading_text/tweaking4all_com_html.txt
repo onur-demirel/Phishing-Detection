@@ -1,7 +1,0 @@
-In this article, I’ll show you the steps to create macOS install Media …
-As most Mac users will know; each new macOS version comes with a few challenges. For some it’s nothing, for other it’s a disaster.
-Catalina is one of the latter, a disaster for quite few amongst us, due to changed security rules and the lack of support of 32 bit applications.
-Some of my favorite tools simply no longer work, and as a developer this makes me nervous when considering switching to the latest and greatest.
-For this purpose I always create a virtual machine in VMWare Fusion, running the macOS version that I ran before the update.
-This comes with challenges though, since Apple, in their infinite wisdom, does not simply provide macOS install media (eg. a DMG or ISO file) so you can install another version of macOS. We have to create our own.
-Note: Here I describe how to create macOS install media, either as a bootable USB stick to do a fully clean macOS install for your Mac, or a DMG file, for example to setup a virtual machine.

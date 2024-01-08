@@ -1,5 +1,0 @@
-ag c/c
-senha eletrônica
-esqueci minha senha
-Erro
-senha está errada. Por favor, dígite sua senha eletrônica e tente novamente.

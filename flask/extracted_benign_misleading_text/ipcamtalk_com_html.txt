@@ -1,1 +1,0 @@
-Hello Andy, I bought a Dahua IP PTZ camera SD59430-HNI from your KS2018 Amazon store and have a question about the alarm, audio wires. I am using PoE+ Ethernet connection , will that cover the alarm and audio too or must the alarm and audio be wired separately? Thanks

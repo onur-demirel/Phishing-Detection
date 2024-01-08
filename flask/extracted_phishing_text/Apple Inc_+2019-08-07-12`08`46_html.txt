@@ -1,4 +1,0 @@
-Your Apple ID is protected with two-step verification.
-To view and edit your Apple ID account, you must verify your identity using a verification code sent to one of your devices.
-Verify your identity.
-Choose a trusted device to send a verification code to:

@@ -1,9 +1,0 @@
-Choose what's right for youBegin carousel content End carousel content
-News & Stories
-Follow us:
-- Facebook icon links to Facebook site. (Opens Overlay)
-- Instagram icon links to Instagram site. (Opens Overlay)
-- Twitter icon links to Twitter site. (Opens Overlay)
-- YouTube icon links to YouTube site. (Opens Overlay)
-- LinkedIn icon links to LinkedIn site. (Opens Overlay)
-- Pinterest icon links to Pinterest site. (Opens Overlay)

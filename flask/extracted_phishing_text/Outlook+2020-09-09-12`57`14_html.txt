@@ -1,4 +1,0 @@
-User name:
-Password:
-Because you're accessing sensitive info, you need to verify your password
-sign in

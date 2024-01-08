@@ -1,2 +1,0 @@
-Your login was unsuccessful, please review the errors below.
-Your password was successfully changed. Please log in.

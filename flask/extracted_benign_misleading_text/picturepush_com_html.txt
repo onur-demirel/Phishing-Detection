@@ -1,8 +1,0 @@
-PicturePush is a photo and video community built on the philosophy that you can upload everything you have in the highest quality possible and worry about what to share with whom later.
-- Share High Resolution Originals
-- Easy Publishing to websites, weblogs and forums
-- Make albums Public, Private or share them with just your Friends
-- Password protected albums
-- No Advertisements
-- Easy Batch Uploads
-login if you are already a member.

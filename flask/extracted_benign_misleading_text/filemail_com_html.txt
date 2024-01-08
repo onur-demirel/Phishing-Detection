@@ -1,7 +1,0 @@
-Send files and folders directly from your desktop or integrate it into your applications. Windows, Mac, Linux & Unix!
-Our addin lets you send large files directly from Outlook. It's fast, secure and very easy to use. Outlook 2013/2016 supported.
-Email large files and videos directly from your iPhone/iPad! No registration required!
-Email large files and videos directly from your Android device! No registration required!
-With our Pro account you can integrate our Uploader and also place the Download Page on your own site. Custom Fields can be added, and you can specify your own Javascript/CSS to completely branded/customize Filemail to to fit your needs.
-Are you a developer? Use our API to send large files!
-Read more

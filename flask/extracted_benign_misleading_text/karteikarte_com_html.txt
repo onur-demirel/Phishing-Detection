@@ -1,8 +1,0 @@
-Karteikarten online lernen!
-Lerne von zu Hause oder unterwegs, karteikarte.com ist immer online! Mit karteikarte.com kannst du einfach und kostenlos deinen Lernstoff systematisch lernen. Mit einem Klick kannst du dich registrieren und sofort loslegen.
-Wie funktioniert das?
-Die Struktur auf karteikarte.com gliedert sich in folgende Bereiche: Fächer, Lektionen und Karteikarten. Fächer sind z.B. die Fächer in der Schule oder Fachbereiche aus dem Studium. Jedes Fach gliedert sich in mehrere Lektionen. Das können z.B. Unterrichtsstunden oder einzelne Abschnitte des zu lernenden Stoffes sein. In den Lektionen befinden sich dann die Karteikarten.
-Mit dieser Struktur behält man stets den Überblick über den Stoff, den man lernen möchte.
-Warum lernt man hier gut?
-Das Lernsystem welches verwendet wird ist unter dem Namen "klassisches Karteikartensystem" bekannt. Es sieht für die einzelnen Karteikarten sogenannte Boxen vor. Jede Karteikarte liegt in einer bestimmten Box, abhängig davon, wie oft diese schon gelernt und richtig gewußt wurde. Die einzelnen Boxen sind von 1-9 nummeriert, wobei alle neuen Karteikarten in der 9. Box liegen.
-Wird nun eine Karteikarte abgefragt und richtig gewußt, wandert sie eine Box nach unten, andernfalls in eine Box nach oben. Es werden immer als erstes die Karteikarten aus der höchsten Box gelernt, also immer der Stoff, der noch nicht richtig verstanden wurde.

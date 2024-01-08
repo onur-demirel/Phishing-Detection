@@ -1,9 +1,0 @@
-Network connection timed out. Please try again.
-Sorry, we don't recognize this email.
-Stay signed in
-Trouble signing in?
-Create account
-Not you?
-Please provide password.
-Sign in
-I forgot my password

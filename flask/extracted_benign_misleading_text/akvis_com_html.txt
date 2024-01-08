@@ -1,1 +1,0 @@
-AKVIS announces the update of the Artistic Bundle consisting of eight programs. The new versions provide full compatibility with macOS Catalina (10.15) and recently updated image editors, enhanced Batch Processing option, improved Text/Watermark features, etc.

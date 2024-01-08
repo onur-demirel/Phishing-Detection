@@ -1,9 +1,0 @@
-TurboSpaceShut
-50 MB Storage For Image Host
-Unlimited Downloads
-Unlimited Upload
-Unlimited Download Speed
-Unlimited Upload Speed
-You can upload files through our direct uploader, remote uploader, and FTP Uploader for bulk uploads. Afterwards, you can manage your files, organize them into folders, and create mirrors of them in our intuitive, drag-n-drop File Manager.
-ShareShut is run on a redundant cluster of powerful servers and maintained by our technical team to ensure our website is always up and downloads always flowing. Never worry about downtime again. Furthermore, our download system is completely unbypassable and immune to auto-downloader tools.
-Store your files safely in the cloud and access them from any computer, mac and mobile device.

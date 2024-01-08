@@ -1,3 +1,0 @@
-Targetprocess is a visual platform to help you adopt and scale agile across your enterprise. Use SAFe, LeSS or implement your own framework to achieve business agility and see the value flow through the entire organization.
-Targetprocess provides visibility into product increments and delivery cycles at the product and program levels. Scale Agile across enterprise using SAFe, LeSS, Spotify or any scaled agile framework.
-Targetprocess gives teams the freedom to choose their ways of working keeping focus on a big picture. Marketing, Operations and R&D can finally work in one tool, synchronize priorities and align work with company goals.

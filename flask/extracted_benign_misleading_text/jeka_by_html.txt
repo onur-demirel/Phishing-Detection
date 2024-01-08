@@ -1,5 +1,0 @@
-KnpMenuBundle: строим меню для категорий и подкатегорий в symfony 4
-Меню-билдер в лучших традициях симфони лучше объявить как сервис.
-Создаем сервис "объявим сервис app.knp.sidebar_menu в файле config/packages/knp_menu.yaml:
-Содержимое config/packages/knp_menu.yaml:
-knp_menu: twig: template: custom_knp_menu.html.twig parameters: knp_menu.renderer.twig.options: currentClass: sel services: app.knp.sidebar_menu: class: Knp\Menu\MenuItem factory: ['@App\Menu\MenuBuilder', createSidebarMenu] arguments: ["@request_stack"] tags: - { name: knp_menu.menu, alias: sidebar_menu }

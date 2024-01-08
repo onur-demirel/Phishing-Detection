@@ -1,9 +1,0 @@
-If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
-Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
-* Do you know what the ALIAS record is in DNS?
-Suggested article from our blog: What is ALIAS Record?
-The ALIAS record and the CNAME record can both map domain names to other domain names (canonical names). The difference is in how they do it. The ALIAS record can do it far faster and return an answer like an A or AAAA record. This makes it useful even for the root domain.
-Here you can see an ALIAS record example!
-Differences between ALIAS and CNAME:
-ClouDNS and ALIAS records
-You can manage your ALIAS records in a simple way through an HTTP API. It is very easy and practical.

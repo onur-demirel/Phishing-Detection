@@ -1,7 +1,0 @@
-Entrez vos coordonnées ci-dessous et nous vous appellerons pour finaliser votre commande.
-alert
-Nom *
-Téléphone *
-Exemple : 0498123456
-Adresse mail *
-Être contacté

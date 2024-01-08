@@ -1,7 +1,0 @@
-You've disabled cookies on the browser. Please enable it prior to continuing.
-Please check you entered your username and password correctly and try again. If you need help remembering your username or password you can use the links below.
-You have had too many unsuccessful attempts to login. You have been temporarily locked out. Please try after 20 minutes.
-Invalid passcode. Identity verification on any device using your present methods have been locked for 20 minutes.
-Invalid passcode. Please try again.
-Something went wrong. Please try again.
-Don't use email?Find out more

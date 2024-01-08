@@ -1,6 +1,0 @@
-Since your browser might not *remember* your password it can be viewed within the options/preferences panel of your browser.
-The password is still the same, just the auto-fill might not work
-i.e.
-Chrome users can either go to Settings/Advanced or use 'chrome://settings/passwords' at the url bar to view their saved passwords.
-For other browsers, please refer to your browser documentation (in case someone reads those) or use google.
-- staff

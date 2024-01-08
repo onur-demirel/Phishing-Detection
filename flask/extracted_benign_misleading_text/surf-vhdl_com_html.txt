@@ -1,3 +1,0 @@
-When FPGAs do not implement a multiplier HW macro
-The modern FPGAs implement multiplication using a dedicated hardware resource. Such dedicated hardware resource generally implements 18×18 multiply and accumulate function. Many FPGAs use two 9×9 multiplier IP to implement a single 18×18 multiplier macro. It depends on the technology you are using.
-Depending on the technology and FPGA you are using it is also possible to have no multiplier at all as dedicated IP. In this case, if you need to perform a multiplication it could be a problem. Multiplication is a very demanding operator in term of area and timing resources, so you need to pay attention to the operand number of bits in order to minimize the area and timing impact on your FPGA.

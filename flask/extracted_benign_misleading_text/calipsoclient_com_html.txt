@@ -1,5 +1,0 @@
-CALIPSO is a web-based application that manages key aspects of academic and clinical education designed specifically and exclusively for speech-language pathology and audiology training programs.
-It was created by a Communication Sciences and Disorders University Clinical Director and has demonstrated proven success.
-Our application offers the unique feature of interactive and customized data dashboards that enable knowledge management between the clinical administrator, supervisor, and student.
-CALIPSO is affordably priced for any sized institution.
-We are pleased to announce that CALIPSO for SLP® is used by 70% of all Speech-Language Pathology programs and CALIPSO for Audiology® is used by 45% of all Audiology programs with a retention rate of 99%.

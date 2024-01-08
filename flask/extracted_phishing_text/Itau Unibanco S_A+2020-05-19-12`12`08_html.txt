@@ -1,6 +1,0 @@
-agência
-conta
-lembrar agência e conta
-senha eletronica
-senha cartão
-celular cadastrado

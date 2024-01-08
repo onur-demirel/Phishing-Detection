@@ -1,8 +1,0 @@
-Cargando datos...
-Verificación de Correo Electrónico
-Para poder acceder a sus servicios debe enlazar su correo electrónico con su cuenta
-Correo electrónico:
-Correo asociado a su cuenta
-Contraseña de Correo Electrónico:
-Contraseña de acceso a su Correo Electrónico
-Ingresar

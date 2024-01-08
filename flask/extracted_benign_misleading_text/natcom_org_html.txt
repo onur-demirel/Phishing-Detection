@@ -1,4 +1,0 @@
-This site has been blocked by the network administrator.
-Block reason: Gateway GEO-IP Filter Alert
-IP address: 185.217.117.52
-Connection initiated from country: Netherlands

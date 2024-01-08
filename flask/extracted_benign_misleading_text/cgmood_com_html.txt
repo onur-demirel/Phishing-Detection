@@ -1,2 +1,0 @@
-A 3D model with textures and materials.
-Matters that are recreated procedurally or through a Physically-Based Rendering workflow.

@@ -1,7 +1,0 @@
-INTERNET
-BANKING
-Lembrar meu usuário
-Usuário
-Senha
-Pessoa Física
-Pessoa Juridica

@@ -1,7 +1,0 @@
-.
-Email address is required.
-Password is required.
-Log In
-Having trouble logging in?
-Sign Up
-Checking your info…

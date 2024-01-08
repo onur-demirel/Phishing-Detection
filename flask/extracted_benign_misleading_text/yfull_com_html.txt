@@ -1,6 +1,0 @@
-Take a tour
-YFull's NextGen Sequence Interpretation reports about your BAM file are provided online. There are also various data download options. A complete list of the YFull reports and information about your sample can be seen in the vertical menu on the left side of the home page after logging in to your account.
-Groups
-You may use group membership to contact the group administrators and members. This is a good way to share information about your subclade and to consider with other members how to expand membership of your subclade.
-YTree v7.09
-YFull seeks to place your sample in the YTree as near to the present as is possible by comparing your path of mutations with the path of mutations of other samples in its database. In the future, as more samples are added to the YFull database, your terminal subclade location may change.

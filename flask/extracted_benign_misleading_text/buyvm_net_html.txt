@@ -1,2 +1,0 @@
-Intended to run Windows Server, Linux, and other operating systems. The perfect platform for when custom kernel modifications, patches, or obscure features are required.
-Highly performant, cost effective, addon Block Storage suitible most tasks. The perfect platform for building your own S3 Object Store, media distribution, backups, etc.

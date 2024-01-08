@@ -1,4 +1,0 @@
-Email authentication is required to verify your identity
-Done
-Remember me
-Need help?

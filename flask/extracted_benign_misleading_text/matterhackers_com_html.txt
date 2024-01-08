@@ -1,8 +1,0 @@
-OBC Tech Breakdown and How to Succeed
-From Dow Chemical, OBC combines flexible and rigid into one unique material with properties of both.
-Tech Breakdown and How to Succeed: Ionic Hybrid Support Material
-Supporting engineering grade has been difficult without a support material dedicated to higher temperature 3D printing. Ionic aims to solve that.
-How to Prepare Ultrafuse 316L Parts for Debinding and Sintering
-Learn how to properly prepare, package and deliver your 3D printed BASF Ultrafuse 316L green parts for debinding and sintering.
-Designing Adaptive Skis for People with Disabilities Using 3D Printing
-September 2019 Hacker of the Month Oliver Vaughan-Jones is a design engineer working to create an adaptive sit-ski for people with disabilities.

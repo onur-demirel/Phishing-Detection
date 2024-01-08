@@ -1,1 +1,0 @@
-I have already written a similar article to delete duplicate records in SQL Server and MySQL. Here, You can also access that articles. Delete all duplicate rows in MySQL Delete all duplicates rows except one in SQL Server Recently, I got one request for one script to delete duplicate records in PostgreSQL. Most of the […]

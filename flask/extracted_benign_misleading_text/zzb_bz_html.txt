@@ -1,6 +1,0 @@
-|
-|
-- 2018/06/10 - revamp abuse page, mailer, and minor text fix.
-- 2017/06/14 - revamp management page, codebase, and minor text fix.
-- 2015/05/21 - fix password protection url for backward support.
-- 2015/05/13 - structure and page revamp, add advertisement, add intermediate page for redirection

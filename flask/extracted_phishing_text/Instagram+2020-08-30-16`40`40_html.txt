@@ -1,5 +1,0 @@
-This link has been flagged as phishing. Phishing is an attempt to acquire personal information such as passwords and credit card details by pretending to be a trustworthy source.
-If you're a visitor of this website
-The website owner has been notified and is in the process of resolving the issue. For now, it is recommended that you do not continue to the link that has been flagged.
-If you're the owner of this website
-Please log in to cloudflare.com to review your flagged website. If you have questions about why this was flagged as phishing please contact the Trust & Safety team for more information.

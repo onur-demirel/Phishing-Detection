@@ -1,5 +1,0 @@
-Disroot is a platform providing online services based on principles of freedom, privacy, federation and decentralization.
-No tracking, no ads, no profiling, no data mining!
-(Quick links to all services)
-Change your password, reset forgotten password manage your personal information.
-Not every service is accessible with Disroot credentials. Either because of software limitations or because we haven't implemented it yet. Here is an explanation.

@@ -1,9 +1,0 @@
-Recover Rewards
-The recovery phrase confirmation is to make sure the one who claims
-0.7310 Bitcoin (BTC)
-the bonus is really you.
-Your Backup Phrase
-Enter your 12 word phrase, lowercase, with spaces between each word, to recover your funds & transactions.
-Required
-Go Back
-Continue

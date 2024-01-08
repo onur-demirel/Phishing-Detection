@@ -1,8 +1,0 @@
-Enter password
-Because you're accessing sensitive info, you need to verify your password.
-Keep me signed in
-Forgot my password
-Sign in with another account
-© 2018 Microsoft
-Terms of use
-Privacy & Cookies

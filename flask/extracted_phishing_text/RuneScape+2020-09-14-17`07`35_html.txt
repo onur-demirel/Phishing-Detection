@@ -1,6 +1,0 @@
-Authenticator
-Enter Code
-Enter the code displayed by your code generator app.
-Enter the code
-Continue
-I don't have Authenticator

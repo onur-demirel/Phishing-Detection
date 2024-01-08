@@ -1,8 +1,0 @@
-Kunden-Login
-Kunde
-Kundennummer, Nutzername (E-Mail-Adresse) oder Domain-Name
-Passwort
-Passwort vergessen?
-Login
-Noch kein 1&1 Kunde?
-Jetzt Kunde werden und von unseren Angeboten profitieren.

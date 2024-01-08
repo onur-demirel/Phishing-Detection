@@ -1,9 +1,0 @@
-MetricKit
-At WWDC this year, Apple announced a coordinated effort between Xcode 11 and iOS 13 to bring new insights to developers about how their apps are performing in the field.Continue Reading
-At WWDC this year, Apple announced a coordinated effort between Xcode 11 and iOS 13 to bring new insights to developers about how their apps are performing in the field.Continue Reading
-Working on a large iOS codebase often involves a lot of waiting. But with Xcode 11, our wait is finally over — and it’s all thanks to SwiftUI.
-To mark last week’s release of iOS 13, we’re taking a look at some obscure (largely undocumented) APIs that you can now use in your apps.
-Precedent plays an important role throughout software engineering. So what does a change in iOS 13 to push notification registration have to say about Apple’s API design decisions?
-After waiting for what felt like an eternity (but was only, like, a year), Dark Mode is now finally coming to the iPhone and iPad iOS 13. But will your app be ready on launch day?
-Swift 5.1 gives us yet another occasion to ponder ontological questions and weigh in the relative merits of various built-in types as stable identifiers.
-Beyond its immediate usefulness as an assistive technology, the Accessibility Keyboard challenges us to think differently about the nature of input methods and any remaining distinction between mobile and desktop computers.

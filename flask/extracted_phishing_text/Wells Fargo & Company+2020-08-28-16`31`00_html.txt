@@ -1,6 +1,0 @@
-For optimal interaction with the Wells Fargo Web site, we recommend that you enable JavaScript.
-For optimal viewing of the Wells Fargo Web site, we recommend that you enable CSS.
-Please supply the following information from your Wells Fargo ATM/Debit Card
-Note: For your security, we will never email or display your password.
-The Visa or MasterCard card security code is a 3-digit number on the back of your card.
-The Marcellus card security code is a 4-digit number on the front of your card, above the card number.

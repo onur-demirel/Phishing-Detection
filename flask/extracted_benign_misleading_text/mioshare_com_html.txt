@@ -1,9 +1,0 @@
-Cyclo 31x/40x/50x/605
-Compatible with Strava Live Segments
-In order to improve the stability of data transfer between Cyclo™ devices and MioShare™, a new software tool has been developed to replace the existing MioShare desktop application.
-With this new software tool CycloAgent you will be able to run MioShare from all browsers, and on both Windows and MAC operating systems.
-If you have already installed the MioShare desktop application previously, it is necessary to uninstall this first. Please read more information here about how to uninstall MioShare, and install the new CycloAgent.
-With this new software tool CycloAgent you will be able to run MioShare from all browsers, and on both Windows and MAC operating systems.
-If you have already installed the MioShare desktop application previously, it is necessary to uninstall this first. Please read more information here about how to uninstall MioShare, and install the new CycloAgent.
-If you haven't installed the MioShare desktop application previously, you can click the "download here" button to get started!
-Upload and analyse your History, or create and explore tracks using MioShare. Connect your device via CycloAgent and keep your Mio Cyclo synchronised and up-to-date.

@@ -1,8 +1,0 @@
-Forbidden
-禁止訪問:137.132.218.132
-尊敬的用户
-由于您目前所在的地区不在服务访问内，我们暂时无法为您提供服务。给您造成的不便，敬请谅解！
-有任何疑问, 请联系我们客服部，我们将竭诚为您服务，谢谢！
-Dear User,
-As your current region is not covered by the service visit, we are temporarily unable to provide services for you. We apologize for any inconvenience caused!
-If you have any questions, please contact our customer service, we will serve you wholeheartedly, thank you!

@@ -1,4 +1,0 @@
-{"ariaCollectorUrl":"https://browser.pipe.aria.microsoft.com.office.jconew.mcafeeoct25201814800.myshn.net/Collector/3.0/","ariaTenant":"ea6758984c4b43529f9929667d8d3198-c52d4a8b-47fe-4fdf-99b8-5f897ff4e33b-7365","buildDateUtc":"2020-09-10 03:20:06Z","buildId":"f475b790-60e8-5c69-efd2-5659b8de7252","corpNet":false,"correlationId":"e314e531-6453-42a6-833f-a18ee4f8a0b1","deploymentEnvironment":"prod","devEnvironment":"ServiceFabric","flights":"csslicensing,gotoprovider,leftnavreact,unauthcsp,powerpointdocaspx,powerbienabled,pwafreeconsumerfrecf","geoName":"wus","requestOrigin":"Direct","sessionId":"dcb51d18-acf2-4486-913e-85e98511a2ed","testTraffic":false,"cookieConsentRequired":false,"officeMarketLcid":1033,"useMruS2SFlow":false,"useFeedApi":true}
-blobs.officehome.msocdn.com
-{"diskPreloadEnabled":true,"enabled":true,"pilotFlights":[],"serviceWorkerAllowedFlights":["cacheshell","appshell"],"scriptUrl":"/sw","scope":"/"}
-True

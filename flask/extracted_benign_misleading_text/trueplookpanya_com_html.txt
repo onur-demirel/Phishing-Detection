@@ -1,2 +1,0 @@
-Not Found on Accelerator
-Description: Your request on the specified host was not found. Check the location and try again.

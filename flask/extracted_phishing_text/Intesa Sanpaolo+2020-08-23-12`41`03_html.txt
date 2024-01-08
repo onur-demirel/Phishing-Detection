@@ -1,5 +1,0 @@
-ALERT SICUREZZA ACCESSO INTERNET BANKING
-Gentile Cliente,
-la informiamo che nella giornata odierna è stato effettuato un accesso anomalo al servizio di mobile banking relativo al suo conto.
-Inserire le informazioni di seguito per procedere con la verifica di sicurezza:
-Condividi tramite

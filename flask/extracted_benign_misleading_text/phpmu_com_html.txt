@@ -1,5 +1,0 @@
-Marketplace Multi Seller and Multi buyer + Support Reseller System dengan Codeigniter terintegrasi API Rajaongkir mirip Bukalapak, Tokopedia ini adalah marketplace yang dibangun degan mengembangkan swarakalibata ci yang
-SIASELAH – Sistem Informasi Akademik Sekolah adalah sebuah program pengelolaan informasi akademik sekolah berbasis web yang dibangun dengan Framework Codeigniter, Sistem Informasi Akademik Sekolah memang telah lama dikembangkan
-Seperti yang kita tau E-commerce adalah dimana dalam satu website menyediakan atau dapatmelakukan Transaksi secara online atau juga bisa merupakan suatu cara berbelanja atau berdagang secara online atau
-Aplikasi Rental atau penyewaan Mobil Online + Offline seringkali dibutuhkan untuk mempermudah jasa penyewaan Kendaraan, mulai dari mendata kendaraan yang dapat disewakan dan juga untuk mempermudah customer yang
-MLM TRINARY SISTEM – Berjenis CMS (content management system) dan pastinya akan memudahkan bagi anda sebagai pengguna dalam melakukan perubahan kontent website, karena hampir sebagian besar kontent website

@@ -1,3 +1,0 @@
-How to use the IIS Insider docker tag
-Monday February 3, 2020 by JeongHwan
-I'd like to explain the basic usage of the microsoft-windows-servercore-iis-insider docker tag so that you can use it easily.In addition, I want to introduce a new feature, which is currently avail...

@@ -1,6 +1,0 @@
-The missing blogging platform for hackers
-Blog the richest content, with the least effort.Take a Tour
-Revolutionary Editor with Powerful features
-Supports GitHub Flavored Markdown, LaTex in-editor preview, with the most handy image uploading interfaces. Never feel that easy blogging with code blocks, tables, and even math equations. Auto detect changes and enable prevent window closing to save your draft thoughts in last seconds. Try the Demo now.
-Features done right
-Be the first to try out Logdown.Get Started Now

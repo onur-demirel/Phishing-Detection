@@ -1,6 +1,0 @@
-Tasks
-Assign tasks to members of your organization. Schedule reminders to make sure they get done.
-G Suite
-Integrate your Gmail and Google Calendar accounts in one place.
-Products
-Track your inventory and easily create website to showcase your products.

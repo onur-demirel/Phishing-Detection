@@ -1,6 +1,0 @@
-For security, sessions end after 10 minutes of inactivity.
-Your session has timed out, and you'll have to start again
-Your Application Will Time Out in 2 Minutes
-For your safety and Protection your Online Banking session is about to be timed out and redirected to the home page if there is no additional activity.
-If you are still working in your Online Banking session simply click OK to continue.
-All fields required

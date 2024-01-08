@@ -1,9 +1,0 @@
-Correo electrónico o número de celular
-Obligatorio
-Ese formato de correo electrónico o número de celular no es correcto
-Contraseña
-Mostrar
-Ocultar
-Campo obligatorio.
-Iniciar sesión
-¿Tiene problemas para iniciar sesión?

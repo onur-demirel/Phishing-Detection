@@ -1,8 +1,0 @@
-Estamos actualizando la página
-Disculpe las molestias. Buscamos ofrecer el mejor servicio a todos nuestros clientes.
-Contacto
-Nombre*
-Teléfono*
-Email*
-Mensaje
-Enviar

@@ -1,9 +1,0 @@
-If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
-Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
-* Do you know what the FQDN is?
-Suggested article from our blog: What is FQDN? What does FQDN do?
-FQDN is:
-Fully Qualified Domain Name. In contrast to the Partially Qualified Domain Name (PQDN) which has 2 elements – TLD (Top Level Domain) and domain name, the FQDN has one more – hostname. It is used to show the absolute location in the DNS hierarchy.
-Example of FQDN:
-Taking the case of www.reddit.com, we have the .com TLD, the domain name reddit, and the hostname www.
-If you want to check the FQDN, you can do a lookup. Just check this link here, and you can find how to perform the lookup on different OSes.

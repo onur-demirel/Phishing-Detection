@@ -1,3 +1,0 @@
-Arkaive's attendance-tracking app uses geolocation. Students can check into their classes on their mobile devices, including smart phones, tablets, and laptops. Instructors and administrators can view and edit students' real-time attendance data anytime and anywhere. It’s easy, quick, and accurate.
-Simplified Attendance Tracking for All
-With Arkaive, attendance-tracking is easy and convenient. Manage students' attendance inside and outside the classrooms. Arkaive is the attendance game changer for students, instructors, coaches, and administrators.

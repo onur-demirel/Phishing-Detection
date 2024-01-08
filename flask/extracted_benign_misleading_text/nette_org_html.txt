@@ -1,9 +1,0 @@
-Nette Sponsors#
-Become a Nette sponsor and support its development. At the same time, it will help your company exposure in the Nette community and makes it easier to attract developers.
-We have been developing Nette for over 10 years- and counting! Libraries we provide are therefore highly mature, stable and widely used. They are trusted by a number of global corporations and many significant websites rely on us. Who uses and trusts Nette?
-There is nothing we care about more than security. That is why we had built Nette as the safest PHP framework. It had passed many audits with flying colours, it eliminates safety traps like XSS, CSRF and brings out ground-breaking methods.
-We aim to create Nette as a fun and easy to use framework, that programmers can fall in love with. And we seem to be doing it well! We were rated as the 3rd most popular framework in a survey „Best PHP Framework for 2015“ by a well-know magazine SitePoint.
-Nette consists of a number of handy standalone libraries, which can be used in any codebase, for example combined with WordPress or another framework. Careful, some of them are highly addictive! These are the components that Nette Framework is built on.
-Thoughtful, high-quality, well-tested and pure object-oriented design using the new features in PHP 7.1. Nette will lead to well designed applications with emphasis on future extensibility. According to tests Nette Framework is one of the fastest frameworks ever.
-You don´t have to do it alone! Community around the framework gives advice, creates continuously growing collection of addons for easy use in your applications and shares experience
-Become a Nette sponsor and support its development. At the same time, it will help your company exposure in the Nette community and makes it easier to attract developers.

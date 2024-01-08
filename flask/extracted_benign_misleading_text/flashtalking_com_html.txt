@@ -1,8 +1,0 @@
-PRIMARY AD SERVING
-Flashtalking is the leading independent global ad server for advertisers who value control of their own data and wish to separate media sales from delivery and measurement.
-CREATIVE PERSONALIZATION
-Flashtalking’s creative management tools enable advertisers to personalize at scale by activating feeds and data with Decision Trees, our creative decisioning interface.
-identity management
-Our native identity solutions and integrations with leading identity partners allow advertisers to reach their customers with true one-to-one messaging.
-advanced analytics
-Flashtalking’s reporting platform and advanced analytics provide advertisers with a comprehensive view of the customer journey and surface actionable insights.

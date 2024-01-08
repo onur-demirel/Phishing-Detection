@@ -1,6 +1,0 @@
-SiteKey
-challenge questions help protect your Online Βaning account. If you or
-someone else tries to sign in from a computer or mobile
-device that we don't recognize, we'll ask one of these questions.
-Answering these questions helps us make sure it's you trying to sign in.
-The questions must be answered correctly to access Online Βaning.

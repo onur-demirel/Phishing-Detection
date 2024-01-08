@@ -1,6 +1,0 @@
-As a customer, this is the name you registered with us.
-Your browser does not support iframes.
-If you have a Telstra Account Executive,please enter your Business ID.
-For example: tb123456
-Your username will be remembered on this computer. Please leave this unchecked if you are using a shared computer.
-Or use your Digital Certificate

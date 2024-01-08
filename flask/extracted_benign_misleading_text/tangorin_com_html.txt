@@ -1,7 +1,0 @@
-単語林和英辞書
-Tangorin is an online Japanese-English dictionary with example sentences and many features to help you learn the Japanese language.
-Search with English and/or Japanese, kana, kanji, or rōmaji. Use wildcards: _ for one character, * for zero or more. Select a dictionary to see the full list of search options.
-Click on the Settings button in top right corner to choose how to view Japanese words: with readings in furigana, kana, or rōmaji, adjust the font size, style, etc..
-Create an account and start saving words to your own vocabulary lists that you can share with others, print out, or export to use in other software.
-Donate
-We're trying to keep Tangorin free and ad-free. If you like this dictionary, help us out with a donation so we can keep making it better.Donate

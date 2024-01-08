@@ -1,8 +1,0 @@
-Attention
-After logging in, we encourage you to edit your profile, particularly if you would like to be Verified and included in the new Community Directory. Additionally, if you're running into any site problems, please review our current status page. Having trouble logging in using the side menu options? Try the standalone login page. Finally, if all else fails, an email to admin@ will set things right.
-ICYMI: PowerShell Week of 25-October-2019
-Topics include RepAdmin, Certificates and Testing Teams connections.
-Update - PowerShell + DevOps Global Summit 2020 Recordings
-Updated information about conference recordings! After working with our friends at Pluralsight and a number of 2020 selected speakers, we have made some changes that will be beneficial for everyone....
-ICYMI: PowerShell Week of 18-October-2019
-Topics include idempotency, Jenkins, PowerShell for beginners and more.

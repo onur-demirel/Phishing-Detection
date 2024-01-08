@@ -1,3 +1,0 @@
-The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.
-enter a location name, ex: "Paris", "Mount Everest","New York"
-This work is licensed under a Creative Commons Attribution 4.0 License.

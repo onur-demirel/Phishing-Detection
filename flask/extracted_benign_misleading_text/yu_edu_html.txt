@@ -1,7 +1,0 @@
-This is the Yeshiva University website home page.
-All pages on this site contain a utility navigation and primary navigation.
-Tabbing order is utility navigation followed by primary navigation.
-This home page contains a slideshow, followed by other content
-including: featured news and featured events.
-Skip links to main content and search box are next.
-This website uses cookies and similar technologies to understand your use of our website and give you a better experience. By continuing to use the site or closing this banner without changing your cookie settings, you agree to our use of cookies and other technologies. To find out more about our use of cookies and how to change your settings, please go to our Privacy Policy and Cookie Policy.

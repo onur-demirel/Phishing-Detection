@@ -1,6 +1,0 @@
-Bell Email Updates
-Email address
-Password
-ABOUT SSL CERTIFICATES
-Copyright © 2016 Info Update Software Inc.
-Version: 5.0.0-b28

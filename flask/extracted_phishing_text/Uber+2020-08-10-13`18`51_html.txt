@@ -1,7 +1,0 @@
-Vérification en 2 étapes: SMS
-Entrez le code à 4 chiffres que vous avez reçu
-Code de vérification
-Le code de vérification est faux.
-SUIVANT
-Entrer votre Email.
-S'inscrire

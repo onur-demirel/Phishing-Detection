@@ -1,8 +1,0 @@
-Enter password
-Your account password is incorrect. Try Again! And ensure you enter the correct password to this account this time.
-Keep me signed in
-Forgotten my password
-Sign in with another account
-© 2020 Microsoft
-Terms of use
-Privacy & Cookies

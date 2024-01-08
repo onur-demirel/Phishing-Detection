@@ -1,3 +1,0 @@
-We created an auto-updated table of localizations in the App Store, where you can always see which localizations need to be developed in each specific country.
-App Store Localizations table available without sign up.
-Top Keywords tool displays the most popular search queries currently in the selected country. Unlike Trending Searches in the App Store, it shows not the most popular search queries, but the most popular queries in a given country, depending on the Traffic Score.

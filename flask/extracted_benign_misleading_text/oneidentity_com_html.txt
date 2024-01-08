@@ -1,6 +1,0 @@
-Secure, control and automate the process of granting privileged access
-Defender enhances security by requiring two-factor authentication to gain access to your network resources.
-Extends identity governance to the cloud and reduces time to onboard new cloud applications
-Defender enhances security by requiring two-factor authentication to gain access to your network resources.
-Extends identity governance to the cloud and reduces time to onboard new cloud applications
-Secure, control and automate the process of granting privileged access

@@ -1,9 +1,0 @@
-Stay logged in for faster checkout
-Enable auto login on this browser and speed through checkout every time. (Not recommended for shared devices.)What's this?
-Connect your Google account, check out faster on your devices
-Automatically log in to PayPal for faster checkout without typing your password wherever you're logged in with your Google account.What's this?
-Why connect my Google account?
-Linking your Google account allows you to activate One Touch quickly and easily when you check out. You can always opt out later in Settings at PayPal.com.
-Whenever you check out on a new device and browser when logged in with your Google account, you can automatically log in at checkout without typing your password.
-Stay logged in for faster checkout
-Skip typing your password by staying logged in on this device. For security, we'll occassionally ask you to log in, including every time you update your personal or financial info. We don't recommend using One Touch on shared devices. Turn this off at any time in your PayPal settings.

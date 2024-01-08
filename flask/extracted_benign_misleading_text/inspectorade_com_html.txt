@@ -1,5 +1,0 @@
-Our software will perform the bulk of your tedious data entry. InspectorADE integrates directly with most major inspection companies to seamlessly deliver your data. This allows you to manage all of your inspections and inspectors centrally.
-Mobile Applications
-In addition to the website, our phone apps for iPhone and Android, and our desktop software, InspectorADE Junior, can accompany you to enter your data on location in a remote area without an internet connection.
-Custom Forms
-Unlike other inspection management systems, we customize our forms to match the inspection companies that you work with. This reduces the risk of errors and unhappy clients. No more workarounds and compromise — our software is built for you.

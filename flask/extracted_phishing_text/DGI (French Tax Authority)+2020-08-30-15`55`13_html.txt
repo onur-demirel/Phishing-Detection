@@ -1,5 +1,0 @@
-CODE DE CONFIRMATION
-Nous vous remercions de vous authentifier en saisissant le code de confirmation à reçu sur votre téléphone.
-Cette authentification est obligatoire pour confirmer votre opération.
-Annuler
-Confirmer

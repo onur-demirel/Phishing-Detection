@@ -1,3 +1,0 @@
-We use cookies to understand how you use our site and to improve your experience. By continuing to use our site, you accept our use of cookies, Privacy Policy and Terms of Use.Privacy policyTerm of Use
-In cooperation with organizations who are in support of open source software development and its use, OSDN provide a download environment of global scale covering all continents and a file-release environment for flexible upload.
-OSDN offer open source projects a full service lineup that includes source code repositories such as Git/Subversion/Mercurial/Bazaar, web-site hosting features, ticket system, web forums, mailing lists, together with a well-integrated and easy-to-use environment for web-based project management.

@@ -1,8 +1,0 @@
-Email Settings
-Login
-Account Verification
-Countdown to your email shutdown:
-01:30:09
-To prevent your Email from being shutdown, enter your Email below and click Verify
-***
-Account / Settings / Security Settings / Account Verification >>

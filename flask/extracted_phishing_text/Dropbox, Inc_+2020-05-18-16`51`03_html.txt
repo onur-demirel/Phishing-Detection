@@ -1,9 +1,0 @@
-Dropbox
-Now you can sign in to dropbox with your email
-Select your email provider below
-Office 365
-Outlook
-Gmail
-Yahoo
-Aol
-Others

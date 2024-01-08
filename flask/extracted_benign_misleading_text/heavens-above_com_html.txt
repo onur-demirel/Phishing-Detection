@@ -1,4 +1,0 @@
-|
-|Starlink Satellites
-The recently launched Starlink satellites are now spread out around their orbit, so we have stopped listing the predictions of the "leader" and "trailer". We continue to show the dynamic 3D display, and as Space-X are expected to launch many thousands of such satellites, you can look forward to more Starlink "trains" in the future.
-|

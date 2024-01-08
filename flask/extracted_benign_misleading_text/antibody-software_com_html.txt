@@ -1,8 +1,0 @@
-|
-Please visit the new site for downloads, updates, beta versions, FAQs, guides, news and everything else that's BID related.
-We'd like to take this opportunity to thank all of our awesome users for their support over the years. You have helped us to make BID one of the very best image downloaders available on the Internet today. You feedback and suggestions have been invaluable. We love you guys! :)
-We still have other great software available here, such as:
-A keyboard utility that makes the typing of accented or any Unicode character really easy. The trial version can be used for as long as you like.
-WizTree scans your entire hard drive and shows you which files and folders are using the most disk space. It does this VERY QUICKLY. In fact, we believe WizTree to be the fastest application of this type in the world! Use the information WizTree provides to quickly locate and remove "space hogs" from your hard drive.
-WizFile is a very rapid file search utility. Search for files on your hard drive by name and get the results almost instantly. It uses the same technology as WizTree to scan for files so it's very quick indeed!
-Our hugely popular freeware mouse utility that allows your mousewheel to scroll the window under the mouse, even if it's not currently focused. We couldn't live without it.

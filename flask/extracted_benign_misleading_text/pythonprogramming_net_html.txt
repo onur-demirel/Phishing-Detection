@@ -1,9 +1,0 @@
-Employ both supervised and unsupervised machine learning, to make predictions or to understand data.
-Learn how to use Python with Pandas, Matplotlib, and other modules to gather insights from and about your data.
-Create your own games with Python's PyGame library, or check out the multi-platform Kivy.
-Learn the basic and intermediate Python fundamentals.
-How to develop websites with either the Flask or Django frameworks for Python.
-Creating various software bots, like bots in games, in chats, and to interact with the web. Not to be confused with robotics!
-Control hardware with Python programming and the Raspberry Pi.
-Create software with a user interface using Tkinter, PyQt, or Kivy.
-Go is a programming language aimed at being simple, easy to work with, and capable of high performance.

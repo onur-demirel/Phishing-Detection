@@ -1,4 +1,0 @@
-logotipo banca
-Esta operación requiere doble clave de firma. Indtroduce tu clave de firma y pulsa Entrar
-Clave de firma
-teléfono

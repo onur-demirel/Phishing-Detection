@@ -1,8 +1,0 @@
-Bienvenido a la Plataforma de Blogs de la Universidad de Oriente.
-Los blogs de la Red de la Universidad de Oriente, se crean como parte del proyecto de desarrollo de las herramientas de la Web 2.0 en nuestro centro.
-Esta herramienta puede ser creada y administrada con propósitos institucionales, académicos, investigativos y similares por profesores de la Universidad de Oriente. De manera excepcional será autorizada a trabajadores de servicios, y otros.
-Registrarse en la plataforma, implica estar de acuerdo con las siguientes normas:
-1. Los blogs son una herramienta de comunicación y difusión de ideas. En el contexto universitario se emplean para perfeccionar los procesos de educación, comunicación e investigación.
-2. Los blogs son herramientas pertenecientes a la red de la Universidad de Oriente, por tanto, se rigen por todas las políticas de seguridad informática, informatización, desarrollo, etc, que están vigentes y que están relacionadas con el trabajo que se realizará en la plataforma.
-3. Cualquier intención, explícita o no, de promover de ideologías ajenas a los principios de nuestra Universidad u otros procesos no autorizados, ni establecidos en los propósitos de nuestra institución, implicarán el cierre del acceso al servicio y, eventualmente, el procesamiento del infractor en correspondencia con la violación cometida.
-4. La Dirección de Informatización se reserva el derecho de creación de un usuario en la plataforma, o la publicación de un blog, así como de actualizar estos términos de uso en correspondencia con nuestro propósito de permitir una mayor inserción de la tecnología en los procesos universitarios.

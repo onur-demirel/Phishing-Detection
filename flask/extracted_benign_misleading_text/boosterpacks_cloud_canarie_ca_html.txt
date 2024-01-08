@@ -1,7 +1,0 @@
-This BoosterPack provides a deployable Sample Solution that allows users to observe and study the application of Bluetooth Low Energy Real-Time Location Systems (BLE RTLS) and Kibana to solve the problem of automatically collecting and reporting data about who/what is where/how within the physical spaces of a business’s operations.Read more
-Flight Plan: Time-Series Prediction with Machine Learning
-This BoosterPack demonstrates the application of machine learning to develop models that provide good predictions for time-series data.Read more
-Flight Plan: Automatic Recommendation System Using Machine Learning
-This BoosterPack demonstrates how a Collaborative Filtering Deep Model is used to provide recommendations to users based on their past preferences and similarities to other users. This is very useful for software developers needing an Automatic Recommendation System.Read more
-Flight Plan: Apption Data Assessment Tool
-This BoosterPack introduces a user-friendly solution for analyzing unstructured data, auto-identify data-types and dynamically creating an optimal database schema. The solution can recognize over 30 data types and flag sensitive data such as first and last names which are included in a summary report.Read more

@@ -1,1 +1,0 @@
-406 Not Acceptable 406 Not Acceptable nginx/1.4.1

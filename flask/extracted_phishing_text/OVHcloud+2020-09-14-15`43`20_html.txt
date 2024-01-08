@@ -1,9 +1,0 @@
-Paiement sécurisé OVH
-|OVH.FR
-|Référence transaction carte bancaire
-|fr_tok_74286364eb
-|Contenu de la transaction
-|Renouvellement automatique
-|Montant de la transaction
-|5,00 €
-Ces symboles indiquent que votre transaction est securisée, vous pouvez remplir votre formulaire en toute confiance.

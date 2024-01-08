@@ -1,5 +1,0 @@
-Technology
-We mine information from a number of high quality web sources and analyze, match and score this data to prepare our travel content.
-Our artificial intelligence platform allows us to parse huge volumes of data and discover interesting insights at scale.
-Prater
-Oldest beer garden with great german food in Berlin.

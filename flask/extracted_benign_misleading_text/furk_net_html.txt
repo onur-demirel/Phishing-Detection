@@ -1,5 +1,0 @@
-Furk.net is your personal secure storage that fetches media files and lets you stream them immediately
-You can use it to stream video or listen to your music from PC, smartphone, HTPC or even a game console (XBOX, PS3).Service limits:
-- Bandwidth limit: up to 250GB per month
-- Disk storage limit: unlimited (as long as files are from public sources)
-Furk.net is not a file locker and doesn't support filesharing for profit.

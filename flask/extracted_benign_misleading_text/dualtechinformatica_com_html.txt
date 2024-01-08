@@ -1,6 +1,0 @@
-Oferecemos uma linha completa de produtos e serviços, visando proteger desde as estações de trabalho até os servidores de correio ou acesso à Internet.
-Desde os serviços de instalação e integração de tecnologias e consultoria para a administração de projetos até serviços especializados de suporte técnico e gerenciamento.
-Através de parcerias, somos um dos principais canais de revenda e distribuição dos principais fabricantes do mercado.
-Quando você tem um contrato de Gestão de TI, todos os assuntos relacionados à informática serão gerenciados pela Dual Tech. Desde o atendimento HelpDesk aos usuários, até as mais complexas decisões sobre o futuro da área de TI passam pelas mãos da nossa equipe.
-O suporte remoto é uma ferramenta que facilita o contato dos clientes com os analistas e técnicos da Dual Tech, pois possibilita a detecção e correção de um problema no computador sem a necessidade de uma visita local, reduzindo o custo e agilizando o atendimento.
-{ "ip": "137.132.216.136", "city": "Singapore", "region": "Singapore", "country": "SG", "loc": "1.2897,103.8501", "org": "AS7472 NUS Information Technology", "postal": "048508", "timezone": "Asia/Singapore", "readme": "https://ipinfo.io/missingauth" }

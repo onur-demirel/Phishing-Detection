@@ -1,7 +1,0 @@
-Olá, confirme seus dados para validação.
-Informe os dados de seu cartão:
-Não possui cartão?
-Número do Cartão: São os 16
-dígitos gravados na parte frontal de seu cartão
-nota: O código CVV possui 3
-dígitos e está impresso na parte de trás de seu cartão

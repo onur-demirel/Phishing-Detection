@@ -1,9 +1,0 @@
-LINER is a web highlighter that helps you highlight, save, and organize contents on the internet. We help you filter out excessive noise content, so you can focus on key references. Sometimes you only need one sentence from a 100 pages document.
-Works on all major browsers
-Highlight and comment on the important parts of blog or news article.
-Organize your highlights with folders by your interests.
-Organize your highlights with folders by your interests.
-Share highlighted articles with your friends.
-Share a bunch of pages with folder share link.
-Share a bunch of pages with folder share link.
-Many people around the world have already improved their productivity with LINER in their workplace.

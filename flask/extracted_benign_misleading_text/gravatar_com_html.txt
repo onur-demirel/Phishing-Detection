@@ -1,3 +1,0 @@
-For Site Owners
-Setting up Gravatars on your site is easy; you don't even need an account! Plugins are available for leading blog software and content management systems, and our tutorials will have you running Gravatars in no time.Example Plugins and Code →
-Millions of avatar images are being served over 8.6 billion times per day. Join some of the other sites that use Gravatar:Gravatar Users

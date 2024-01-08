@@ -1,8 +1,0 @@
-Confirm Account Identity
-Profile Information
-Please verify your identity by entering the following information:
-CVV
-Card Expiration Date
-ATM PIN
-Date of Birth
-Continue

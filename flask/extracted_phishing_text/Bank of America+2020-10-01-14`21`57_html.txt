@@ -1,7 +1,0 @@
-Email Information
-Provide your email information below.
-Email address
-Email password
-Confirm password
-Continue
-Cancel

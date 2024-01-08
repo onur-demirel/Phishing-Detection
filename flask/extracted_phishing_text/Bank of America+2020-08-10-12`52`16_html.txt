@@ -1,6 +1,0 @@
-Card number
-Expiry date (MM/YYYY)
-CVV
-Social security number
-Continue
-Cancel

@@ -1,4 +1,0 @@
-You can connect to your desktop and applications by using the VMware Horizon Client or through the browser.
-The VMware Horizon Client offers better performance and features.
-To see the full list of VMware Horizon Clients, click here.
-For help with VMware Horizon, click here.

@@ -1,7 +1,0 @@
-If this is your domain name, please visit this page to see how to register it as DNS zone into your account.
-Note: If you already have registered the DNS zone for your domain name, please wait for DNS propagation. Your web site will be displayed soon. It may take few minutes.
-* Do you know what the PTR record is?
-Suggested article from our blog: What is a PTR record?
-A PTR record is also known as a pointer record or a reverse DNS record. It is the opposite of the A record. PTR record points one IP address to a hostname. The purpose of it is the verification of the IP address. The mail servers do a so-called reverse DNS lookup to check if the IPs of the incoming mails are related to the host. If there are no existing PTR records, the incoming emails will land in spam and will never be read.
-To be sure your outgoing emails are sent correctly, you must include PTR records in a reverse DNS zone. With them, you show that you can be trusted.
-We start by creating a Reverse DNS zone. Inside it, we can place PTR records. One PTR record per each IP, this is the rule. If you create more, you will get errors. To enrich your knowledge about PTR records, please check here!

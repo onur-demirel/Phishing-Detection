@@ -1,4 +1,0 @@
-Dynamics Container Host
-Installation NOT complete
-You can view the installation status by following this link.
-View Installation Status

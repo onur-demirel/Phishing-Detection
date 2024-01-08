@@ -1,5 +1,0 @@
-Email address:
-Password:
-Show password
-The user name or password you entered isn't correct. Try entering it again.
-sign in

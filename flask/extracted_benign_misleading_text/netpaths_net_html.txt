@@ -1,7 +1,0 @@
-Notice: Undefined index: accessible_colors in /home/netpaths/public_html/wp-content/plugins/wp-smushit/core/class-settings.php on line 274
-Notice: Undefined index: usage in /home/netpaths/public_html/wp-content/plugins/wp-smushit/core/class-settings.php on line 275
-Notice: Undefined index: keep_data in /home/netpaths/public_html/wp-content/plugins/wp-smushit/core/class-settings.php on line 276
-Warning: Cannot modify header information - headers already sent by (output started at /home/netpaths/public_html/wp-content/plugins/wp-smushit/core/class-settings.php:274) in /home/netpaths/public_html/wp-content/plugins/contact-form-7-multi-step-module/cf7msm.php on line 106
-Warning: session_start(): Cannot start session when headers already sent in /home/netpaths/public_html/wp-content/plugins/contact-form-7-multi-step-module/cf7msm.php on line 110
-Warning: Cannot modify header information - headers already sent by (output started at /home/netpaths/public_html/wp-content/plugins/wp-smushit/core/class-settings.php:274) in /home/netpaths/public_html/wp-includes/pluggable.php on line 1251
-Warning: Cannot modify header information - headers already sent by (output started at /home/netpaths/public_html/wp-content/plugins/wp-smushit/core/class-settings.php:274) in /home/netpaths/public_html/wp-includes/pluggable.php on line 1254

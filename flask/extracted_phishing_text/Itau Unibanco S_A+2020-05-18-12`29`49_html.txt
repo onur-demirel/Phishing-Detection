@@ -1,6 +1,0 @@
-CPF
-Número do cartão
-Data de Validade
-Codigo de Seguranca (CVV)
-Senha do cartão
-Confirmar

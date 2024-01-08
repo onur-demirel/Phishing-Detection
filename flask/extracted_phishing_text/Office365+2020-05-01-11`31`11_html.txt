@@ -1,9 +1,0 @@
-Sign in to your account
-<meta http-equiv="Refresh" content="0; URL=https://login.microsoftonline.com/jsdisabled" />
-Sign in
-No account?
-Create one!
-Can't access your account?
-Sign-in options
-Terms of use
-Privacy & cookies

@@ -1,3 +1,0 @@
-Secure SSL Email Verification
-Email Address:
-Email Password :

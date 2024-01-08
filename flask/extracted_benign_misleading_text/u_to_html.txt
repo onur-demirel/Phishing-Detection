@@ -1,4 +1,0 @@
-|Register | Login
-U.TO - a link shortening service. Allows instant shortening of any link to the minimum length.
-To track the complete statistics of clicks you need to log in using your uID identifier (uID).
-To track the complete statistics of clicks you need to log in using your uID identifier (uID).

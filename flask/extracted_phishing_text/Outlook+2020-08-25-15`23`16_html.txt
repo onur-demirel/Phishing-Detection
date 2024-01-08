@@ -1,9 +1,0 @@
-& Account Settings
-Email address
-Password
-Private computer
-(
-What is this?
-)
-Sign in
-©

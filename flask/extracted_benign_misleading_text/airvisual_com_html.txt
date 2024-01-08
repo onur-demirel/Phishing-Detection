@@ -1,5 +1,0 @@
-Browse the world air quality with our real-time AirVisual Earth view
-AirVisual App
-AirVisual Monitor
-AirVisual API
-For healthy buildings and happy occupants

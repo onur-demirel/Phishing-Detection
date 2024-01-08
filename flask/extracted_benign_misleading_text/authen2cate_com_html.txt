@@ -1,9 +1,0 @@
-Multi-Factor Authentication protects your data from attack by adding another layer of security.
-Establish policies to meet compliance standards and protect your business.
-Provide a smooth and intuitive process to access your applications.
-Security costs money.
-Data breaches cost more.
-Easily generate one-time passcodes without the cost and hassle of hardware tokens.
-Offline passcodes, account unlocking, password resets, and authentication pushes... all on your mobile device.
-Integrating a smooth and intuitive end-user experience for access to all of your applications.
-Our flexible options can provide a primary directory in the cloud for all your enabled applications, or leverage your internal directory.

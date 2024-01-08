@@ -1,9 +1,0 @@
-Xen Project Brings The Power Of Virtualization Everywhere
-Xen Project Brings The Power Of Virtualization Everywhere
-The Xen Project is focused on advancing virtualization in a number of different commercial and open source applications, including server virtualization, Infrastructure as a Services (IaaS), desktop virtualization, security applications, embedded and hardware appliances, and automotive/aviation.
-Virtualization
-Xen Project software is extremely versatile and customizable due to its unique architecture bringing the power of virtualization everywhere.
-Cloud
-The No. 1 choice for the largest hyperscale clouds in the industry, including Amazon Web Service, Tencent, and Alibaba Cloud, Oracle Cloud, Rackspace’s public cloud and IBM SoftLayer.
-Security
-The safest and most reliable hypervisor to use for security-first environments due to lean architecture, advanced security features, and an industry-leading security disclosure process.

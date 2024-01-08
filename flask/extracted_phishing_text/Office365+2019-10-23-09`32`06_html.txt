@@ -1,4 +1,0 @@
-To open this secure link, we'll need you to enter the email that this item was shared to.
-Your email address is required
-Your email address must be in the correct email format (e.g. "user@contoso.com")
-Sorry, this email address isn't associated with this secure link. Please contact the person who shared it with you.

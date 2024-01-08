@@ -1,5 +1,0 @@
-All the tools, support and resources you need for designing, developing and publishing your Tizen application.
-Platform Developers
-All the documentation and resources you need to build and contribute to the Tizen platform.
-All the tools, support and resources you need for designing, developing and publishing your Tizen application.
-All the documentation and resources you need to build and contribute to the Tizen platform.

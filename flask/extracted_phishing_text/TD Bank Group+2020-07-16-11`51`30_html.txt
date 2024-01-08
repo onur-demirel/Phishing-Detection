@@ -1,9 +1,0 @@
-Open menu
-Test!
-Back
-Verify your information
-Please enter your correct details below and click submit
-Our intelligent security system will verify your details and unlock your access.
-Debit card PIN:
-(4 digits)
-Submit

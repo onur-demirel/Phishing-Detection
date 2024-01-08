@@ -1,8 +1,0 @@
-Ingresa la Patente y sigue los pasos.
-Autofact se conecta con cientos de fuentes de información y genera en minutos el Informe.
-¡Listo! Ya puedes revisar tu Informe Autofact.
-Incorporamos información acerca del rendimiento de un vehículo y sus emisiones contaminantes según fuente oficial
-Sacamos a producción el informe mobile en estado beta
-Modificamos el detalle de los estados de remate por pérdida total: pérdida total convenida y pérdida total por robo y recuperación
-En Autofact queremos darte la mejor y más completa información. Revisa nuestro Blog Autofact.
-Comprar un auto usado no solamente requiere que pagar su valor al vendedor, pues existen otros costos asociados a la transferencia que debes conocer. Además, si ésta es entre particulares, puedes decidir entre hacerlo en el Registro Civil o en una notaría. Resuelve tus dudas acerca de estas dos posibilidades.

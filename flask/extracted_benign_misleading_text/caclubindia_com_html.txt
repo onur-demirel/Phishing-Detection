@@ -1,8 +1,0 @@
-- TDS on payments made to government/government agencies
-- Steps to generate e-invoice under GST
-- Treatment of Notional Loss on account of Mark-to-Market
-- GSTR 9 Annual Return Filing - You Can't Ignore These 6 Critical Steps
-- Download all RTPs, Mock Tests, and MCQs for CA Inter Nov 2019
-- Download all RTPs, Mock Tests, and MCQs for CA IPC Nov 2019
-- SEBI circular on the resignation of statutory auditors (with Format of Information)
-- Employee Stock Options for Startups

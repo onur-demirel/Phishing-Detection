@@ -1,4 +1,0 @@
-Ingresa Clave DigiPass
-(XXXXXX)
-Debe ingresar todos los digitos de su Digipass.
-Confirmar

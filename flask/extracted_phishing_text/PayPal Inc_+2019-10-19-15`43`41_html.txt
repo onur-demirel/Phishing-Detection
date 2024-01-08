@@ -1,8 +1,0 @@
-The PayPal Perl Developer Toolkits are a set of scripts that assist developers with integrating PayPal into e-commerce solutions.
-The toolkits provide basic functions that generate PayPal payment buttons and process Instant Payment Notifications.
-What's included:
-- A central configuration file to store all settings in one place
-- Button creation scripts that enable modifications to all your PayPal buttons with one code change
-- Instant Payment Notification processing script
-- A structure that allows you to easily add your own scripts to connect to a database or send out emails
-Download PayPal's Developer Toolkits.

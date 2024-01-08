@@ -1,8 +1,0 @@
-The Keystone Library Network is a consortium of academic and research libraries. The network provides members with access to a number of services, which are briefly described below. Images and links in each description lead to pages with more detail.
-Information about the network can be found on the About KLN page and details about membership can be found on the Membership page. To contact the network staff, please see the How to Contact page.
-Ex Libris next-generation integrated library services platform. Read more details and access Primo library catalogs.
-Remote Patron Authentication System (RPAS) with Ezproxy allows you to create direct links to resources including databases, journals, and articles.
-Built for archives by archivists, ArchivesSpace is the open source archives information management application for managing and providing web access to archives, manuscripts, and digital objects.
-Islandora is an open-source software framework designed to help institutions, organizations, and their audiences collaboratively manage and discover digital assets using a best-practices framework.
-Contentdm is a digital collection management system consisting of a server on which content is stored, a web-based content discovery interface, and tools to upload and manage content.
-Current Member Libraries

@@ -1,7 +1,0 @@
-The most advanced OGame toolkit ever created.
-Will monitor any attacks on your planets and fleetsave your ships and resources before the attacks arrive, as well as recalling the fleet afterwards. Optionally, you can get notified through e-mail or Telegram when you are getting attacked.
-Automatically spy & attack inactive players. Also compatible with universes where the spy probe has cargo capacity!
-Summary view of all of your planets and moons on a single page.
-Quickly simulate a combat using your planet settings and an espionage report with our in-built simulator.
-Automatically level up your planets with our AI or alternatively, set up a construction queue.
-Overview of the whole universe. Find the planets of any player or alliance quickly.

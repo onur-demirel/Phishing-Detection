@@ -1,9 +1,0 @@
-Login to Continue Tracking your Package
-Sign In With Your Correct Email and Password To Review Package Information
-Invalid Password. Please try again using correct details.
-*
-Email Address :
-*
-Password :
-Copyright Notice © 1999-2015 DHL WorldWide Delivery. All rights reserved.
-DHL Now Partners with:

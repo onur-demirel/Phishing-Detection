@@ -1,7 +1,0 @@
-Account
-Sign In
-Edit and Reply
-Download
-Print
-Exit
-...

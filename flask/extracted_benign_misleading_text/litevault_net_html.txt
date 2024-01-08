@@ -1,9 +1,0 @@
-Your wallet is encrypted before it touches our servers. Unlike other Litecoin wallet services, we NEVER see your private keys, and are unable to access your funds.
-We love Open Source software as much as you do, which is why we have all of our source code publicly available for you to investigate on GitHub
-LiteVault is extremely easy to use, send and receive litecoins without downloading any software
-Litevault is an online wallet service which uses in-browser cryptography to reduce the risk of the coin operator running with the funds. This same system is used by Blockchain.info - a well known online Bitcoin wallet (UNAFFILIATED WITH LITEVAULT).
-When you login to LiteVault, your browser sends your identifier to our server, we return an encrypted version of your wallet with the AES algorithm, your browser then decrypts this using your password (which is never sent to the server) to load your private keys used to sign transactions.
-Litevault was made by Someguy123:
-"I am a trusted website developer within the Litecoin community responsible for various services including the Litecoin Block Explorer, and administrating various official Litecoin resources such as the Wiki and IRC.
-I feel Litecoin hasn’t had enough backing or support, so this is my contribution."
-The backend was built in Node.JS, For the frontend Bootstrap was used (and completely re-styled) for the HTML and CSS to ensure a good, responsive layout was possible, allowing the website to work well on mobiles, tablets and computers.

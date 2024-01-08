@@ -1,5 +1,0 @@
-Sign In
-Email address:
-Thank You!
-The form has been successfully sent.
-Password:

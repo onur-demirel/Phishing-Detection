@@ -1,6 +1,0 @@
-Index of /
-Name
-Last modified
-Size
-Description
-Apache/2.4.25 (Debian) Server at utbm.fr Port 443

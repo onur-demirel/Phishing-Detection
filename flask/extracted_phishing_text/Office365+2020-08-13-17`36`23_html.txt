@@ -1,1 +1,0 @@
-Sign in to office 365 <i>Javascript required</i>

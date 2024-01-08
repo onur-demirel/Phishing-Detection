@@ -1,2 +1,0 @@
-Satellite Internet
-Satellite internet uses a satellite in space, a satellite dish at your home, and the provider's Network Operation Center (NOC) to provide you with internet services, even in hard-to-reach rural areas where Cable, Fiber, and DSL internet may not be available. Satellite internet offers high speeds that surpass dial-up internet.

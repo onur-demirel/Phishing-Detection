@@ -1,5 +1,0 @@
-Javascript required
-User name:
-Password:
-Show password
-sign in

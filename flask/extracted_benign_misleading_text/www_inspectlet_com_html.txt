@@ -1,3 +1,0 @@
-Seriously powerful filtering.
-With Inspectlet's mature filtering capabilities, you'll be able to find exactly the visitors you're interested in watching. For example, selecting a few checkboxes will let you find videos of new visitors from AdWords that bought something on your site.
-Our funnel analysis tool can show you recordings of people that added something to their cart, but never proceeded to checkout. Slice and dice your data however you want.

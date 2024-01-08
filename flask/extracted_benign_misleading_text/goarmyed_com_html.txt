@@ -1,3 +1,0 @@
-You have attempted two unsuccessful attempts to access your account. According to current security requirements, your account will be locked if you fail to enter the correct password after one more try.
-Please note: you may reset your password
-or login with your CAC now to avoid locking your account. If your account locks due to three failed attempts, you will be required to contact the Helpdesk to unlock your account.

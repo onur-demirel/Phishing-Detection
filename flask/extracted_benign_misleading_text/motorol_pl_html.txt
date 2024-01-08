@@ -1,9 +1,0 @@
-|
-O Firmie
-Nasza firma posiada ponad 20-letnie doświadczenie w zakresie usług informatycznych.
-Wieloletnia praca w tej dziedzinie pozwoliła nam na taki wybór środowiska informatycznego, które zabezpiecza naszym klientom ciągłość pracy i bezpieczeństwo danych zarówno po stronie sprzętu jak i oprogramowania.
-Wiedzą i praktyką jaką dysponują nasi pracownicy dzielimy się zarówno z małymi jak i dużymi firmami.
-Dla większości naszych klientów prowadzimy kompleksową obsługę począwszy od tworzenia okablowania, stawiania sieci komputerowych na bazie serwerów z systemami Windows Serwer firmy Microsoft, OES lub SLES firmy Novell, poprzez zabezpieczanie danych systemem archiwizacji firmy SEP i programami antywirusowymi firm DR.WEB, aż do dostarczenia łączy i usług internetowych.
-Jesteśmy certyfikowanymi partnerami dostawców powyższych rozwiązań.
-Nasza wiedza pozwala na udzielanie naszym klientom porad dotyczących rozwoju ich systemu informatycznego, dzięki czemu uzyskują oni efekty w postaci zmniejszenia awaryjności, a tym samym minimalizują koszty eksploatacji systemów informatycznych
-Zapraszamy do zapoznania się z naszą ofertą i współpracy z naszą firmą.

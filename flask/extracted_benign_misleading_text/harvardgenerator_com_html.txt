@@ -1,3 +1,0 @@
-The Harvard Referencing Generator is a free tool that allows you to quickly and easily format references and sources in the correct Harvard Referencing format. To get started use the links above or reference a website or a book... see full source list
-Simply type the ISBN number of the book you want to Reference into the form below and press Generate.
-Simply type the address of the website you want to Reference into the form below and press Generate.

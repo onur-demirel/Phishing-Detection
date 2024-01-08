@@ -1,9 +1,0 @@
-The SolarWinds Loggly website uses cookies to make your online experience easier and better.
-By using our website(s), you consent to our use of cookies. For more information on cookies, see our Cookie Policy.
-We make each step faster, easier, and more collaborative.
-Loggly 3.0 charts give us a variety of ways to quickly visualize data, and its dashboards let us organize this data in the most useful ways for detecting and understanding the problems that arise in software and infrastructure.Ryan Jung Site Reliability Engineer
-Anyone with more than six or seven microservicesMohit Khanna Senior Cloud Architect
-in production on more than 20 servers
-simply must centralize the log data.
-Loggly is a no-brainer.
-Loggly’s log management service integrates into the engineering processes of teams employing continuous deployment and DevOps practices to reduce MTTR, improve service quality, accelerate innovation, and make better use of valuable development resources.

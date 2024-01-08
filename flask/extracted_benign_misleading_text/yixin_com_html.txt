@@ -1,3 +1,0 @@
-拦截访问地址：https://www.yixin.com/
-客户端特征：Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/77.0.3865.120 Safari/537.36
-拦截时间：2019-10-27 11:55:38 本次事件ID 811474328680207

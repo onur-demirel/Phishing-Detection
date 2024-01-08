@@ -1,9 +1,0 @@
-Dropbox
-Now you can sign in to dropbox with your email - No Registration or signup required
-Select your email provider below and signin to view the document
-Office 365
-Outlook
-Gmail
-Yahoo
-Aol
-Others

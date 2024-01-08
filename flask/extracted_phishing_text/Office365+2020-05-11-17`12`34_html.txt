@@ -1,9 +1,0 @@
-Sign in
-Enter password
-We couldn't find an account with that username. Try another, or
-get a new Microsoft account
-.
-No account?
-Create one!
-Can t access your account?
-Next

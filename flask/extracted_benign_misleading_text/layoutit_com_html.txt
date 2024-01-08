@@ -1,3 +1,0 @@
-LayoutIt! helps you make your frontend coding easier without needing to be an expert in JavaScript, HTML5 or CSS3
-Drag-and-drop the same Bootstrap components to your own design.
-Easy to integrate with any programming language, you just download the HTML and start coding the design into it.

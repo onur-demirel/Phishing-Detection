@@ -1,4 +1,0 @@
-identifiant
-Mémoriser mon identifiant.
-mot de passe
-Fin du clavier virtuel

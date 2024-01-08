@@ -1,3 +1,0 @@
-Your Azure Static Web App is live and waiting for your content
-Your app is now live, but we don’t have your content updates. Check the deployment status in the GitHub Actions tab in your repository. Learn more about deployment from the Static Web App deployment docs.
-Learn more

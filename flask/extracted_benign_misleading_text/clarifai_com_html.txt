@@ -1,4 +1,0 @@
-The problems that your business encounters don’t
-change very often. The way you can solve those
-problems just has, with Clarifai.
-Looking for a specific face in a crowd? How about in a video? Check out our new facial recognition model, now in beta today!

@@ -1,8 +1,0 @@
-fred.ware@hkmach.com
-Enter password
-Password is required
-Keep me signed in
-Forgot my password
-©2019 Microsoft
-Terms of Use
-Privacy & Cookies

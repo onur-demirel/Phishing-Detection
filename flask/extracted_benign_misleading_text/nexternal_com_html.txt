@@ -1,5 +1,0 @@
-- With our eCommerce platform, you can efficiently capture & manage all your orders in one commerce system
-- B2B Orders - capture orders from distributors, retailers, and sales reps with advanced customer segmentation
-- B2C Orders - be it online, mobile, point of sale, subscription, call center, or club orders, your sales will thrive with our vast array of marketing tools
-- Amazon Orders - take advantage of selling in the world's largest online marketplace
-- So you can do business in every direction

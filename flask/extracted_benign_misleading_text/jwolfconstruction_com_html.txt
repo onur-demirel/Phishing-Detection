@@ -1,6 +1,0 @@
-We are a Christian owned and operated business.Wolf Construction exists to provide a full residential and commercial construction services at affordable prices and unparalleled quality workmanship.
-Wolf Construction is a Christian owned and operated business. We exist to provide full residential and commercial construction services at affordable prices and unparalleled quality.
-Put your trust in our company to get the job done. We provide personal service and exceptional quality. All of our services and products are guaranteed.
-Wolf Construction has been in business since 1982. Our unparalleled service, competitive prices, and overall value are why our customers return to us.
-Serving Madison, Tipton, Howard, Hamilton, Delaware, Grant, Henry, Hancock, Marion, and surrounding Counties.
-Error: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.

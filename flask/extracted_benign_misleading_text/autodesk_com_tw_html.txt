@@ -1,5 +1,0 @@
-/content/datamanagement/global/en/product-catalog/products/autodesk-fusion-360/autodesk-fusion-360-2015
-/content/datamanagement/global/en/product-catalog/products/autodesk-maya/maya-2018
-/content/datamanagement/global/en/product-catalog/products/autodesk-3ds-max/3ds-max-2018
-/content/datamanagement/global/en/product-catalog/products/autodesk-revit/revit-2018
-/content/datamanagement/global/en/product-catalog/products/autodesk-autocad/autocad-2018

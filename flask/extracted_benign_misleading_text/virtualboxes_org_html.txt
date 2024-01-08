@@ -1,8 +1,0 @@
-Welcome
-Welcome!
-This project provides virtual machines for Oracle VM VirtualBox® for several free and/or open-source operating systems, such as GNU/Linux or Free/Net/OpenBSD for testing, security and/or entertainment purposes.
-In most cases, we’ve done a minimal setup, to let you alter the images to your own needs and learn how to use the operating systems. We will try to provide instructions for key tasks (for example, installing Guest Additions) for each image.
-Updates on new images and problems will be provided in the News page. We would like you to subscribe to our newsfeed or follow us by by e-mail, either.
-We hope you enjoy your stay. Thank you
-Advertisements
-Latest comments

@@ -1,3 +1,0 @@
-Usuwanie wpisów z pliku .ics do głównego kalendarza w outlooku
-Używanie MS Outlooka na codzień to dobra okazja sprawdzenia co jeszcze z niego można wycisnąć. A co jeśli zechcemy popatrzeć na kalendarz pochodzący z zewnątrz, np. importując sobie plik .ics?
-W tym przypadku możemy zrobić najprostszą rzecz czyli dodać lub zaimportować wpisy z ics. W tym momencie mamy wyzwanie bo dopisujemy zawartość pliku .ics do kalendarza głównego i … masz babo placekMore »

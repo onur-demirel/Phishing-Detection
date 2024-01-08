@@ -1,5 +1,0 @@
-|
-Free Thesaurus is a comprehensive online thesaurus of synonyms, antonyms, and related words. The thesaurus contains more than 145,800 unique entries from three top sources: Collins Thesaurus of the English Language - Complete and Unabridged, The American Heritage Roget's Thesaurus, and WordNet.
-- Search words or phrases to find synonyms, antonyms, and related words, all distinguished by color and grouped by meaning.
-- Filter by part of speech to show only the results you want to see.
-- Quickly find the synonyms for hundreds of thousands of words with Free Thesaurus.

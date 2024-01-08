@@ -1,4 +1,0 @@
-Easily launch and enrich your developer applications, hosted services, websites, AI & machine learning workloads, gaming services, or CI/CD environments.
-With award-winning service, enterprise-ready products and the best price-to-performance ratio in the market, Linode is the ideal choice for businesses worldwide.
-The global reach and the local presence you need
-Launched 3 years before Amazon AWS, Linode has the experience developers trust and the independence to put them first.

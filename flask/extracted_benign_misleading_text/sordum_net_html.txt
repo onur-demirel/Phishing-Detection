@@ -1,3 +1,0 @@
-İşletim sistemi ve donanım bilgilerini öğrenmek için hemen hemen herkesin uyguladığı klasik yöntem şudur ; Bu bilgisayar ikonuna sağ tıklanır ve açılan menüden özellikler kısmı seçilir yeni açılan sayfada
-Windows sürümlerinin birçoğunda saatin yanındaki simgeler gizlenir ve kullanıcı ağ bağlantılarının sol tarafında yeralan yukarı bakan üçgen simgesine tıkladığında bu simgelere ulaşır , burada yeralan simgelere
-Adobe Firmasına ait Photoshop yazılımını kullanıyorsanız ve 2019 sürümüne terfi ettinizsse ilk açılışta dikkatinizi çekmiş olan şey açılış ekranındaki saçma resim olmuştur . Splash screen denen bu açılış

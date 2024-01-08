@@ -1,6 +1,0 @@
-Automated backups stored in our offsite digital vault in real time.
-Thinking about moving your site from an unreliable, expensive, or slow host? Transfer or duplicate it now.
-Fix detected viruses, malware, and other dangerous threats with a single click.
-If anything ever happens to your site, a quick, painless restore will bring it back to its former glory — without contacting your host even once.
-Automatically detect and eliminate viruses, malware, and other exploitable security problems that may be lurking on your website.
-Protect your SEO, readers, and brand reputation by automatically blocking all spammers.

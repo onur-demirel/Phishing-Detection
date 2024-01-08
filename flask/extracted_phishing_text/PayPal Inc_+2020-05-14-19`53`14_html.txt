@@ -1,6 +1,0 @@
-<p class="nonjsAlert" role="alert"> NOTE: Many features on the PayPal Web site require Javascript and cookies. </p>
-PayPal
-Vérification de sécurité
-">
-Continuer
-<input type="hidden" name="jsd" value="82334ee7fb0e66354d49c2b76d4080b2" />

@@ -1,6 +1,0 @@
-Powerful stats
-With MTGA Tool you will be able to browse your match history and see which cards and colors your opponents played. This is extremely helpful to understand why your deck is struggling or winning against other opponents. See how much progress you have made with your collection, browse your new cards acquired and explore how many packs and wildcards you need to finish each of your deck builds.
-Explore and learn
-Browse what others are playing and how they perform, be it on constructed events, drafts and ranked. You would be able to filter decks by colors, events or results. Take your game to the next level and brag your winning deck with everyone else!
-Not only a Deck Tracker
-Even if you dislike deck trackers, you can find MTGA Tool useful to keep record of your matches, browse through your collection or even check other people's decks. Just disable the deck tracker overlay to keep it running only in background, you won’t miss a thing anyway.

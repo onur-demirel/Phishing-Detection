@@ -1,9 +1,0 @@
-Logon | Welcome to Absa Online
-Logon details
-- Security centre [selected] 1 of 1 [tab].
-- Important links [selected] 1 of 1 [tab].
-- How it works [selected] 1 of 1 [tab].
-In this example the password is Password1
-P a s s w o r d 1
-You have to enter (case sensitive):
-P d 1

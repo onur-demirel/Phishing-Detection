@@ -1,7 +1,0 @@
-No account?
-Create one!
-Can’t access your account?
-Sign-in options
-Forgot my password
-Do this to redure the number of time you are asked to sign in
-You need to update your password because this is the first time you are signing in, or because your password has expired.

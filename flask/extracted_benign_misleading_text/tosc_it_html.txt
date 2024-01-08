@@ -1,1 +1,0 @@
-SSL Error SSL Error There is no SSL certificate configured for this domain.

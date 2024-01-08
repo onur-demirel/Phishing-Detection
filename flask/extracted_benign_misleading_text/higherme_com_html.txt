@@ -1,6 +1,0 @@
-Applicant Tracking System
-Our Applicant Tracking System is your one-stop shop for managing your hiring process, from tracking, interviewing, to hiring.
-Automated interview scheduling to save your time and sanity from no-shows.
-Optimized job ads and sourcing from Indeed, Craigslist, and more.
-Video cover letters help you pre-screen and show you the person behind the resume.
-FitScore shows you which candidates match your specific criteria.

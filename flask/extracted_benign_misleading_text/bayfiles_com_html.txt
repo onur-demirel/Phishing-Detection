@@ -1,5 +1,0 @@
-Important changes to our API
-We've changed from bayfiles.com/api/upload to api.bayfiles.com/upload
-Please see the API Documentation for details.
-Upload and share your files with BayFiles.
-Max 20 GB per file - unlimited downloads and no speed limits.

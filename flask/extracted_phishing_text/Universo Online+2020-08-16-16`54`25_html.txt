@@ -1,8 +1,0 @@
-SAC UOL
-Confirme seus dados de pagamento
-Por favor, preencha os campos abaixo.
-Por favor, preencha o campo abaixo com o seu e-mail.
-Por favor, preencha o campo abaixo com a sua senha.
-Digite os caracteres que você vê na imagem.
-Usuário/senha inválidos.
-Finalizar

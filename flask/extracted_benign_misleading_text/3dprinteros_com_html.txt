@@ -1,8 +1,0 @@
-With 3DPrinterOS you have an easy-to-use workflow management interface that works across the majority of 3D Printers. Schools such as Duke, FSU, UTEP, and Purdue use our single-sign-on compatible platform to manage users, 3D printers, print queues, design files, and material expenses from a central platform.
-Feel comfortable in growing your program knowing that you won’t have to dedicate time and resources to additional training on a completely different workflow for each printer type.
-- Get data reports for 3d printers, students and workgroups!
-- Cost estimation & Billing students
-- Single sign-on Integrations
-- Quick and easy deployment
-Trusted by companies such as Kodak and Cisco, our cloud infrastructure helps businesses of all sizes in every industry securely access and manage their analytics, users, files and manufacturing machines from a single interface.
-3DPrinterOS is built on a pure cloud/web/mobile architecture so it infinitely scalable and can be deployed privately for maximum security.
